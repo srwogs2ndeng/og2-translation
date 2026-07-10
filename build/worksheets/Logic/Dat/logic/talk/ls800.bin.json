@@ -1,0 +1,866 @@
+{
+"0x000081": {
+"jp": "[ＥＭ]-000",
+"en": "",
+"slot": 12,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x00008E": {
+"jp": "[ＥＭ]-001",
+"en": "",
+"slot": 12,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x00009B": {
+"jp": "[ＥＭ]-002",
+"en": "",
+"slot": 12,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0000A8": {
+"jp": "[ＥＭ]-003",
+"en": "",
+"slot": 12,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0000B5": {
+"jp": "[ＥＭ]-004",
+"en": "",
+"slot": 12,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0000C2": {
+"jp": "[ＥＭ]-005",
+"en": "",
+"slot": 12,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0000CF": {
+"jp": "[ＥＭ]-006",
+"en": "",
+"slot": 12,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0000DC": {
+"jp": "[ＥＭ]-007",
+"en": "",
+"slot": 12,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0000E9": {
+"jp": "[ＥＭ]-008",
+"en": "",
+"slot": 12,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0000F6": {
+"jp": "[ＥＭ]-009",
+"en": "",
+"slot": 12,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x000103": {
+"jp": "[ＥＭ]-010",
+"en": "",
+"slot": 12,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x000110": {
+"jp": "[ＥＭ]-011",
+"en": "",
+"slot": 12,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x00011D": {
+"jp": "[ＥＭ]-012",
+"en": "",
+"slot": 12,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x00012A": {
+"jp": "[ＥＭ]-013",
+"en": "",
+"slot": 12,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x000137": {
+"jp": "[ＥＭ]-014",
+"en": "",
+"slot": 12,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x000144": {
+"jp": "[ＥＭ]-015",
+"en": "",
+"slot": 12,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x000151": {
+"jp": "[ＥＭ]-016",
+"en": "",
+"slot": 12,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x00015E": {
+"jp": "[ＥＭ]-017",
+"en": "",
+"slot": 12,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x00016B": {
+"jp": "[ＥＭ]-100",
+"en": "",
+"slot": 12,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x000178": {
+"jp": "ショーン",
+"en": "Sean",
+"slot": 12
+},
+"0x000185": {
+"jp": "「艦長、またまた寝起きの所、@　申し訳ございませんが……」",
+"en": "「Captain, I hate to bother you@　right when you've just woken up, but...」",
+"slot": 85
+},
+"0x0001DB": {
+"jp": "レフィーナ",
+"en": "Lefina",
+"slot": 15
+},
+"0x0001EB": {
+"jp": "「……はい」",
+"en": "「...Yes?」",
+"slot": 18
+},
+"0x0001FE": {
+"jp": "「そのライオンのぬいぐるみ……」",
+"en": "「That lion plushie of yours...」",
+"slot": 48
+},
+"0x00022F": {
+"jp": "「ダンディライオン２号ちゃんですか？」",
+"en": "「You mean little Dandelion No. 2?」",
+"slot": 57
+},
+"0x000269": {
+"jp": "「ええ。２号というからには、１号もいるはず。@　それは今、どこに？」",
+"en": "「Right. If there's a No. 2,@　there must be a No. 1. Where's that one now?」",
+"slot": 100
+},
+"0x0002CE": {
+"jp": "「実は……@　私の実家でお留守番してもらってるんです」",
+"en": "「Actually...@　it's back home minding the house for me.」",
+"slot": 79
+},
+"0x00031E": {
+"jp": "ユン",
+"en": "Eun",
+"slot": 6
+},
+"0x000325": {
+"jp": "「留守番って……」",
+"en": "「Minding the house...?」",
+"slot": 27
+},
+"0x000341": {
+"jp": "リュウセイ",
+"en": "Ryuusei",
+"slot": 15
+},
+"0x000351": {
+"jp": "「ようし、マイ！@　あのアニメ風に予告をやってみようか！」",
+"en": "「All right, Mai!@　Let's do the preview anime-style!」",
+"slot": 85
+},
+"0x0003A7": {
+"jp": "マイ",
+"en": "Mai",
+"slot": 6
+},
+"0x0003AE": {
+"jp": "「うん！」",
+"en": "「Yeah!」",
+"slot": 15
+},
+"0x0003BE": {
+"jp": "「地球を狙う悪魔達、その手先が何度現れようと！」",
+"en": "「No matter how many times the demons@　eyeing Earth send their minions!」",
+"slot": 72
+},
+"0x000407": {
+"jp": "「鋼の魂ある限り！」",
+"en": "「As long as our steel spirit burns!」",
+"slot": 30
+},
+"0x000426": {
+"jp": "「みんなの未来を守ってみせる！」",
+"en": "「We'll protect everyone's future!」",
+"slot": 48
+},
+"0x000457": {
+"jp": "「『超機合神バーンブレイド３』@　第１２話、『巨人の鉄槌』！」",
+"en": "「'Super Combining God Burn Blade 3,'@　Episode 12, 'Hammer of the Giant'!」",
+"slot": 91
+},
+"0x0004B3": {
+"jp": "「次回もレッツ・ブレイドチェェェンジ！！」",
+"en": "「Next time, let's BLADE CHAAAANGE!!」",
+"slot": 63
+},
+"0x0004F3": {
+"jp": "「……って、これじゃ、@　まんまバーンブレイドの予告だよな」",
+"en": "「...Wait, this is just@　the actual Burn Blade preview, isn't it.」",
+"slot": 88
+},
+"0x00054C": {
+"jp": "「う、うん」",
+"en": "「Y-yeah.」",
+"slot": 18
+},
+"0x00055F": {
+"jp": "アヤ",
+"en": "Aya",
+"slot": 6
+},
+"0x000566": {
+"jp": "「……やめて～、@　マイをそっちの世界へ連れて行くのはやめて～」",
+"en": "「...Stop it, please~@　Don't drag Mai into that world of yours~」",
+"slot": 94
+},
+"0x0005C5": {
+"jp": "ラミア",
+"en": "Lamia",
+"slot": 9
+},
+"0x0005CF": {
+"jp": "「う～……」",
+"en": "「Ugh~...」",
+"slot": 18
+},
+"0x0005E2": {
+"jp": "エクセレン",
+"en": "Excellen",
+"slot": 15
+},
+"0x0005F2": {
+"jp": "「どうしたの、ラミアちゃん。調子悪そうねぇ」",
+"en": "「What's wrong, Lamia? You don't look so good.」",
+"slot": 66
+},
+"0x000635": {
+"jp": "「ボク……」",
+"en": "「I...」",
+"slot": 18
+},
+"0x000648": {
+"jp": "「え？　ボク？」",
+"en": "「Huh? 'I'?」",
+"slot": 24
+},
+"0x000661": {
+"jp": "「ボク、モヤモヤしてきたよ！」",
+"en": "「I'm all worked up inside!」",
+"slot": 45
+},
+"0x00068F": {
+"jp": "「あらら～、@　また新しい引き出し開けちゃった？」",
+"en": "「Oh my~@　Did you open a new drawer again?」",
+"slot": 73
+},
+"0x0006D9": {
+"jp": "「うん、@　女のコはいくつも顔があるんだよ♪」",
+"en": "「Yep. A girl's got@　plenty of different faces♪」",
+"slot": 67
+},
+"0x00071D": {
+"jp": "「その通りだけど……@　真顔でそういうの、どうなのかしらん」",
+"en": "「True enough... but saying that@　with a straight face is another matter.」",
+"slot": 88
+},
+"0x000776": {
+"jp": "アルフィミィ",
+"en": "Alfimi",
+"slot": 18
+},
+"0x000789": {
+"jp": "「あの……」",
+"en": "「Um...」",
+"slot": 18
+},
+"0x00079C": {
+"jp": "「何だ？」",
+"en": "「What?」",
+"slot": 15
+},
+"0x0007AC": {
+"jp": "「あなたと……@　どこかで会ったような気がしますの」",
+"en": "「I feel like...@　we've met somewhere before.」",
+"slot": 76
+},
+"0x0007F9": {
+"jp": "「気がする……ではなく、会っている。@　インスペクター事件や修羅の乱でな」",
+"en": "「Not 'feel like'-we have met.@　The Inspector affair and the Shura Rebellion.」",
+"slot": 109
+},
+"0x000867": {
+"jp": "「それ以外でも……@　腕を飛ばしたり、湯気を出したり、@　やりたい放題でしたの」",
+"en": "「And besides that...@　throwing your arms around, spewing steam,@　doing whatever you pleased.」",
+"slot": 116
+},
+"0x0008DC": {
+"jp": "「腕を……？@　私にそんな機能はない。@　いったい誰と勘違いしている、この黒パン娘」",
+"en": "「My arms...?@　I have no such function.@　Who are you confusing me with, dark-bread girl?」",
+"slot": 122
+},
+"0x000957": {
+"jp": "「……その言い方、ちょっと怪しいですの」",
+"en": "「...That phrasing is a little suspicious.」",
+"slot": 60
+},
+"0x000994": {
+"jp": "カチーナ",
+"en": "Katina",
+"slot": 12
+},
+"0x0009A1": {
+"jp": "「おう、ラッセル。ゲシュ改はどうだ？」",
+"en": "「Hey, Russel. How's the modified Gespenst?」",
+"slot": 57
+},
+"0x0009DB": {
+"jp": "ラッセル",
+"en": "Russel",
+"slot": 12
+},
+"0x0009E8": {
+"jp": "「タイプＣは砲撃戦で使えますし、@　タイプＧは格闘戦に長けています。@　そして、タイプＮはその中間……」",
+"en": "「Type C works for ranged combat,@　Type G excels in close combat.@　And Type N is somewhere in between...」",
+"slot": 152
+},
+"0x000A81": {
+"jp": "「何より、短時間でその３つのタイプに@　換装できるのがいいですね」",
+"en": "「Best of all, you can swap between@　the three types in no time flat.」",
+"slot": 97
+},
+"0x000AE3": {
+"jp": "「あ～、お前、タイプＧは使用禁止な」",
+"en": "「Ah- you, you're banned from using Type G.」",
+"slot": 54
+},
+"0x000B1A": {
+"jp": "「ええっ！？　どうしてです！？」",
+"en": "「Whaat!? Why!?」",
+"slot": 48
+},
+"0x000B4B": {
+"jp": "「あれはあたしのだ。@　それに、お前のイメージじゃねえし」",
+"en": "「That one's mine.@　Besides, it's not your style.」",
+"slot": 85
+},
+"0x000BA1": {
+"jp": "「そ、そ、そんなぁ……！」",
+"en": "「N-n-no way...!」",
+"slot": 39
+},
+"0x000BC9": {
+"jp": "「冗談だよ、冗談。@　３つのタイプ、ちゃんと使いこなせよ」",
+"en": "「Kidding, kidding.@　Just get the hang of all three types.」",
+"slot": 85
+},
+"0x000C1F": {
+"jp": "（ちょっと本気だったような……）",
+"en": "(She sounded kind of serious there...)",
+"slot": 48
+},
+"0x000C50": {
+"jp": "ミチル",
+"en": "Michiru",
+"slot": 9
+},
+"0x000C5A": {
+"jp": "「ワイは萬南無学園の番長、@　関西轟学連合の総番、ミチル・ハナテンや」",
+"en": "「I'm the boss of Bannan Academy,@　head of the Kansai Todo Alliance-Michiru Hanaten.」",
+"slot": 103
+},
+"0x000CC2": {
+"jp": "「多分、気になるんは、ハナテンちゅーのを@　漢字でどう書くかっちゅーとこちゃうか？」",
+"en": "「Bet what's bugging you is@　how 'Hanaten' is written in kanji, right?」",
+"slot": 124
+},
+"0x000D3F": {
+"jp": "「ええか、ハナテンは『放出』と書くんや。@　きっちり覚えときいや」",
+"en": "「Listen up, 'Hanaten' is written 'Housyutsu.'@　Make sure you remember that.」",
+"slot": 97
+},
+"0x000DA1": {
+"jp": "コウタ",
+"en": "Kouta",
+"slot": 9
+},
+"0x000DAB": {
+"jp": "「いや、気になんのは、@　その顔でミチルっていうとこだっつーの」",
+"en": "「Nah, what's bugging me is@　that a face like that goes by 'Michiru.'」",
+"slot": 94
+},
+"0x000E0A": {
+"jp": "クスハ",
+"en": "Kusuha",
+"slot": 9
+},
+"0x000E14": {
+"jp": "「ねえ、ブリット君」",
+"en": "「Hey, Bullet.」",
+"slot": 30
+},
+"0x000E33": {
+"jp": "ブリット",
+"en": "Bullet",
+"slot": 12
+},
+"0x000E40": {
+"jp": "「今回は、コスプレしないの？」",
+"en": "「No cosplay this time around?」",
+"slot": 45
+},
+"0x000E6E": {
+"jp": "「コスプレ？」",
+"en": "「Cosplay?」",
+"slot": 21
+},
+"0x000E84": {
+"jp": "「うん、黒い仮面を被ったりとか」",
+"en": "「Yeah, like putting on a black mask.」",
+"slot": 48
+},
+"0x000EB5": {
+"jp": "「黒い仮面……！？@　ううっ、何か覚えがあるような、ないような……」",
+"en": "「A black mask...!?@　Ugh, that rings a bell... or maybe it doesn't...」",
+"slot": 100
+},
+"0x000F1A": {
+"jp": "アクア",
+"en": "Aqua",
+"slot": 9
+},
+"0x000F24": {
+"jp": "「はああ……」",
+"en": "「Haah...」",
+"slot": 21
+},
+"0x000F3A": {
+"jp": "ヒューゴ",
+"en": "Hugo",
+"slot": 12
+},
+"0x000F47": {
+"jp": "「どうした、アクア？」",
+"en": "「What's wrong, Aqua?」",
+"slot": 33
+},
+"0x000F69": {
+"jp": "「私、前にラミア少尉と会ったことあるのよね……」",
+"en": "「I met Second Lieutenant Lamia once before, you know...」",
+"slot": 72
+},
+"0x000FB2": {
+"jp": "「その時、@　あの人がセクシー全開な服を着てるのを見て、@　私じゃ絶対に耐えられないと思ったんだけど……」",
+"en": "「Back then, seeing her@　in that full-on sexy outfit,@　I figured I could never pull it off myself, but...」",
+"slot": 155
+},
+"0x00104E": {
+"jp": "「このＤＦＣスーツって、@　セクシーダイナマイト全開なのよね……@　特に上着を脱いだら」",
+"en": "「This DFC suit is@　full-on sexy dynamite too, isn't it...@　Especially once the jacket comes off.」",
+"slot": 128
+},
+"0x0010CF": {
+"jp": "「ああ……みんな、@　私がこういう趣味だと思ってるんでしょうね……」",
+"en": "「Aah... everyone must think@　this is the kind of thing I'm into...」",
+"slot": 100
+},
+"0x001134": {
+"jp": "（違うのか、と突っ込むのはやめておくか）",
+"en": "(Better not point out that it isn't.)",
+"slot": 60
+},
+"0x001171": {
+"jp": "「憧れの教導隊へ出向したのはいいんだけど……@　周りが色々と凄過ぎて、これだけは私が一番！@　って、言えるものがないのよね……」",
+"en": "「Getting seconded to the Elite Squad I'd admired is great, but...@　everyone around me is amazing at so much, there's nothing@　I can point to and say I'm the best at...」",
+"slot": 188
+},
+"0x00122E": {
+"jp": "「肌の露出度じゃ、@　お前のＤＦＣスーツが一番じゃないか？」",
+"en": "「For skin on display, isn't@　that DFC suit of yours the best around?」",
+"slot": 88
+},
+"0x001287": {
+"jp": "「そうよ、それそれ！」",
+"en": "「Right, that's it, that's it!」",
+"slot": 33
+},
+"0x0012A9": {
+"jp": "「って、冗談じゃないわよっ！！」",
+"en": "「...Hey, that's not funny!!」",
+"slot": 48
+},
+"0x0012DA": {
+"jp": "（……ノリの良さも一番かもな）",
+"en": "(...Being a good sport might be her best trait too.)",
+"slot": 45
+},
+"0x001308": {
+"jp": "「なあ、トウマ。@　浅草やコモディン島以外じゃ、@　どんなバイトをやってたんだ？」",
+"en": "「Hey, Touma.@　Besides Asakusa and Comodin Island,@　what kinds of part-time jobs did you work?」",
+"slot": 119
+},
+"0x001380": {
+"jp": "トウマ",
+"en": "Touma",
+"slot": 9
+},
+"0x00138A": {
+"jp": "「やったバイトの数は１００を超えるけど、@　その中で特に危険だったのは……」",
+"en": "「I've worked over a hundred jobs, but@　the most dangerous of them all was...」",
+"slot": 112
+},
+"0x0013FB": {
+"jp": "「幕張でのバーニングＰＴ全国大会のグッズ販売、@　お台場のバルトールお披露目式典の警備……」",
+"en": "「Selling merch at the Burning PT nationals in Makuhari,@　guarding the Barrelor unveiling ceremony in Odaiba...」",
+"slot": 136
+},
+"0x001484": {
+"jp": "「そのどちらも戦闘に巻き込まれたけど、@　函館のイカ焼き売りでは、@　走馬灯を見る所まで行ったな……」",
+"en": "「Both of those got caught up in fighting, but@　hawking grilled squid in Hakodate@　was where my life flashed before my eyes...」",
+"slot": 149
+},
+"0x00151A": {
+"jp": "「あ、思い出したぞ。そん時、俺もいたな」",
+"en": "「Oh, now I remember. I was there that time too.」",
+"slot": 60
+},
+"0x001557": {
+"jp": "アヅキ",
+"en": "Azuki",
+"slot": 9
+},
+"0x001561": {
+"jp": "「あ、あの、私、アヅキ・サワと言います。@　元々は第２艦橋にいたんですが……@　この度、第１艦橋に配置換えとなりました」",
+"en": "「U-um, I'm Azuki Sawa.@　I used to be on the second bridge, but...@　I've just been reassigned to the first bridge.」",
+"slot": 176
+},
+"0x001612": {
+"jp": "「以後、よろしくお願いします、@　エイタ先輩！」",
+"en": "「Looking forward to working with you,@　Eita!」",
+"slot": 70
+},
+"0x001659": {
+"jp": "エイタ",
+"en": "Eita",
+"slot": 9
+},
+"0x001663": {
+"jp": "「うんうん、@　ついに俺にも可愛い後輩が出来たか！」",
+"en": "「Yes, yes-@　I've finally got a cute junior of my own!」",
+"slot": 76
+},
+"0x0016B0": {
+"jp": "テツヤ",
+"en": "Tetsuya",
+"slot": 9
+},
+"0x0016BA": {
+"jp": "「ん？@　アニメじゃ、アヅキはインスペクター事件前から@　第１艦橋にいたような気が……」",
+"en": "「Hm?@　In the anime, wasn't Azuki on the first bridge@　even before the Inspector affair...?」",
+"slot": 128
+},
+"0x00173B": {
+"jp": "「しかも、@　エイタより出番と台詞が多かったような……」",
+"en": "「And didn't she have@　more screen time and lines than Eita...?」",
+"slot": 82
+},
+"0x00178E": {
+"jp": "「か、艦長……@　それは言いっこなしで……」",
+"en": "「C-Captain...@　let's not go there...」",
+"slot": 64
+},
+"0x0017CF": {
+"jp": "イルム",
+"en": "Irm",
+"slot": 9
+},
+"0x0017D9": {
+"jp": "「なあ、タスク」",
+"en": "「Hey, Tasuku.」",
+"slot": 24
+},
+"0x0017F2": {
+"jp": "タスク",
+"en": "Tasuku",
+"slot": 9
+},
+"0x0017FC": {
+"jp": "「何スか、中尉？」",
+"en": "「What is it, Lieutenant?」",
+"slot": 27
+},
+"0x001818": {
+"jp": "「今回もあれだな……」",
+"en": "「Same as always this time...」",
+"slot": 33
+},
+"0x00183A": {
+"jp": "「可愛い子が多いよな」",
+"en": "「Sure are a lot of cute girls.」",
+"slot": 33
+},
+"0x00185C": {
+"jp": "「そうッスね～、健気で可愛い妹タイプから@　思わず踏まれたくなるキツめのお姉様まで@　選り取り見取り！」",
+"en": "「You said it~ From the sweet, devoted little-sister type@　to the sharp big-sister type you can't help but want to be stepped on by-@　take your pick!」",
+"slot": 152
+},
+"0x0018F5": {
+"jp": "「その中でも気になるのは……」",
+"en": "「And the one who really catches my eye is...」",
+"slot": 45
+},
+"0x001923": {
+"jp": "「気になるのは？」",
+"en": "「Is?」",
+"slot": 27
+},
+"0x00193F": {
+"jp": "「ウンブラかな」",
+"en": "「Umbra, maybe.」",
+"slot": 24
+},
+"0x001958": {
+"jp": "「ええっ！？@　いや、あれはさすがに範疇外ッス……」",
+"en": "「Whaat!? No, that one's way out of bounds...」",
+"slot": 76
+},
+"0x0019A5": {
+"jp": "カイ",
+"en": "Kai",
+"slot": 6
+},
+"0x0019AC": {
+"jp": "「いいか、お前達。ＭＴＤＭシューター……」",
+"en": "「Listen up, you lot. The MTDM Shooter...」",
+"slot": 63
+},
+"0x0019EC": {
+"jp": "「つまり、@　マイクロ・テスラ・ドライブ・ミサイルのことだが。@　あれを撃つ時は充分気をつけろ」",
+"en": "「That's the Micro Tesla Drive Missile.@　When you fire that thing, be extremely careful.」",
+"slot": 140
+},
+"0x001A79": {
+"jp": "アラド",
+"en": "Arado",
+"slot": 9
+},
+"0x001A83": {
+"jp": "「そ、そんなにヤバい武器なんスか？」",
+"en": "「I-is it really that dangerous a weapon?」",
+"slot": 54
+},
+"0x001ABA": {
+"jp": "「ああ。何せ、テスラ・ドライブそのものを@　ミサイルにしているからな。@　一発一発がとても高い」",
+"en": "「Yeah. It makes a missile out of@　an actual Tesla Drive, after all.@　Every single shot is dead expensive.」",
+"slot": 140
+},
+"0x001B47": {
+"jp": "ゼオラ",
+"en": "Seolla",
+"slot": 9
+},
+"0x001B51": {
+"jp": "「高いって……どれぐらいですか？」",
+"en": "「Expensive... how expensive?」",
+"slot": 51
+},
+"0x001B85": {
+"jp": "「うむ……@　通常ミサイルのン十倍と言ったところだな」",
+"en": "「Hmm...@　several dozen times a regular missile, I'd say.」",
+"slot": 79
+},
+"0x001BD5": {
+"jp": "「ええっ！？」",
+"en": "「Whaat!?」",
+"slot": 21
+},
+"0x001BEB": {
+"jp": "「……っていうか、@　通常のミサイルっていくらぐらいなんだ？」",
+"en": "「...Actually,@　how much does a regular missile cost, anyway?」",
+"slot": 91
+},
+"0x001C47": {
+"jp": "ジョッシュ",
+"en": "Joshua",
+"slot": 15
+},
+"0x001C57": {
+"jp": "「分の悪い賭けをする気はない……」",
+"en": "「I've no intention of making a losing bet...」",
+"slot": 51
+},
+"0x001C8B": {
+"jp": "キョウスケ",
+"en": "Kyosuke",
+"slot": 15
+},
+"0x001C9B": {
+"jp": "「分の悪い賭けは嫌いじゃない……」",
+"en": "「I don't mind a losing bet...」",
+"slot": 51
+},
+"0x001CCF": {
+"jp": "「………」",
+"en": "「.........」",
+"slot": 15
+},
+"0x001CDF": {
+"jp": "「勝負！」",
+"en": "「Here goes!」",
+"slot": 15
+},
+"0x001CEF": {
+"jp": "「どうぞ！」",
+"en": "「Bring it!」",
+"slot": 18
+},
+"0x001D02": {
+"jp": "「むうっ！」",
+"en": "「Mngh!」",
+"slot": 18
+},
+"0x001D15": {
+"jp": "「あららん、@　見事にジョーカーを引いちゃったわねぇ。@　はい、キョウスケの負け、負け～！」",
+"en": "「Oh dear~@　You drew the Joker, clean as can be.@　There we go-Kyosuke loses, loses~!」",
+"slot": 134
+},
+"0x001D9C": {
+"jp": "「これが……おれの切り札だ」",
+"en": "「This... is my trump card.」",
+"slot": 42
+},
+"0x001DC7": {
+"jp": "ギリアム",
+"en": "Gilliam",
+"slot": 12
+},
+"0x001DD4": {
+"jp": "「……もはや、@　お約束になってしまったような気がするが、@　やはり、ここでは言わねばなるまいか」",
+"en": "「...It's practically become a running gag by now,@　I suppose, but I'd better say it here all the same.」",
+"slot": 143
+},
+"0x001E64": {
+"jp": "「ヒーロー作戦もよろしく！」",
+"en": "「Look forward to the Hero Operation too!」",
+"slot": 42
+},
+"0x001E8F": {
+"jp": "「む？　何か違うな」",
+"en": "「Hm? Something's off.」",
+"slot": 30
+},
+"0x001EAE": {
+"jp": "ヴィレッタ",
+"en": "Viletta",
+"slot": 15
+},
+"0x001EBE": {
+"jp": "「そう……@　それはむしろ私の台詞よ」",
+"en": "「That...@　is my line, if anything.」",
+"slot": 55
+},
+"0x001EF6": {
+"jp": "アイビス",
+"en": "Ibis",
+"slot": 12
+},
+"0x001F03": {
+"jp": "「う～ん、@　訓練の後のスイーツは最高！」",
+"en": "「Mmm~@　Sweets after training are the best!」",
+"slot": 61
+},
+"0x001F41": {
+"jp": "テュッティ",
+"en": "Tytti",
+"slot": 15
+},
+"0x001F51": {
+"jp": "「お疲れ様、アイビス。紅茶をいれたわ」",
+"en": "「Nice work, Ibis. I made some tea.」",
+"slot": 57
+},
+"0x001F8B": {
+"jp": "「ありがとう、テュッティさん」",
+"en": "「Thanks, Tytti.」",
+"slot": 45
+},
+"0x001FB9": {
+"jp": "「お砂糖も入れてあげるわね」",
+"en": "「I'll add some sugar for you too.」",
+"slot": 42
+},
+"0x001FE4": {
+"jp": "「お願いします」",
+"en": "「Yes, please.」",
+"slot": 24
+},
+"0x001FFD": {
+"jp": "ツグミ",
+"en": "Tsugumi",
+"slot": 9
+},
+"0x002007": {
+"jp": "「あ、あの、それ……@　入れ過ぎなのでは……」",
+"en": "「U-um, isn't that...@　a bit too much...?」",
+"slot": 67
+},
+"0x00204B": {
+"jp": "「あら、そう？　まだ６杯目よ」",
+"en": "「Oh, really? It's only my sixth cup.」",
+"slot": 45
+},
+"0x002079": {
+"jp": "「ア、アイビス……大丈夫？」",
+"en": "「I-Ibis... you okay?」",
+"slot": 42
+},
+"0x0020A4": {
+"jp": "「うん、ちょうどいい塩梅だよ」",
+"en": "「Yep, just the right balance.」",
+"slot": 45
+},
+"0x0020D2": {
+"jp": "「この二人、どうしてこれで太らないの！？@　不公平だわ！」",
+"en": "「How do these two not gain any weight!?@　It's not fair!」",
+"slot": 85
+},
+"0x002128": {
+"jp": "リム",
+"en": "Rim",
+"slot": 6
+},
+"0x00212F": {
+"jp": "「皆さん、お疲れ様でした！」",
+"en": "「Nice work today, everyone!」",
+"slot": 42
+},
+"0x00215A": {
+"jp": "「ゆっくり休んでね」",
+"en": "「Get plenty of rest.」",
+"slot": 30
+},
+"0x002179": {
+"jp": "「その前に、ココアをどうぞ」",
+"en": "「But first, here's some cocoa.」",
+"slot": 42
+},
+"0x0021A4": {
+"jp": "（そんなに甘いの飲んだら、虫歯になっちゃうわよ……）",
+"en": "(Drink something that sweet and you'll get cavities...)",
+"slot": 78
+}
+}

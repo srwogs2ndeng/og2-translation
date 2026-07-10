@@ -1,0 +1,6876 @@
+[
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "Common/Dat/Option/QA/2og_Q&A.csb.json",
+  "key": "0x017888",
+  "msg": "fullwidth ASCII ['Ａ'] in en='<W=28><H=28>Ａ.<C=FF8000FF>Distributes sp'"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "Common/Dat/Option/QA/2og_Q&A.csb.json",
+  "key": "0x017B82",
+  "msg": "fullwidth ASCII ['Ｑ', '４'] in en='<W=24>Ｑ</W><W=32>４</W>.Squad setup by ab'"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "Common/Dat/Option/QA/2og_Q&A.csb.json",
+  "key": "0x017BD3",
+  "msg": "fullwidth ASCII ['Ａ'] in en='Ａ.Build squads so three of the same abil'"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "Common/Dat/Option/QA/2og_Q&A.csb.json",
+  "key": "0x017C2E",
+  "msg": "fullwidth ASCII ['Ａ'] in en='<W=28><H=28>Ａ.<C=FF8000FF>Build squads s'"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "Common/Dat/Option/QA/2og_Q&A.csb.json",
+  "key": "0x017DC5",
+  "msg": "fullwidth ASCII ['Ｑ', '５'] in en='<W=24>Ｑ</W><W=32>５</W>.Squad setup by we'"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "Common/Dat/Option/QA/2og_Q&A.csb.json",
+  "key": "0x017E0D",
+  "msg": "fullwidth ASCII ['Ａ'] in en='Ａ.Form squads from units with similar eq'"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "Common/Dat/Option/QA/2og_Q&A.csb.json",
+  "key": "0x017E65",
+  "msg": "fullwidth ASCII ['Ａ'] in en='<W=28><H=28>Ａ.<C=FF8000FF>Form squads fr'"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "Common/Dat/Option/QA/2og_Q&A.csb.json",
+  "key": "0x018159",
+  "msg": "fullwidth ASCII ['Ｑ', '６'] in en='<W=24>Ｑ</W><W=32>６</W>.Squad setup by pi'"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "Common/Dat/Option/QA/2og_Q&A.csb.json",
+  "key": "0x0181AA",
+  "msg": "fullwidth ASCII ['Ａ'] in en=\"Ａ.Build squads considering the story's p\""
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "Common/Dat/Option/QA/2og_Q&A.csb.json",
+  "key": "0x0181F6",
+  "msg": "fullwidth ASCII ['Ａ'] in en='<W=28><H=28>Ａ.<C=FF8000FF>Build squads c'"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "Common/Dat/Option/QA/2og_Q&A.csb.json",
+  "key": "0x01855D",
+  "msg": "fullwidth ASCII ['Ｑ', '１'] in en='<W=24>Ｑ</W><W=32>１</W>.What is reassigni'"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "Common/Dat/Option/QA/2og_Q&A.csb.json",
+  "key": "0x01859C",
+  "msg": "fullwidth ASCII ['Ａ'] in en='Ａ.Changing the unit a pilot is riding in'"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "Common/Dat/Option/QA/2og_Q&A.csb.json",
+  "key": "0x0185E5",
+  "msg": "fullwidth ASCII ['Ａ'] in en='<W=28><H=28>Ａ.<C=FF8000FF>Changing the u'"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "Common/Dat/Option/QA/2og_Q&A.csb.json",
+  "key": "0x018932",
+  "msg": "fullwidth ASCII ['Ｑ', '２'] in en='<W=24>Ｑ</W><W=32>２</W>.Tips for reassign'"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "Common/Dat/Option/QA/2og_Q&A.csb.json",
+  "key": "0x01896B",
+  "msg": "fullwidth ASCII ['Ａ'] in en='Ａ.Cover weaknesses and enhance strengths'"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "Common/Dat/Option/QA/2og_Q&A.csb.json",
+  "key": "0x0189AB",
+  "msg": "fullwidth ASCII ['Ａ'] in en='<W=28><H=28>Ａ.<C=FF8000FF>Cover weakness'"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "Common/Dat/Option/QA/2og_Q&A.csb.json",
+  "key": "0x018E29",
+  "msg": "fullwidth ASCII ['Ｑ', '１'] in en='<W=24>Ｑ</W><W=32>１</W>.What is unit swap'"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "Common/Dat/Option/QA/2og_Q&A.csb.json",
+  "key": "0x018E68",
+  "msg": "fullwidth ASCII ['Ａ'] in en='Ａ.Attaching and removing unit-specific o'"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "Common/Dat/Option/QA/2og_Q&A.csb.json",
+  "key": "0x018EBD",
+  "msg": "fullwidth ASCII ['Ａ'] in en='<W=28><H=28>Ａ.<C=FF8000FF>Attaching and '"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "Common/Dat/Option/QA/2og_Q&A.csb.json",
+  "key": "0x019144",
+  "msg": "fullwidth ASCII ['Ｑ', '１'] in en='<W=24>Ｑ</W><W=32>１</W>.What is weapon sw'"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "Common/Dat/Option/QA/2og_Q&A.csb.json",
+  "key": "0x019183",
+  "msg": "fullwidth ASCII ['Ａ'] in en=\"Ａ.Changing a unit's weapons.\""
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "Common/Dat/Option/QA/2og_Q&A.csb.json",
+  "key": "0x0191BA",
+  "msg": "fullwidth ASCII ['Ａ'] in en='<W=28><H=28>Ａ.<C=FF8000FF>Changing a uni'"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "Common/Dat/Option/QA/2og_Q&A.csb.json",
+  "key": "0x0194A3",
+  "msg": "fullwidth ASCII ['Ｑ', '２'] in en='<W=24>Ｑ</W><W=32>２</W>.Weapon swapping t'"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "Common/Dat/Option/QA/2og_Q&A.csb.json",
+  "key": "0x0194DC",
+  "msg": "fullwidth ASCII ['Ａ'] in en='<W=28><H=28>Ａ.<C=FF8000FF>Cover weakness'"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC398C0",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='方向指定型')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC3ECD8",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='ｆ3')"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC40250",
+  "msg": "fullwidth ASCII ['＜', '＞'] in en='＜Have a pilot learn a special skill.＞'"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC46D48",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='『－－－－－』')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC46D88",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='ｆ3')"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC491D8",
+  "msg": "fullwidth ASCII ['＜', '＞'] in en='＜Random＞'"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC4B728",
+  "msg": "fullwidth ASCII ['＜', '＞'] in en='＜Set situations where counterattack is f'"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC4B778",
+  "msg": "fullwidth ASCII ['＜', '＞'] in en='＜Set options for defense and evasion.＞'"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC4B7B8",
+  "msg": "fullwidth ASCII ['＜', '＞'] in en='＜Set weapons that are forbidden to use.＞'"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC4B7F8",
+  "msg": "fullwidth ASCII ['＜', '＞'] in en='＜Set situations where shooting down the '"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC4CA30",
+  "msg": "fullwidth ASCII ['＜', '＞'] in en='＜Random＞'"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC50EB0",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='合体・分離')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC51750",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='『No Data』')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC54568",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='敵')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC55398",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='ｆ_3')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC5D0E0",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='青')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC5D138",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='ＯＮ')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC623F8",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='Ｒ')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC62400",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='Ｇ')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC63CE0",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='： 32×32')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC63CF0",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='： 48×48')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC63D00",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='： 64×64')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC641F8",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='ＩＤ')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC64200",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='Seq ＩＤ')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC64298",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='話数')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC642D8",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='Camera ＩＤ')"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC660B0",
+  "msg": "fullwidth ASCII ['＜', '＞'] in en='＜Repair＞'"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC660C0",
+  "msg": "<term> link renders full-width -> slippage: ['Resupply']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC660E0",
+  "msg": "<term> link renders full-width -> slippage: ['Recover']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC67B60",
+  "msg": "<term> link renders full-width -> slippage: ['Deploy Select']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC67BA8",
+  "msg": "<term> link renders full-width -> slippage: ['Deploy Select']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC67BE8",
+  "msg": "<term> link renders full-width -> slippage: ['Deploy Prep']"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC6E808",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='服装No')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC6E938",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='分身')"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC6F048",
+  "msg": "<term> link renders full-width -> slippage: ['B']"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC6F328",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='＼')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC6F388",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='[不明]')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC6F768",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='VOICEＮｏ  ')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC6FDB0",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='宇宙系')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC700B8",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='着弾指定')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC700C8",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='着弾指定Ⅱ')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC700D8",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='友情')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC701A8",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='味')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC701B0",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='敵')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC701F0",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='？')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC70220",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='慎重')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC70248",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='短気')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC74AD8",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='＊')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC74C18",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='不明')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC74C20",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='白金')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC75D20",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='ＫＢ')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xC75D28",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='ＭＢ')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xCA97DC",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='3䬄\\x12')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xD45565",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='\\x05m俀')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xD5E188",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='分身')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xD5E368",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='神僕の盾')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xD5E388",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='神の盾')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "EBOOT/eboot.json",
+  "key": "0xD5E3A8",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='神獣盾')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "General2d/Dat/Window/WindowToolData/windowdataMain.wtd.json",
+  "key": "0x074CE7",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='【\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000】')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "General2d/Dat/Window/WindowToolData/windowdataMain.wtd.json",
+  "key": "0x0B551F",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='  +\\u3000=')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "General2d/Dat/Window/WindowToolData/windowdataMain.wtd.json",
+  "key": "0x0F79D3",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='化')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "General2d/Dat/Window/WindowToolData/windowdataMain.wtd.json",
+  "key": "0x1635BB",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='猫猫猫')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "General2d/Dat/Window/WindowToolData/windowdataMain.wtd.json",
+  "key": "0x1659FF",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='＜NEXT  ＞')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "General2d/Dat/Window/WindowToolData/windowdataMain.wtd.json",
+  "key": "0x165EE3",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='『\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000』')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "General2d/Dat/Window/WindowToolData/windowdataMain.wtd.json",
+  "key": "0x16671B",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='『\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000』')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "General2d/Dat/Window/WindowToolData/windowdataMain.wtd.json",
+  "key": "0x17103B",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='【\\u3000\\u3000/\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000】')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "General2d/Dat/Window/WindowToolData/windowdataMain.wtd.json",
+  "key": "0x171943",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='【\\u3000\\u3000/\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000】')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "General2d/Dat/Window/WindowToolData/windowdataMain.wtd.json",
+  "key": "0x172213",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='【\\u3000\\u3000/\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000】')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "General2d/Dat/Window/WindowToolData/windowdataMain.wtd.json",
+  "key": "0x173D47",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='【\\u3000\\u3000/\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000】')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "General2d/Dat/Window/WindowToolData/windowdataMain.wtd.json",
+  "key": "0x174E63",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='【\\u3000\\u3000/\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000】')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "General2d/Dat/Window/WindowToolData/windowdataMain.wtd.json",
+  "key": "0x179207",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='『\\u3000 \\u3000\\u3000\\u3000\\u3000\\u3000』')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "General2d/Dat/Window/WindowToolData/windowdataMain.wtd.json",
+  "key": "0x17922B",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='『\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000』')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "General2d/Dat/Window/WindowToolData/windowdataMain.wtd.json",
+  "key": "0x179747",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='『\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000』')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "General2d/Dat/Window/WindowToolData/windowdataMain.wtd.json",
+  "key": "0x17976B",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='『\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000』')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "General2d/Dat/Window/WindowToolData/windowdataMain.wtd.json",
+  "key": "0x179C87",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='『\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000』')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "General2d/Dat/Window/WindowToolData/windowdataMain.wtd.json",
+  "key": "0x179CAB",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='『\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000』')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "General2d/Dat/Window/WindowToolData/windowdataMain.wtd.json",
+  "key": "0x17A1B7",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='『\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000』')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "General2d/Dat/Window/WindowToolData/windowdataMain.wtd.json",
+  "key": "0x17A1DB",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='『\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000』')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "General2d/Dat/Window/WindowToolData/windowdataMain.wtd.json",
+  "key": "0x17A6F7",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='『\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000』')"
+ },
+ {
+  "rule": "R9",
+  "sev": "WARN",
+  "file": "General2d/Dat/Window/WindowToolData/windowdataMain.wtd.json",
+  "key": "0x17A71B",
+  "msg": "likely visible stray: empty-en label among translated rows (jp='『\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000』')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00001.bin.json",
+  "key": "0x0082A7",
+  "msg": "over-slot 9>6B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='Transform')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00004.bin.json",
+  "key": "0x00E6CB",
+  "msg": "over-slot 22>18B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='- Destroy all enemies.')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00024.bin.json",
+  "key": "0x006A6B",
+  "msg": "over-slot 64>63B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='1.  Destroy all enemies except the S')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00027.bin.json",
+  "key": "0x00D8AA",
+  "msg": "over-slot 65>60B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='- Within 3 turns, shoot down the Sod')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00043.bin.json",
+  "key": "0x012B79",
+  "msg": "over-slot 37>33B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='1.  The ally mothership is shot down')"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00061.bin.json",
+  "key": "0x0095DE",
+  "msg": "fullwidth ASCII ['Ｄ', 'Ｍ'] in en='#[ＤＭ]-?Ing'"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00063.bin.json",
+  "key": "0x018CCF",
+  "msg": "over-slot 37>33B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='2.  The ally mothership is shot down')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00064.bin.json",
+  "key": "0x00EDE8",
+  "msg": "over-slot 37>33B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='1.  The ally mothership is shot down')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00065.bin.json",
+  "key": "0x01302B",
+  "msg": "over-slot 37>33B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='2.  The ally mothership is shot down')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00065.bin.json",
+  "key": "0x0130CB",
+  "msg": "over-slot 37>33B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='2.  The ally mothership is shot down')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00066.bin.json",
+  "key": "0x01594B",
+  "msg": "over-slot 37>33B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='2.  The ally mothership is shot down')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00067.bin.json",
+  "key": "0x00BC9E",
+  "msg": "over-slot 37>33B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='1.  The ally mothership is shot down')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00068.bin.json",
+  "key": "0x00EA03",
+  "msg": "over-slot 82>78B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='1.  Within 6 turns, shoot down 20 or')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00069.bin.json",
+  "key": "0x013FFF",
+  "msg": "over-slot 37>33B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='2.  The ally mothership is shot down')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00070.bin.json",
+  "key": "0x00E613",
+  "msg": "over-slot 37>33B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='2.  The ally mothership is shot down')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00070.bin.json",
+  "key": "0x00E749",
+  "msg": "over-slot 37>33B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='2.  The ally mothership is shot down')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00071.bin.json",
+  "key": "0x0121BF",
+  "msg": "over-slot 37>33B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='2.  The ally mothership is shot down')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00071.bin.json",
+  "key": "0x0122D9",
+  "msg": "over-slot 37>33B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='3.  The ally mothership is shot down')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00072.bin.json",
+  "key": "0x00F98A",
+  "msg": "over-slot 37>33B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='1.  The ally mothership is shot down')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00073.bin.json",
+  "key": "0x00A6E0",
+  "msg": "over-slot 37>33B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='2.  The ally mothership is shot down')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00074.bin.json",
+  "key": "0x00E28B",
+  "msg": "over-slot 37>33B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='1.  The ally mothership is shot down')"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00079.bin.json",
+  "key": "0x012F6E",
+  "msg": "fullwidth ASCII ['Ｄ', 'Ｍ'] in en='?[ＤＭ]-?Ing'"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00085.bin.json",
+  "key": "0x00B576",
+  "msg": "over-slot 37>33B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='1.  The ally mothership is shot down')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00086.bin.json",
+  "key": "0x011804",
+  "msg": "over-slot 37>33B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='2.  The ally mothership is shot down')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00087.bin.json",
+  "key": "0x01382F",
+  "msg": "over-slot 37>33B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='1.  The ally mothership is shot down')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00088.bin.json",
+  "key": "0x00C930",
+  "msg": "over-slot 37>33B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='1.  The ally mothership is shot down')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00089.bin.json",
+  "key": "0x014B9F",
+  "msg": "over-slot 37>33B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='1.  The ally mothership is shot down')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00090.bin.json",
+  "key": "0x009D37",
+  "msg": "over-slot 37>33B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='1.  The ally mothership is shot down')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00093.bin.json",
+  "key": "0x00CE3A",
+  "msg": "over-slot 37>33B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='1.  The ally mothership is shot down')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00094.bin.json",
+  "key": "0x010F31",
+  "msg": "over-slot 37>33B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='2.  The ally mothership is shot down')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00094.bin.json",
+  "key": "0x01119A",
+  "msg": "over-slot 37>33B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='2.  The ally mothership is shot down')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00095.bin.json",
+  "key": "0x006D82",
+  "msg": "over-slot 37>33B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='1.  The ally mothership is shot down')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00097.bin.json",
+  "key": "0x00D767",
+  "msg": "over-slot 37>33B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='1.  The ally mothership is shot down')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00097.bin.json",
+  "key": "0x00D901",
+  "msg": "over-slot 37>33B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='1.  The ally mothership is shot down')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00098.bin.json",
+  "key": "0x013775",
+  "msg": "over-slot 37>33B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='1.  The ally mothership is shot down')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00099.bin.json",
+  "key": "0x00C280",
+  "msg": "over-slot 37>33B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='1.  The ally mothership is shot down')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00200.bin.json",
+  "key": "0x014AB1",
+  "msg": "over-slot 23>21B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='1. Destroy all enemies.')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00200.bin.json",
+  "key": "0x014AC7",
+  "msg": "over-slot 34>24B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='1. All allied units are destroyed.')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00800.bin.json",
+  "key": "0x008221",
+  "msg": "over-slot 14>12B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='A Time of Rest')"
+ },
+ {
+  "rule": "R2",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/scr00991.bin.json",
+  "key": "0x0065E4",
+  "msg": "over-slot 32>27B -> stays JP unless pointer-repointed (confirm via deploy REFUSED report) (en='1.  The mothership is shot down.')"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls001.bin.json",
+  "key": "0x001C98",
+  "msg": "<term> link renders full-width -> slippage: ['Project TD']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls001.bin.json",
+  "key": "0x001DA3",
+  "msg": "<term> link renders full-width -> slippage: ['Isurugi Heavy Industries']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls001.bin.json",
+  "key": "0x001E41",
+  "msg": "<term> link renders full-width -> slippage: ['Project TD']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls001.bin.json",
+  "key": "0x001ED9",
+  "msg": "<term> link renders full-width -> slippage: ['Project TD']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls001.bin.json",
+  "key": "0x002139",
+  "msg": "<term> link renders full-width -> slippage: ['Aidoneus Island']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls001.bin.json",
+  "key": "0x002A22",
+  "msg": "<term> link renders full-width -> slippage: ['Project TD', 'Armored Module']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls001.bin.json",
+  "key": "0x002B36",
+  "msg": "<term> link renders full-width -> slippage: ['Tesla Drive']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls001.bin.json",
+  "key": "0x003313",
+  "msg": "<term> link renders full-width -> slippage: ['Earth Federation']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls001.bin.json",
+  "key": "0x0033BB",
+  "msg": "<term> link renders full-width -> slippage: ['Armored Modules']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls001.bin.json",
+  "key": "0x003428",
+  "msg": "<term> link renders full-width -> slippage: ['Personal Trooper']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls001.bin.json",
+  "key": "0x003F31",
+  "msg": "<term> link renders full-width -> slippage: ['Isurugi Heavy Industries']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls001.bin.json",
+  "key": "0x004A2E",
+  "msg": "<term> link renders full-width -> slippage: ['Shura Rebellion']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls001.bin.json",
+  "key": "0x004D60",
+  "msg": "<term> link renders full-width -> slippage: ['Tesla Leicht@Institute']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls001.bin.json",
+  "key": "0x004D60",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls002.bin.json",
+  "key": "0x001B03",
+  "msg": "<term> link renders full-width -> slippage: ['Shura Rebellion', 'Special Combat@Instruction Squad']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls002.bin.json",
+  "key": "0x001B03",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls002.bin.json",
+  "key": "0x001C6A",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls002.bin.json",
+  "key": "0x002650",
+  "msg": "<term> link renders full-width -> slippage: ['Shura Rebellion']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls003.bin.json",
+  "key": "0x0019FA",
+  "msg": "<term> link renders full-width -> slippage: ['La Gias']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls003.bin.json",
+  "key": "0x001BF3",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls003.bin.json",
+  "key": "0x001D0C",
+  "msg": "<term> link renders full-width -> slippage: ['La Gias']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls003.bin.json",
+  "key": "0x002082",
+  "msg": "<term> link renders full-width -> slippage: ['Masou Kishin']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls003.bin.json",
+  "key": "0x002F5C",
+  "msg": "<term> link renders full-width -> slippage: ['La Gias']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls003.bin.json",
+  "key": "0x003A09",
+  "msg": "<term> link renders full-width -> slippage: ['Masou Ki']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls003.bin.json",
+  "key": "0x004087",
+  "msg": "<term> link renders full-width -> slippage: ['Barrier of Harmony']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls003.bin.json",
+  "key": "0x004153",
+  "msg": "<term> link renders full-width -> slippage: ['Armored Module']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls003.bin.json",
+  "key": "0x004476",
+  "msg": "<term> link renders full-width -> slippage: ['Einst']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls004.bin.json",
+  "key": "0x001AFA",
+  "msg": "<term> link renders full-width -> slippage: ['Neue DC']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls004.bin.json",
+  "key": "0x001C86",
+  "msg": "<term> link renders full-width -> slippage: ['Antarctic Incident']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls004.bin.json",
+  "key": "0x001CEA",
+  "msg": "<term> link renders full-width -> slippage: ['DC War', 'L5 Campaign', 'Inspector Incident']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls004.bin.json",
+  "key": "0x0020C1",
+  "msg": "<term> link renders full-width -> slippage: ['Shura Rebellion', 'La Gias']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls004.bin.json",
+  "key": "0x0026EA",
+  "msg": "<term> link renders full-width -> slippage: ['Machine Beasts']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls004.bin.json",
+  "key": "0x00347E",
+  "msg": "<term> link renders full-width -> slippage: ['Machine God']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls004.bin.json",
+  "key": "0x003F0A",
+  "msg": "<term> link renders full-width -> slippage: ['Machine Beast']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls004.bin.json",
+  "key": "0x004FE3",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls005.bin.json",
+  "key": "0x002466",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls005.bin.json",
+  "key": "0x0026F1",
+  "msg": "<term> link renders full-width -> slippage: ['Boosted@Children', 'Remote Control']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls005.bin.json",
+  "key": "0x0026F1",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls005.bin.json",
+  "key": "0x0027D0",
+  "msg": "<term> link renders full-width -> slippage: ['Remote Control']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls005.bin.json",
+  "key": "0x002B16",
+  "msg": "<term> link renders full-width -> slippage: ['Shadow@Mirror']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls005.bin.json",
+  "key": "0x002C7A",
+  "msg": "<term> link renders full-width -> slippage: ['Mao Industry', 'Isurugi Heavy@Industries']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls005.bin.json",
+  "key": "0x002DE7",
+  "msg": "<term> link renders full-width -> slippage: ['Aidoneus Island']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls005.bin.json",
+  "key": "0x002F89",
+  "msg": "<term> link renders full-width -> slippage: ['La@Gias']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls005.bin.json",
+  "key": "0x00424B",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls005.bin.json",
+  "key": "0x004755",
+  "msg": "<term> link renders full-width -> slippage: ['REB']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls005.bin.json",
+  "key": "0x00498C",
+  "msg": "<term> link renders full-width -> slippage: ['REB']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls005.bin.json",
+  "key": "0x00498C",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls006.bin.json",
+  "key": "0x001925",
+  "msg": "fullwidth ASCII ['Ｒ', 'Ｅ', 'Ｂ'] in en=\"「<ＲＥＢ>'s core is shielded within the fie\""
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls006.bin.json",
+  "key": "0x001D27",
+  "msg": "fullwidth ASCII ['Ｒ', 'Ｅ', 'Ｂ'] in en=\"「So that's the fake personality that pos\""
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls006.bin.json",
+  "key": "0x002D8C",
+  "msg": "<term> link renders full-width -> slippage: ['Boosted@Children']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls006.bin.json",
+  "key": "0x0030FB",
+  "msg": "<term> link renders full-width -> slippage: ['Neue@DC']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls006.bin.json",
+  "key": "0x003DCD",
+  "msg": "<term> link renders full-width -> slippage: ['Project TD']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls008.bin.json",
+  "key": "0x001DC0",
+  "msg": "<term> link renders full-width -> slippage: ['Remote Control']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls008.bin.json",
+  "key": "0x0021C3",
+  "msg": "<term> link renders full-width -> slippage: ['PT']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls008.bin.json",
+  "key": "0x0039E2",
+  "msg": "<term> link renders full-width -> slippage: ['Boosted Children']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls008.bin.json",
+  "key": "0x0046FB",
+  "msg": "<term> link renders full-width -> slippage: ['Neue DC']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls008.bin.json",
+  "key": "0x004AF0",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls008.bin.json",
+  "key": "0x004F95",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls009.bin.json",
+  "key": "0x001EFE",
+  "msg": "<term> link renders full-width -> slippage: ['La Gias']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls009.bin.json",
+  "key": "0x0024B0",
+  "msg": "<term> link renders full-width -> slippage: ['Masou Kishin']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls009.bin.json",
+  "key": "0x0040F5",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls010.bin.json",
+  "key": "0x0027CB",
+  "msg": "<term> link renders full-width -> slippage: ['La@Gias']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls010.bin.json",
+  "key": "0x002915",
+  "msg": "<term> link renders full-width -> slippage: ['La Gias']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls010.bin.json",
+  "key": "0x0029F3",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls010.bin.json",
+  "key": "0x0031AD",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls010.bin.json",
+  "key": "0x004C36",
+  "msg": "<term> link renders full-width -> slippage: ['Plana']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls010.bin.json",
+  "key": "0x004C36",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls010.bin.json",
+  "key": "0x0056D3",
+  "msg": "<term> link renders full-width -> slippage: ['Personal Trooper', 'Armored Module', 'Special Unit']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls011.bin.json",
+  "key": "0x001A1C",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls011.bin.json",
+  "key": "0x001BA0",
+  "msg": "<term> link renders full-width -> slippage: ['Machinery Gods', 'Machine Beasts']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls011.bin.json",
+  "key": "0x001E38",
+  "msg": "<term> link renders full-width -> slippage: ['Machine Beasts', 'Machinery Gods']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls011.bin.json",
+  "key": "0x0021A4",
+  "msg": "<term> link renders full-width -> slippage: ['Machine Beasts', 'Machinery Gods']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls011.bin.json",
+  "key": "0x0022C8",
+  "msg": "<term> link renders full-width -> slippage: ['Plana']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls011.bin.json",
+  "key": "0x002524",
+  "msg": "<term> link renders full-width -> slippage: ['Machinery Gods', 'Machine Beasts']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls011.bin.json",
+  "key": "0x0044D4",
+  "msg": "<term> link renders full-width -> slippage: ['Mazinki', 'Mazinki-shin']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls012.bin.json",
+  "key": "0x0019E6",
+  "msg": "<term> link renders full-width -> slippage: ['Personal@Trooper', 'Armored Module']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls012.bin.json",
+  "key": "0x001D35",
+  "msg": "<term> link renders full-width -> slippage: ['DC@War']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls012.bin.json",
+  "key": "0x001DB1",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls012.bin.json",
+  "key": "0x0029F4",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls012.bin.json",
+  "key": "0x002F1B",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls012.bin.json",
+  "key": "0x003052",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls012.bin.json",
+  "key": "0x0031A6",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls013.bin.json",
+  "key": "0x0037DB",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls013.bin.json",
+  "key": "0x005CB1",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls013.bin.json",
+  "key": "0x00677D",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls014.bin.json",
+  "key": "0x003593",
+  "msg": "<term> link renders full-width -> slippage: ['La@Gias']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls014.bin.json",
+  "key": "0x003593",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls014.bin.json",
+  "key": "0x003A73",
+  "msg": "<term> link renders full-width -> slippage: ['Einst']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls015.bin.json",
+  "key": "0x001B9C",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls015.bin.json",
+  "key": "0x0023F3",
+  "msg": "<term> link renders full-width -> slippage: ['La Gias']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls015.bin.json",
+  "key": "0x002BE4",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls015.bin.json",
+  "key": "0x002D12",
+  "msg": "<term> link renders full-width -> slippage: ['Einst']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls015.bin.json",
+  "key": "0x00322B",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls015.bin.json",
+  "key": "0x004698",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls015.bin.json",
+  "key": "0x0064B7",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls016.bin.json",
+  "key": "0x002349",
+  "msg": "<term> link renders full-width -> slippage: ['Plana', 'Plana']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls016.bin.json",
+  "key": "0x002349",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls016.bin.json",
+  "key": "0x002410",
+  "msg": "<term> link renders full-width -> slippage: ['Masou Kishin', 'special machine']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls016.bin.json",
+  "key": "0x002CE6",
+  "msg": "<term> link renders full-width -> slippage: ['Masou Kishin', 'Masou@Kishin gods']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls016.bin.json",
+  "key": "0x002CE6",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls016.bin.json",
+  "key": "0x002E53",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls016.bin.json",
+  "key": "0x002FD4",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls016.bin.json",
+  "key": "0x004667",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls016.bin.json",
+  "key": "0x00525F",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls016.bin.json",
+  "key": "0x0055BA",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls016.bin.json",
+  "key": "0x0056FD",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls017.bin.json",
+  "key": "0x0022FA",
+  "msg": "<term> link renders full-width -> slippage: ['La Gias']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls017.bin.json",
+  "key": "0x002598",
+  "msg": "<term> link renders full-width -> slippage: ['Machine Gods', 'Elemental Lords']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls017.bin.json",
+  "key": "0x0028C6",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls017.bin.json",
+  "key": "0x002B53",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls017.bin.json",
+  "key": "0x003524",
+  "msg": "<term> link renders full-width -> slippage: ['DC War']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls017.bin.json",
+  "key": "0x003733",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls017.bin.json",
+  "key": "0x0045DA",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls017.bin.json",
+  "key": "0x004AEC",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls020.bin.json",
+  "key": "0x0024DC",
+  "msg": "<term> link renders full-width -> slippage: ['La Gias']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls020.bin.json",
+  "key": "0x002CFB",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls020.bin.json",
+  "key": "0x0069BB",
+  "msg": "<term> link renders full-width -> slippage: ['La Gias']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls020.bin.json",
+  "key": "0x0074DA",
+  "msg": "<term> link renders full-width -> slippage: ['Machine Gods', 'Personal Troopers', 'Specials']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls021.bin.json",
+  "key": "0x001C77",
+  "msg": "<term> link renders full-width -> slippage: ['L5@Campaign', 'Inspector Incident', 'Shura Rebellion']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls021.bin.json",
+  "key": "0x001D35",
+  "msg": "<term> link renders full-width -> slippage: ['Elemental Lords']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls021.bin.json",
+  "key": "0x001E3F",
+  "msg": "<term> link renders full-width -> slippage: ['La Gias']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls021.bin.json",
+  "key": "0x001F0B",
+  "msg": "<term> link renders full-width -> slippage: ['Armored Modules']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls022.bin.json",
+  "key": "0x001D6E",
+  "msg": "<term> link renders full-width -> slippage: ['Elemental Lord']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls022.bin.json",
+  "key": "0x001DDB",
+  "msg": "<term> link renders full-width -> slippage: ['Machine@God']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls022.bin.json",
+  "key": "0x002254",
+  "msg": "<term> link renders full-width -> slippage: ['La Gias']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls023.bin.json",
+  "key": "0x002383",
+  "msg": "<term> link renders full-width -> slippage: ['Neue DC']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls023.bin.json",
+  "key": "0x002522",
+  "msg": "<term> link renders full-width -> slippage: ['Masou Kishin']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls023.bin.json",
+  "key": "0x00265E",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls024.bin.json",
+  "key": "0x00190E",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls024.bin.json",
+  "key": "0x001B4A",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls024.bin.json",
+  "key": "0x00235F",
+  "msg": "<term> link renders full-width -> slippage: ['La Gias']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls024.bin.json",
+  "key": "0x002592",
+  "msg": "<term> link renders full-width -> slippage: ['Seiso Kishin']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls024.bin.json",
+  "key": "0x002A2C",
+  "msg": "<term> link renders full-width -> slippage: ['La Gias']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls024.bin.json",
+  "key": "0x00386C",
+  "msg": "<term> link renders full-width -> slippage: ['Seiso Kishi', 'Seiso Kishin']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls024.bin.json",
+  "key": "0x003A10",
+  "msg": "<term> link renders full-width -> slippage: ['Seiso Kishi', 'Seiso Kishin']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls024.bin.json",
+  "key": "0x003A9A",
+  "msg": "<term> link renders full-width -> slippage: ['Prana']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls024.bin.json",
+  "key": "0x003B26",
+  "msg": "<term> link renders full-width -> slippage: ['La Gias']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls024.bin.json",
+  "key": "0x003B26",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls024.bin.json",
+  "key": "0x003C8A",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls024.bin.json",
+  "key": "0x003EC5",
+  "msg": "<term> link renders full-width -> slippage: ['Seiso@Kishin']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls024.bin.json",
+  "key": "0x003F63",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls025.bin.json",
+  "key": "0x002C22",
+  "msg": "<term> link renders full-width -> slippage: ['La Gias']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls026.bin.json",
+  "key": "0x001A7D",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls026.bin.json",
+  "key": "0x00280B",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls026.bin.json",
+  "key": "0x002AD6",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls026.bin.json",
+  "key": "0x002B8D",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls026.bin.json",
+  "key": "0x0035C7",
+  "msg": "<term> link renders full-width -> slippage: ['Boosted@Children']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls026.bin.json",
+  "key": "0x0037B7",
+  "msg": "<term> link renders full-width -> slippage: ['Rimacon']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls026.bin.json",
+  "key": "0x00413A",
+  "msg": "<term> link renders full-width -> slippage: ['Divine Crusaders']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls026.bin.json",
+  "key": "0x004943",
+  "msg": "<term> link renders full-width -> slippage: ['Machine God', 'Mech-armor']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls027.bin.json",
+  "key": "0x001FF4",
+  "msg": "<term> link renders full-width -> slippage: ['Boosted Child']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls027.bin.json",
+  "key": "0x0024A9",
+  "msg": "<term> link renders full-width -> slippage: ['School']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls027.bin.json",
+  "key": "0x0028B3",
+  "msg": "<term> link renders full-width -> slippage: ['IFF']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls027.bin.json",
+  "key": "0x002CF1",
+  "msg": "<term> link renders full-width -> slippage: ['La Gias']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls027.bin.json",
+  "key": "0x002E90",
+  "msg": "<term> link renders full-width -> slippage: ['La Gias']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls027.bin.json",
+  "key": "0x00470B",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls028.bin.json",
+  "key": "0x001B5C",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls028.bin.json",
+  "key": "0x001CF3",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls028.bin.json",
+  "key": "0x001DAA",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls028.bin.json",
+  "key": "0x002585",
+  "msg": "<term> link renders full-width -> slippage: ['Shura Rebellion']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls028.bin.json",
+  "key": "0x0027D2",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls028.bin.json",
+  "key": "0x0029CE",
+  "msg": "<term> link renders full-width -> slippage: ['La Gias']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls028.bin.json",
+  "key": "0x002AE6",
+  "msg": "<term> link renders full-width -> slippage: ['Harmony Barrier']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls028.bin.json",
+  "key": "0x002EFB",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls028.bin.json",
+  "key": "0x002FC2",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls028.bin.json",
+  "key": "0x003CD9",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls028.bin.json",
+  "key": "0x003E93",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls029.bin.json",
+  "key": "0x0018E7",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls029.bin.json",
+  "key": "0x001B12",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls029.bin.json",
+  "key": "0x001BCC",
+  "msg": "<term> link renders full-width -> slippage: ['Barrier of Harmony']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls029.bin.json",
+  "key": "0x002CC5",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls029.bin.json",
+  "key": "0x002E4C",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls030.bin.json",
+  "key": "0x001E93",
+  "msg": "<term> link renders full-width -> slippage: ['Neue DC']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls030.bin.json",
+  "key": "0x002D45",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls031.bin.json",
+  "key": "0x00193A",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls031.bin.json",
+  "key": "0x0021D0",
+  "msg": "<term> link renders full-width -> slippage: ['La Gias']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls031.bin.json",
+  "key": "0x002B00",
+  "msg": "<term> link renders full-width -> slippage: ['Shura@Rebellion']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls032.bin.json",
+  "key": "0x001AE3",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls032.bin.json",
+  "key": "0x002028",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls032.bin.json",
+  "key": "0x00225B",
+  "msg": "<term> link renders full-width -> slippage: ['T-LINK@System']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls032.bin.json",
+  "key": "0x004026",
+  "msg": "<term> link renders full-width -> slippage: ['La Gias']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls032.bin.json",
+  "key": "0x0051DE",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls033.bin.json",
+  "key": "0x002A89",
+  "msg": "<term> link renders full-width -> slippage: ['Boosted Children']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls033.bin.json",
+  "key": "0x00401B",
+  "msg": "<term> link renders full-width -> slippage: ['PT', 'Super Robot']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls034.bin.json",
+  "key": "0x001981",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls034.bin.json",
+  "key": "0x0021BA",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls034.bin.json",
+  "key": "0x00227D",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls034.bin.json",
+  "key": "0x002798",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls034.bin.json",
+  "key": "0x002D8C",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls034.bin.json",
+  "key": "0x0032D3",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls035.bin.json",
+  "key": "0x001DEF",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls035.bin.json",
+  "key": "0x003696",
+  "msg": "<term> link renders full-width -> slippage: ['Einst']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls036.bin.json",
+  "key": "0x00212D",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls036.bin.json",
+  "key": "0x0023AC",
+  "msg": "<term> link renders full-width -> slippage: ['Mechanized Armor', 'Mechanized God']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls036.bin.json",
+  "key": "0x002D4D",
+  "msg": "<term> link renders full-width -> slippage: ['Mechanized Armor', 'Special Unit']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls036.bin.json",
+  "key": "0x003318",
+  "msg": "<term> link renders full-width -> slippage: ['La Gias']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls036.bin.json",
+  "key": "0x003575",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls036.bin.json",
+  "key": "0x003E8C",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls036.bin.json",
+  "key": "0x004E93",
+  "msg": "<term> link renders full-width -> slippage: ['La Gias']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls036.bin.json",
+  "key": "0x0059C2",
+  "msg": "<term> link renders full-width -> slippage: ['Elementals', 'Personal Troopers', 'specials']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls037.bin.json",
+  "key": "0x001D0E",
+  "msg": "<term> link renders full-width -> slippage: ['Choukijin']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls037.bin.json",
+  "key": "0x001D8E",
+  "msg": "<term> link renders full-width -> slippage: ['Shura War']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls037.bin.json",
+  "key": "0x0022C4",
+  "msg": "<term> link renders full-width -> slippage: ['PT', 'AM', 'Super Robot']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls037.bin.json",
+  "key": "0x003D9A",
+  "msg": "<term> link renders full-width -> slippage: ['Choukijin']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls037.bin.json",
+  "key": "0x003FBB",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls037.bin.json",
+  "key": "0x004231",
+  "msg": "reflows to 5 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls038.bin.json",
+  "key": "0x0019A5",
+  "msg": "<term> link renders full-width -> slippage: ['Shura Rebellion']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls038.bin.json",
+  "key": "0x0019FD",
+  "msg": "<term> link renders full-width -> slippage: ['Choukijin']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls038.bin.json",
+  "key": "0x001EBC",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls038.bin.json",
+  "key": "0x002124",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls038.bin.json",
+  "key": "0x0022BA",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls038.bin.json",
+  "key": "0x002380",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls038.bin.json",
+  "key": "0x002A34",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls038.bin.json",
+  "key": "0x002AF4",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls038.bin.json",
+  "key": "0x002B8D",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls038.bin.json",
+  "key": "0x002C3E",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls038.bin.json",
+  "key": "0x0030F4",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls038.bin.json",
+  "key": "0x0038B2",
+  "msg": "<term> link renders full-width -> slippage: ['Einst']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls038.bin.json",
+  "key": "0x004218",
+  "msg": "<term> link renders full-width -> slippage: ['Special Tactics Instructor Corps']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls038.bin.json",
+  "key": "0x004218",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls038.bin.json",
+  "key": "0x0042AD",
+  "msg": "<term> link renders full-width -> slippage: ['Instructor Corps']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls038.bin.json",
+  "key": "0x0043A3",
+  "msg": "<term> link renders full-width -> slippage: ['super robot']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls038.bin.json",
+  "key": "0x005F58",
+  "msg": "<term> link renders full-width -> slippage: ['Instructor Corps']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls038.bin.json",
+  "key": "0x0060FB",
+  "msg": "<term> link renders full-width -> slippage: ['Special Tactics Instructor Corps']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls038.bin.json",
+  "key": "0x006ACC",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls038.bin.json",
+  "key": "0x007838",
+  "msg": "<term> link renders full-width -> slippage: ['Special Tactics Instructor Corps']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls038.bin.json",
+  "key": "0x008321",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls038.bin.json",
+  "key": "0x008567",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls038.bin.json",
+  "key": "0x008925",
+  "msg": "<term> link renders full-width -> slippage: ['Machine Cells']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls038.bin.json",
+  "key": "0x0089C0",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls039.bin.json",
+  "key": "0x002423",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls039.bin.json",
+  "key": "0x002CA9",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls039.bin.json",
+  "key": "0x002D7E",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls039.bin.json",
+  "key": "0x002E54",
+  "msg": "<term> link renders full-width -> slippage: ['EOT']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls039.bin.json",
+  "key": "0x002EBE",
+  "msg": "<term> link renders full-width -> slippage: ['Aerogaters', 'Inspectors']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls039.bin.json",
+  "key": "0x00334D",
+  "msg": "<term> link renders full-width -> slippage: ['Antarctic Incident', 'Einst']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls039.bin.json",
+  "key": "0x00360F",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls039.bin.json",
+  "key": "0x003816",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls039.bin.json",
+  "key": "0x0039A3",
+  "msg": "<term> link renders full-width -> slippage: ['PT', 'special machines']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls039.bin.json",
+  "key": "0x004DBE",
+  "msg": "<term> link renders full-width -> slippage: ['Chokijin']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls039.bin.json",
+  "key": "0x00564A",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls040.bin.json",
+  "key": "0x001F5F",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls040.bin.json",
+  "key": "0x002DA1",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls040.bin.json",
+  "key": "0x003F84",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls040.bin.json",
+  "key": "0x004BB6",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls040.bin.json",
+  "key": "0x004F10",
+  "msg": "<term> link renders full-width -> slippage: ['Neue@DC']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls040.bin.json",
+  "key": "0x005742",
+  "msg": "<term> link renders full-width -> slippage: ['IFF']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls040.bin.json",
+  "key": "0x006136",
+  "msg": "<term> link renders full-width -> slippage: ['Tronium']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls040.bin.json",
+  "key": "0x006382",
+  "msg": "<term> link renders full-width -> slippage: ['Isurugi Heavy Industries']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls040.bin.json",
+  "key": "0x006382",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls040.bin.json",
+  "key": "0x00670A",
+  "msg": "<term> link renders full-width -> slippage: ['Inspectors']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls041.bin.json",
+  "key": "0x001B85",
+  "msg": "<term> link renders full-width -> slippage: ['Mao Industry', 'Inspectors']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls041.bin.json",
+  "key": "0x002236",
+  "msg": "<term> link renders full-width -> slippage: ['Inspector Incident', 'Shura@Rebellion']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls041.bin.json",
+  "key": "0x0024AD",
+  "msg": "<term> link renders full-width -> slippage: ['Antarctic Incident']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls041.bin.json",
+  "key": "0x002734",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls041.bin.json",
+  "key": "0x0027FE",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls041.bin.json",
+  "key": "0x002AF4",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls041.bin.json",
+  "key": "0x0039A2",
+  "msg": "<term> link renders full-width -> slippage: ['Super@Machine Children']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls041.bin.json",
+  "key": "0x003CF8",
+  "msg": "<term> link renders full-width -> slippage: ['Colony@Integration Army']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls041.bin.json",
+  "key": "0x004006",
+  "msg": "<term> link renders full-width -> slippage: ['Super']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls041.bin.json",
+  "key": "0x0048E5",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls041.bin.json",
+  "key": "0x0052DD",
+  "msg": "<term> link renders full-width -> slippage: ['EOTI Agency']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls041.bin.json",
+  "key": "0x005363",
+  "msg": "<term> link renders full-width -> slippage: ['DC']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls041.bin.json",
+  "key": "0x00591C",
+  "msg": "<term> link renders full-width -> slippage: ['Aidoneus@Island']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls042.bin.json",
+  "key": "0x002372",
+  "msg": "<term> link renders full-width -> slippage: ['Einst', 'Inspectors']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls042.bin.json",
+  "key": "0x00262E",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls042.bin.json",
+  "key": "0x002DBB",
+  "msg": "<term> link renders full-width -> slippage: ['T-LINK System']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls042.bin.json",
+  "key": "0x00358A",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls043.bin.json",
+  "key": "0x00208E",
+  "msg": "<term> link renders full-width -> slippage: ['Inspectors']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls043.bin.json",
+  "key": "0x002994",
+  "msg": "<term> link renders full-width -> slippage: ['La Gias']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls043.bin.json",
+  "key": "0x003C53",
+  "msg": "<term> link renders full-width -> slippage: ['MOSS']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls043.bin.json",
+  "key": "0x0040BA",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls043.bin.json",
+  "key": "0x004295",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls043.bin.json",
+  "key": "0x00456C",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls043.bin.json",
+  "key": "0x004921",
+  "msg": "<term> link renders full-width -> slippage: ['MOSS']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls043.bin.json",
+  "key": "0x004921",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls043.bin.json",
+  "key": "0x0049E6",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls043.bin.json",
+  "key": "0x004BBD",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls043.bin.json",
+  "key": "0x004D03",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls043.bin.json",
+  "key": "0x004F3D",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls043.bin.json",
+  "key": "0x005053",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls043.bin.json",
+  "key": "0x00519C",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls043.bin.json",
+  "key": "0x00549F",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls043.bin.json",
+  "key": "0x005C92",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls043.bin.json",
+  "key": "0x006429",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls043.bin.json",
+  "key": "0x0064CE",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls043.bin.json",
+  "key": "0x0065E5",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls043.bin.json",
+  "key": "0x0066A5",
+  "msg": "<term> link renders full-width -> slippage: ['Inspector Incident']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls043.bin.json",
+  "key": "0x006737",
+  "msg": "<term> link renders full-width -> slippage: ['Inspector']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls043.bin.json",
+  "key": "0x006737",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls043.bin.json",
+  "key": "0x00680B",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls043.bin.json",
+  "key": "0x006A00",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls043.bin.json",
+  "key": "0x00729F",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls043.bin.json",
+  "key": "0x0076E7",
+  "msg": "<term> link renders full-width -> slippage: ['Antarctic Incident']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls043.bin.json",
+  "key": "0x007FE3",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls043.bin.json",
+  "key": "0x008356",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls043.bin.json",
+  "key": "0x008919",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls043.bin.json",
+  "key": "0x009337",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls044.bin.json",
+  "key": "0x001C94",
+  "msg": "<term> link renders full-width -> slippage: ['Isurugi Heavy Industries']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls044.bin.json",
+  "key": "0x001E7B",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls044.bin.json",
+  "key": "0x0024A8",
+  "msg": "<term> link renders full-width -> slippage: ['Tesla Drive']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls044.bin.json",
+  "key": "0x00297A",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls044.bin.json",
+  "key": "0x002A71",
+  "msg": "<term> link renders full-width -> slippage: ['Project TD']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls044.bin.json",
+  "key": "0x002B57",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls044.bin.json",
+  "key": "0x00307B",
+  "msg": "<term> link renders full-width -> slippage: ['Boosted Children']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls044.bin.json",
+  "key": "0x00346F",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls044.bin.json",
+  "key": "0x0035D0",
+  "msg": "<term> link renders full-width -> slippage: ['Rimacon']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls044.bin.json",
+  "key": "0x003783",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls044.bin.json",
+  "key": "0x003D8B",
+  "msg": "<term> link renders full-width -> slippage: ['Special Combat@Instruction Corps']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls044.bin.json",
+  "key": "0x003D8B",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls044.bin.json",
+  "key": "0x003FEE",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls044.bin.json",
+  "key": "0x004F11",
+  "msg": "<term> link renders full-width -> slippage: ['Shadow@Mirror']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls044.bin.json",
+  "key": "0x004F11",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls044.bin.json",
+  "key": "0x005C63",
+  "msg": "<term> link renders full-width -> slippage: ['T-LINK System']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls044.bin.json",
+  "key": "0x005F76",
+  "msg": "<term> link renders full-width -> slippage: ['Mao Industry']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls044.bin.json",
+  "key": "0x005F76",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls044.bin.json",
+  "key": "0x007339",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls044.bin.json",
+  "key": "0x00778E",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls044.bin.json",
+  "key": "0x00800F",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls045.bin.json",
+  "key": "0x001C03",
+  "msg": "<term> link renders full-width -> slippage: ['Tesla Leichtt@Institute']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls045.bin.json",
+  "key": "0x001F85",
+  "msg": "<term> link renders full-width -> slippage: ['Earth Federation']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls045.bin.json",
+  "key": "0x003354",
+  "msg": "reflows to 5 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls045.bin.json",
+  "key": "0x003639",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls045.bin.json",
+  "key": "0x005203",
+  "msg": "<term> link renders full-width -> slippage: ['T-LINK System']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls045.bin.json",
+  "key": "0x00570B",
+  "msg": "<term> link renders full-width -> slippage: ['Uranus System']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls045.bin.json",
+  "key": "0x0060D2",
+  "msg": "<term> link renders full-width -> slippage: [\"Uranus System's\"]"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls045.bin.json",
+  "key": "0x0070DB",
+  "msg": "<term> link renders full-width -> slippage: ['Einst']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls045.bin.json",
+  "key": "0x008867",
+  "msg": "<term> link renders full-width -> slippage: ['Tesla Leicht Institute']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls046.bin.json",
+  "key": "0x002F33",
+  "msg": "<term> link renders full-width -> slippage: ['Einst']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls046.bin.json",
+  "key": "0x004969",
+  "msg": "<term> link renders full-width -> slippage: ['Antarctic@Incident']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls046.bin.json",
+  "key": "0x0049B8",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls047.bin.json",
+  "key": "0x001A93",
+  "msg": "<term> link renders full-width -> slippage: ['Antarctic Incident']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls047.bin.json",
+  "key": "0x001CB7",
+  "msg": "<term> link renders full-width -> slippage: ['Shadow-Mirror']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls047.bin.json",
+  "key": "0x001D64",
+  "msg": "<term> link renders full-width -> slippage: ['Einst']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls047.bin.json",
+  "key": "0x002A9A",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls047.bin.json",
+  "key": "0x002CF0",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls047.bin.json",
+  "key": "0x0030D0",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls047.bin.json",
+  "key": "0x00322E",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls047.bin.json",
+  "key": "0x003328",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls047.bin.json",
+  "key": "0x0037C6",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls047.bin.json",
+  "key": "0x00399C",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls047.bin.json",
+  "key": "0x0047C0",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls047.bin.json",
+  "key": "0x004B57",
+  "msg": "<term> link renders full-width -> slippage: ['Tesla Drive']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls047.bin.json",
+  "key": "0x004B57",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls047.bin.json",
+  "key": "0x0051A3",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls048.bin.json",
+  "key": "0x001BA9",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls048.bin.json",
+  "key": "0x001FE2",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls048.bin.json",
+  "key": "0x00246B",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls048.bin.json",
+  "key": "0x0028FD",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls048.bin.json",
+  "key": "0x002A03",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls048.bin.json",
+  "key": "0x002FF7",
+  "msg": "reflows to 5 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls048.bin.json",
+  "key": "0x00339A",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls048.bin.json",
+  "key": "0x003442",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls048.bin.json",
+  "key": "0x003B9B",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls048.bin.json",
+  "key": "0x0042CF",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls048.bin.json",
+  "key": "0x004764",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls048.bin.json",
+  "key": "0x004D1E",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls049.bin.json",
+  "key": "0x002215",
+  "msg": "<term> link renders full-width -> slippage: ['White@Star', 'Inspectors']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls049.bin.json",
+  "key": "0x0024EB",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls049.bin.json",
+  "key": "0x004DD4",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls049.bin.json",
+  "key": "0x005464",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls050.bin.json",
+  "key": "0x001CD2",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls050.bin.json",
+  "key": "0x001F0E",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls050.bin.json",
+  "key": "0x00203F",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls050.bin.json",
+  "key": "0x0025CA",
+  "msg": "<term> link renders full-width -> slippage: ['Instructor Squad']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls050.bin.json",
+  "key": "0x003264",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls050.bin.json",
+  "key": "0x00336E",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls050.bin.json",
+  "key": "0x003F54",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls051.bin.json",
+  "key": "0x0023DC",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls051.bin.json",
+  "key": "0x00269C",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls051.bin.json",
+  "key": "0x00280A",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls051.bin.json",
+  "key": "0x002D60",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls051.bin.json",
+  "key": "0x003671",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls051.bin.json",
+  "key": "0x005542",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls051.bin.json",
+  "key": "0x006056",
+  "msg": "<term> link renders full-width -> slippage: ['Einst']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls052.bin.json",
+  "key": "0x0019C2",
+  "msg": "<term> link renders full-width -> slippage: ['Earth Federation Army']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls052.bin.json",
+  "key": "0x0019C2",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls052.bin.json",
+  "key": "0x001EFF",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls052.bin.json",
+  "key": "0x002A24",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls052.bin.json",
+  "key": "0x002E1A",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls052.bin.json",
+  "key": "0x003088",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls052.bin.json",
+  "key": "0x0039D5",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls052.bin.json",
+  "key": "0x00470F",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls052.bin.json",
+  "key": "0x004F2D",
+  "msg": "<term> link renders full-width -> slippage: ['Earth Federation Government']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls052.bin.json",
+  "key": "0x00588C",
+  "msg": "<term> link renders full-width -> slippage: ['DC@War']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls052.bin.json",
+  "key": "0x006470",
+  "msg": "<term> link renders full-width -> slippage: ['DC', 'Colony Integration Force']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls052.bin.json",
+  "key": "0x006470",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls052.bin.json",
+  "key": "0x00698A",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls052.bin.json",
+  "key": "0x006C19",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls052.bin.json",
+  "key": "0x006DFC",
+  "msg": "<term> link renders full-width -> slippage: ['Earth Cradle']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls052.bin.json",
+  "key": "0x0076BF",
+  "msg": "<term> link renders full-width -> slippage: ['Earth@Cradle']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls052.bin.json",
+  "key": "0x007C69",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls053.bin.json",
+  "key": "0x001DC6",
+  "msg": "<term> link renders full-width -> slippage: ['AM']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls053.bin.json",
+  "key": "0x00214E",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls053.bin.json",
+  "key": "0x0040B7",
+  "msg": "<term> link renders full-width -> slippage: ['Project TD']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls053.bin.json",
+  "key": "0x004AC9",
+  "msg": "<term> link renders full-width -> slippage: ['Tesla@Drive']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls053.bin.json",
+  "key": "0x005AEE",
+  "msg": "<term> link renders full-width -> slippage: ['T-LINK System']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls053.bin.json",
+  "key": "0x00684B",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls054.bin.json",
+  "key": "0x001A79",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls054.bin.json",
+  "key": "0x002AF9",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls054.bin.json",
+  "key": "0x00376A",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls055.bin.json",
+  "key": "0x003513",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls055.bin.json",
+  "key": "0x00542D",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls055.bin.json",
+  "key": "0x00706C",
+  "msg": "<term> link renders full-width -> slippage: ['T-LINK System']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls055.bin.json",
+  "key": "0x008FF3",
+  "msg": "<term> link renders full-width -> slippage: ['Inspector Incident']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls055.bin.json",
+  "key": "0x009373",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls055.bin.json",
+  "key": "0x009FE1",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls055.bin.json",
+  "key": "0x00A1B4",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls056.bin.json",
+  "key": "0x002EE1",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls056.bin.json",
+  "key": "0x0031A0",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls056.bin.json",
+  "key": "0x0039EA",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls056.bin.json",
+  "key": "0x003ABC",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls056.bin.json",
+  "key": "0x004F06",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls056.bin.json",
+  "key": "0x006EB1",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls056.bin.json",
+  "key": "0x0070F8",
+  "msg": "<term> link renders full-width -> slippage: ['the Shura Rebellion']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls056.bin.json",
+  "key": "0x007196",
+  "msg": "<term> link renders full-width -> slippage: ['Isurugi Heavy Industries']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls056.bin.json",
+  "key": "0x0073F2",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls056.bin.json",
+  "key": "0x00768C",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls056.bin.json",
+  "key": "0x007AA0",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls057.bin.json",
+  "key": "0x0028F2",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls057.bin.json",
+  "key": "0x002D60",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls057.bin.json",
+  "key": "0x002EC2",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls057.bin.json",
+  "key": "0x00315B",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls057.bin.json",
+  "key": "0x003231",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls057.bin.json",
+  "key": "0x0037BB",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls058.bin.json",
+  "key": "0x001B02",
+  "msg": "<term> link renders full-width -> slippage: [\"Inspectors'\"]"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls058.bin.json",
+  "key": "0x001C01",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls058.bin.json",
+  "key": "0x0021DD",
+  "msg": "<term> link renders full-width -> slippage: ['T-LINK System']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls058.bin.json",
+  "key": "0x002447",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls058.bin.json",
+  "key": "0x002E96",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls058.bin.json",
+  "key": "0x002FDA",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls058.bin.json",
+  "key": "0x0034ED",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls058.bin.json",
+  "key": "0x003AC6",
+  "msg": "<term> link renders full-width -> slippage: ['Einst']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls058.bin.json",
+  "key": "0x004EA3",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls058.bin.json",
+  "key": "0x005CBC",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls058.bin.json",
+  "key": "0x006F0C",
+  "msg": "<term> link renders full-width -> slippage: ['IFF']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls059.bin.json",
+  "key": "0x0025A5",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls059.bin.json",
+  "key": "0x002758",
+  "msg": "fullwidth ASCII ['Ｉ', 'Ｆ', 'Ｆ'] in en='「Eleve 1 to all units. Leave the Wildwur'"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls059.bin.json",
+  "key": "0x002812",
+  "msg": "<term> link renders full-width -> slippage: ['Shadow-Mirror']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls059.bin.json",
+  "key": "0x002812",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls060.bin.json",
+  "key": "0x001ABA",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls060.bin.json",
+  "key": "0x001C25",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls060.bin.json",
+  "key": "0x0024D4",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls060.bin.json",
+  "key": "0x002621",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls060.bin.json",
+  "key": "0x0027EF",
+  "msg": "<term> link renders full-width -> slippage: ['Mao Industries']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls060.bin.json",
+  "key": "0x002FC8",
+  "msg": "<term> link renders full-width -> slippage: ['IFF']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls060.bin.json",
+  "key": "0x006258",
+  "msg": "<term> link renders full-width -> slippage: ['Inspector incident']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls060.bin.json",
+  "key": "0x00655D",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls060.bin.json",
+  "key": "0x0068F5",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls060.bin.json",
+  "key": "0x006D5C",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls061.bin.json",
+  "key": "0x0019C9",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls061.bin.json",
+  "key": "0x00228F",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls061.bin.json",
+  "key": "0x002703",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls061.bin.json",
+  "key": "0x002859",
+  "msg": "<term> link renders full-width -> slippage: ['Shadow Mirror']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls061.bin.json",
+  "key": "0x002859",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls061.bin.json",
+  "key": "0x002A40",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls062.bin.json",
+  "key": "0x002069",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls062.bin.json",
+  "key": "0x002458",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls062.bin.json",
+  "key": "0x00815E",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls063.bin.json",
+  "key": "0x001B0C",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls063.bin.json",
+  "key": "0x001BBD",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls063.bin.json",
+  "key": "0x00239C",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls063.bin.json",
+  "key": "0x002468",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls063.bin.json",
+  "key": "0x00293B",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls063.bin.json",
+  "key": "0x002C1B",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls063.bin.json",
+  "key": "0x002E47",
+  "msg": "<term> link renders full-width -> slippage: ['EOTI@Agency']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls063.bin.json",
+  "key": "0x003068",
+  "msg": "<term> link renders full-width -> slippage: ['EOT']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls063.bin.json",
+  "key": "0x00316D",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls063.bin.json",
+  "key": "0x003A4F",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls063.bin.json",
+  "key": "0x003C78",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls063.bin.json",
+  "key": "0x003E5E",
+  "msg": "fullwidth ASCII ['Ｐ', 'Ｔ'] in en='「Well, I was originally training to be a'"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls063.bin.json",
+  "key": "0x003E5E",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls063.bin.json",
+  "key": "0x0045C4",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls063.bin.json",
+  "key": "0x004DBC",
+  "msg": "<term> link renders full-width -> slippage: ['Tronium']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls063.bin.json",
+  "key": "0x0050CF",
+  "msg": "<term> link renders full-width -> slippage: ['Tronium']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls063.bin.json",
+  "key": "0x005218",
+  "msg": "<term> link renders full-width -> slippage: ['Tronium', 'Meteor 3']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls063.bin.json",
+  "key": "0x005ACA",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls063.bin.json",
+  "key": "0x0081F6",
+  "msg": "<term> link renders full-width -> slippage: ['Shura Rebellion']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls063.bin.json",
+  "key": "0x008263",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls063.bin.json",
+  "key": "0x0091AC",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls064.bin.json",
+  "key": "0x0035AF",
+  "msg": "<term> link renders full-width -> slippage: ['Einst']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls064.bin.json",
+  "key": "0x003810",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls064.bin.json",
+  "key": "0x004131",
+  "msg": "<term> link renders full-width -> slippage: ['Chokijin']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls064.bin.json",
+  "key": "0x0049B4",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls064.bin.json",
+  "key": "0x004C0E",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls064.bin.json",
+  "key": "0x005300",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls064.bin.json",
+  "key": "0x0056E0",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls064.bin.json",
+  "key": "0x005B30",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls064.bin.json",
+  "key": "0x0065F4",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls064.bin.json",
+  "key": "0x0067C1",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls064.bin.json",
+  "key": "0x006B59",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls064.bin.json",
+  "key": "0x007253",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls064.bin.json",
+  "key": "0x008418",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls064.bin.json",
+  "key": "0x0089AB",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls064.bin.json",
+  "key": "0x008D44",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls064.bin.json",
+  "key": "0x008E42",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls064.bin.json",
+  "key": "0x009A25",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls064.bin.json",
+  "key": "0x009EF5",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls064.bin.json",
+  "key": "0x00A6C3",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls064.bin.json",
+  "key": "0x00BA4B",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls065.bin.json",
+  "key": "0x003607",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls065.bin.json",
+  "key": "0x003F93",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls065.bin.json",
+  "key": "0x006AA4",
+  "msg": "<term> link renders full-width -> slippage: ['Boosted Children']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls065.bin.json",
+  "key": "0x006F22",
+  "msg": "<term> link renders full-width -> slippage: ['RemCon']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls065.bin.json",
+  "key": "0x00707B",
+  "msg": "<term> link renders full-width -> slippage: ['Boosted Children']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls065.bin.json",
+  "key": "0x00713B",
+  "msg": "<term> link renders full-width -> slippage: ['Neue DC']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls065.bin.json",
+  "key": "0x00A9D8",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls066.bin.json",
+  "key": "0x0028AA",
+  "msg": "<term> link renders full-width -> slippage: ['La@Gias']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls066.bin.json",
+  "key": "0x0028AA",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls066.bin.json",
+  "key": "0x00391D",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls066.bin.json",
+  "key": "0x0044AE",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls066.bin.json",
+  "key": "0x004580",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls066.bin.json",
+  "key": "0x004815",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls066.bin.json",
+  "key": "0x004D48",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls066.bin.json",
+  "key": "0x004E0F",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls066.bin.json",
+  "key": "0x0067D0",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls066.bin.json",
+  "key": "0x007A42",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls066.bin.json",
+  "key": "0x008DCA",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls066.bin.json",
+  "key": "0x009A58",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls066.bin.json",
+  "key": "0x00A70A",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls067.bin.json",
+  "key": "0x0019E3",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls067.bin.json",
+  "key": "0x001E28",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls067.bin.json",
+  "key": "0x001F5D",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls067.bin.json",
+  "key": "0x002291",
+  "msg": "<term> link renders full-width -> slippage: ['Chokijin']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls067.bin.json",
+  "key": "0x002840",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls067.bin.json",
+  "key": "0x003D4C",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls067.bin.json",
+  "key": "0x003F3A",
+  "msg": "<term> link renders full-width -> slippage: ['AM']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls067.bin.json",
+  "key": "0x004DF3",
+  "msg": "<term> link renders full-width -> slippage: ['White Star']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls067.bin.json",
+  "key": "0x005C43",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls068.bin.json",
+  "key": "0x001B6B",
+  "msg": "<term> link renders full-width -> slippage: ['EOT Special Council']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls068.bin.json",
+  "key": "0x001C3A",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls068.bin.json",
+  "key": "0x003BC9",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls068.bin.json",
+  "key": "0x003D26",
+  "msg": "<term> link renders full-width -> slippage: ['DC War']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls068.bin.json",
+  "key": "0x0041B9",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls068.bin.json",
+  "key": "0x004605",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls068.bin.json",
+  "key": "0x005A3A",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls068.bin.json",
+  "key": "0x005B06",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls068.bin.json",
+  "key": "0x005CB2",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls068.bin.json",
+  "key": "0x0065DE",
+  "msg": "<term> link renders full-width -> slippage: ['EOT', 'Meteor 3']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls068.bin.json",
+  "key": "0x00683C",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls068.bin.json",
+  "key": "0x00692D",
+  "msg": "<term> link renders full-width -> slippage: ['DC War', 'Aerogaters']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls068.bin.json",
+  "key": "0x00692D",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls068.bin.json",
+  "key": "0x006B8D",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls068.bin.json",
+  "key": "0x006CAF",
+  "msg": "<term> link renders full-width -> slippage: ['Antarctic Incident']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls068.bin.json",
+  "key": "0x006E23",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls068.bin.json",
+  "key": "0x007042",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls068.bin.json",
+  "key": "0x007173",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls068.bin.json",
+  "key": "0x0073EA",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls068.bin.json",
+  "key": "0x00A86C",
+  "msg": "<term> link renders full-width -> slippage: ['Tronium']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls068.bin.json",
+  "key": "0x00C149",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls068.bin.json",
+  "key": "0x00C864",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls068.bin.json",
+  "key": "0x00D299",
+  "msg": "<term> link renders full-width -> slippage: ['DC War']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls068.bin.json",
+  "key": "0x00E498",
+  "msg": "<term> link renders full-width -> slippage: ['Tronium']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls069.bin.json",
+  "key": "0x0023D2",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls069.bin.json",
+  "key": "0x00273A",
+  "msg": "<term> link renders full-width -> slippage: ['Earth Cradle']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls069.bin.json",
+  "key": "0x00308D",
+  "msg": "<term> link renders full-width -> slippage: ['DC']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls069.bin.json",
+  "key": "0x003106",
+  "msg": "<term> link renders full-width -> slippage: ['DC War']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls069.bin.json",
+  "key": "0x0036C0",
+  "msg": "<term> link renders full-width -> slippage: ['Tronium']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls069.bin.json",
+  "key": "0x0048BE",
+  "msg": "<term> link renders full-width -> slippage: ['T-LINK System', 'Tronium']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls069.bin.json",
+  "key": "0x0049E7",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls069.bin.json",
+  "key": "0x004BAD",
+  "msg": "<term> link renders full-width -> slippage: ['Tronium']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls069.bin.json",
+  "key": "0x0078BA",
+  "msg": "<term> link renders full-width -> slippage: ['Telekinesis Alpha Pulse']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls069.bin.json",
+  "key": "0x0083B7",
+  "msg": "<term> link renders full-width -> slippage: ['Geim System']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls069.bin.json",
+  "key": "0x009E0D",
+  "msg": "<term> link renders full-width -> slippage: ['Boosted Child']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls069.bin.json",
+  "key": "0x009F8B",
+  "msg": "<term> link renders full-width -> slippage: ['White Star']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls069.bin.json",
+  "key": "0x00A09D",
+  "msg": "<term> link renders full-width -> slippage: ['Aerogater']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls069.bin.json",
+  "key": "0x00A33C",
+  "msg": "<term> link renders full-width -> slippage: ['Tronium']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls069.bin.json",
+  "key": "0x00A6F0",
+  "msg": "<term> link renders full-width -> slippage: ['Aerogaters', 'EOT']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls070.bin.json",
+  "key": "0x0021B4",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls070.bin.json",
+  "key": "0x002C30",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls070.bin.json",
+  "key": "0x00647B",
+  "msg": "<term> link renders full-width -> slippage: ['Custom']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls071.bin.json",
+  "key": "0x002CDD",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls071.bin.json",
+  "key": "0x003A66",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls071.bin.json",
+  "key": "0x0040E9",
+  "msg": "fullwidth ASCII ['Ｍ', 'Ａ', 'Ｐ', 'Ｗ'] in en='「Hmph... If we could just use the <ＭＡＰＷ>'"
+ },
+ {
+  "rule": "R7",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls071.bin.json",
+  "key": "0x0047F6",
+  "msg": "fullwidth ASCII ['Ａ', 'Ｍ'] in en=\"「I've got experience in <ＡＭ> battling! A\""
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls071.bin.json",
+  "key": "0x00655E",
+  "msg": "<term> link renders full-width -> slippage: ['Game System']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls071.bin.json",
+  "key": "0x0075D2",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls072.bin.json",
+  "key": "0x0029DF",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls072.bin.json",
+  "key": "0x003826",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls072.bin.json",
+  "key": "0x003C92",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls072.bin.json",
+  "key": "0x003F53",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls072.bin.json",
+  "key": "0x00418D",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls072.bin.json",
+  "key": "0x005916",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls072.bin.json",
+  "key": "0x0059CD",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls073.bin.json",
+  "key": "0x001CDA",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls073.bin.json",
+  "key": "0x00445E",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls073.bin.json",
+  "key": "0x004D3B",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls073.bin.json",
+  "key": "0x005673",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls073.bin.json",
+  "key": "0x00579B",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls073.bin.json",
+  "key": "0x00621E",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls073.bin.json",
+  "key": "0x00662B",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls073.bin.json",
+  "key": "0x00792D",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls073.bin.json",
+  "key": "0x007E0A",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls073.bin.json",
+  "key": "0x007F0A",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls074.bin.json",
+  "key": "0x001B51",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls074.bin.json",
+  "key": "0x002098",
+  "msg": "<term> link renders full-width -> slippage: ['Einst']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls074.bin.json",
+  "key": "0x0043D1",
+  "msg": "<term> link renders full-width -> slippage: ['Einst']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls074.bin.json",
+  "key": "0x0051B7",
+  "msg": "<term> link renders full-width -> slippage: ['Machine Cells', 'Einst']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls074.bin.json",
+  "key": "0x0055DF",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls074.bin.json",
+  "key": "0x006C25",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls074.bin.json",
+  "key": "0x007CB5",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls076.bin.json",
+  "key": "0x00264C",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls076.bin.json",
+  "key": "0x004610",
+  "msg": "<term> link renders full-width -> slippage: ['Neue@DC']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls077.bin.json",
+  "key": "0x001AC1",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls077.bin.json",
+  "key": "0x0020B3",
+  "msg": "<term> link renders full-width -> slippage: ['Earth@Federation Army']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls077.bin.json",
+  "key": "0x0020B3",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls077.bin.json",
+  "key": "0x0021F7",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls077.bin.json",
+  "key": "0x0022E5",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls077.bin.json",
+  "key": "0x0027EF",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls077.bin.json",
+  "key": "0x0029FE",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls077.bin.json",
+  "key": "0x00530F",
+  "msg": "<term> link renders full-width -> slippage: ['Gaim System']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls077.bin.json",
+  "key": "0x00637D",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls077.bin.json",
+  "key": "0x006FBF",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls077.bin.json",
+  "key": "0x0071EA",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls078.bin.json",
+  "key": "0x001C0E",
+  "msg": "reflows to 5 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls078.bin.json",
+  "key": "0x0030A6",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls078.bin.json",
+  "key": "0x003211",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls078.bin.json",
+  "key": "0x003CCD",
+  "msg": "<term> link renders full-width -> slippage: ['Boosted Children']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls078.bin.json",
+  "key": "0x004F94",
+  "msg": "<term> link renders full-width -> slippage: ['School']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls079.bin.json",
+  "key": "0x001B68",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls079.bin.json",
+  "key": "0x001DE1",
+  "msg": "<term> link renders full-width -> slippage: ['EOT']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls079.bin.json",
+  "key": "0x0026C7",
+  "msg": "<term> link renders full-width -> slippage: ['Game System']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls079.bin.json",
+  "key": "0x005F01",
+  "msg": "<term> link renders full-width -> slippage: ['Machine Cell']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls079.bin.json",
+  "key": "0x0066B5",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls079.bin.json",
+  "key": "0x008A1A",
+  "msg": "<term> link renders full-width -> slippage: ['School']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls080.bin.json",
+  "key": "0x0020F0",
+  "msg": "reflows to 5 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls080.bin.json",
+  "key": "0x002D58",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls080.bin.json",
+  "key": "0x002E00",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls080.bin.json",
+  "key": "0x003215",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls082.bin.json",
+  "key": "0x0028F5",
+  "msg": "<term> link renders full-width -> slippage: ['White Star', 'Einst']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls082.bin.json",
+  "key": "0x0029B1",
+  "msg": "<term> link renders full-width -> slippage: ['Inspector', 'White Star']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls082.bin.json",
+  "key": "0x003072",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls083.bin.json",
+  "key": "0x003521",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls083.bin.json",
+  "key": "0x003F8B",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls083.bin.json",
+  "key": "0x00431C",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls083.bin.json",
+  "key": "0x004450",
+  "msg": "<term> link renders full-width -> slippage: ['Einst']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls083.bin.json",
+  "key": "0x0044DE",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls083.bin.json",
+  "key": "0x004F51",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls083.bin.json",
+  "key": "0x00528F",
+  "msg": "<term> link renders full-width -> slippage: ['Antarctic Incident']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls083.bin.json",
+  "key": "0x00528F",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls084.bin.json",
+  "key": "0x002699",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls084.bin.json",
+  "key": "0x002CF0",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls084.bin.json",
+  "key": "0x004356",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls084.bin.json",
+  "key": "0x006A01",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls084.bin.json",
+  "key": "0x007983",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls084.bin.json",
+  "key": "0x008280",
+  "msg": "<term> link renders full-width -> slippage: ['Tesla@Drive']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls084.bin.json",
+  "key": "0x008280",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls084.bin.json",
+  "key": "0x008514",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls084.bin.json",
+  "key": "0x0085F0",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls084.bin.json",
+  "key": "0x008923",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls084.bin.json",
+  "key": "0x008A67",
+  "msg": "<term> link renders full-width -> slippage: ['Distortion Field']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls084.bin.json",
+  "key": "0x008B11",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls085.bin.json",
+  "key": "0x001D51",
+  "msg": "<term> link renders full-width -> slippage: ['Inspectors']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls085.bin.json",
+  "key": "0x001F4B",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls085.bin.json",
+  "key": "0x0023C8",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls085.bin.json",
+  "key": "0x0027AC",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls085.bin.json",
+  "key": "0x002B70",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls085.bin.json",
+  "key": "0x005A06",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls085.bin.json",
+  "key": "0x006138",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls086.bin.json",
+  "key": "0x001C40",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls086.bin.json",
+  "key": "0x001D09",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls086.bin.json",
+  "key": "0x002C73",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls086.bin.json",
+  "key": "0x005187",
+  "msg": "reflows to 5 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls086.bin.json",
+  "key": "0x0057CC",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls086.bin.json",
+  "key": "0x006AC9",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls086.bin.json",
+  "key": "0x006CDC",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls086.bin.json",
+  "key": "0x008223",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls086.bin.json",
+  "key": "0x008674",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls086.bin.json",
+  "key": "0x008872",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls086.bin.json",
+  "key": "0x0092D9",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls086.bin.json",
+  "key": "0x0094D4",
+  "msg": "<term> link renders full-width -> slippage: ['T-LINK@system']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls086.bin.json",
+  "key": "0x009563",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls086.bin.json",
+  "key": "0x009B43",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls086.bin.json",
+  "key": "0x00B0C7",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls086.bin.json",
+  "key": "0x00BEFF",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls086.bin.json",
+  "key": "0x00DEEC",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls086.bin.json",
+  "key": "0x00E21F",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls086.bin.json",
+  "key": "0x00E2D6",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls087.bin.json",
+  "key": "0x0025AF",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls087.bin.json",
+  "key": "0x0030C1",
+  "msg": "<term> link renders full-width -> slippage: ['T-LINK System']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls087.bin.json",
+  "key": "0x00320D",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls087.bin.json",
+  "key": "0x0052A7",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls087.bin.json",
+  "key": "0x0078A8",
+  "msg": "<term> link renders full-width -> slippage: ['Choukijin']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls087.bin.json",
+  "key": "0x007996",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls087.bin.json",
+  "key": "0x007A2F",
+  "msg": "<term> link renders full-width -> slippage: ['Choukijin']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls087.bin.json",
+  "key": "0x00819B",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls087.bin.json",
+  "key": "0x00825B",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls087.bin.json",
+  "key": "0x008760",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls087.bin.json",
+  "key": "0x008D08",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls087.bin.json",
+  "key": "0x008E24",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls087.bin.json",
+  "key": "0x008EE4",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls087.bin.json",
+  "key": "0x0091B0",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls087.bin.json",
+  "key": "0x0098BC",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls087.bin.json",
+  "key": "0x00AA39",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls087.bin.json",
+  "key": "0x00BEAA",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls088.bin.json",
+  "key": "0x0026F6",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls088.bin.json",
+  "key": "0x0029B5",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls088.bin.json",
+  "key": "0x003310",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls088.bin.json",
+  "key": "0x0044E8",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls088.bin.json",
+  "key": "0x00629E",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls088.bin.json",
+  "key": "0x006487",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls088.bin.json",
+  "key": "0x006F12",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls088.bin.json",
+  "key": "0x008088",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls088.bin.json",
+  "key": "0x00856E",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls088.bin.json",
+  "key": "0x008B4E",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls088.bin.json",
+  "key": "0x00B5EE",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls088.bin.json",
+  "key": "0x00DAB7",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls089.bin.json",
+  "key": "0x002D62",
+  "msg": "<term> link renders full-width -> slippage: ['Meteor 3']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls089.bin.json",
+  "key": "0x003189",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls089.bin.json",
+  "key": "0x0038E3",
+  "msg": "<term> link renders full-width -> slippage: ['White@Star']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls089.bin.json",
+  "key": "0x0039B8",
+  "msg": "<term> link renders full-width -> slippage: ['Aerogaters']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls089.bin.json",
+  "key": "0x003E65",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls089.bin.json",
+  "key": "0x0042B0",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls089.bin.json",
+  "key": "0x00531A",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls089.bin.json",
+  "key": "0x00546B",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls089.bin.json",
+  "key": "0x00888C",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls089.bin.json",
+  "key": "0x00AFA6",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls089.bin.json",
+  "key": "0x00BF2B",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls089.bin.json",
+  "key": "0x00C0BB",
+  "msg": "<term> link renders full-width -> slippage: ['Aerogater']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls089.bin.json",
+  "key": "0x00C1B4",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls089.bin.json",
+  "key": "0x00C4DB",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls089.bin.json",
+  "key": "0x00CA0D",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls089.bin.json",
+  "key": "0x00D190",
+  "msg": "<term> link renders full-width -> slippage: ['Meteor 3']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls089.bin.json",
+  "key": "0x00D247",
+  "msg": "<term> link renders full-width -> slippage: ['Tronium', 'EOT']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls089.bin.json",
+  "key": "0x00D92E",
+  "msg": "<term> link renders full-width -> slippage: ['T-LINK System']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls089.bin.json",
+  "key": "0x00D96D",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls089.bin.json",
+  "key": "0x00E925",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls089.bin.json",
+  "key": "0x00E9DC",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls089.bin.json",
+  "key": "0x00EF53",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls089.bin.json",
+  "key": "0x00F302",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls089.bin.json",
+  "key": "0x00FB96",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls090.bin.json",
+  "key": "0x00210F",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls090.bin.json",
+  "key": "0x002D7F",
+  "msg": "reflows to 5 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls090.bin.json",
+  "key": "0x002EAD",
+  "msg": "<term> link renders full-width -> slippage: ['Tesla Drive']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls090.bin.json",
+  "key": "0x00505B",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls090.bin.json",
+  "key": "0x005856",
+  "msg": "<term> link renders full-width -> slippage: ['T-LINK System']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls090.bin.json",
+  "key": "0x005BB7",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls091.bin.json",
+  "key": "0x00544F",
+  "msg": "<term> link renders full-width -> slippage: ['TC-OS']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls091.bin.json",
+  "key": "0x005758",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls091.bin.json",
+  "key": "0x00699B",
+  "msg": "<term> link renders full-width -> slippage: ['Machine@Cell']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls091.bin.json",
+  "key": "0x0085A6",
+  "msg": "<term> link renders full-width -> slippage: ['Project TD']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls092.bin.json",
+  "key": "0x002CB2",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls092.bin.json",
+  "key": "0x002E42",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls092.bin.json",
+  "key": "0x0035C4",
+  "msg": "<term> link renders full-width -> slippage: ['DC', 'Project TD']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls092.bin.json",
+  "key": "0x0075F8",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls092.bin.json",
+  "key": "0x007A5A",
+  "msg": "<term> link renders full-width -> slippage: ['Project TD']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls093.bin.json",
+  "key": "0x001B2B",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls095.bin.json",
+  "key": "0x001E5E",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls095.bin.json",
+  "key": "0x004A5D",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls095.bin.json",
+  "key": "0x005925",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls096.bin.json",
+  "key": "0x001B29",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls096.bin.json",
+  "key": "0x001BEF",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls096.bin.json",
+  "key": "0x0023DA",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls096.bin.json",
+  "key": "0x0028F3",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls097.bin.json",
+  "key": "0x00768C",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls098.bin.json",
+  "key": "0x002624",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls098.bin.json",
+  "key": "0x003284",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls098.bin.json",
+  "key": "0x0058A9",
+  "msg": "<term> link renders full-width -> slippage: ['Machine God']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls098.bin.json",
+  "key": "0x005997",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls098.bin.json",
+  "key": "0x005A30",
+  "msg": "<term> link renders full-width -> slippage: ['Machine Gods']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls098.bin.json",
+  "key": "0x00619C",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls098.bin.json",
+  "key": "0x00625C",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls098.bin.json",
+  "key": "0x009EEE",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls099.bin.json",
+  "key": "0x002000",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls200.bin.json",
+  "key": "0x00286E",
+  "msg": "<term> link renders full-width -> slippage: ['The Inspector Incident']"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls200.bin.json",
+  "key": "0x0028E1",
+  "msg": "<term> link renders full-width -> slippage: ['The Inspector Incident']"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls200.bin.json",
+  "key": "0x0078AA",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls800.bin.json",
+  "key": "0x001171",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R12",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls800.bin.json",
+  "key": "0x00185C",
+  "msg": "reflows to 4 lines (box truncates)"
+ },
+ {
+  "rule": "R6",
+  "sev": "WARN",
+  "file": "Logic/Dat/logic/talk/ls999.bin.json",
+  "key": "0x001905",
+  "msg": "<term> link renders full-width -> slippage: ['Thrust', 'OS']"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "\u0016指揮効果＋５％",
+  "msg": "same JP term '\\x16指揮効果＋５％' -> 2 EN spellings: {'\\x16Command effect +5%': 2, '\\x16Command Effect +5%': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "▼移動力",
+  "msg": "same JP term '▼移動力' -> 2 EN spellings: {'?Mobility': 1, '?Movement': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "す。",
+  "msg": "same JP term 'す。' -> 2 EN spellings: {'es.': 1, 'nan.': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "てかげん",
+  "msg": "same JP term 'てかげん' -> 2 EN spellings: {'Hold Back': 2, 'Mercy': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "サイフラッシュ",
+  "msg": "same JP term 'サイフラッシュ' -> 2 EN spellings: {'Psi Flash': 1, 'Psy Flash': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "ナグツァート",
+  "msg": "same JP term 'ナグツァート' -> 2 EN spellings: {'Nagizzard': 1, 'Nagtsaht': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "パ",
+  "msg": "same JP term 'パ' -> 2 EN spellings: {'P': 1, 'Pa': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "パイロット変更",
+  "msg": "same JP term 'パイロット変更' -> 2 EN spellings: {'Change Pilot': 1, 'Chg Pilot': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "マップ兵器",
+  "msg": "same JP term 'マップ兵器' -> 2 EN spellings: {'Map Weapon': 1, 'MAP Weapon': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "ロボットブロック",
+  "msg": "same JP term 'ロボットブロック' -> 2 EN spellings: {'Robot block': 1, 'Robot Block': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "上昇させます。",
+  "msg": "same JP term '上昇させます。' -> 3 EN spellings: {'and raises them.': 5, 'deployed.': 2, 'by 20.': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "休息の時",
+  "msg": "same JP term '休息の時' -> 2 EN spellings: {'Time to Rest': 1, 'A Time of Rest': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "修理装置",
+  "msg": "same JP term '修理装置' -> 2 EN spellings: {'Repair Unit': 2, 'Repair Kit': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "個別攻撃",
+  "msg": "same JP term '個別攻撃' -> 2 EN spellings: {'Solo Attack': 3, 'Individual': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "分離",
+  "msg": "same JP term '分離' -> 2 EN spellings: {'Detach': 3, 'Split': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "分類",
+  "msg": "same JP term '分類' -> 2 EN spellings: {'Type': 2, 'Class': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "切換",
+  "msg": "same JP term '切換' -> 2 EN spellings: {'Swap': 1, 'Toggle': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "包囲攻撃",
+  "msg": "same JP term '包囲攻撃' -> 2 EN spellings: {'Encircle': 3, 'Siege Atk': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "反撃時に与える、",
+  "msg": "same JP term '反撃時に与える、' -> 2 EN spellings: {'Damage dealt on counter,': 1, 'Final damage dealt on': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "反撃設定",
+  "msg": "same JP term '反撃設定' -> 2 EN spellings: {'Counter Set': 1, 'Counter': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "古の忌憶",
+  "msg": "same JP term '古の忌憶' -> 2 EN spellings: {'Ancient Memory of Dread': 1, 'Ancient Cursed Memory': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "合体",
+  "msg": "same JP term '合体' -> 2 EN spellings: {'Fuse': 4, 'Combo': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "合流",
+  "msg": "same JP term '合流' -> 2 EN spellings: {'Join': 2, 'Merge': 2}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "味方用",
+  "msg": "same JP term '味方用' -> 2 EN spellings: {'Ally use': 1, 'Ally': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "回避",
+  "msg": "same JP term '回避' -> 2 EN spellings: {'Eva': 19, 'Evade': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "地中",
+  "msg": "same JP term '地中' -> 2 EN spellings: {'Buried': 2, 'Sub': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "変形",
+  "msg": "same JP term '変形' -> 2 EN spellings: {'Morph': 7, 'Transform': 3}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "大",
+  "msg": "same JP term '大' -> 2 EN spellings: {'Lg': 11, 'L': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "実戦",
+  "msg": "same JP term '実戦' -> 2 EN spellings: {'Real Battle': 1, 'Combat': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "射撃武器",
+  "msg": "same JP term '射撃武器' -> 2 EN spellings: {'Ranged Weapon': 1, 'Ranged Wpn': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "念動フィールド",
+  "msg": "same JP term '念動フィールド' -> 2 EN spellings: {'T-Link Field': 1, 'Psycho Field': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "念動フィールドＳ",
+  "msg": "same JP term '念動フィールドＳ' -> 2 EN spellings: {'T-Link Field S': 1, 'Psycho Field S': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "戦闘開始",
+  "msg": "same JP term '戦闘開始' -> 2 EN spellings: {'Battle Start': 1, 'Start Battle': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "換装",
+  "msg": "same JP term '換装' -> 2 EN spellings: {'Swap': 3, 'Refit': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "援護攻撃",
+  "msg": "same JP term '援護攻撃' -> 2 EN spellings: {'Support Atk': 20, 'Support Attack': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "援護防御",
+  "msg": "same JP term '援護防御' -> 2 EN spellings: {'Support Def': 19, 'Support Defense': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "敵用",
+  "msg": "same JP term '敵用' -> 2 EN spellings: {'For Enemy': 1, 'Enemy use': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "昇順ソート",
+  "msg": "same JP term '昇順ソート' -> 2 EN spellings: {'Sort Ascending': 24, 'Sort Asc.': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "最終回避率＋５％",
+  "msg": "same JP term '最終回避率＋５％' -> 2 EN spellings: {'Final Evasion +5%': 2, 'Final evasion +5%': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "期待",
+  "msg": "same JP term '期待' -> 2 EN spellings: {'Expect': 1, 'Trust': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "機体・武器改造",
+  "msg": "same JP term '機体・武器改造' -> 2 EN spellings: {'Unit/Weapon Upgrade': 2, 'Unit/Wpn Mod': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "機体変更",
+  "msg": "same JP term '機体変更' -> 2 EN spellings: {'Change Unit': 1, 'Chg Unit': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "気合",
+  "msg": "same JP term '気合' -> 2 EN spellings: {'Spirit': 1, 'Vigor': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "気迫",
+  "msg": "same JP term '気迫' -> 2 EN spellings: {'Spirit': 3, 'Drive': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "海",
+  "msg": "same JP term '海' -> 2 EN spellings: {'Se': 27, 'Sea': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "無効",
+  "msg": "same JP term '無効' -> 2 EN spellings: {'Void': 2, 'Null': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "獲得",
+  "msg": "same JP term '獲得' -> 2 EN spellings: {'Gained': 2, 'Gain': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "移動力￢",
+  "msg": "same JP term '移動力￢' -> 2 EN spellings: {'Movement?': 6, 'Move?': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "空",
+  "msg": "same JP term '空' -> 2 EN spellings: {'Sk': 49, 'Sky': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "精神",
+  "msg": "same JP term '精神' -> 2 EN spellings: {'Spirit': 7, 'Will': 3}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "精神コマンド",
+  "msg": "same JP term '精神コマンド' -> 2 EN spellings: {'Spirit Command': 27, 'Spirit Cmd': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "能力",
+  "msg": "same JP term '能力' -> 3 EN spellings: {'Stats': 14, 'Skill': 3, 'Abil': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "虎王機",
+  "msg": "same JP term '虎王機' -> 2 EN spellings: {'Tiger King Unit': 1, 'KoOhKi': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "補給",
+  "msg": "same JP term '補給' -> 2 EN spellings: {'Supply': 23, 'Resupply': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "補給装置",
+  "msg": "same JP term '補給装置' -> 3 EN spellings: {'Supply Unit': 1, 'Supply Kit': 1, 'Resupply Unit': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "通常攻撃",
+  "msg": "same JP term '通常攻撃' -> 2 EN spellings: {'Normal Attack': 2, 'Attack': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "連続攻撃",
+  "msg": "same JP term '連続攻撃' -> 2 EN spellings: {'Combo Attack': 6, 'Multi-Action': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "陸",
+  "msg": "same JP term '陸' -> 2 EN spellings: {'Ln': 33, 'Land': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "隊",
+  "msg": "same JP term '隊' -> 2 EN spellings: {'Sqd': 2, 'Sq': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "雀王機",
+  "msg": "same JP term '雀王機' -> 2 EN spellings: {'JakuOhKi Unit': 1, 'JakuOhKi': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "集中攻撃",
+  "msg": "same JP term '集中攻撃' -> 2 EN spellings: {'Focus Attack': 2, 'Focus Fire': 2}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "頁頭へ",
+  "msg": "same JP term '頁頭へ' -> 2 EN spellings: {'Page Top': 31, 'To Top': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "高くなります。",
+  "msg": "same JP term '高くなります。' -> 2 EN spellings: {'becomes higher.': 1, 'window.': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "魂",
+  "msg": "same JP term '魂' -> 2 EN spellings: {'So': 1, 'Soul': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "龍王機",
+  "msg": "same JP term '龍王機' -> 2 EN spellings: {'Dragon King Unit': 1, 'RyuOhKi': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "（単）分離",
+  "msg": "same JP term '（単）分離' -> 2 EN spellings: {'(1) Split': 1, '(Single) Separate': 1}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "ＥＮ回復",
+  "msg": "same JP term 'ＥＮ回復' -> 2 EN spellings: {'EN Recovery': 8, 'EN Regen': 2}"
+ },
+ {
+  "rule": "R11",
+  "sev": "INFO",
+  "file": "(cross-container)",
+  "key": "ＨＰ回復",
+  "msg": "same JP term 'ＨＰ回復' -> 2 EN spellings: {'HP Regen': 2, 'HP Recovery': 1}"
+ }
+]

@@ -1,0 +1,432 @@
+{
+ "0x000712": {
+  "jp": "－－－－－－",
+  "en": "------",
+  "slot": 18
+ },
+ "0x000732": {
+  "jp": "？？？？？？",
+  "en": "??????",
+  "slot": 18
+ },
+ "0x00074B": {
+  "jp": "念動力",
+  "en": "Psychodriver",
+  "slot": 9
+ },
+ "0x00075B": {
+  "jp": "スキルレベルが高くなるほど、戦闘での命中率・回避率が上昇します。",
+  "en": "The higher the skill level, the more your hit and evade rates rise in battle.",
+  "slot": 96
+ },
+ "0x0007C2": {
+  "jp": "ラッキー",
+  "en": "Lucky",
+  "slot": 12
+ },
+ "0x000879": {
+  "jp": "発動確率が上昇します。",
+  "en": "Raises the activation rate.",
+  "slot": 33
+ },
+ "0x0008A1": {
+  "jp": "底力",
+  "en": "Guts",
+  "slot": 6
+ },
+ "0x000946": {
+  "jp": "上昇します。",
+  "en": "they rise.",
+  "slot": 18
+ },
+ "0x00095F": {
+  "jp": "援護攻撃",
+  "en": "Support Attack",
+  "slot": 12
+ },
+ "0x000972": {
+  "jp": "隣接する味方機体の援護攻撃に入ります。スキルレベルが高くなるほど援護可能回数が上昇します。",
+  "en": "Joins the support attack of an adjacent ally. The higher the skill level, the more times you can support.",
+  "slot": 135
+ },
+ "0x000A00": {
+  "jp": "援護防御",
+  "en": "Support Defense",
+  "slot": 12
+ },
+ "0x000A13": {
+  "jp": "隣接する味方機体の援護防御に入ります。スキルレベルが高くなるほど援護可能回数が上昇します。",
+  "en": "Joins the support defense of an adjacent ally. The higher the skill level, the more times you can support.",
+  "slot": 135
+ },
+ "0x000AA1": {
+  "jp": "カウンター",
+  "en": "Counter",
+  "slot": 15
+ },
+ "0x000AB7": {
+  "jp": "発動時、敵からの攻撃前に反撃を行うことができます。スキルレベルが高くなるほど発動確率が上昇します。",
+  "en": "When it activates, you can strike before the enemy attacks. The higher the skill level, the higher the activation rate.",
+  "slot": 147
+ },
+ "0x000B51": {
+  "jp": "インファイト",
+  "en": "Infight",
+  "slot": 18
+ },
+ "0x000B6A": {
+  "jp": "スキルレベルが高くなるほど搭乗機体の移動力とマップ兵器以外の、格闘武器の攻撃力が上昇します。",
+  "en": "The higher the skill level, the more the unit's movement and melee weapon power (except MAP weapons) rise.",
+  "slot": 138
+ },
+ "0x000BFB": {
+  "jp": "ガンファイト",
+  "en": "Gunfight",
+  "slot": 18
+ },
+ "0x000C14": {
+  "jp": "スキルレベルが高くなるほど搭乗機体のマップ兵器以外の、射撃武器の攻撃力と射程が上昇します。",
+  "en": "The higher the skill level, the more the unit's ranged weapon power and range (except MAP weapons) rise.",
+  "slot": 135
+ },
+ "0x000CA2": {
+  "jp": "ＳＰアップ",
+  "en": "SP Up",
+  "slot": 15
+ },
+ "0x000CB8": {
+  "jp": "スキルレベルが高くなるほど最大精神ポイントが上昇します。",
+  "en": "The higher the skill level, the more your maximum SP rises.",
+  "slot": 84
+ },
+ "0x000D13": {
+  "jp": "指揮官",
+  "en": "Commander",
+  "slot": 9
+ },
+ "0x000D23": {
+  "jp": "スキルレベルが高くなるほど自機の指揮範囲内に存在する味方機体の命中率・回避率を上昇させます。",
+  "en": "The higher the skill level, the more it raises the hit and evade rates of allies within your command range.",
+  "slot": 138
+ },
+ "0x000DB4": {
+  "jp": "連続攻撃",
+  "en": "Multi-Action",
+  "slot": 12
+ },
+ "0x000E59": {
+  "jp": "連続攻撃Ｌｖの「レベル数」＋１＝「攻撃可能な機体数」になります。",
+  "en": "Multi-Action Lv \"level\" + 1 = \"number of units you can attack.\"",
+  "slot": 96
+ },
+ "0x000EC0": {
+  "jp": "ＳＰ回復",
+  "en": "SP Regen",
+  "slot": 12
+ },
+ "0x000ED3": {
+  "jp": "自軍フェイズ開始時に、ＳＰが１０だけ回復します。",
+  "en": "At the start of your army phase, SP recovers by 10.",
+  "slot": 72
+ },
+ "0x000F22": {
+  "jp": "集中力",
+  "en": "Concentration",
+  "slot": 9
+ },
+ "0x000F32": {
+  "jp": "精神コマンド・ツイン精神コマンド使用時の消費ポイントが８０％になります。",
+  "en": "SP cost for spirit and twin spirit commands is reduced to 80%.",
+  "slot": 108
+ },
+ "0x000FA5": {
+  "jp": "ヒット＆アウェイ",
+  "en": "Hit & Away",
+  "slot": 24
+ },
+ "0x000FC4": {
+  "jp": "移動せずに攻撃した場合、その後に移動ができます。",
+  "en": "Allows movement after attacking without having moved first.",
+  "slot": 72
+ },
+ "0x001013": {
+  "jp": "天才",
+  "en": "Genius",
+  "slot": 6
+ },
+ "0x001020": {
+  "jp": "命中率・回避率・クリティカル発生率が２０だけ上昇します。",
+  "en": "Raises hit rate, evade rate and critical rate by 20.",
+  "slot": 84
+ },
+ "0x00107B": {
+  "jp": "アタッカー",
+  "en": "Attacker",
+  "slot": 15
+ },
+ "0x001091": {
+  "jp": "気力が１３０以上の場合、ダメージが１．２倍になります。",
+  "en": "At 130+ will, damage dealt is multiplied by 1.2.",
+  "slot": 81
+ },
+ "0x0010E9": {
+  "jp": "リベンジ",
+  "en": "Revenge",
+  "slot": 12
+ },
+ "0x0010FC": {
+  "jp": "反撃時の与えるダメージが１．２倍になります。",
+  "en": "Damage dealt on counterattack is multiplied by 1.2.",
+  "slot": 66
+ },
+ "0x001145": {
+  "jp": "予知",
+  "en": "Prescience",
+  "slot": 6
+ },
+ "0x001152": {
+  "jp": "気力が１３０以上の場合、敵対勢力のフェイズのみ、最終的な回避率が３０だけ上昇します。",
+  "en": "At 130+ will, final evade rate rises by 30 during the enemy phase only.",
+  "slot": 126
+ },
+ "0x0011D7": {
+  "jp": "強運",
+  "en": "Fortune",
+  "slot": 6
+ },
+ "0x00127C": {
+  "jp": "２倍までです。",
+  "en": "Up to 2x.",
+  "slot": 21
+ },
+ "0x001298": {
+  "jp": "見切り",
+  "en": "Insight",
+  "slot": 9
+ },
+ "0x0012A8": {
+  "jp": "気力が１３０以上の場合、命中率・回避率が１０だけ上昇します。",
+  "en": "At 130+ will, hit rate and evade rate rise by 10.",
+  "slot": 90
+ },
+ "0x001309": {
+  "jp": "Ｅセーブ",
+  "en": "E Save",
+  "slot": 12
+ },
+ "0x00131C": {
+  "jp": "武器の消費ＥＮが通常の７０％になります。",
+  "en": "Weapon EN cost is reduced to 70% of normal.",
+  "slot": 60
+ },
+ "0x00135F": {
+  "jp": "Ｂセーブ",
+  "en": "B Save",
+  "slot": 12
+ },
+ "0x001372": {
+  "jp": "武器の最大弾数が通常の１．５倍になります。",
+  "en": "Weapon max ammo is 1.5x normal.",
+  "slot": 63
+ },
+ "0x0013B8": {
+  "jp": "ラーニング",
+  "en": "Learning",
+  "slot": 15
+ },
+ "0x0013CE": {
+  "jp": "サブ機体での戦闘時、メイン機体と同様の経験値・ＰＰを獲得できます。",
+  "en": "When fighting in a sub unit, gain the same EXP and PP as the main unit.",
+  "slot": 99
+ },
+ "0x001438": {
+  "jp": "闘争心",
+  "en": "Fighting Spirit",
+  "slot": 9
+ },
+ "0x001448": {
+  "jp": "出撃時の気力が５だけ上昇します。",
+  "en": "Will at sortie is raised by 5.",
+  "slot": 48
+ },
+ "0x00147F": {
+  "jp": "戦意高揚",
+  "en": "Morale Boost",
+  "slot": 12
+ },
+ "0x001492": {
+  "jp": "自軍フェイズ開始時に、気力が２上昇します。",
+  "en": "At the start of your phase, will rises by 2.",
+  "slot": 63
+ },
+ "0x0014D8": {
+  "jp": "気力＋（回避）",
+  "en": "Will+ (Evade)",
+  "slot": 21
+ },
+ "0x0014F4": {
+  "jp": "攻撃を回避した場合、気力が本来の増減に加えて更に１上昇します。",
+  "en": "When an attack is evaded, will rises by 1 above the normal change.",
+  "slot": 93
+ },
+ "0x001558": {
+  "jp": "気力＋（命中）",
+  "en": "Will+ (Hit)",
+  "slot": 21
+ },
+ "0x001574": {
+  "jp": "敵への攻撃が命中した場合、気力が本来の増減に加えて更に１上昇します。",
+  "en": "When an attack on an enemy hits, will rises by 1 above the normal change.",
+  "slot": 102
+ },
+ "0x0015E1": {
+  "jp": "気力＋（ダメージ）",
+  "en": "Will+ (Damage)",
+  "slot": 27
+ },
+ "0x001603": {
+  "jp": "攻撃でダメージを受けた場合、気力が本来の増減に加えて更に２上昇します。",
+  "en": "When damaged by an attack, will rises by 2 above the normal change.",
+  "slot": 105
+ },
+ "0x001673": {
+  "jp": "気力＋（撃破）",
+  "en": "Will+ (Kill)",
+  "slot": 21
+ },
+ "0x00168F": {
+  "jp": "敵が撃墜された場合、気力が本来の増減に加えて更に１上昇します。",
+  "en": "When an enemy is shot down, will rises by 1 above the normal change.",
+  "slot": 93
+ },
+ "0x0016F3": {
+  "jp": "連携攻撃",
+  "en": "Combo Attack",
+  "slot": 12
+ },
+ "0x001706": {
+  "jp": "援護攻撃での与えるダメージを１００％にします。",
+  "en": "Damage dealt by support attacks becomes 100%.",
+  "slot": 69
+ },
+ "0x001752": {
+  "jp": "集束攻撃",
+  "en": "Focused Attack",
+  "slot": 12
+ },
+ "0x001765": {
+  "jp": "メイン（サブ）機体がサブ（メイン）機体を攻撃した場合の、ダメージ低下が２０％減少します。",
+  "en": "When the main (sub) unit attacks with the sub (main) unit, damage loss is reduced by 20%.",
+  "slot": 132
+ },
+ "0x0017F0": {
+  "jp": "ガード",
+  "en": "Guard",
+  "slot": 9
+ },
+ "0x001800": {
+  "jp": "気力が１３０以上の場合、戦闘で受けるダメージが８０％になります。",
+  "en": "At 130+ will, damage taken in combat becomes 80%.",
+  "slot": 96
+ },
+ "0x001867": {
+  "jp": "気力限界突破",
+  "en": "Will Limit Break",
+  "slot": 18
+ },
+ "0x001880": {
+  "jp": "気力上昇の上限が１７０になります。",
+  "en": "The will cap is raised to 170.",
+  "slot": 51
+ },
+ "0x0018BA": {
+  "jp": "修理技能",
+  "en": "Repair Skill",
+  "slot": 12
+ },
+ "0x0018CD": {
+  "jp": "個別コマンド「修理」を使用時に、ＨＰ回復量が１．２倍になります。",
+  "en": "When using the Repair command, HP recovery is multiplied by 1.2.",
+  "slot": 96
+ },
+ "0x001934": {
+  "jp": "補給技能",
+  "en": "Resupply Skill",
+  "slot": 12
+ },
+ "0x001947": {
+  "jp": "移動後に個別コマンド「補給」を使用可能になります。",
+  "en": "Allows use of the Resupply command after moving.",
+  "slot": 75
+ },
+ "0x001999": {
+  "jp": "２回行動",
+  "en": "Double Move",
+  "slot": 12
+ },
+ "0x0019AC": {
+  "jp": "１ターンの行動回数が１回増えます。",
+  "en": "The number of actions per turn increases by 1.",
+  "slot": 51
+ },
+ "0x0019E6": {
+  "jp": "ＥＸＰアップ",
+  "en": "EXP Up",
+  "slot": 18
+ },
+ "0x0019FF": {
+  "jp": "戦闘での獲得経験値が１．２倍になります。",
+  "en": "EXP gained in combat is multiplied by 1.2.",
+  "slot": 60
+ },
+ "0x001A42": {
+  "jp": "再攻撃",
+  "en": "Re-Attack",
+  "slot": 9
+ },
+ "0x001AE1": {
+  "jp": "行います。",
+  "en": "is performed.",
+  "slot": 15
+ },
+ "0x001AF7": {
+  "jp": "超能力",
+  "en": "Psychic",
+  "slot": 9
+ },
+ "0x001B07": {
+  "jp": "スキルレベルが高くなるほど、戦闘での命中率・回避率・クリティカル発生率が上昇します。",
+  "en": "The higher the skill level, the more hit rate, evade rate and critical rate rise in combat.",
+  "slot": 126
+ },
+ "0x001B8C": {
+  "jp": "統率",
+  "en": "Command",
+  "slot": 6
+ },
+ "0x001B99": {
+  "jp": "マキシマムブレイクを発生させる能力です。",
+  "en": "The ability to trigger a Maximum Break.",
+  "slot": 60
+ },
+ "0x001BDC": {
+  "jp": "パイロット",
+  "en": "Pilot",
+  "slot": 15
+ },
+ "0x001BF2": {
+  "jp": "武器を使用するために必要なスキルとしてのみ使用",
+  "en": "Used only as a skill required to use certain weapons.",
+  "slot": 69
+ },
+ "0x001C3E": {
+  "jp": "連続行動",
+  "en": "Continuous Action",
+  "slot": 12
+ },
+ "0x001CEC": {
+  "jp": "対して１フェイズに１度だけ発動可能です（「変形」等でメインパイロットが代わっても、発動回数は増えない）。",
+  "en": "can trigger only once per phase (using Transform to swap main pilots does not add triggers).",
+  "slot": 156
+ }
+}

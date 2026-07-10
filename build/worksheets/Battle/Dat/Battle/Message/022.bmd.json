@@ -1,0 +1,752 @@
+{
+"0x001F60": {
+"jp": "「なめるなっ！！」",
+"en": "「Don't mock me!!」",
+"slot": 27
+},
+"0x001F7C": {
+"jp": "「観念しなっ！！」",
+"en": "「Give it up!!」",
+"slot": 27
+},
+"0x001F98": {
+"jp": "「目に物見せてやるぜ！」",
+"en": "「I'll show you something!」",
+"slot": 36
+},
+"0x001FBD": {
+"jp": "「消えなっ！」",
+"en": "「Get lost!」",
+"slot": 21
+},
+"0x001FD3": {
+"jp": "「こいつでどうだっ！」",
+"en": "「How's this!」",
+"slot": 33
+},
+"0x001FF5": {
+"jp": "「もらうぜっ！」",
+"en": "「You're mine!」",
+"slot": 24
+},
+"0x00200E": {
+"jp": "「誰にも手は出させねえ……/　てめえは俺の獲物だ！」",
+"en": "「No one lays a hand on you.../ you're my prey!」",
+"slot": 76
+},
+"0x00205B": {
+"jp": "「何だ、あいつ……子供じゃねえか！」",
+"en": "「What the... that's just a kid!」",
+"slot": 54
+},
+"0x002092": {
+"jp": "「小娘が……調子に乗るなよ！/　痛い目見せてやるぜ！」",
+"en": "「Girl... don't push your luck!/ I'll make you hurt!」",
+"slot": 79
+},
+"0x0020E2": {
+"jp": "「子供が……戦場を遊びとはき違えんな！/　尻尾巻いて逃げ帰んな！」",
+"en": "「Kid... war's no playground!/ Tuck your tail and run home!」",
+"slot": 97
+},
+"0x002144": {
+"jp": "「地上のメカかよ……/　まったく、風変わりな。妙な趣味してやがるぜ」",
+"en": "「A surface mech, huh.../ how odd. Strange taste you've got」",
+"slot": 100
+},
+"0x0021A9": {
+"jp": "「何なんだろうな、あいつは。/　そこまで人型にこだわる理由がわかんねぇ」",
+"en": "「What is that thing anyway./ Can't see why it clings to a human shape」",
+"slot": 106
+},
+"0x002214": {
+"jp": "「てめえ、戦場を遊び場と勘違いしてねえか！？/　思い知らせてやるぜ！」",
+"en": "「You think war's your playground!?/ I'll teach you better!」",
+"slot": 103
+},
+"0x00227C": {
+"jp": "「シュウ・シラカワ……油断ならねえ相手だぜ。/　気を引き締めてかからねえとな」",
+"en": "「Shu Shirakawa... a dangerous foe./ Better keep my guard up」",
+"slot": 115
+},
+"0x0022F0": {
+"jp": "「ちっ、噂のグランゾンかよ。/　相手にとって不足はねぇ、行くぜっ！」",
+"en": "「Tch, the famous Granzon./ A worthy opponent, here I come!」",
+"slot": 100
+},
+"0x002355": {
+"jp": "「てめえら、色々と画策してるみてぇだがな、/　世の中そう簡単にいくと思ったら大間違いだ！」",
+"en": "「You lot are scheming plenty,/ but the world's not that easy!」",
+"slot": 133
+},
+"0x0023DB": {
+"jp": "「紅蓮のサフィーネかよ。/　いい女らしいが、性格に難あり、だな」",
+"en": "「Saphine of the Crimson, huh./ A fine woman, but a nasty streak」",
+"slot": 94
+},
+"0x00243A": {
+"jp": "「確か、あいつにゃ賞金がかかってたよな？/　いいボーナスじゃねえか、いただくぜ！」",
+"en": "「There's a bounty on that one, right?/ Nice bonus, I'll take it!」",
+"slot": 121
+},
+"0x0024B4": {
+"jp": "「サフィーネ、/　てめえなんぞと遊んでる暇はねえんだ！/　さっさと終わらせるぜ！」",
+"en": "「Saphine,/ no time to play with you!/ Let's end this quick!」",
+"slot": 119
+},
+"0x00252C": {
+"jp": "「地上人め、一泡吹かせてやるぜ！」",
+"en": "「Surface dweller, I'll surprise you!」",
+"slot": 51
+},
+"0x002560": {
+"jp": "「覚悟しな、地上人！」",
+"en": "「Face me, surface dweller!」",
+"slot": 33
+},
+"0x002582": {
+"jp": "「お前らは手を貸す陣営を間違えたんだよ！」",
+"en": "「You picked the wrong side to back!」",
+"slot": 63
+},
+"0x0025C2": {
+"jp": "「しゃしゃり出てくるんじゃねえよ、/　地上人が！」",
+"en": "「Don't stick your nose in,/ surface dweller!」",
+"slot": 73
+},
+"0x00260C": {
+"jp": "「地上の奴らに、/　これ以上好きにはやらせねえぜ！」",
+"en": "「I won't let you surface folk/ do as you please anymore!」",
+"slot": 76
+},
+"0x002659": {
+"jp": "「なるほどな、こいつぁ確かに上物だ！」",
+"en": "「I see, this one's a real prize!」",
+"slot": 57
+},
+"0x002693": {
+"jp": "「サイバスター！　目に物見せてやるぜ！」",
+"en": "「Cybuster! I'll show you something!」",
+"slot": 60
+},
+"0x0026D0": {
+"jp": "「魔装機神サイバスター……/　ぶっ潰してやるぜ！」",
+"en": "「Masoukishin Cybuster.../ I'll smash you to bits!」",
+"slot": 73
+},
+"0x00271A": {
+"jp": "「サイバスターをやったとなりゃ、/　俺の株も急上昇ってもんよ！/　さあ、行くぜっ！」　",
+"en": "「Take down Cybuster and/ my stock skyrockets!/ Now, here I come!」",
+"slot": 125
+},
+"0x002798": {
+"jp": "「魔装機神、魔装機神って、うるせえんだよ！/　機体の性能だけで勝てると思うな！」",
+"en": "「Masoukishin this, Masoukishin that, shut it!/ Specs alone won't win you this!」",
+"slot": 118
+},
+"0x00280F": {
+"jp": "「魔装機神なんつっても、無敵じゃねえんだ！/　攻撃し続けりゃ、こっちの勝ち目も出る！」",
+"en": "「A Masoukishin's not invincible!/ Keep hitting it and I've got a shot!」",
+"slot": 127
+},
+"0x00288F": {
+"jp": "「ガッデスか……魔装機神の中じゃ、格下だな」",
+"en": "「Zamzeed... low-tier among the Masoukishin.」",
+"slot": 66
+},
+"0x0028D2": {
+"jp": "「魔装機神ガッデスね……/　ま、悪くねぇ機体だが！」　",
+"en": "「Masoukishin Zamzeed, huh.../ Well, not a bad machine!」",
+"slot": 79
+},
+"0x002922": {
+"jp": "「おっと、グランヴェールか。/　あいつの攻撃力は厄介だからな。/　早めにケリをつけねえと」",
+"en": "「Whoa, Granveil./ Its firepower's a pain./ Better end this fast」",
+"slot": 131
+},
+"0x0029A6": {
+"jp": "「いくら攻撃力の高いグランヴェールでも、/　先に倒しちまえば怖くねえのさ！」",
+"en": "「Firepower or not, Granveil's no threat/ once I take it down first!」",
+"slot": 112
+},
+"0x002A17": {
+"jp": "「グランヴェールの弱点は、その装甲の低さ……/　なら、先制攻撃が一番だってことよ！」",
+"en": "「Granveil's weakness is its thin armor.../ so striking first is the way!」",
+"slot": 124
+},
+"0x002A94": {
+"jp": "「そんな杭打ち機で何しようってんだ？」",
+"en": "「What's a pile-driver like that gonna do?」",
+"slot": 57
+},
+"0x002ACE": {
+"jp": "「ご大層なマシンに乗りやがって！」",
+"en": "「Riding some grand machine, huh!」",
+"slot": 51
+},
+"0x002B02": {
+"jp": "「地上の戦艦か！　いい的だぜ！」",
+"en": "「A surface warship! What a target!」",
+"slot": 48
+},
+"0x002B33": {
+"jp": "「色んなものが混ざってやがんな、あいつは！」",
+"en": "「That thing's a mash-up of all sorts!」",
+"slot": 66
+},
+"0x002B76": {
+"jp": "「遊びの時間は終わりだ！」",
+"en": "「Playtime's over!」",
+"slot": 39
+},
+"0x002B9E": {
+"jp": "「さあて、俺の番だな。覚悟しろよ」",
+"en": "「Now it's my turn. Brace yourself.」",
+"slot": 51
+},
+"0x002BD2": {
+"jp": "「反撃開始だ！」",
+"en": "「Counterattack!」",
+"slot": 24
+},
+"0x002BEB": {
+"jp": "「じゃ、俺の番だな。行くぜっ！」",
+"en": "「My turn now. Here I come!」",
+"slot": 48
+},
+"0x002C1C": {
+"jp": "「俺とやり合おうってんなら、覚悟を決めな！」",
+"en": "「Wanna tangle with me? Then brace yourself!」",
+"slot": 66
+},
+"0x002C5F": {
+"jp": "「まだ俺の番が残ってんだぜ！」",
+"en": "「I've still got my turn left!」",
+"slot": 45
+},
+"0x002C8D": {
+"jp": "「ほらよっ！　こいつはお返しだ！」",
+"en": "「Here! This one's payback!」",
+"slot": 51
+},
+"0x002CC1": {
+"jp": "「なっ！？　嘘だろ！？　この俺が……」",
+"en": "「Wha!? No way! Me, of all...」",
+"slot": 57
+},
+"0x002CFB": {
+"jp": "「馬鹿な、やられた！？」",
+"en": "「Impossible, I'm beaten!?」",
+"slot": 36
+},
+"0x002D20": {
+"jp": "「つっ！！　このままでは！」",
+"en": "「Tch!! At this rate!」",
+"slot": 42
+},
+"0x002D4B": {
+"jp": "「ちっ！　手ごわい！」",
+"en": "「Tch! Tough one!」",
+"slot": 33
+},
+"0x002D6D": {
+"jp": "「な、何だと！？」",
+"en": "「Wh-what the!?」",
+"slot": 27
+},
+"0x002D89": {
+"jp": "「な、何てパワーだ！？」",
+"en": "「Wh-what power!?」",
+"slot": 36
+},
+"0x002DAE": {
+"jp": "「ヤバい！/　な、何とかしねぇと！」",
+"en": "「Bad!/ G-gotta do something!」",
+"slot": 52
+},
+"0x002DE3": {
+"jp": "「うおっ！？/　こ、この……こいつは予想外だったぜ」",
+"en": "「Whoa!?/ Th-this... didn't see that coming」",
+"slot": 76
+},
+"0x002E30": {
+"jp": "「やべぇ……調子に乗りすぎたか？」",
+"en": "「Damn... did I push my luck too far?」",
+"slot": 51
+},
+"0x002E64": {
+"jp": "「ぐあっ！！/　や、やりやがったな……/　だが、まだ負けてねぇ！」",
+"en": "「Gwah!!/ Y-you did it.../ but I'm not beaten yet!」",
+"slot": 95
+},
+"0x002EC4": {
+"jp": "「ぬああっ！？/　な、何だとっ！？　あんなガキに！」",
+"en": "「Nwaah!?/ Wh-what!? By some brat!?」",
+"slot": 76
+},
+"0x002F11": {
+"jp": "「ぐううっ……！/　グランゾン相手に、/　まともにやり合うのは不利か……！」",
+"en": "「Guuh...!/ Going head-on with Granzon/ is a losing game...!」",
+"slot": 110
+},
+"0x002F80": {
+"jp": "「うああっ！！　くそっ！/　サ、サフィーネなんぞにいいようにされて……！」",
+"en": "「Gwaah!! Damn it!/ Getting worked over by S-Saphine...!」",
+"slot": 109
+},
+"0x002FEE": {
+"jp": "「地上人なんぞに/　やられるわけにはいかねえんだよ！！」",
+"en": "「I can't lose/ to a surface dweller!!」",
+"slot": 82
+},
+"0x003041": {
+"jp": "「ち、地上人め……侮り過ぎたぜ……！」",
+"en": "「S-surface dweller... I underestimated you...!」",
+"slot": 57
+},
+"0x00307B": {
+"jp": "「地上でそれなりの/　修羅場をくぐってきたみてぇだな……！」",
+"en": "「Looks like you've survived/ some real hell on the surface...!」",
+"slot": 88
+},
+"0x0030D4": {
+"jp": "「ぐああっ！！/　こ、このっ……サイバスターがっ！」",
+"en": "「Gwaah!!/ Y-you... damn Cybuster!」",
+"slot": 76
+},
+"0x003121": {
+"jp": "「ちいいっ！　奴を振り切れねえ！」",
+"en": "「Tch! I can't shake him off!」",
+"slot": 51
+},
+"0x003155": {
+"jp": "「魔装機神め、/　俺をここまで追い込むたぁ……！」",
+"en": "「Damn Masoukishin,/ driving me this far...!」",
+"slot": 73
+},
+"0x00319F": {
+"jp": "「うおっ！！/　ガ、ガッデス……何てパワーだ！」",
+"en": "「Whoa!!/ Z-Zamzeed... what power!」",
+"slot": 70
+},
+"0x0031E6": {
+"jp": "「やっべぇ……！/　これがグランヴェールの力だってのか……！」",
+"en": "「Damn...!/ So this is Granveil's power...!」",
+"slot": 91
+},
+"0x003242": {
+"jp": "「ぐうっ！/　てめえの剣、必ずヘシ折ってやるからな！」",
+"en": "「Guh!/ I'll snap that sword of yours for sure!」",
+"slot": 79
+},
+"0x003292": {
+"jp": "「ヘ、ヘヘ、撃ち抜き損なったようだな……！」",
+"en": "「H-heh, looks like you missed the kill...!」",
+"slot": 66
+},
+"0x0032D5": {
+"jp": "「ちっ！！　やるな！！」",
+"en": "「Tch!! Not bad!!」",
+"slot": 36
+},
+"0x0032FA": {
+"jp": "「くっ！　いい攻撃だ」",
+"en": "「Guh! Nice hit.」",
+"slot": 33
+},
+"0x00331C": {
+"jp": "「つっ！　だが、まだ終わりじゃねえ！」",
+"en": "「Tch! But it's not over yet!」",
+"slot": 57
+},
+"0x003356": {
+"jp": "「こんなもんで落ちるかよっ！」",
+"en": "「You think this drops me!」",
+"slot": 45
+},
+"0x003384": {
+"jp": "「ぬっ！　だが、まだこの程度！」",
+"en": "「Ngh! But this is nothing yet!」",
+"slot": 48
+},
+"0x0033B5": {
+"jp": "「いいねぇ、そうこなくちゃ面白くねぇ」",
+"en": "「Nice, now that's more like it.」",
+"slot": 57
+},
+"0x0033EF": {
+"jp": "「やるじゃねぇか！/　それでこそ潰し甲斐があるってもんよ！」",
+"en": "「Not bad!/ Makes you worth crushing!」",
+"slot": 88
+},
+"0x003448": {
+"jp": "「くそっ！　まともに当たっちまった！」",
+"en": "「Damn! That one hit clean!」",
+"slot": 57
+},
+"0x003482": {
+"jp": "「くっ、やりやがったな！」",
+"en": "「Guh, you got me!」",
+"slot": 39
+},
+"0x0034AA": {
+"jp": "「ちっ！　思ったよりやるじゃねぇか！」",
+"en": "「Tch! Better than I thought!」",
+"slot": 57
+},
+"0x0034E4": {
+"jp": "「何っ！？　あんな子供に/　まともに当てられた！？」",
+"en": "「What!? Took a clean hit/ from a kid like that!?」",
+"slot": 76
+},
+"0x003531": {
+"jp": "「ちっ、見かけに惑わされたか？/　いいの持ってんじゃねえか！」",
+"en": "「Tch, fooled by looks?/ You've got some good gear!」",
+"slot": 91
+},
+"0x00358D": {
+"jp": "「ち、これがグランゾンの力か……/　侮れねぇ！」",
+"en": "「Tch, so this is Granzon's power.../ not to be underestimated!」",
+"slot": 70
+},
+"0x0035D4": {
+"jp": "「おっと、意外とやるじゃねぇか、/　サフィーネ！」",
+"en": "「Whoa, you're better than I thought,/ Saphine!」",
+"slot": 73
+},
+"0x00361E": {
+"jp": "「地上人め、やりやがったな！」",
+"en": "「Surface dweller, you did it!」",
+"slot": 45
+},
+"0x00364C": {
+"jp": "「ぐっ！　褒めておいてやるよ、地上人！」",
+"en": "「Guh! I'll give you credit, surface dweller!」",
+"slot": 60
+},
+"0x003689": {
+"jp": "「ええい！　いい気になるなよ、地上人め！」",
+"en": "「Enough! Don't get cocky, surface dweller!」",
+"slot": 63
+},
+"0x0036C9": {
+"jp": "「ちっ、さすがはサイバスターか……！」",
+"en": "「Tch, that's Cybuster for you...!」",
+"slot": 57
+},
+"0x003703": {
+"jp": "「サイバスターめ、やってくれるぜ！」",
+"en": "「Damn Cybuster, you're a handful!」",
+"slot": 54
+},
+"0x00373A": {
+"jp": "「うぐっ！　魔装機神め！」",
+"en": "「Ugh! Damn Masoukishin!」",
+"slot": 39
+},
+"0x003762": {
+"jp": "「くっ！　奴め、素早い！」",
+"en": "「Tch! He's fast!」",
+"slot": 39
+},
+"0x00378A": {
+"jp": "「ええい、何て飛び方しやがるんだ、/　あいつは！」",
+"en": "「Damn, what kind of flying is that,/　that guy!」",
+"slot": 73
+},
+"0x0037D4": {
+"jp": "「やるじゃねえか、ガッデス！/　そうこなくちゃ面白くねぇ！」",
+"en": "「Not bad, Gaddess!/　Now that's more like it!」",
+"slot": 88
+},
+"0x00382D": {
+"jp": "「なるほど、いいパワーしてるぜ、/　グランヴェール！」",
+"en": "「I see, you've got good power,/　Granveil!」",
+"slot": 79
+},
+"0x00387D": {
+"jp": "「ちっ！　あの剣は厄介だぜ！」",
+"en": "「Tch! That blade's a pain!」",
+"slot": 45
+},
+"0x0038AB": {
+"jp": "「くっ！　何だ、あの杭打ち機は！？」",
+"en": "「Ngh! What's that pile driver!?」",
+"slot": 54
+},
+"0x0038E2": {
+"jp": "「まだまだだな！！」",
+"en": "「Not good enough!!」",
+"slot": 30
+},
+"0x003901": {
+"jp": "「ふん、大したことねえな」",
+"en": "「Hmph, nothing to it.」",
+"slot": 39
+},
+"0x003929": {
+"jp": "「そんなものか！」",
+"en": "「Is that all!?」",
+"slot": 27
+},
+"0x003945": {
+"jp": "「ははっ、効かねえなぁ！　くすぐったいぜ！」",
+"en": "「Ha, doesn't hurt! Just tickles!」",
+"slot": 66
+},
+"0x003988": {
+"jp": "「どうした？　その程度かよ？」",
+"en": "「What's wrong? That all you got?」",
+"slot": 45
+},
+"0x0039B6": {
+"jp": "「それで終わりか？　笑わせんな！」",
+"en": "「That's it? Don't make me laugh!」",
+"slot": 51
+},
+"0x0039EA": {
+"jp": "「それで精一杯か？　情けねえな！」",
+"en": "「That's your best? Pathetic!」",
+"slot": 51
+},
+"0x003A1E": {
+"jp": "「どうした、どうした？/　全力でやってその程度か？」",
+"en": "「What's wrong, what's wrong?/　That's your full power?」",
+"slot": 76
+},
+"0x003A6B": {
+"jp": "「あ～ん？　何だ、そりゃ！/　遊びじゃねえんだぞ！」",
+"en": "「Ahn? What's that!/　This ain't playtime!」",
+"slot": 76
+},
+"0x003AB8": {
+"jp": "「ふん、変なギミックにこだわって、/　攻撃力がおろそかになったか？」",
+"en": "「Hmph, too hung up on weird gimmicks/　to keep your attack up?」",
+"slot": 100
+},
+"0x003B1D": {
+"jp": "「ふん、グランゾン、恐るるに足らず！」",
+"en": "「Hmph, the Granzon's nothing to fear!」",
+"slot": 57
+},
+"0x003B57": {
+"jp": "「ハッ！　それで精一杯かよ、サフィーネ！」",
+"en": "「Ha! That's your best, Saphine!?」",
+"slot": 63
+},
+"0x003B97": {
+"jp": "「ふん、地上人め……当てただけか？」",
+"en": "「Hmph, surface dweller... just grazed me?」",
+"slot": 54
+},
+"0x003BCE": {
+"jp": "「笑わせてくれるぜ、地上人！」",
+"en": "「You crack me up, surface dweller!」",
+"slot": 45
+},
+"0x003BFC": {
+"jp": "「地上じゃ、/　それで通用してたかも知れねえがな！」",
+"en": "「Maybe that flew/　on the surface!」",
+"slot": 76
+},
+"0x003C49": {
+"jp": "「大したことねえな、地上のメカってのも！」",
+"en": "「Not much, these surface machines!」",
+"slot": 63
+},
+"0x003C89": {
+"jp": "「ふん、噂ほどにもねえな、サイバスター！」",
+"en": "「Hmph, less than the rumors, Cybuster!」",
+"slot": 63
+},
+"0x003CC9": {
+"jp": "「そんなもんか、魔装機神ってのは！」",
+"en": "「That all the Masou Kishin's got!?」",
+"slot": 54
+},
+"0x003D00": {
+"jp": "「その程度じゃ、魔装機神の名が泣くぜ！」",
+"en": "「That shames the Masou Kishin's name!」",
+"slot": 60
+},
+"0x003D3D": {
+"jp": "「ハッ！　スピードだけは大したもんだが……」",
+"en": "「Ha! Only your speed's impressive...」",
+"slot": 66
+},
+"0x003D80": {
+"jp": "「ガッデスっつっても、この程度かよ！」",
+"en": "「A Gaddess, and just this much!?」",
+"slot": 57
+},
+"0x003DBA": {
+"jp": "「おいおい、攻撃力が売りじゃなかったのかよ、/　グランヴェールは」",
+"en": "「Hey, wasn't attack power your selling/　point, Granveil?」",
+"slot": 97
+},
+"0x003E1C": {
+"jp": "「狙いが甘いぜ！！」",
+"en": "「Your aim's off!!」",
+"slot": 30
+},
+"0x003E3B": {
+"jp": "「外れだ！」",
+"en": "「A miss!」",
+"slot": 18
+},
+"0x003E4E": {
+"jp": "「当たらん！」",
+"en": "「Won't hit me!」",
+"slot": 21
+},
+"0x003E64": {
+"jp": "「そう簡単に当たってやるかよ！」",
+"en": "「Like I'll let that hit me!」",
+"slot": 48
+},
+"0x003E95": {
+"jp": "「どこ狙ってんだよ！」",
+"en": "「Where you aiming!?」",
+"slot": 33
+},
+"0x003EB7": {
+"jp": "「ふん、見え見えなんだよ！」",
+"en": "「Hmph, too easy to read!」",
+"slot": 42
+},
+"0x003EE2": {
+"jp": "「おっと！　危ねぇ、危ねぇ」",
+"en": "「Whoa! That was close, close.」",
+"slot": 42
+},
+"0x003F0D": {
+"jp": "「はっ！　下手くそが！」",
+"en": "「Ha! What a klutz!」",
+"slot": 36
+},
+"0x003F32": {
+"jp": "「所詮、素人の狙いよ！」",
+"en": "「Amateur's aim, that's all!」",
+"slot": 36
+},
+"0x003F57": {
+"jp": "「おっと！　てめえの一撃は痛そうだからな」",
+"en": "「Whoa! Your hit looked like it'd sting.」",
+"slot": 63
+},
+"0x003F97": {
+"jp": "「ははっ、遊んでるからだよ、サフィーネ！」",
+"en": "「Ha, that's what playing gets you, Saphine!」",
+"slot": 63
+},
+"0x003FD7": {
+"jp": "「ははっ、どこ見てやがる！　サイバスター！」",
+"en": "「Ha, where you looking! Cybuster!」",
+"slot": 66
+},
+"0x00401A": {
+"jp": "「ふっ、攻撃力の持ち腐れだな、/　グランヴェール！」",
+"en": "「Hmph, what a waste of power,/　Granveil!」",
+"slot": 76
+},
+"0x004067": {
+"jp": "「効かん、効かんぞっ！！」",
+"en": "「Won't work, won't work!!」",
+"slot": 39
+},
+"0x00408F": {
+"jp": "「はははっ！　笑わせやがる！」",
+"en": "「Hahaha! You crack me up!」",
+"slot": 45
+},
+"0x0040BD": {
+"jp": "「………」",
+"en": "「.........」",
+"slot": 15
+},
+"0x0040CD": {
+"jp": "「ちっ！　反撃できねえってのか！」",
+"en": "「Tch! Can't even fight back!?」",
+"slot": 51
+},
+"0x004101": {
+"jp": "「ちっ、汚ぇぜ！」",
+"en": "「Tch, dirty move!」",
+"slot": 27
+},
+"0x00411D": {
+"jp": "「おっと、まだ終わっちゃいねぇぜ！」",
+"en": "「Whoa, it ain't over yet!」",
+"slot": 54
+},
+"0x004154": {
+"jp": "「もう一撃、くらっとくか？」",
+"en": "「Want another hit?」",
+"slot": 42
+},
+"0x00417F": {
+"jp": "「念のため、もう一発くれてやるぜ！」",
+"en": "「Just to be sure, one more for ya!」",
+"slot": 54
+},
+"0x0041B6": {
+"jp": "「後は俺がやるぜ！」",
+"en": "「I'll handle the rest!」",
+"slot": 30
+},
+"0x0041D5": {
+"jp": "「これでもくらえっ！！」",
+"en": "「Take this!!」",
+"slot": 36
+},
+"0x0041FA": {
+"jp": "「消し飛べっ！」",
+"en": "「Vanish!」",
+"slot": 24
+},
+"0x004213": {
+"jp": "「プラズマソード！」",
+"en": "「Plasma Sword!」",
+"slot": 30
+},
+"0x004232": {
+"jp": "「はぁっ！」",
+"en": "「Haaah!」",
+"slot": 18
+},
+"0x004245": {
+"jp": "「たぁっ！」",
+"en": "「Taaah!」",
+"slot": 18
+},
+"0x004258": {
+"jp": "「やっ！」",
+"en": "「Yah!」",
+"slot": 15
+},
+"0x004268": {
+"jp": "「うらぁっ！」",
+"en": "「Oraaah!」",
+"slot": 21
+},
+"0x00427E": {
+"jp": "「でぃっ！」",
+"en": "「Dyah!」",
+"slot": 18
+},
+"0x004291": {
+"jp": "「おりゃっ！」",
+"en": "「Oryah!」",
+"slot": 21
+},
+"0x0042A7": {
+"jp": "「覚悟しとけよ、こいつは痛いぜっ！」",
+"en": "「Brace yourself, this one hurts!」",
+"slot": 54
+},
+"0x0042DE": {
+"jp": "「行っけぇぇぇっ！！」",
+"en": "「Go dowwwn!!」",
+"slot": 33
+}
+}

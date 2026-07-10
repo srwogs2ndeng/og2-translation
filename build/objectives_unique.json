@@ -1,0 +1,1184 @@
+{
+ "map": {
+  "１．　３ターン味方フェイズ以内に、？？？（プレイヤーキャラ）を": {
+   "en": "1.  Within 3 ally phases, move ???（Player Char）",
+   "n": 1
+  },
+  "<W=63>　</W>指定ポイントへ到達させる。": {
+   "en": "<W=63>　</W>Reach the target point.",
+   "n": 1
+  },
+  "１．　３ターン味方フェイズ以内に、勝利条件を満たせなかった場合。": {
+   "en": "1.  If the victory conditions are not met within 3 ally phases.",
+   "n": 1
+  },
+  "２．　？？？（プレイヤーキャラ）の撃墜。": {
+   "en": "2.  Shoot down ???（Player Char）.",
+   "n": 1
+  },
+  "１．　敵の全滅。": {
+   "en": "1.  Destroy all enemies.",
+   "n": 56
+  },
+  "１．　いずれかの味方ユニットの撃墜。": {
+   "en": "1.  Any allied unit is shot down.",
+   "n": 28
+  },
+  "・敵ユニットをアイビスで２機以上、ラウルで１機以上撃墜する。": {
+   "en": "- Shoot down 2 or more enemy units with Ibis and 1 or more with Raul.",
+   "n": 1
+  },
+  "１．　マサキの撃墜。": {
+   "en": "1.  Shoot down Masaki.",
+   "n": 1
+  },
+  "１．　マサキ、またはエクセレンの撃墜。": {
+   "en": "1.  Shoot down Masaki or Excellen.",
+   "n": 1
+  },
+  "・ガーリオンの撃墜。": {
+   "en": "- Shoot down the Guarlion.",
+   "n": 1
+  },
+  "　なお、ガーリオンはＨＰが#0以下で撤退する。": {
+   "en": "　Also, Guarlion retreats when its HP drops to #0 or below.",
+   "n": 1
+  },
+  "１．　味方ユニットが１機でも撃墜された場合。": {
+   "en": "1.  If even one ally unit is shot down.",
+   "n": 1
+  },
+  "・敵の全滅。": {
+   "en": "- Wipe out all enemies.",
+   "n": 1
+  },
+  "　なお、敵軍はバフォームを撃墜するか、敵の数が２機以下で撤退する。": {
+   "en": "　Also, the enemy retreats when Baform is shot down or 2 or fewer enemies remain.",
+   "n": 1
+  },
+  "１．　ナグツァート以外の敵の全滅。": {
+   "en": "1.  Destroy all enemies except the Nagtsart.",
+   "n": 1
+  },
+  "１．　ハガネの撃墜。": {
+   "en": "1.  Shoot down the Hagane.",
+   "n": 33
+  },
+  "・３ターン以内に、勝利条件を満たす。": {
+   "en": "- Fulfill the victory conditions within 3 turns.",
+   "n": 1
+  },
+  "・２ターン以内に、デモンゴーレムを#1機以上撃墜する。": {
+   "en": "- Within 2 turns, shoot down #1 or more Demongorem units.",
+   "n": 1
+  },
+  "１．　ガテゼルクのデモンゴーレムの撃墜。": {
+   "en": "1. Shoot down Gatheserk's Demon Golem.",
+   "n": 1
+  },
+  "１．　ケルベリオン・プレザンのＨＰを#0以下にする。": {
+   "en": "1. Reduce Kerberion Presan's HP to #0 or below.",
+   "n": 1
+  },
+  "１．　ソディウム級移動要塞、Ｒ‐２パワード、Ｒ‐３パワード、Ｒ‐ＧＵＮパワード以外の敵の全滅。": {
+   "en": "1. Destroy all enemies except the Sodium-class mobile fortress, R-2 Powered, R-3 Powered, and R-GUN Powered.",
+   "n": 1
+  },
+  "２．　ソディウム級移動要塞、Ｒ‐２パワード、Ｒ‐３パワード、Ｒ‐ＧＵＮパワードが": {
+   "en": "2.  Sodium-class Mobile Fortress, R-2 Powered, R-3 Powered, and R-GUN Powered",
+   "n": 1
+  },
+  "<W=63>　</W>１機でも撃墜された場合。": {
+   "en": "<W=63>　</W>If even one unit is shot down.",
+   "n": 1
+  },
+  "・敵になった、アヤ、ライ、ヴィレッタにダメージを与えない。": {
+   "en": "- Deal no damage to Aya, Rai, or Viletta after they turn hostile.",
+   "n": 1
+  },
+  "１．　ソディウム級移動要塞のＨＰを#0以下にする。": {
+   "en": "1.  Reduce the Sodium-class Mobile Fortress's HP to #0 or less.",
+   "n": 1
+  },
+  "・３ターン以内に、敵を#1機以上撃墜する。": {
+   "en": "- Within 3 turns, shoot down #1 or more enemies.",
+   "n": 1
+  },
+  "２．　マサキ、テュッティ、ミオのいずれかの撃墜。": {
+   "en": "2.  Shoot down Masaki, Tytti, or Mio.",
+   "n": 2
+  },
+  "・２ターン味方フェイズ以内に、敵を#1機以上撃墜する。": {
+   "en": "- Within 2 ally phases, shoot down #1 or more enemies.",
+   "n": 1
+  },
+  "１．　ザムジードのＨＰを#0以下にする。": {
+   "en": "1. Reduce Zamjeed's HP to #0 or below.",
+   "n": 1
+  },
+  "３．　ザムジードの撃墜。": {
+   "en": "3.  Zamzeed is shot down.",
+   "n": 1
+  },
+  "１．　ソディウム級移動要塞の撃墜。": {
+   "en": "1.  Shoot down the Sodium-class Mobile Fortress.",
+   "n": 4
+  },
+  "・５ターン味方フェイズ以内に、": {
+   "en": "- Within 5 ally phases,",
+   "n": 1
+  },
+  "２．　セニアの撃墜。": {
+   "en": "2.  Shoot down Xenia.",
+   "n": 1
+  },
+  "１．　ギルドーラの撃墜。": {
+   "en": "1. Shoot down Gildora.",
+   "n": 2
+  },
+  "２．　ミオ、プレシアのいずれかの撃墜。": {
+   "en": "2.  Shoot down Mio or Presia.",
+   "n": 1
+  },
+  "・３ターン以内に、ギルドーラ以外の敵を#1機以上撃墜する。": {
+   "en": "- Within 3 turns, shoot down #1 or more enemies except Guildora.",
+   "n": 2
+  },
+  "・３ターン以内に、ギルドーラ、ケルベリオン・アヴニール以外の敵を#1機以上撃墜する。": {
+   "en": "- Within 3 turns, shoot down #1 or more enemies except Guildora and Kerberion Avenir.",
+   "n": 1
+  },
+  "・４ターン味方フェイズ以内に、勝利条件を満たす。": {
+   "en": "- Fulfill the victory conditions within 4 ally phases.",
+   "n": 1
+  },
+  "１．　ソルガディのＨＰを#0以下にする。": {
+   "en": "1.  Reduce Solgadi's HP to #0 or less.",
+   "n": 1
+  },
+  "・５ターン以内に、勝利条件を満たす。": {
+   "en": "- Fulfill the victory conditions within 5 turns.",
+   "n": 5
+  },
+  "・ガーリオンカスタム“無明”の撃墜。": {
+   "en": "- Shoot down the Guarlion Custom \"Mumyo.\"",
+   "n": 1
+  },
+  "　なお、ガーリオンカスタム“無明”はＨＰが#0以下で撤退する。": {
+   "en": "　Also, Guarlion Custom \"Mumyou\" retreats when its HP drops to #0 or below.",
+   "n": 1
+  },
+  "・２ターン以内にガーリオンを撃墜する。": {
+   "en": "- Shoot down Guarlion within 2 turns.",
+   "n": 1
+  },
+  "・ヴォルクルス３体を同ターンで撃墜する。": {
+   "en": "- Shoot down 3 Volkruss on the same turn.",
+   "n": 1
+  },
+  "・７ターン以内に、勝利条件を満たす。": {
+   "en": "- Within 7 turns, fulfill the victory conditions.",
+   "n": 1
+  },
+  "２．　フェイルの撃墜。": {
+   "en": "2.  Shoot down Feil.",
+   "n": 1
+  },
+  "１．　デモンゴーレムの全滅。": {
+   "en": "1.  Destroy all Demongolems.",
+   "n": 1
+  },
+  "・６ターン以内に、勝利条件を満たす。": {
+   "en": "- Within 6 turns, fulfill the victory conditions.",
+   "n": 1
+  },
+  "１．　デュラクシールの撃墜。": {
+   "en": "1.  Shoot down the Duraxyll.",
+   "n": 1
+  },
+  "・４ターン以内に、ソディウム級移動要塞を撃墜する。": {
+   "en": "- Within 4 turns, defeat the Sodium-class mobile fortress.",
+   "n": 1
+  },
+  "・一度の攻撃で敵を２機以上撃墜する。": {
+   "en": "- Shoot down 2 or more enemies in a single attack.",
+   "n": 1
+  },
+  "・ギルドーラを撃墜する。": {
+   "en": "- Shoot down Gildora.",
+   "n": 1
+  },
+  "　なお、ギルドーラはＨＰが#0以下で撤退する。": {
+   "en": "　Also, Guildora retreats when its HP drops to #0 or below.",
+   "n": 1
+  },
+  "・３ターン以内に、ガーリオン・カスタム“無明”以外の敵を全滅させる。": {
+   "en": "- Within 3 turns, wipe out all enemies except Guarlion Custom \"Mumyo.\"",
+   "n": 1
+  },
+  "　なお、ガーリオン・カスタム“無明”はＨＰが#0以下で撤退する。": {
+   "en": "　Also, Guarlion Custom \"Mumyou\" retreats when its HP drops to #0 or below.",
+   "n": 1
+  },
+  "１．　ソディウム級移動要塞以外の敵の全滅。": {
+   "en": "1.  Destroy all enemies except the Sodium-class Mobile Fortress.",
+   "n": 1
+  },
+  "２．　ソディウム級移動要塞のＨＰを#0以下にする。": {
+   "en": "2.  Reduce the Sodium-class Mobile Fortress's HP to #0 or below.",
+   "n": 1
+  },
+  "・５ターン味方フェイズ以内に、ソディウム級移動要塞以外の敵を全滅させる。": {
+   "en": "- Within 5 ally phases, destroy all enemies except the Sodium-class mobile fortress.",
+   "n": 1
+  },
+  "１．　ヒリュウ改の撃墜。": {
+   "en": "1.  Shoot down the Hiryu Kai.",
+   "n": 22
+  },
+  "２．　カークスの撃墜。": {
+   "en": "2.  Shoot down Kirkus.",
+   "n": 2
+  },
+  "・ケルベリオン・パッセを撃墜する。": {
+   "en": "- Shoot down Cerberion Passe.",
+   "n": 1
+  },
+  "　なお、ケルベリオン・パッセはＨＰが#0以下で撤退する。": {
+   "en": "　Also, Cerberion Passe retreats when its HP drops to #0 or below.",
+   "n": 1
+  },
+  "・３ターン以内に、ソディウム級移動要塞と": {
+   "en": "- Within 3 turns, defeat the Sodium-class mobile fortress and",
+   "n": 1
+  },
+  "・ダイゼンガーを撃墜する。": {
+   "en": "- Shoot down Daizengar.",
+   "n": 1
+  },
+  "　なお、ダイゼンガーはＨＰが#0以下で撤退する。": {
+   "en": "　Also, Dygenguar retreats when its HP drops to #0 or below.",
+   "n": 1
+  },
+  "・２ターン以内に、勝利条件を満たす。": {
+   "en": "- Fulfill the victory conditions within 2 turns.",
+   "n": 1
+  },
+  "１．　１０ターン以内にいずれかの味方ユニットをズィーガーリオンに隣接させる。": {
+   "en": "1.  Move an ally unit adjacent to Ziegerion within 10 turns.",
+   "n": 1
+  },
+  "１．　１０ターン以内に勝利条件を満たせなかった場合。": {
+   "en": "1.  If the victory conditions are not met within 10 turns.",
+   "n": 1
+  },
+  "２．　ヒリュウ改の撃墜。": {
+   "en": "2.  Shoot down the Hiryu Kai.",
+   "n": 3
+  },
+  "１．　ゼンガーの撃墜。": {
+   "en": "1. Shoot down Sanger.",
+   "n": 1
+  },
+  "・ソディウム級移動要塞を撃墜する。": {
+   "en": "- Shoot down the Sodium-class mobile fortress.",
+   "n": 1
+  },
+  "　なお、ソディウム級移動要塞はＨＰが#0以下で撤退する。": {
+   "en": "　Also, the Sodium-class mobile fortress retreats when its HP drops to #0 or below.",
+   "n": 1
+  },
+  "１．　ウィーゾルのＨＰを#0以下にする。": {
+   "en": "1. Reduce Wiisol's HP to #0 or below.",
+   "n": 1
+  },
+  "・ウィーゾルの撃墜。": {
+   "en": "- Shoot down Wiesol.",
+   "n": 1
+  },
+  "　なお、ウィーゾルはＨＰが#0以下で撤退する。": {
+   "en": "　Also, Weasel retreats when its HP drops to #0 or below.",
+   "n": 1
+  },
+  "・４ターン以内に、勝利条件を満たす。": {
+   "en": "- Fulfill the victory conditions within 4 turns.",
+   "n": 1
+  },
+  "１．　ギルドーラ（ザンボス）のＨＰを#0以下にする。": {
+   "en": "1. Reduce Gildora (Zamboss)'s HP to #0 or below.",
+   "n": 1
+  },
+  "・５ターン以内に、ギルドーラ（ザンボス）を撃墜する。": {
+   "en": "- Within 5 turns, shoot down Guildora (Zamboss).",
+   "n": 1
+  },
+  "　なお、ギルドーラ（ザンボス）はＨＰが#0以下で撤退する。": {
+   "en": "　Also, Guildora (Zamboss) retreats when its HP drops to #0 or below.",
+   "n": 1
+  },
+  "・ヴォルクルス（上）#0体以上を同フェイズで撃墜する。": {
+   "en": "- Shoot down #0 or more Volkruss (upper) in the same phase.",
+   "n": 1
+  },
+  "１．　エウリードの撃墜。": {
+   "en": "1. Shoot down Euried.",
+   "n": 1
+  },
+  "・４ターン以内に、ヴァルシオン改・タイプＣＦを撃墜する。": {
+   "en": "- Within 4 turns, shoot down Valsion Kai Type CF.",
+   "n": 1
+  },
+  "１．　いずれかの味方ユニットの撃墜（量産型ヒュッケバインＭｋ‐Ⅱを除く）。": {
+   "en": "1.  Any allied unit is shot down (except Mass-Produced Huckebein Mk-II).",
+   "n": 1
+  },
+  "・量産型ヒュッケバインＭｋ‐Ⅱが１機も撃墜されずに、マップをクリアする。": {
+   "en": "- Clear the map without losing a single Mass-Produced Huckebein Mk-II.",
+   "n": 1
+  },
+  "１．　ヒューゴの撃墜。": {
+   "en": "1.  Shoot down Hugo.",
+   "n": 2
+  },
+  "１．　メディウス・ロクスのＨＰを#0以下にする。": {
+   "en": "1.  Reduce the Medius Locus's HP to #0 or less.",
+   "n": 2
+  },
+  "・メディウス・ロクスに合計#1以上のダメージを与える。": {
+   "en": "- Deal a total of #1 or more damage to Medius Locus.",
+   "n": 1
+  },
+  "　なお、メディウス・ロクスはＨＰが#0以下で撤退する。": {
+   "en": "　Also, Medius Locus retreats when its HP drops to #0 or below.",
+   "n": 1
+  },
+  "１．　３ターン以内に、ガルムレイドのＨＰを#0以下にする。": {
+   "en": "1.  Reduce Garmraid's HP to #0 or below within 3 turns.",
+   "n": 1
+  },
+  "１．　ジョッシュの撃墜。": {
+   "en": "1. Shoot down Joshua.",
+   "n": 3
+  },
+  "・エール・シュヴァリアーが被弾せずに、勝利条件を満たす。": {
+   "en": "- Fulfill the victory conditions without Aile Chevalier taking a hit.",
+   "n": 1
+  },
+  "・オルレアン工場の敷地内に敵ユニットを到達させずに、勝利条件を満たす。": {
+   "en": "- Fulfill the victory conditions without letting an enemy unit reach the Orleans factory grounds.",
+   "n": 1
+  },
+  "２．　レイディバードの撃墜。": {
+   "en": "2.  Shoot down the Ladybird.",
+   "n": 1
+  },
+  "・レイディバードに被弾させない。": {
+   "en": "- Don't let Ladybird take a hit.",
+   "n": 1
+  },
+  "１．　ジンライのＨＰを#0以下にする。": {
+   "en": "1. Reduce Jinrai's HP to #0 or below.",
+   "n": 4
+  },
+  "１．　ベガリオンを撤退させる。": {
+   "en": "1.  Force the Vegalion to retreat.",
+   "n": 1
+  },
+  "<W=63>　</W>なお、ベガリオンはＨＰが#0以下で撤退する。": {
+   "en": "<W=63>　</W>Also, Vegalion retreats when its HP drops to #0 or below.",
+   "n": 1
+  },
+  "１．　クロガネの撃墜。": {
+   "en": "1. Shoot down Kurogane.",
+   "n": 2
+  },
+  "・６ターン以内に、マスカレオン・タイプＣ（アラセリ）を撃墜する。": {
+   "en": "- Within 6 turns, shoot down Mascareon Type C (Araseli).",
+   "n": 1
+  },
+  "　なお、マスカレオン・タイプＣ（アラセリ）はＨＰが#1以下になるか、": {
+   "en": "　Also, Mascareon Type C (Araseli) retreats when its HP drops to #1 or below, or",
+   "n": 1
+  },
+  "　勝利条件を満たすと撤退する。": {
+   "en": "　Retreats when the victory conditions are met.",
+   "n": 1
+  },
+  "１．　ライグ＝ゲイオスを撤退させる。": {
+   "en": "1.  Force Laic-Gaios to retreat.",
+   "n": 1
+  },
+  "<W=63>　</W>なお、ライグ＝ゲイオスはＨＰが#0以下で撤退する。": {
+   "en": "<W=63>　</W>Also, Laevateinn Gaios retreats when its HP drops to #0 or below.",
+   "n": 1
+  },
+  "１．　味方母艦の撃墜。": {
+   "en": "1.  The ally mothership is shot down.",
+   "n": 16
+  },
+  "・６ターン以内に、ライグ＝ゲイオスを撤退させる。": {
+   "en": "- Within 6 turns, force Laag=Geios to retreat.",
+   "n": 1
+  },
+  "　なお、ライグ＝ゲイオスはＨＰが#0以下で撤退する。": {
+   "en": "　Also, Laig-Geios retreats when its HP drops to #0 or below.",
+   "n": 1
+  },
+  "１．　マガルガ以外の敵の全滅。": {
+   "en": "1.  Destroy all enemies except the Magarga.",
+   "n": 1
+  },
+  "２．　４ターン目を迎える。": {
+   "en": "2.  Reach turn 4.",
+   "n": 1
+  },
+  "・３ターン以内に、マガルガ以外の敵を全滅させる。": {
+   "en": "- Within 3 turns, wipe out all enemies except Magalga.",
+   "n": 1
+  },
+  "１．　敵の防衛ポイントへの到達。": {
+   "en": "1.  The enemy reaches the defense point.",
+   "n": 1
+  },
+  "２．　いずれかの味方ユニットの撃墜。": {
+   "en": "2.  Any ally unit is shot down.",
+   "n": 3
+  },
+  "１．　アレス・ガイスト以外の敵の全滅。": {
+   "en": "1.  Destroy all enemies except Ares Geist.",
+   "n": 1
+  },
+  "・３ターン以内に、アレス・ガイスト以外の敵を全滅させる。": {
+   "en": "- Within 3 turns, wipe out all enemies except Ares Geist.",
+   "n": 1
+  },
+  "１．　ガリルナガンのＨＰを#0以下にする。": {
+   "en": "1. Reduce Galilnagan's HP to #0 or below.",
+   "n": 1
+  },
+  "・５ターン以内に、スカルプルムを１７機以上撃墜する。": {
+   "en": "- Within 5 turns, shoot down 17 or more Scalprum units.",
+   "n": 1
+  },
+  "１．　ハガネ、ヒリュウ改の指定ポイントへの到達。": {
+   "en": "1.  Get the Hagane and Hiryu Kai to the target point.",
+   "n": 1
+  },
+  "１．　ハガネ、またはヒリュウ改の撃墜。": {
+   "en": "1.  Shoot down the Hagane or Hiryu Kai.",
+   "n": 1
+  },
+  "２．　敵へ攻撃、または反撃を行った場合。": {
+   "en": "2.  If you attack or counterattack an enemy.",
+   "n": 1
+  },
+  "・ハガネがＨＰ#0以上、ヒリュウ改がＨＰ#1以上の状態で勝利条件を満たす。": {
+   "en": "- Fulfill the victory conditions with Hagane at HP #0 or above and Hiryu Kai at HP #1 or above.",
+   "n": 1
+  },
+  "１．　インペトゥス以外の敵の全滅。": {
+   "en": "1. Destroy all enemies except Impetus.",
+   "n": 1
+  },
+  "２．　インペトゥスのＨＰを#0以下にする。": {
+   "en": "2.  Reduce Impetus's HP to #0 or below.",
+   "n": 1
+  },
+  "・ヒリュウ改に被弾させない。": {
+   "en": "- Don't let Hiryu Kai take a hit.",
+   "n": 2
+  },
+  "１．　４ターン味方フェイズ以内に、アイビスを指定ポイントへ到達させる。": {
+   "en": "1.  Move Ibis to the target point within 4 ally phases.",
+   "n": 1
+  },
+  "２．　ジンライのＨＰを#0以下にする。": {
+   "en": "2.  Reduce Jinrai's HP to #0 or below.",
+   "n": 1
+  },
+  "<W=63>　</W>なお、量産型ジンライはこの条件を満たすと全機撤退する。": {
+   "en": "<W=63>　</W>Also, all mass-produced Jinrai units retreat once this condition is met.",
+   "n": 2
+  },
+  "１．　４ターン味方フェイズ以内に、勝利条件を満たせなかった場合。": {
+   "en": "1.  If the victory conditions are not met within 4 ally phases.",
+   "n": 1
+  },
+  "２．　アイビスの撃墜。": {
+   "en": "2.  Ibis is shot down.",
+   "n": 2
+  },
+  "３．　ヒリュウ改の撃墜。": {
+   "en": "3.  Hiryu Kai is shot down.",
+   "n": 1
+  },
+  "・４ターン味方フェイズ以内に、アイビスが量産型ジンライを２機以上撃墜する。": {
+   "en": "- Within 4 ally phases, have Ibis shoot down 2 or more mass-produced Jinrai.",
+   "n": 1
+  },
+  "１．　アイビスの撃墜。": {
+   "en": "1.  Ibis is shot down.",
+   "n": 3
+  },
+  "・敵を指定ラインへ到達させず、マップをクリアする。": {
+   "en": "- Clear the map without letting an enemy reach the designated line.",
+   "n": 1
+  },
+  "１．　ファービュラリスのＨＰを#0以下にする。": {
+   "en": "1.  Reduce the Fabularis's HP to #0 or less.",
+   "n": 2
+  },
+  "１．　６ターン目を迎える。": {
+   "en": "1.  Reach the start of turn 6.",
+   "n": 1
+  },
+  "１．　ベガリオンのＨＰを#0以下にする。": {
+   "en": "1.  Reduce the Vegalion's HP to #0 or less.",
+   "n": 1
+  },
+  "・勝利条件達成前に、マスカレオンを全機撃墜する。": {
+   "en": "- Shoot down all Mascareon before meeting the victory conditions.",
+   "n": 1
+  },
+  "　なお、マスカレオンはサイリオンのＨＰが#1以下で撤退する。": {
+   "en": "　Also, Mascareon retreats when Syrion's HP drops to #1 or below.",
+   "n": 1
+  },
+  "１．　妖機人の全滅。": {
+   "en": "1.  Destroy all Youkijin.",
+   "n": 1
+  },
+  "２．　ブリット、またはクスハの撃墜。": {
+   "en": "2.  Shoot down Bullet or Kusuha.",
+   "n": 2
+  },
+  "・ヒリュウ改に被弾させずに、妖機人を全滅させる。": {
+   "en": "- Wipe out the Youkijin without letting Hiryu Kai take a hit.",
+   "n": 2
+  },
+  "　なお、妖機人は虎王機のＨＰが#0以下になるか、マガルガのＨＰが#1以下で撤退する。": {
+   "en": "　Also, the Youkijin retreat when the Koohki's HP drops to #0 or below, or Magalga's HP to #1 or below.",
+   "n": 1
+  },
+  "２．　ジョッシュの撃墜。": {
+   "en": "2.  Shoot down Joshua.",
+   "n": 1
+  },
+  "１．　リムの指定ポイントへの到達。": {
+   "en": "1.  Get Rim to the target point.",
+   "n": 1
+  },
+  "２．　ジョッシュ、またはリムの撃墜。": {
+   "en": "2.  Shoot down Joshua or Rim.",
+   "n": 1
+  },
+  "・４ターン以内に、プリスクス・ノクス、ファービュラリス、ストゥディウム以外の敵を全滅させる。": {
+   "en": "- Within 4 turns, wipe out all enemies except Priscus Nox, Fabularis, and Studium.",
+   "n": 1
+  },
+  "１．　ストゥディウムを撤退させる。": {
+   "en": "1. Force Studium to retreat.",
+   "n": 1
+  },
+  "<W=63>　</W>なお、ストゥディウムはＨＰが#0以下で撤退する。": {
+   "en": "<W=63>　</W>Also, Studium retreats when its HP drops to #0 or below.",
+   "n": 1
+  },
+  "１．　リムの撃墜。": {
+   "en": "1.  Shoot down Rim.",
+   "n": 1
+  },
+  "２．　敵の防衛ラインへの到達。": {
+   "en": "2.  Enemy reaches the defense line.",
+   "n": 1
+  },
+  "・敵を防衛ラインへ到達させず、マップをクリアする。": {
+   "en": "- Clear the map without letting an enemy reach the defense line.",
+   "n": 1
+  },
+  "１．　インペトゥスのＨＰを#0以下にする。": {
+   "en": "1. Reduce Impetus's HP to #0 or below.",
+   "n": 1
+  },
+  "２．　イルムの撃墜。": {
+   "en": "2.  Shoot down Irm.",
+   "n": 2
+  },
+  "・４ターン以内に、敵を２０機以上撃墜する。": {
+   "en": "- Within 4 turns, shoot down 20 or more enemies.",
+   "n": 1
+  },
+  "１．　ライグ＝ゲイオスのＨＰを#0以下にする。": {
+   "en": "1.  Reduce Laic-Gaios's HP to #0 or less.",
+   "n": 1
+  },
+  "２．　イング、またはアリエイルの撃墜。": {
+   "en": "2.  Shoot down Ing or Ariel.",
+   "n": 2
+  },
+  "１．　ペルゼイン・リヒカイトの指定ポイントへの到達。": {
+   "en": "1.  Get the Persaine Reichheit to the target point.",
+   "n": 1
+  },
+  "２．　アレス・ガイストのＨＰを#0以下にする。": {
+   "en": "2.  Reduce Ares Gaist's HP to #0 or below.",
+   "n": 1
+  },
+  "３．　ペルゼイン・リヒカイトの撃墜。": {
+   "en": "3.  Persoenlichkeit is shot down.",
+   "n": 1
+  },
+  "・ペルゼイン・リヒカイトのＨＰが#1未満になる前に、指定ポイントへ到達させる。": {
+   "en": "- Reach the target point before Perzein Reichkeit's HP falls below #1.",
+   "n": 1
+  },
+  "１．　アレス・ガイストのＨＰを#0以下にする。": {
+   "en": "1.  Reduce Ares Geist's HP to #0 or below.",
+   "n": 2
+  },
+  "２．　ゼラニオのマップ端への到達。": {
+   "en": "2.  Get Zeranio to reach the map edge.",
+   "n": 1
+  },
+  "・３ターン以内に、敵を２０機以上撃墜する。": {
+   "en": "- Within 3 turns, shoot down 20 or more enemies.",
+   "n": 2
+  },
+  "１．　ビュードリファーのＨＰを#0以下にする。": {
+   "en": "1.  Reduce the Vaindrifter's HP to #0 or less.",
+   "n": 1
+  },
+  "１．　ペレグリンの防衛。": {
+   "en": "1.  Defend the Peregrine.",
+   "n": 1
+  },
+  "２．　いずれかのペレグリンの撃墜。": {
+   "en": "2.  Any Peregrine is shot down.",
+   "n": 1
+  },
+  "・ペレグリンに被弾させない。": {
+   "en": "- Don't let Peregrine take a hit.",
+   "n": 1
+  },
+  "２．　アリエイル、またはイングの撃墜。": {
+   "en": "2.  Ariel or Ing is shot down.",
+   "n": 1
+  },
+  "３．　いずれかのペレグリンの撃墜。": {
+   "en": "3.  Shoot down any of the Peregrines.",
+   "n": 1
+  },
+  "２．　ガリルナガンのＨＰを#1以下にする。": {
+   "en": "2.  Reduce Garilnahgan's HP to #1 or below.",
+   "n": 1
+  },
+  "１．　インペトゥスの阻止。": {
+   "en": "1. Stop Impetus.",
+   "n": 1
+  },
+  "２．　インペトゥス以外の敵の全滅。": {
+   "en": "2.  Destroy all enemies except Impetus.",
+   "n": 1
+  },
+  "・インペトゥスと味方機が戦闘を行う。": {
+   "en": "- Have Impetus battle an allied unit.",
+   "n": 1
+  },
+  "　なお、インペトゥスはマップ西端へ到達すると撤退する。": {
+   "en": "　Also, Impetus retreats upon reaching the west edge of the map.",
+   "n": 1
+  },
+  "１．　ゲスト軍を２５機以上撃墜する。": {
+   "en": "1. Shoot down 25 or more Guest units.",
+   "n": 1
+  },
+  "２．　ゼイドラムのＨＰを#0以下にする。": {
+   "en": "2.  Reduce Zeidram's HP to #0 or below.",
+   "n": 1
+  },
+  "１．　ウィオラーケウムとインペトゥスのＨＰを#0以下にする。": {
+   "en": "1. Reduce Wioraaceum and Impetus's HP to #0 or below.",
+   "n": 1
+  },
+  "・ウィオラーケウムとインペトゥスのＨＰを、同ターンで#0以下にする。": {
+   "en": "- Reduce the HP of both Violaceum and Impetus to #0 or below on the same turn.",
+   "n": 1
+  },
+  "１．　コウタの撃墜。": {
+   "en": "1. Shoot down Kouta.",
+   "n": 1
+  },
+  "・８ターン以内に、量産型ジンライを６機以上撃墜する。": {
+   "en": "- Within 8 turns, shoot down 6 or more mass-produced Jinrai units.",
+   "n": 1
+  },
+  "１．　８ターン以内に、コウタを指定ポイントへ到達させる。": {
+   "en": "1.  Move Kouta to the target point within 8 turns.",
+   "n": 1
+  },
+  "１．　規定ターン以内に勝利条件を満たせなかった場合。": {
+   "en": "1.  If the victory conditions are not met within the set turns.",
+   "n": 1
+  },
+  "１．　コウタ、またはショウコの撃墜。": {
+   "en": "1. Shoot down Kouta or Shouko.",
+   "n": 1
+  },
+  "２．　味方母艦の撃墜。": {
+   "en": "2.  Loss of an allied mothership.",
+   "n": 12
+  },
+  "１．　虎王機以外の敵の全滅。": {
+   "en": "1.  Destroy all enemies except the Kooki.",
+   "n": 1
+  },
+  "３．　虎王機の撃墜。": {
+   "en": "3.  The Koou unit is shot down.",
+   "n": 1
+  },
+  "・３ターン以内に、妖機人を３０機以上撃墜する。": {
+   "en": "- Within 3 turns, shoot down 30 or more Youkijin.",
+   "n": 1
+  },
+  "１．　雀武王のＨＰを#0以下にする。": {
+   "en": "1.  Reduce the Jakubuou's HP to #0 or below.",
+   "n": 2
+  },
+  "２．　虎王機の撃墜。": {
+   "en": "2.  Shoot down the Koou unit.",
+   "n": 1
+  },
+  "１．　武雀王の撃墜。": {
+   "en": "1.  Shoot down the Bujakuou.",
+   "n": 1
+  },
+  "・ヒューゴとアルベロが戦闘する前に、初期配置のレリオンを全機撃墜する。": {
+   "en": "- Shoot down all initially deployed Relion before Hugo and Albero battle.",
+   "n": 1
+  },
+  "１．　ジョッシュ、またはヒューゴの撃墜。": {
+   "en": "1. Shoot down Joshua or Hugo.",
+   "n": 1
+  },
+  "２．　量産型ヒュッケバインＭｋ‐Ⅱの撃墜。": {
+   "en": "2.  Shoot down the mass-produced Huckebein Mk-II.",
+   "n": 1
+  },
+  "・２ターン以内に、敵を１０機以上撃墜する（連邦軍兵の撃墜分も含む）。": {
+   "en": "- Within 2 turns, shoot down 10 or more enemies (Federation soldiers' kills count too).",
+   "n": 1
+  },
+  "１．　クスハ、またはブリットの撃墜。": {
+   "en": "1. Shoot down Kusuha or Bullet.",
+   "n": 1
+  },
+  "１．　武雀王のＨＰを#0以下にする。": {
+   "en": "1.  Reduce the Bujakuou's HP to #0 or below.",
+   "n": 1
+  },
+  "２．　ゼンガー、またはレーツェルの撃墜。": {
+   "en": "2.  Shoot down Sanger or Ratsel.",
+   "n": 3
+  },
+  "・ジンライの撃墜。": {
+   "en": "- Shoot down Jinrai.",
+   "n": 1
+  },
+  "１．　６ターン以内に、ライグ＝ゲイオス、ゼイドラム、": {
+   "en": "1.  Within 6 turns, Raig=Geios, Zeydrum,",
+   "n": 1
+  },
+  "<W=63>　</W>ビュードリファー以外の敵を２０機以上撃墜する。": {
+   "en": "<W=63>　</W>Shoot down 20 or more enemies other than Viedrifter.",
+   "n": 1
+  },
+  "２．　７ターン目を迎える。": {
+   "en": "2.  Reach turn 7.",
+   "n": 1
+  },
+  "・５ターン以内に、ライグ＝ゲイオスのＨＰを#0以下にする。": {
+   "en": "- Within 5 turns, reduce Laig-Geios's HP to #0 or below.",
+   "n": 1
+  },
+  "１．　レイディバードの指定ポイントへの到達。": {
+   "en": "1.  Get the Ladybird to the target point.",
+   "n": 1
+  },
+  "１．　レイディバードの撃墜。": {
+   "en": "1.  Shoot down the Ladybird.",
+   "n": 1
+  },
+  "・#0ターン以内に、ガリルナガンのＨＰを#1以下にする。": {
+   "en": "- Within #0 turns, reduce Galilnagan's HP to #1 or below.",
+   "n": 1
+  },
+  "１．　イングの撃墜。": {
+   "en": "1. Shoot down Ing.",
+   "n": 1
+  },
+  "１．　ファービュラリス、ストゥディウム以外の敵の全滅。": {
+   "en": "1.  Destroy all enemies except the Fabularis and Studium.",
+   "n": 1
+  },
+  "１．　敵の指定ラインへの到達。": {
+   "en": "1.  The enemy reaches the designated line.",
+   "n": 1
+  },
+  "１．　ジョッシュでグラキエースを説得する。": {
+   "en": "1. Persuade Glacies with Joshua.",
+   "n": 1
+  },
+  "１．　ジョッシュ、またはリムの撃墜。": {
+   "en": "1. Shoot down Joshua or Rim.",
+   "n": 3
+  },
+  "３．　ファービュラリス、またはストゥディウムの撃墜。": {
+   "en": "3.  Fabularis or Studium is shot down.",
+   "n": 1
+  },
+  "・勝利条件達成前に、プリスクス・ノクスを撃墜する。": {
+   "en": "- Shoot down Priscus Nox before meeting the victory conditions.",
+   "n": 1
+  },
+  "　なお、プリスクス・ノクスはＨＰが#0以下で撤退する。": {
+   "en": "　Also, Priscus Nox retreats when its HP drops to #0 or below.",
+   "n": 1
+  },
+  "１．　トウマの撃墜。": {
+   "en": "1.  Shoot down Touma.",
+   "n": 1
+  },
+  "・３ターン以内に、トウマが量産型ジンライを４機以上撃墜する。": {
+   "en": "- Within 3 turns, have Touma shoot down 4 or more mass-produced Jinrai.",
+   "n": 1
+  },
+  "１．　ゼンガー、またはレーツェルの撃墜。": {
+   "en": "1. Shoot down Sanger or Ratsel.",
+   "n": 2
+  },
+  "１．　雷鳳の四方を味方ユニットで取り囲んだ後、ＨＰを３０００以下にする。": {
+   "en": "1.  Surround the Raiou on all four sides with ally units, then reduce its HP to 3000 or below.",
+   "n": 1
+  },
+  "１．　雷鳳の撃墜。": {
+   "en": "1.  Shoot down the Raiou.",
+   "n": 1
+  },
+  "３．　味方母艦の撃墜。": {
+   "en": "3.  An ally battleship is shot down.",
+   "n": 1
+  },
+  "・２ターン以内に、敵を１２機以上撃墜する。": {
+   "en": "- Within 2 turns, shoot down 12 or more enemies.",
+   "n": 1
+  },
+  "１．　メディウス・ロクスの撃墜。": {
+   "en": "1.  Shoot down the Medius Locus.",
+   "n": 2
+  },
+  "１．　ガルムレイド・ブレイズ（Ｇ）、サーベラス・イグナイト（Ｇ）以外の敵を全滅させ、": {
+   "en": "1. Destroy all enemies except Garmraid Blaze (G) and Cerberus Ignite (G),",
+   "n": 1
+  },
+  "<W=63>　</W>ガルムレイド・ブレイズ（Ｇ）、サーベラス・イグナイト（Ｇ）のＨＰを#0以下にする。": {
+   "en": "<W=63>　</W>Reduce the HP of Garmraid Blaze (G) and Cerberus Ignite (G) to #0 or below.",
+   "n": 1
+  },
+  "２．　ガルムレイド・ブレイズ（Ｇ）、またはサーベラス・イグナイト（Ｇ）の撃墜。": {
+   "en": "2.  Shoot down Garmraid Blaze (G) or Cerberus Ignite (G).",
+   "n": 1
+  },
+  "１．　ウィオラーケウムの撃墜。": {
+   "en": "1. Shoot down Wioraaceum.",
+   "n": 1
+  },
+  "・４ターン味方フェイズ以内に、ウィオラーケウム、インペトゥス以外の敵を全滅させる。": {
+   "en": "- Within 4 ally phases, wipe out all enemies except Violaceum and Impetus.",
+   "n": 1
+  },
+  "１．　アレス・ガイストの撃墜。": {
+   "en": "1.  Ares Geist is shot down.",
+   "n": 2
+  },
+  "・３ターン以内に、アレス・ガイストのＨＰを#0以下にする。": {
+   "en": "- Within 3 turns, reduce Ares Geist's HP to #0 or below.",
+   "n": 1
+  },
+  "１．　雀武王、マガルガ、アレス・ガイスト以外の敵の全滅。": {
+   "en": "1.  Destroy all enemies except Jakubuou, Magaruga, and Ares Geist.",
+   "n": 1
+  },
+  "１．　ガーリオン・カスタム“無明”のＨＰを#0以下にする。": {
+   "en": "1. Reduce Guarlion Custom \"Mumei\"'s HP to #0 or below.",
+   "n": 1
+  },
+  "２．　トウマの撃墜。": {
+   "en": "2.  Shoot down Touma.",
+   "n": 1
+  },
+  "・２ターン以内に、トウマが量産型ジンライを５機以上撃墜する。": {
+   "en": "- Within 2 turns, have Touma shoot down 5 or more mass-produced Jinrai.",
+   "n": 1
+  },
+  "１．　エア・クリスマス以外の敵の全滅。": {
+   "en": "1. Destroy all enemies except Air Christmas.",
+   "n": 1
+  },
+  "・６ターン以内に、エア・クリスマスのＨＰを#0以下にする。": {
+   "en": "- Within 6 turns, reduce Air Christmas's HP to #0 or below.",
+   "n": 1
+  },
+  "　なお、エア・クリスマスはガーリオン・カスタム“無明”、ケルベリオン・プレザン、": {
+   "en": "　Also, Air Christmas retreats when Guarlion Custom \"Mumyou,\" Cerberion Present,",
+   "n": 1
+  },
+  "１．　キャニス・アルタルフ、トライロバイトの撃墜。": {
+   "en": "1. Shoot down Canis Altarf and Trilobite.",
+   "n": 1
+  },
+  "２．　イング、ヒューゴ、アクアのいずれかの撃墜。": {
+   "en": "2.  Shoot down Ing, Hugo, or Aqua.",
+   "n": 1
+  },
+  "・３ターン以内に、キャニス・アルタルフ、トライロバイト以外の敵を３０機以上撃墜する。": {
+   "en": "- Within 3 turns, shoot down 30 or more enemies except Canis Altarf and Trilobite.",
+   "n": 1
+  },
+  "１．　キャニス・アルタルフ、トライロバイト、ガルベルスの撃墜。": {
+   "en": "1. Shoot down Canis Altarf, Trilobite, and Garverus.",
+   "n": 1
+  },
+  "１．　エア・クリスマスの撃墜。": {
+   "en": "1. Shoot down Air Christmas.",
+   "n": 1
+  },
+  "２．　イングの撃墜。": {
+   "en": "2.  Shoot down Ing.",
+   "n": 1
+  },
+  "２．　アルバトロス、またはペレグリンの撃墜。": {
+   "en": "2.  Albatross or Peregrine is shot down.",
+   "n": 1
+  },
+  "・３ターン以内に、スナピルを１２機以上撃墜する。": {
+   "en": "- Within 3 turns, shoot down 12 or more Snapil units.",
+   "n": 1
+  },
+  "１．　ケレンのＨＰを#0以下にする。": {
+   "en": "1. Reduce Keren's HP to #0 or below.",
+   "n": 1
+  },
+  "・ゼイドラムがマップ上にいる状態で、ゼラニオ３体を同ターンで撃墜する。": {
+   "en": "- With Zeydrum on the map, shoot down 3 Zeranio on the same turn.",
+   "n": 1
+  },
+  "１．　ビュードリファー、またはオーグバリューのＨＰを#0以下にする。": {
+   "en": "1.  Reduce the Vaindrifter or Ohgvalue's HP to #0 or less.",
+   "n": 1
+  },
+  "２．　メキボスの撃墜。": {
+   "en": "2.  Shoot down Mekibos.",
+   "n": 1
+  },
+  "・６ターン以内に、ビュードリファー、オーグバリュー以外の敵を全滅させる。": {
+   "en": "- Within 6 turns, destroy all enemies except Vindel Rifer and Ogre Value.",
+   "n": 1
+  },
+  "１．　ゼラニオ（ゼゼーナン）の撃墜。": {
+   "en": "1. Shoot down Zeranio (Zezernan).",
+   "n": 1
+  },
+  "・３ターン以内に、敵を３０機以上撃墜する。": {
+   "en": "- Within 3 turns, shoot down 30 or more enemies.",
+   "n": 1
+  },
+  "１．　バラン＝シュナイルの撃墜。": {
+   "en": "1.  Shoot down the Baran-Schneil.",
+   "n": 1
+  },
+  "１．　フォルティス・アーラ、ウィオラーケウムの撃墜。": {
+   "en": "1.  Shoot down the Fortis Ala and Violaceum.",
+   "n": 1
+  },
+  "・フォルティス・アーラとウィオラーケウムを撃墜する前に、他の敵を全滅させる。": {
+   "en": "- Destroy all other enemies before shooting down Fortis Ala and Violaceum.",
+   "n": 1
+  },
+  "１．　インペトゥスの撃墜。": {
+   "en": "1. Shoot down Impetus.",
+   "n": 1
+  },
+  "・インペトゥスを撃墜する前に、他の敵を全滅させる。": {
+   "en": "- Destroy all other enemies before shooting down Impetus.",
+   "n": 1
+  },
+  "１．　プリスクス・ノクスの撃墜。": {
+   "en": "1.  Shoot down the Priscus Nox.",
+   "n": 1
+  },
+  "１．　ファートゥムの撃墜。": {
+   "en": "1.  Shoot down the Fatum.",
+   "n": 1
+  },
+  "１．　マガルガの撃墜。": {
+   "en": "1.  Shoot down the Magarga.",
+   "n": 2
+  },
+  "２．　ゼンガー、クスハ、ブリットのいずれかの撃墜。": {
+   "en": "2.  Shoot down Sanger, Kusuha, or Bullet.",
+   "n": 2
+  },
+  "１．　饕餮王、窮奇王の撃墜。": {
+   "en": "1.  Shoot down the Toutetsuou and Kyuukiou.",
+   "n": 2
+  },
+  "１．　応龍皇の撃墜。": {
+   "en": "1.  Shoot down the Ouryuuou.",
+   "n": 2
+  },
+  "・応龍皇を撃墜する前に、他の敵を全滅させる。": {
+   "en": "- Destroy all other enemies before shooting down Oryuko.",
+   "n": 2
+  },
+  "１．　ガンエデンの撃墜。": {
+   "en": "1. Shoot down Gan-Eden.",
+   "n": 2
+  },
+  "１．　アダマトロンの撃墜。": {
+   "en": "1.  Adamatron is shot down.",
+   "n": 1
+  },
+  "１．　フォルティス・アーラ以外の敵の全滅。": {
+   "en": "1.  Destroy all enemies except the Fortis Ala.",
+   "n": 1
+  },
+  "２．　フォルティス・アーラを撤退させる。": {
+   "en": "2.  Force Fortis Ala to retreat.",
+   "n": 1
+  },
+  "<W=63>　</W>なお、フォルティス・アーラはＨＰが#0以下で撤退する。": {
+   "en": "<W=63>　</W>Also, Fortis Ala retreats when its HP drops to #0 or below.",
+   "n": 1
+  },
+  "・５ターン以内に、フォルティス・アーラのＨＰを#0以下にする。": {
+   "en": "- Within 5 turns, reduce Fortis Ala's HP to #0 or below.",
+   "n": 1
+  },
+  "・４ターン以内に、量産型ジンライを全滅させる。": {
+   "en": "- Within 4 turns, wipe out all mass-produced Jinrai.",
+   "n": 1
+  },
+  "１．　量産型ジンライの全滅。": {
+   "en": "1.  Destroy all mass-produced Jinrai units.",
+   "n": 1
+  },
+  "３．　ジンライの撃墜。": {
+   "en": "3.  Jinrai is shot down.",
+   "n": 1
+  },
+  "１．　ジンライを指定エリアへ移動させ、２機の味方ユニットを隣接させた後、": {
+   "en": "1. Move Jinrai to the designated area, place 2 allied units adjacent, then",
+   "n": 1
+  },
+  "<W=63>　</W>ＨＰを３０００以下にする。": {
+   "en": "<W=63>　</W>Reduce HP to 3000 or below.",
+   "n": 1
+  },
+  "１．　ベガリオンの撃墜。": {
+   "en": "1.  Shoot down the Vegalion.",
+   "n": 1
+  },
+  "・#0ターン以内に、アイビスがサイリオン（アラセリ）を撃墜する。": {
+   "en": "・Within #0 turns, Ibis shoots down Syrion (Araseli).",
+   "n": 1
+  },
+  "２．　ハガネの撃墜。": {
+   "en": "2.  Shoot down the Hagane.",
+   "n": 1
+  },
+  "・２ターン味方フェイズ以内に、ヴァルシオーネＲのサイコブラスターで": {
+   "en": "- Within 2 ally phases, use Valsione R's Psychoblaster to",
+   "n": 1
+  },
+  "２．　リューネ、ザッシュ、プレシアのいずれかの撃墜。": {
+   "en": "2.  Shoot down Lune, Zash, or Presia.",
+   "n": 1
+  },
+  "１．　７ターン味方フェイズ以内に、ジョッシュ、またはリムを地下への入口へ到達させる。": {
+   "en": "1.  Move Joshua or Rim to the underground entrance within 7 ally phases.",
+   "n": 1
+  },
+  "１．　ジョッシュ、リム、アクアのいずれかの撃墜。": {
+   "en": "1. Shoot down Joshua, Rim, or Aqua.",
+   "n": 1
+  },
+  "３．　７ターン味方フェイズ以内に勝利条件を満たせなかった場合。": {
+   "en": "3.  Victory conditions are not met within 7 ally phases.",
+   "n": 1
+  },
+  "・ジョッシュとリムが敵フェイズ時に敵機からの攻撃を受けない。": {
+   "en": "- Keep Joshua and Rim from taking enemy attacks during the enemy phase.",
+   "n": 1
+  },
+  "１．　メディウス・ロクス、ケルベリオン・プレザン、ケルベリオン・パッセ、": {
+   "en": "1.  Medius Locus, Kerberion Present, Kerberion Passe,",
+   "n": 1
+  },
+  "<W=63>　</W>ケルベリオン・アヴニール以外の敵の全滅。": {
+   "en": "<W=63>　</W>Destroy all enemies except Kelberos Avnil.",
+   "n": 1
+  },
+  "１．　アクアの撃墜。": {
+   "en": "1.  Aqua is shot down.",
+   "n": 1
+  },
+  "・４ターン以内に、敵を全滅させる。": {
+   "en": "- Wipe out all enemies within 4 turns.",
+   "n": 1
+  },
+  "２．　アリエイルの撃墜。": {
+   "en": "2.  Ariel is shot down.",
+   "n": 1
+  },
+  "・４ターン以内に、アレス・ガイストを撃墜する。": {
+   "en": "- Shoot down Ares Geist within 4 turns.",
+   "n": 1
+  },
+  "１．　ＡＩ１の撃墜。": {
+   "en": "1.  Shoot down AI1.",
+   "n": 1
+  },
+  "・６ターン以内に、ケレン、カナフ、ザナヴを撃墜する。": {
+   "en": "- Within 6 turns, shoot down Keren, Kanaph, and Zanav.",
+   "n": 1
+  },
+  "１．ラーズアングリフ・レイブンの指定ポイントへの到達。": {
+   "en": "1. Rathgrith Raven reaches the target point.",
+   "n": 2
+  },
+  "１．無し。": {
+   "en": "1. None.",
+   "n": 1
+  },
+  "・１回の移動で勝利条件を達成する。": {
+   "en": "- Achieve the victory conditions in a single move.",
+   "n": 1
+  },
+  "１．敵の全滅。": {
+   "en": "1. Destroy all enemies.",
+   "n": 1
+  },
+  "１．味方の全滅。": {
+   "en": "1. All allies are destroyed.",
+   "n": 1
+  },
+  "１．　母艦の撃墜。": {
+   "en": "1.  The mothership is shot down.",
+   "n": 1
+  },
+  "・無し。#0": {
+   "en": "- None.#0",
+   "n": 1
+  }
+ }
+}

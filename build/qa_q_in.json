@@ -1,0 +1,522 @@
+{
+ "0x00071F": {
+  "en": "<W=24>Q</W><W=32>1</W>. What is Movement?",
+  "slot": 59,
+  "vis": 21
+ },
+ "0x000C88": {
+  "en": "<W=24>Q</W><W=32>2</W>. What is Move Type?",
+  "slot": 65,
+  "vis": 22
+ },
+ "0x0012EF": {
+  "en": "<W=24>Q</W><W=32>3</W>. How do I increase Movement (range)?",
+  "slot": 83,
+  "vis": 39
+ },
+ "0x001641": {
+  "en": "<W=24>Q</W><W=32>1</W>. What happens when I battle?",
+  "slot": 71,
+  "vis": 31
+ },
+ "0x001BC1": {
+  "en": "<W=24>Q</W><W=32>2</W>. What can I do against an enemy's attack?",
+  "slot": 83,
+  "vis": 44
+ },
+ "0x001F80": {
+  "en": "<W=24>Q</W><W=32>3</W>. How do I increase damage to enemies?",
+  "slot": 77,
+  "vis": 40
+ },
+ "0x0023E1": {
+  "en": "<W=24>Q</W><W=32>4</W>. How do I reduce damage from enemies?",
+  "slot": 80,
+  "vis": 40
+ },
+ "0x002793": {
+  "en": "<W=24>Q</W><W=32>5</W>. What is hit rate?",
+  "slot": 59,
+  "vis": 21
+ },
+ "0x002980": {
+  "en": "<W=24>Q</W><W=32>6</W>. What is evasion rate?",
+  "slot": 59,
+  "vis": 25
+ },
+ "0x002B11": {
+  "en": "<W=24>Q</W><W=32>7</W>. How do I raise hit rate?",
+  "slot": 65,
+  "vis": 28
+ },
+ "0x002E00": {
+  "en": "<W=24>Q</W><W=32>8</W>. How do I raise evasion rate?",
+  "slot": 65,
+  "vis": 32
+ },
+ "0x00313D": {
+  "en": "<W=24>Q</W><W=32>9</W>. What can I gain from combat?",
+  "slot": 86,
+  "vis": 32
+ },
+ "0x00334F": {
+  "en": "<W=24>Q</W><W=32>1</W>. What is a weapon's type?",
+  "slot": 68,
+  "vis": 28
+ },
+ "0x00361C": {
+  "en": "<W=24>Q</W><W=32>2</W>. What is a weapon's category?",
+  "slot": 68,
+  "vis": 32
+ },
+ "0x003C99": {
+  "en": "<W=24>Q</W><W=32>3</W>. What is a weapon's element?",
+  "slot": 65,
+  "vis": 31
+ },
+ "0x003F52": {
+  "en": "<W=24>Q</W><W=32>4</W>. What is Special Effect 1?",
+  "slot": 65,
+  "vis": 29
+ },
+ "0x004988": {
+  "en": "<W=24>Q</W><W=32>5</W>. What is Special Effect 2?",
+  "slot": 65,
+  "vis": 29
+ },
+ "0x004B80": {
+  "en": "<W=24>Q</W><W=32>6</W>. What kinds of attacks are there?",
+  "slot": 74,
+  "vis": 36
+ },
+ "0x005275": {
+  "en": "<W=24>Q</W><W=32>7</W>. What is a normal attack weapon?",
+  "slot": 68,
+  "vis": 35
+ },
+ "0x005442": {
+  "en": "<W=24>Q</W><W=32>8</W>. What is a normal attack?",
+  "slot": 62,
+  "vis": 28
+ },
+ "0x00583A": {
+  "en": "<W=24>Q</W><W=32>9</W>. What is an all-attack weapon?",
+  "slot": 68,
+  "vis": 33
+ },
+ "0x005AAA": {
+  "en": "<W=24>Q</W><W=16>10</W>. What is an all attack?",
+  "slot": 65,
+  "vis": 27
+ },
+ "0x005EA7": {
+  "en": "<W=24>Q</W><W=16>11</W>. What is a map weapon?",
+  "slot": 68,
+  "vis": 26
+ },
+ "0x0064C5": {
+  "en": "<W=24>Q</W><W=16>12</W>. What is a Double Attack?",
+  "slot": 74,
+  "vis": 29
+ },
+ "0x006877": {
+  "en": "<W=24>Q</W><W=16>13</W>. What is Maximum Break?",
+  "slot": 80,
+  "vis": 27
+ },
+ "0x006FB9": {
+  "en": "<W=24>Q</W><W=16>14</W>. What is a Combination Attack?",
+  "slot": 83,
+  "vis": 34
+ },
+ "0x0076DD": {
+  "en": "<W=24>Q</W><W=16>15</W>. What is a Combo Attack weapon?",
+  "slot": 71,
+  "vis": 35
+ },
+ "0x007C68": {
+  "en": "<W=24>Q</W><W=32>1</W>. What is morale?",
+  "slot": 56,
+  "vis": 19
+ },
+ "0x0081AC": {
+  "en": "<W=24>Q</W><W=32>2</W>. How do you raise morale?",
+  "slot": 62,
+  "vis": 28
+ },
+ "0x00884C": {
+  "en": "<W=24>Q</W><W=32>3</W>. How do you lower an enemy's morale?",
+  "slot": 68,
+  "vis": 39
+ },
+ "0x008C1D": {
+  "en": "<W=24>Q</W><W=32>1</W>. What are terrain effects?",
+  "slot": 62,
+  "vis": 29
+ },
+ "0x0091A0": {
+  "en": "<W=24>Q</W><W=32>2</W>. How do you reduce damage from enemies?",
+  "slot": 80,
+  "vis": 42
+ },
+ "0x00942A": {
+  "en": "<W=24>Q</W><W=32>3</W>. How do you raise the evasion rate?",
+  "slot": 65,
+  "vis": 38
+ },
+ "0x0096A5": {
+  "en": "<W=24>Q</W><W=32>4</W>. How do you recover HP and EN?",
+  "slot": 77,
+  "vis": 33
+ },
+ "0x009999": {
+  "en": "<W=24>Q</W><W=32>1</W>. What is a Support Attack?",
+  "slot": 65,
+  "vis": 29
+ },
+ "0x009EED": {
+  "en": "<W=24>Q</W><W=32>2</W>. What is a Support Defend?",
+  "slot": 65,
+  "vis": 29
+ },
+ "0x00A3C2": {
+  "en": "<W=24>Q</W><W=32>3</W>. What is Placement?",
+  "slot": 71,
+  "vis": 22
+ },
+ "0x00A647": {
+  "en": "<W=24>Q</W><W=32>4</W>. What is the Consecutive Target Bonus?",
+  "slot": 77,
+  "vis": 41
+ },
+ "0x00AA2C": {
+  "en": "<W=24>Q</W><W=32>1</W>. What are special abilities?",
+  "slot": 62,
+  "vis": 31
+ },
+ "0x00AD14": {
+  "en": "<W=24>Q</W><W=32>2</W>. How do you increase movement (move range)?",
+  "slot": 83,
+  "vis": 46
+ },
+ "0x00B026": {
+  "en": "<W=24>Q</W><W=32>3</W>. How do you reduce damage from enemies?",
+  "slot": 80,
+  "vis": 42
+ },
+ "0x00BA89": {
+  "en": "<W=24>Q</W><W=32>4</W>. How do you avoid status ailments?",
+  "slot": 80,
+  "vis": 37
+ },
+ "0x00BE7D": {
+  "en": "<W=24>Q</W><W=32>5</W>. How do I raise the evasion rate?",
+  "slot": 65,
+  "vis": 36
+ },
+ "0x00C272": {
+  "en": "<W=24>Q</W><W=32>1</W>. What are special skills?",
+  "slot": 65,
+  "vis": 28
+ },
+ "0x00D3F8": {
+  "en": "<W=24>Q</W><W=32>5</W>. How do I raise the hit rate?",
+  "slot": 65,
+  "vis": 32
+ },
+ "0x00DB18": {
+  "en": "<W=24>Q</W><W=32>6</W>. How do I raise the evasion rate?",
+  "slot": 65,
+  "vis": 36
+ },
+ "0x00E32D": {
+  "en": "<W=24>Q</W><W=32>7</W>. How do I raise morale?",
+  "slot": 62,
+  "vis": 26
+ },
+ "0x00E79E": {
+  "en": "<W=24>Q</W><W=32>8</W>. How do I earn more funds?",
+  "slot": 71,
+  "vis": 29
+ },
+ "0x00E997": {
+  "en": "<W=24>Q</W><W=32>9</W>. How do I earn more experience?",
+  "slot": 74,
+  "vis": 34
+ },
+ "0x00EB92": {
+  "en": "<W=24>Q</W><W=16>10</W>. Anything else that's useful?",
+  "slot": 80,
+  "vis": 33
+ },
+ "0x00F30C": {
+  "en": "<W=24>Q</W><W=32>1</W>. What are Abilities?",
+  "slot": 65,
+  "vis": 23
+ },
+ "0x01023E": {
+  "en": "<W=24>Q</W><W=32>7</W>. Anything else that's useful?",
+  "slot": 77,
+  "vis": 32
+ },
+ "0x01082D": {
+  "en": "<W=24>Q</W><W=32>1</W>. What is a Support Unit?",
+  "slot": 74,
+  "vis": 27
+ },
+ "0x010B42": {
+  "en": "<W=24>Q</W><W=32>2</W>. What is Repair?",
+  "slot": 56,
+  "vis": 19
+ },
+ "0x010EB0": {
+  "en": "<W=24>Q</W><W=32>3</W>. What is Resupply?",
+  "slot": 56,
+  "vis": 21
+ },
+ "0x011214": {
+  "en": "<W=24>Q</W><W=32>4</W>. How do I restore HP?",
+  "slot": 68,
+  "vis": 24
+ },
+ "0x01177C": {
+  "en": "<W=24>Q</W><W=32>5</W>. How do I restore EN and ammo?",
+  "slot": 77,
+  "vis": 33
+ },
+ "0x011DD8": {
+  "en": "<W=24>Q</W><W=32>1</W>. What are spirit commands?",
+  "slot": 68,
+  "vis": 29
+ },
+ "0x0121C4": {
+  "en": "<W=24>Q</W><W=32>2</W>. What are Twin Spirit Commands?",
+  "slot": 77,
+  "vis": 34
+ },
+ "0x012710": {
+  "en": "<W=24>Q</W><W=32>3</W>. What is SP?",
+  "slot": 56,
+  "vis": 15
+ },
+ "0x0129C2": {
+  "en": "<W=24>Q</W><W=32>4</W>. How do I increase movement (move range)?",
+  "slot": 83,
+  "vis": 44
+ },
+ "0x012C5B": {
+  "en": "<W=24>Q</W><W=32>5</W>. How do I increase damage to enemies?",
+  "slot": 77,
+  "vis": 40
+ },
+ "0x012FAA": {
+  "en": "<W=24>Q</W><W=32>6</W>. How do I reduce damage from enemies?",
+  "slot": 80,
+  "vis": 40
+ },
+ "0x013939": {
+  "en": "<W=24>Q</W><W=32>9</W>. How do I raise morale?",
+  "slot": 62,
+  "vis": 26
+ },
+ "0x013C49": {
+  "en": "<W=24>Q</W><W=16>10</W>. How do I lower enemy morale?",
+  "slot": 71,
+  "vis": 33
+ },
+ "0x013D83": {
+  "en": "<W=24>Q</W><W=16>11</W>. How do I restore HP?",
+  "slot": 71,
+  "vis": 25
+ },
+ "0x01407A": {
+  "en": "<W=24>Q</W><W=16>12</W>. How do I restore EN and ammo?",
+  "slot": 80,
+  "vis": 34
+ },
+ "0x0141D8": {
+  "en": "<W=24>Q</W><W=16>13</W>. How do I earn more funds?",
+  "slot": 74,
+  "vis": 30
+ },
+ "0x01446B": {
+  "en": "<W=24>Q</W><W=16>14</W>. How do I earn more EXP?",
+  "slot": 77,
+  "vis": 28
+ },
+ "0x014704": {
+  "en": "<W=24>Q</W><W=16>15</W>. Are there any others that help?",
+  "slot": 80,
+  "vis": 36
+ },
+ "0x014F1E": {
+  "en": "<W=24>Q</W><W=32>1</W>. What are funds?",
+  "slot": 56,
+  "vis": 19
+ },
+ "0x01516B": {
+  "en": "<W=24>Q</W><W=32>2</W>. What is EXP?",
+  "slot": 59,
+  "vis": 16
+ },
+ "0x01554D": {
+  "en": "<W=24>Q</W><W=32>3</W>. What is PP?",
+  "slot": 56,
+  "vis": 15
+ },
+ "0x0157ED": {
+  "en": "<W=24>Q</W><W=32>4</W>. How do I earn more funds?",
+  "slot": 71,
+  "vis": 29
+ },
+ "0x015C5E": {
+  "en": "<W=24>Q</W><W=32>5</W>. How do I earn more EXP?",
+  "slot": 74,
+  "vis": 27
+ },
+ "0x015F28": {
+  "en": "<W=24>Q</W><W=32>1</W>. What should I watch for when fighting tough enemies?",
+  "slot": 77,
+  "vis": 56
+ },
+ "0x016698": {
+  "en": "<W=24>Q</W><W=32>2</W>. What if an enemy's barrier stops my damage?",
+  "slot": 89,
+  "vis": 47
+ },
+ "0x016A93": {
+  "en": "<W=24>Q</W><W=32>1</W>. What is a Twin Unit?",
+  "slot": 71,
+  "vis": 24
+ },
+ "0x017291": {
+  "en": "<W=24>Q</W><W=32>2</W>. Any formation tips based on movement type?",
+  "slot": 80,
+  "vis": 46
+ },
+ "0x0177D9": {
+  "en": "<W=24>Q</W><W=32>3</W>. Any formation tips based on Spirit Commands?",
+  "slot": 83,
+  "vis": 48
+ },
+ "0x017B82": {
+  "en": "<W=24>Ｑ</W><W=32>４</W>．Tips for squad setup using abilities?",
+  "slot": 80,
+  "vis": 40
+ },
+ "0x017DC5": {
+  "en": "<W=24>Ｑ</W><W=32>５</W>．Tips for squad setup using weapons?",
+  "slot": 71,
+  "vis": 38
+ },
+ "0x018159": {
+  "en": "<W=24>Ｑ</W><W=32>６</W>．Tips for squad setup using pilots?",
+  "slot": 80,
+  "vis": 37
+ },
+ "0x01855D": {
+  "en": "<W=24>Ｑ</W><W=32>１</W>．What is reassigning?",
+  "slot": 62,
+  "vis": 23
+ },
+ "0x018932": {
+  "en": "<W=24>Ｑ</W><W=32>２</W>．Tips for reassigning?",
+  "slot": 56,
+  "vis": 24
+ },
+ "0x018E29": {
+  "en": "<W=24>Ｑ</W><W=32>１</W>．What is unit swapping?",
+  "slot": 62,
+  "vis": 25
+ },
+ "0x019144": {
+  "en": "<W=24>Ｑ</W><W=32>１</W>．What is weapon swapping?",
+  "slot": 62,
+  "vis": 27
+ },
+ "0x0194A3": {
+  "en": "<W=24>Ｑ</W><W=32>２</W>．Tips for weapon swapping?",
+  "slot": 56,
+  "vis": 28
+ },
+ "0x019A12": {
+  "en": "<W=24>Q</W><W=32>1</W>. What is pilot training?",
+  "slot": 71,
+  "vis": 27
+ },
+ "0x019F1F": {
+  "en": "<W=24>Q</W><W=32>2</W>. Tips for raising stats?",
+  "slot": 56,
+  "vis": 27
+ },
+ "0x01A6F6": {
+  "en": "<W=24>Q</W><W=32>3</W>. Tips for learning skills?",
+  "slot": 59,
+  "vis": 29
+ },
+ "0x01AA64": {
+  "en": "<W=24>Q</W><W=32>1</W>. What are unit/weapon upgrades?",
+  "slot": 71,
+  "vis": 34
+ },
+ "0x01AD59": {
+  "en": "<W=24>Q</W><W=32>2</W>. Tips for upgrading units?",
+  "slot": 56,
+  "vis": 29
+ },
+ "0x01B2A3": {
+  "en": "<W=24>Q</W><W=32>3</W>. Tips for upgrading weapons?",
+  "slot": 56,
+  "vis": 31
+ },
+ "0x01B6F6": {
+  "en": "<W=24>Q</W><W=32>1</W>. What are upgrade parts?",
+  "slot": 65,
+  "vis": 27
+ },
+ "0x01C03B": {
+  "en": "<W=24>Q</W><W=32>3</W>. How do I change movement type?",
+  "slot": 74,
+  "vis": 34
+ },
+ "0x01CEC6": {
+  "en": "<W=24>Q</W><W=32>8</W>. How do I restore HP, EN, SP, and so on?",
+  "slot": 89,
+  "vis": 43
+ },
+ "0x01D43A": {
+  "en": "<W=24>Q</W><W=32>9</W>. Are there any other useful items?",
+  "slot": 77,
+  "vis": 37
+ },
+ "0x01DC30": {
+  "en": "<W=24>Q</W><W=32>1</W>. What are SR Points?",
+  "slot": 68,
+  "vis": 23
+ },
+ "0x01E0EF": {
+  "en": "<W=24>Q</W><W=32>2</W>. What is difficulty?",
+  "slot": 59,
+  "vis": 23
+ },
+ "0x01E521": {
+  "en": "<W=24>Q</W><W=32>1</W>. What if it's too hard to clear?",
+  "slot": 71,
+  "vis": 35
+ },
+ "0x01EA6B": {
+  "en": "<W=24>Q</W><W=32>2</W>.How do I move quickly?",
+  "slot": 65,
+  "vis": 25
+ },
+ "0x01ED39": {
+  "en": "<W=24>Q</W><W=32>3</W>.How do I restart the game quickly?",
+  "slot": 74,
+  "vis": 37
+ },
+ "0x01F18A": {
+  "en": "<W=24>Q</W><W=32>4</W>.How do I enjoy the game after clearing it?",
+  "slot": 77,
+  "vis": 45
+ }
+}

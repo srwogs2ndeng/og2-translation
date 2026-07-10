@@ -1,0 +1,402 @@
+{
+ "0x000496": {
+  "jp": "ＯＧマスター",
+  "en": "OG Master",
+  "slot": 18
+ },
+ "0x0004AF": {
+  "jp": "全てのトロフィーを獲得する。",
+  "en": "Earn all trophies.",
+  "slot": 42
+ },
+ "0x000515": {
+  "jp": "ＥＸハードモードクリア",
+  "en": "EX Hard Mode Clear",
+  "slot": 33
+ },
+ "0x00053D": {
+  "jp": "ＥＸハードモードでゲームをクリアする。",
+  "en": "Clear the game on EX Hard Mode.",
+  "slot": 57
+ },
+ "0x0005B5": {
+  "jp": "スペシャルモードクリア",
+  "en": "Special Mode Clear",
+  "slot": 33
+ },
+ "0x0005DD": {
+  "jp": "スペシャルモードでゲームをクリアする。",
+  "en": "Clear the game on Special Mode.",
+  "slot": 57
+ },
+ "0x000655": {
+  "jp": "やり込み派",
+  "en": "Completionist",
+  "slot": 15
+ },
+ "0x00066B": {
+  "jp": "ゲームモードを問わず、ゲームを３周クリアする。",
+  "en": "Clear the game 3 times in any mode.",
+  "slot": 69
+ },
+ "0x0006EA": {
+  "jp": "全ＳＲポイント獲得",
+  "en": "All SR Points",
+  "slot": 27
+ },
+ "0x00070C": {
+  "jp": "全てのステージのＳＲポイントを獲得する。",
+  "en": "Earn the SR Point on every stage.",
+  "slot": 60
+ },
+ "0x00078E": {
+  "jp": "シナリオコンプリート",
+  "en": "Scenario Complete",
+  "slot": 30
+ },
+ "0x0007B3": {
+  "jp": "シナリオチャートに全てのステージを表示させる。",
+  "en": "Reveal every stage on the scenario chart.",
+  "slot": 69
+ },
+ "0x00083D": {
+  "jp": "エキスパート",
+  "en": "Expert",
+  "slot": 18
+ },
+ "0x000856": {
+  "jp": "ゲームオーバー後のリトライを行わずにゲームをクリアする。",
+  "en": "Clear the game without retrying after a Game Over.",
+  "slot": 84
+ },
+ "0x0008E4": {
+  "jp": "ゲームクリア",
+  "en": "Game Clear",
+  "slot": 18
+ },
+ "0x0008FD": {
+  "jp": "ゲームをクリアする。",
+  "en": "Clear the game.",
+  "slot": 30
+ },
+ "0x000959": {
+  "jp": "撃墜王",
+  "en": "Ace of Aces",
+  "slot": 9
+ },
+ "0x000969": {
+  "jp": "いずれかの味方パイロットの撃墜数を２００機以上にする。",
+  "en": "Raise any allied pilot's kill count to 200 or more.",
+  "slot": 81
+ },
+ "0x0009F6": {
+  "jp": "総力戦",
+  "en": "Total War",
+  "slot": 9
+ },
+ "0x000A06": {
+  "jp": "１ステージで全種類の精神コマンドを使用する。",
+  "en": "Use every type of Spirit Command in one stage.",
+  "slot": 66
+ },
+ "0x000A85": {
+  "jp": "オンリーワンクラッシュ",
+  "en": "One-and-Only Crush",
+  "slot": 33
+ },
+ "0x000AAD": {
+  "jp": "一度の戦闘で、敵１機に１０万以上のダメージを与える。",
+  "en": "Deal 100,000 or more damage to one enemy in a single battle.",
+  "slot": 78
+ },
+ "0x000B37": {
+  "jp": "奇跡の生還",
+  "en": "Miracle Survival",
+  "slot": 15
+ },
+ "0x000B4D": {
+  "jp": "味方戦艦のＨＰが最大ＨＰの１％以下の状態でプレイヤーフェイズを迎える。",
+  "en": "Begin a player phase with an allied ship's HP at 1% or less of max HP.",
+  "slot": 105
+ },
+ "0x000BF1": {
+  "jp": "よくある事",
+  "en": "A Common Thing",
+  "slot": 15
+ },
+ "0x000C07": {
+  "jp": "戦闘で、敵のＨＰを１桁台にする。",
+  "en": "Reduce an enemy's HP to a single digit in battle.",
+  "slot": 48
+ },
+ "0x000C71": {
+  "jp": "ギリギリセーフ！",
+  "en": "Just Barely Safe!",
+  "slot": 24
+ },
+ "0x000C90": {
+  "jp": "戦闘で、味方のＨＰが１桁台になる。",
+  "en": "Reduce an ally's HP to a single digit in battle.",
+  "slot": 51
+ },
+ "0x000CFB": {
+  "jp": "ヒロインだらけの精鋭部隊",
+  "en": "Elite Squad of Heroines",
+  "slot": 36
+ },
+ "0x000D26": {
+  "jp": "女性パイロットを２０人以上エースパイロットにする。",
+  "en": "Make 20 or more female pilots into Ace Pilots.",
+  "slot": 75
+ },
+ "0x000DAC": {
+  "jp": "艦長の風格",
+  "en": "A Captain's Bearing",
+  "slot": 15
+ },
+ "0x000DC2": {
+  "jp": "いずれかの戦艦艦長をエースパイロット（撃墜数５０以上）にする。",
+  "en": "Make any ship captain an Ace Pilot (50+ kills).",
+  "slot": 93
+ },
+ "0x000E5A": {
+  "jp": "ダブルアタック",
+  "en": "Double Attack",
+  "slot": 21
+ },
+ "0x000E76": {
+  "jp": "ダブルアタックで一度に敵を４機撃墜する。",
+  "en": "Down 4 enemies at once with a Double Attack.",
+  "slot": 60
+ },
+ "0x000EF3": {
+  "jp": "コンビネーション攻撃",
+  "en": "Combination Attack",
+  "slot": 30
+ },
+ "0x000F18": {
+  "jp": "コンビネーション攻撃で一度に敵を５機撃墜する。",
+  "en": "Down 5 enemies at once with a Combination Attack.",
+  "slot": 69
+ },
+ "0x000FA3": {
+  "jp": "財布ラッシュ！？",
+  "en": "Wallet Rush!?",
+  "slot": 24
+ },
+ "0x000FC2": {
+  "jp": "『熱血』『幸運』『努力』 が掛った状態でサイフラッシュを使用。",
+  "en": "Use Wallet Rush with 'Valor,' 'Luck,' and 'Gain' active.",
+  "slot": 91
+ },
+ "0x001058": {
+  "jp": "分の悪い賭け",
+  "en": "A Bad Bet",
+  "slot": 18
+ },
+ "0x001071": {
+  "jp": "キョウスケで命中率０％の敵だけに攻撃する。",
+  "en": "Attack only enemies with a 0% hit rate using Kyosuke.",
+  "slot": 63
+ },
+ "0x0010EA": {
+  "jp": "若葉マーク",
+  "en": "Rookie Mark",
+  "slot": 15
+ },
+ "0x001100": {
+  "jp": "ガイダンスシナリオをクリアする。",
+  "en": "Clear the Guidance scenario.",
+  "slot": 48
+ },
+ "0x00116A": {
+  "jp": "流星、夜を切り裂いて",
+  "en": "Meteor, Cutting the Night",
+  "slot": 30
+ },
+ "0x00118F": {
+  "jp": "宇宙マップでアイビスが撃墜される。",
+  "en": "Have Ibis get shot down on a space map.",
+  "slot": 51
+ },
+ "0x001203": {
+  "jp": "実戦",
+  "en": "Real Battle",
+  "slot": 6
+ },
+ "0x001210": {
+  "jp": "プロローグのステージをクリアする。",
+  "en": "Clear the prologue stage.",
+  "slot": 51
+ },
+ "0x00127D": {
+  "jp": "エースパイロット",
+  "en": "Ace Pilot",
+  "slot": 24
+ },
+ "0x00129C": {
+  "jp": "いずれかの味方パイロットをエースパイロット（撃墜数５０以上）にする。",
+  "en": "Make any allied pilot an Ace Pilot (50+ kills).",
+  "slot": 102
+ },
+ "0x00133F": {
+  "jp": "トップエース",
+  "en": "Top Ace",
+  "slot": 18
+ },
+ "0x001358": {
+  "jp": "いずれかの味方パイロットの撃墜数を１００機以上にする。",
+  "en": "Raise any allied pilot's kill count to 100 or more.",
+  "slot": 81
+ },
+ "0x0013E4": {
+  "jp": "撃墜され王",
+  "en": "King of the Downed",
+  "slot": 15
+ },
+ "0x0013FA": {
+  "jp": "１ステージで５機以上、撃墜される。",
+  "en": "Get shot down 5 or more times in one stage.",
+  "slot": 51
+ },
+ "0x00146D": {
+  "jp": "フル改造",
+  "en": "Full Upgrade",
+  "slot": 12
+ },
+ "0x001480": {
+  "jp": "任意の機体をフル改造する。",
+  "en": "Fully upgrade any unit.",
+  "slot": 39
+ },
+ "0x0014E4": {
+  "jp": "一騎当千",
+  "en": "One vs Thousand",
+  "slot": 12
+ },
+ "0x0014F7": {
+  "jp": "１ステージ中、いずれかの味方パイロットで敵を１５機以上撃墜する。",
+  "en": "Down 15 or more enemies with one allied pilot in a single stage.",
+  "slot": 96
+ },
+ "0x001599": {
+  "jp": "狙撃王",
+  "en": "Sniper King",
+  "slot": 9
+ },
+ "0x0015A9": {
+  "jp": "１４マス以上離れた敵に攻撃を命中させる。",
+  "en": "Land a hit on an enemy 14 or more tiles away.",
+  "slot": 60
+ },
+ "0x00161F": {
+  "jp": "一網打尽！？",
+  "en": "Clean Sweep!?",
+  "slot": 18
+ },
+ "0x001638": {
+  "jp": "マップ兵器で一度に１０機以上の敵を攻撃する。",
+  "en": "Hit 10 or more enemies at once with a MAP weapon.",
+  "slot": 66
+ },
+ "0x0016BA": {
+  "jp": "韋駄天",
+  "en": "Swift God",
+  "slot": 9
+ },
+ "0x0016CA": {
+  "jp": "一度に１６マス以上移動する。",
+  "en": "Move 16 or more tiles at once.",
+  "slot": 42
+ },
+ "0x001734": {
+  "jp": "その漢、鉄壁",
+  "en": "That Man, Iron Wall",
+  "slot": 18
+ },
+ "0x00174D": {
+  "jp": "１ターンに４回、ラッセルが援護防御を行う。",
+  "en": "Have Russel use Support Defend 4 times in one turn.",
+  "slot": 63
+ },
+ "0x0017C5": {
+  "jp": "エース番長",
+  "en": "Ace Boss",
+  "slot": 15
+ },
+ "0x0017DB": {
+  "jp": "ミチルがエースパイロット（撃墜数５０以上）になる。",
+  "en": "Make Michiru an Ace Pilot (50+ kills).",
+  "slot": 75
+ },
+ "0x00185F": {
+  "jp": "愛の戦士",
+  "en": "Warrior of Love",
+  "slot": 12
+ },
+ "0x001872": {
+  "jp": "１ステージで精神コマンド『愛』を１０回以上使用する。",
+  "en": "Use the Spirit Command 'Love' 10 or more times in one stage.",
+  "slot": 78
+ },
+ "0x0018F8": {
+  "jp": "熱血部隊",
+  "en": "Valor Squad",
+  "slot": 12
+ },
+ "0x00190B": {
+  "jp": "１ステージで精神コマンド『熱血』を使用して、敵を１５機以上撃墜する。",
+  "en": "Down 15+ enemies using the Spirit Command 'Valor' in one stage.",
+  "slot": 102
+ },
+ "0x0019A8": {
+  "jp": "さすが教導隊隊長！",
+  "en": "Fitting for a Corps Leader!",
+  "slot": 27
+ },
+ "0x0019CA": {
+  "jp": "カイがコンビネーション攻撃で、一度に敵を４機以上撃墜する。",
+  "en": "Have Kai down 4+ enemies at once with a Combination Attack.",
+  "slot": 87
+ },
+ "0x001A5C": {
+  "jp": "サポーター（アタック）",
+  "en": "Supporter (Attack)",
+  "slot": 33
+ },
+ "0x001A84": {
+  "jp": "１ステージで援護攻撃で敵を１５機以上撃墜する。",
+  "en": "Down 15 or more enemies with Support Attack in one stage.",
+  "slot": 69
+ },
+ "0x001B0B": {
+  "jp": "サポーター（ブロック）",
+  "en": "Supporter (Block)",
+  "slot": 33
+ },
+ "0x001B33": {
+  "jp": "１ステージで援護防御を１５回以上行う。",
+  "en": "Use Support Defend 15 or more times in one stage.",
+  "slot": 57
+ },
+ "0x001BAD": {
+  "jp": "遙かなる戦い、開幕",
+  "en": "The Distant Battle Begins",
+  "slot": 27
+ },
+ "0x001BCF": {
+  "jp": "ゲームデータをインストールする。",
+  "en": "Install the game data.",
+  "slot": 48
+ },
+ "0x001C3B": {
+  "jp": "休息の時",
+  "en": "Time to Rest",
+  "slot": 12
+ },
+ "0x001C4E": {
+  "jp": "終了メッセージを見る。",
+  "en": "View the ending message.",
+  "slot": 33
+ }
+}

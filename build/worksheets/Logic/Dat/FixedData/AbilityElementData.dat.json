@@ -1,0 +1,217 @@
+{
+"0x0005B6": {
+"jp": "－－－－",
+"en": "----",
+"slot": 12
+},
+"0x0005D0": {
+"jp": "格闘￤",
+"en": "Melee|",
+"slot": 9
+},
+"0x0005E0": {
+"jp": "自ユニットの格闘武器のダメージが５％上昇します。",
+"en": "This unit's melee weapon damage rises by 5%.",
+"slot": 72
+},
+"0x00062F": {
+"jp": "射撃￤",
+"en": "Ranged|",
+"slot": 9
+},
+"0x00063F": {
+"jp": "自ユニットの射撃武器のダメージが５％上昇します。",
+"en": "This unit's ranged weapon damage rises by 5%.",
+"slot": 72
+},
+"0x00068E": {
+"jp": "反撃￤",
+"en": "Ctr!",
+"slot": 9
+},
+"0x00069E": {
+"jp": "自ユニットの反撃時のダメージが５％上昇します。",
+"en": "This unit's counter damage rises by 5%.",
+"slot": 69
+},
+"0x0006EA": {
+"jp": "ビーム￤",
+"en": "Beam|",
+"slot": 12
+},
+"0x0006FD": {
+"jp": "自ユニットのビーム系武器のダメージが５％上昇します。",
+"en": "This unit's beam weapon damage rises by 5%.",
+"slot": 78
+},
+"0x000752": {
+"jp": "実弾￤",
+"en": "Ammo|",
+"slot": 9
+},
+"0x000762": {
+"jp": "自ユニットの弾数系武器のダメージが５％上昇します。",
+"en": "This unit's ammo weapon damage rises by 5%.",
+"slot": 75
+},
+"0x0007B4": {
+"jp": "念動￤",
+"en": "Psycho|",
+"slot": 9
+},
+"0x0007C4": {
+"jp": "自ユニットの念動系武器のダメージが５％上昇します。",
+"en": "This unit's psycho weapon damage rises by 5%.",
+"slot": 75
+},
+"0x000816": {
+"jp": "援攻￤",
+"en": "Sup.Atk|",
+"slot": 9
+},
+"0x000826": {
+"jp": "自ユニットの援護攻撃時のダメージが５％上昇します。",
+"en": "This unit's support attack damage rises by 5%.",
+"slot": 75
+},
+"0x000878": {
+"jp": "装甲￤",
+"en": "Armor|",
+"slot": 9
+},
+"0x000888": {
+"jp": "自ユニットへのダメージが５％減少します。",
+"en": "Damage to this unit is reduced by 5%.",
+"slot": 60
+},
+"0x0008CB": {
+"jp": "援防￤",
+"en": "Sup.Def|",
+"slot": 9
+},
+"0x0008DB": {
+"jp": "自ユニットの援護防御時のダメージが５％減少します。",
+"en": "This unit's support defense damage is reduced by 5%.",
+"slot": 75
+},
+"0x00092D": {
+"jp": "命中￤",
+"en": "Hit|",
+"slot": 9
+},
+"0x00093D": {
+"jp": "自ユニットの命中率が５だけ上昇します。",
+"en": "Raises this unit's hit rate by 5.",
+"slot": 57
+},
+"0x00097D": {
+"jp": "回避￤",
+"en": "Evd?",
+"slot": 9
+},
+"0x00098D": {
+"jp": "自ユニットの回避率が５だけ上昇します。",
+"en": "Raises this unit's evade rate by 5.",
+"slot": 57
+},
+"0x0009CD": {
+"jp": "ＣＲＴ￤",
+"en": "CRT?",
+"slot": 12
+},
+"0x0009E0": {
+"jp": "自ユニットのクリティカル発生率が１０だけ上昇します。",
+"en": "Raises this unit's critical rate by 10.",
+"slot": 78
+},
+"0x000A35": {
+"jp": "経験値￢",
+"en": "EXP?",
+"slot": 12
+},
+"0x000A48": {
+"jp": "自ユニットの、戦闘での獲得経験値が１０％上昇します。",
+"en": "Raises this unit's EXP gained in battle by 10%.",
+"slot": 78
+},
+"0x000A9D": {
+"jp": "資金￢",
+"en": "Cash?",
+"slot": 9
+},
+"0x000AAD": {
+"jp": "自ユニットの、戦闘での獲得資金が１０％上昇します。",
+"en": "Raises this unit's cash gained in battle by 10%.",
+"slot": 75
+},
+"0x000AFF": {
+"jp": "修理￢",
+"en": "Repair?",
+"slot": 9
+},
+"0x000B0F": {
+"jp": "自ユニットの修理時の回復率が１０％上昇します。",
+"en": "Raises this unit's repair recovery rate by 10%.",
+"slot": 69
+},
+"0x000B5B": {
+"jp": "ＨＰ￢",
+"en": "HP?",
+"slot": 9
+},
+"0x000B6B": {
+"jp": "自ユニットの最大ＨＰが５％上昇します。",
+"en": "Raises this unit's max HP by 5%.",
+"slot": 57
+},
+"0x000BAB": {
+"jp": "ＥＮ￢",
+"en": "EN?",
+"slot": 9
+},
+"0x000BBB": {
+"jp": "自ユニットの最大ＥＮが５％上昇します。",
+"en": "Raises this unit's max EN by 5%.",
+"slot": 57
+},
+"0x000BFB": {
+"jp": "移動力￢",
+"en": "Move?",
+"slot": 12
+},
+"0x000C0E": {
+"jp": "自ユニットの移動力が１だけ上昇します。",
+"en": "Raises this unit's movement by 1.",
+"slot": 57
+},
+"0x000C4E": {
+"jp": "ブロック",
+"en": "Block",
+"slot": 12
+},
+"0x000C61": {
+"jp": "自ユニットに「フルブロック」の特殊能力を与えます。",
+"en": "Grants this unit the 「Full Block」 ability.",
+"slot": 75
+},
+"0x000CB3": {
+"jp": "バリア￢",
+"en": "Barrier?",
+"slot": 12
+},
+"0x000CC6": {
+"jp": "自ユニットのバリア能力が２００上昇します（バリアが無い場合は無効）。",
+"en": "Raises this unit's barrier by 200 (no effect if no barrier).",
+"slot": 102
+},
+"0x000D33": {
+"jp": "射程￢",
+"en": "Range?",
+"slot": 9
+},
+"0x000D43": {
+"jp": "自ユニットのマップ兵器、射程１以外の武器の射程が１だけ上昇します。",
+"en": "Raises range by 1 for weapons other than MAP and range-1 weapons.",
+"slot": 99
+}
+}

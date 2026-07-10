@@ -1,0 +1,209 @@
+[
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC398B0",
+  "en": "Self-Centered"
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC5A220",
+  "en": "Weapon Sel."
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC5D1F0",
+  "en": "Abs."
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC5D1F8",
+  "en": "Rel."
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC5D3D0",
+  "en": "Attack Method: All Attack"
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC5E428",
+  "en": "■Force Barrier: God's Shield"
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC5E448",
+  "en": "■Force Barrier: Beast Shield"
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC5F6F8",
+  "en": "All Settings"
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC5F788",
+  "en": ":Yellow",
+  "note": "Dropped fullwidth colon/space prefix; budget too tight to keep it and 'Yellow'."
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC5FF18",
+  "en": "Unit Setup"
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC604E8",
+  "en": "： HIT"
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC604F8",
+  "en": "： MISS"
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC60938",
+  "en": "Afterimage",
+  "note": "Dropped '： ' prefix (no byte budget left after gloss term 'Afterimage')."
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC60BA0",
+  "en": ":God's Shield",
+  "note": "Colon prefix compressed to ASCII, no space, to fit budget with established gloss term."
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC60BB0",
+  "en": ":Beast Shield",
+  "note": "Colon prefix compressed to ASCII, no space, to fit budget with established gloss term."
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC64B70",
+  "en": "○： Fast-Fwd"
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC67630",
+  "en": "・Unusable when countering"
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC69B48",
+  "en": "Sim. Attack"
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC6E7E8",
+  "en": "Requirements"
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC6E960",
+  "en": "Too Far"
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC6FDC0",
+  "en": "Undergrnd",
+  "note": "Abbreviated 'Underground' (terrain type) to fit 9-byte budget."
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC6FE08",
+  "en": "Unit Encyclopedia"
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC6FF28",
+  "en": "Inst."
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC70018",
+  "en": "Side",
+  "note": "'Supporting/side character' role, abbreviated to fit."
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC70098",
+  "en": "Self-Center"
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC70170",
+  "en": "West"
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC70200",
+  "en": "Sup. Bold",
+  "note": "Abbreviated 'Super Bold' pilot personality type to fit 9-byte budget."
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC70238",
+  "en": "Diligent",
+  "note": "'Hard Worker' pilot personality type; used single-word synonym to fit 9-byte budget."
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC70268",
+  "en": "Crafty",
+  "note": "'Cunning' pilot personality type; synonym used to fit 6-byte budget."
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC702B8",
+  "en": "T-Link",
+  "note": "Abbreviated form of gloss term 'T-Link Field' to fit 6-byte budget."
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC70308",
+  "en": "Aux."
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC74570",
+  "en": "DM"
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC753A0",
+  "en": "DM"
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC77358",
+  "en": "Easy"
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC77368",
+  "en": "Normal"
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC77380",
+  "en": "Hard"
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xD5E1E8",
+  "en": "Can't Attack"
+ },
+ {
+  "file": "General2d/Dat/Window/WindowToolData/windowdataMain.wtd.json",
+  "key": "0x0B551F",
+  "en": "",
+  "note": "Non-translatable UI glyph/template ('+' fullwidth-space '='), not real text; byte budget (8) doesn't even match jp's own UTF-8 length (5), confirming it's a placeholder/control pattern."
+ },
+ {
+  "file": "Battle/Dat/Battle/Message/078.bmd.json",
+  "key": "0x00899D",
+  "en": "「Too bad, Roph!」",
+  "note": "Kept literal 「」 corner-bracket quote marks to match this project's established convention for quoted battle lines (see gloss '反撃' entries)."
+ }
+]

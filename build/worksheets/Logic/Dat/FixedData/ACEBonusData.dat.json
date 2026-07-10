@@ -1,0 +1,1222 @@
+{
+ "0x0018AA": {
+  "jp": "エースボーナスは獲得できません",
+  "en": "No Ace Bonus available",
+  "slot": 45
+ },
+ "0x0018E1": {
+  "jp": ".援護攻撃の最終ダメージ＋１０％",
+  "en": ".Support Attack final damage +10%",
+  "slot": 46
+ },
+ "0x001910": {
+  "jp": "援護防御の最終ダメージ－２０％",
+  "en": "Support Defend final damage -20%",
+  "slot": 45
+ },
+ "0x001944": {
+  "jp": "援護攻撃の最終ダメージ＋１０％、援護防御の最終ダメージ－２０％",
+  "en": "Support Attack final damage +10%, Support Defend final damage -20%",
+  "slot": 93
+ },
+ "0x0019AB": {
+  "jp": "\u001c最終命中率＋１０％",
+  "en": "\u001cFinal accuracy +10%",
+  "slot": 28
+ },
+ "0x0019C8": {
+  "jp": "クリティカル発生率＋２０％",
+  "en": "Critical rate +20%",
+  "slot": 39
+ },
+ "0x0019F6": {
+  "jp": "最終命中率＋１０％、クリティカル発生率＋２０％",
+  "en": "Final accuracy +10%, Critical rate +20%",
+  "slot": 69
+ },
+ "0x001A45": {
+  "jp": ".援護防御の最終ダメージ－２０％",
+  "en": ".Support Defend final damage -20%",
+  "slot": 46
+ },
+ "0x001A74": {
+  "jp": "獲得経験値＋１０％",
+  "en": "EXP gained +10%",
+  "slot": 27
+ },
+ "0x001A96": {
+  "jp": "援護防御の最終ダメージ－２０％、獲得経験値＋１０％",
+  "en": "Support Defend final damage -20%, EXP gained +10%",
+  "slot": 75
+ },
+ "0x001AEB": {
+  "jp": "\u001c獲得経験値＋１０％",
+  "en": "\u001cEXP gained +10%",
+  "slot": 28
+ },
+ "0x001B08": {
+  "jp": "獲得資金＋１０％",
+  "en": "Money gained +10%",
+  "slot": 24
+ },
+ "0x001B27": {
+  "jp": "獲得経験値＋１０％、獲得資金＋１０％",
+  "en": "EXP gained +10%, Money gained +10%",
+  "slot": 54
+ },
+ "0x001B67": {
+  "jp": "\u001c獲得経験値＋１０％",
+  "en": "\u001cEXP gained +10%",
+  "slot": 28
+ },
+ "0x001B84": {
+  "jp": "技量＋１０",
+  "en": "Skill +10",
+  "slot": 15
+ },
+ "0x001B9A": {
+  "jp": "獲得経験値＋１０％、技量＋１０",
+  "en": "EXP gained +10%, Skill +10",
+  "slot": 45
+ },
+ "0x001BD1": {
+  "jp": "%ラッキーの発生率＋１０％",
+  "en": "%Lucky trigger rate +10%",
+  "slot": 37
+ },
+ "0x001BF7": {
+  "jp": "精神コマンド「幸運」の消費ＳＰ１５",
+  "en": "Spirit Command 'Luck' SP cost 15",
+  "slot": 51
+ },
+ "0x001C31": {
+  "jp": "ラッキーの発生率＋１０％、精神コマンド「幸運」の消費ＳＰ１５",
+  "en": "Lucky trigger rate +10%, Spirit Command 'Luck' SP cost 15",
+  "slot": 90
+ },
+ "0x001C95": {
+  "jp": "\u001c最終命中率＋１０％",
+  "en": "\u001cFinal accuracy +10%",
+  "slot": 28
+ },
+ "0x001CB2": {
+  "jp": "最終回避率＋５％",
+  "en": "Final evasion +5%",
+  "slot": 24
+ },
+ "0x001CD1": {
+  "jp": "最終命中率＋１０％、最終回避率＋５％",
+  "en": "Final accuracy +10%, Final evasion +5%",
+  "slot": 54
+ },
+ "0x001D11": {
+  "jp": "\u001c最終回避率＋１０％",
+  "en": "\u001cFinal evasion +10%",
+  "slot": 28
+ },
+ "0x001D2E": {
+  "jp": "クリティカル発生率＋１０％",
+  "en": "Critical rate +10%",
+  "slot": 39
+ },
+ "0x001D5C": {
+  "jp": "最終回避率＋１０％、クリティカル発生率＋１０％",
+  "en": "Final evasion +10%, Critical rate +10%",
+  "slot": 69
+ },
+ "0x001DAB": {
+  "jp": "\u0019獲得資金＋１０％",
+  "en": "\u0019Money gained +10%",
+  "slot": 25
+ },
+ "0x001DC5": {
+  "jp": "最終命中率＋１０％",
+  "en": "Final accuracy +10%",
+  "slot": 27
+ },
+ "0x001DE7": {
+  "jp": "獲得資金＋１０％、最終命中率＋１０％",
+  "en": "Money gained +10%, Final accuracy +10%",
+  "slot": 54
+ },
+ "0x001E27": {
+  "jp": "\u001f念動系武器の与える、",
+  "en": "\u001fFinal damage of psychic weapons",
+  "slot": 31
+ },
+ "0x001E47": {
+  "jp": "最終ダメージ＋１０％",
+  "en": "final damage +10%",
+  "slot": 30
+ },
+ "0x001E6C": {
+  "jp": "念動系武器の与える、最終ダメージ＋１０％",
+  "en": "Psychic weapons deal final damage +10%",
+  "slot": 60
+ },
+ "0x001EB2": {
+  "jp": "\u001c最終命中率＋１０％",
+  "en": "\u001cFinal accuracy +10%",
+  "slot": 28
+ },
+ "0x001ECF": {
+  "jp": "最終回避率＋１０％",
+  "en": "Final evasion +10%",
+  "slot": 27
+ },
+ "0x001EF1": {
+  "jp": "最終命中率＋１０％、最終回避率＋１０％",
+  "en": "Final accuracy +10%, Final evasion +10%",
+  "slot": 57
+ },
+ "0x001F34": {
+  "jp": "\u001c最終命中率＋１０％",
+  "en": "\u001cFinal accuracy +10%",
+  "slot": 28
+ },
+ "0x001F51": {
+  "jp": "ＳＰ＋２０",
+  "en": "SP +20",
+  "slot": 15
+ },
+ "0x001F67": {
+  "jp": "最終命中率＋１０％、ＳＰ＋２０",
+  "en": "Final accuracy +10%, SP +20",
+  "slot": 45
+ },
+ "0x001F9E": {
+  "jp": "\"クリティカル率＋２０％",
+  "en": "\"Critical rate +20%",
+  "slot": 34
+ },
+ "0x001FC1": {
+  "jp": "技量＋１０",
+  "en": "Skill +10",
+  "slot": 15
+ },
+ "0x001FD7": {
+  "jp": "クリティカル率＋２０％、技量＋１０",
+  "en": "Critical rate +20%, Skill +10",
+  "slot": 51
+ },
+ "0x002014": {
+  "jp": "\u001c最終回避率＋１０％",
+  "en": "\u001cFinal evasion +10%",
+  "slot": 28
+ },
+ "0x002031": {
+  "jp": "ＳＰ＋２０",
+  "en": "SP +20",
+  "slot": 15
+ },
+ "0x002047": {
+  "jp": "最終回避率＋１０％、ＳＰ＋２０",
+  "en": "Final evasion +10%, SP +20",
+  "slot": 45
+ },
+ "0x00207E": {
+  "jp": "%与える最終ダメージ＋５％",
+  "en": "%Final damage dealt +5%",
+  "slot": 37
+ },
+ "0x0020A4": {
+  "jp": "最終命中率＋１０％",
+  "en": "Final accuracy +10%",
+  "slot": 27
+ },
+ "0x0020C6": {
+  "jp": "与える最終ダメージ＋５％、最終命中率＋１０％",
+  "en": "Final damage dealt +5%, Final accuracy +10%",
+  "slot": 66
+ },
+ "0x00210F": {
+  "jp": "与える最終ダメージ＋１０％",
+  "en": "Final damage dealt +10%",
+  "slot": 39
+ },
+ "0x002140": {
+  "jp": "(マップ兵器及び射程１以外の",
+  "en": "(From weapons other than MAP",
+  "slot": 40
+ },
+ "0x002169": {
+  "jp": "武器からの最終ダメージ－２０％",
+  "en": "and range 1, final damage -20%",
+  "slot": 45
+ },
+ "0x00219D": {
+  "jp": "マップ兵器及び射程１以外の、武器からの最終ダメージ－２０％",
+  "en": "Final damage from weapons other than MAP and range 1 -20%",
+  "slot": 87
+ },
+ "0x0021FB": {
+  "jp": "精神コマンド「愛」の消費ＳＰ４５",
+  "en": "Spirit Command 'Love' SP cost 45",
+  "slot": 48
+ },
+ "0x002239": {
+  "jp": ",命中率＋１０％",
+  "en": ",Accuracy +10%",
+  "slot": 22
+ },
+ "0x002250": {
+  "jp": "回避率＋１０％",
+  "en": "Evasion +10%",
+  "slot": 21
+ },
+ "0x002266": {
+  "jp": "クリティカル発生率＋１０％",
+  "en": "Critical rate +10%",
+  "slot": 39
+ },
+ "0x002294": {
+  "jp": "命中率＋１０％、回避率＋１０％、クリティカル発生率＋１０％",
+  "en": "Accuracy +10%, Evasion +10%, Critical rate +10%",
+  "slot": 87
+ },
+ "0x0022F5": {
+  "jp": "\u001c格闘武器の与える、",
+  "en": "\u001cFinal damage of melee weapons",
+  "slot": 28
+ },
+ "0x002312": {
+  "jp": "最終ダメージ＋１０％",
+  "en": "final damage +10%",
+  "slot": 30
+ },
+ "0x002337": {
+  "jp": "格闘武器の与える、最終ダメージ＋１０％",
+  "en": "Melee weapons deal final damage +10%",
+  "slot": 57
+ },
+ "0x00237A": {
+  "jp": "\u001c射撃武器の与える、",
+  "en": "\u001cFinal damage of ranged weapons",
+  "slot": 28
+ },
+ "0x002397": {
+  "jp": "最終ダメージ＋１０％",
+  "en": "final damage +10%",
+  "slot": 30
+ },
+ "0x0023BC": {
+  "jp": "射撃武器の与える、最終ダメージ＋１０％",
+  "en": "Ranged weapons deal final damage +10%",
+  "slot": 57
+ },
+ "0x0023FF": {
+  "jp": "(受ける最終ダメージ－１０％",
+  "en": "(Final damage taken -10%",
+  "slot": 40
+ },
+ "0x002428": {
+  "jp": "獲得資金＋１０％",
+  "en": "Money gained +10%",
+  "slot": 24
+ },
+ "0x002447": {
+  "jp": "受ける最終ダメージ－１０％、獲得資金＋１０％",
+  "en": "Final damage taken -10%, Money gained +10%",
+  "slot": 66
+ },
+ "0x002493": {
+  "jp": "\u001c最終回避率＋１０％",
+  "en": "\u001cFinal evasion +10%",
+  "slot": 28
+ },
+ "0x0024B0": {
+  "jp": "獲得経験値＋１０％",
+  "en": "EXP gained +10%",
+  "slot": 27
+ },
+ "0x0024D2": {
+  "jp": "最終回避率＋１０％、獲得経験値＋１０％",
+  "en": "Final evasion +10%, EXP gained +10%",
+  "slot": 57
+ },
+ "0x002515": {
+  "jp": "\u0019反撃時に与える、",
+  "en": "\u0019Damage dealt on counter,",
+  "slot": 25
+ },
+ "0x00252F": {
+  "jp": "最終ダメージ＋１０％",
+  "en": "final damage +10%",
+  "slot": 30
+ },
+ "0x002554": {
+  "jp": "反撃時に与える、最終ダメージ＋１０％",
+  "en": "On counter, final damage dealt +10%",
+  "slot": 54
+ },
+ "0x002591": {
+  "jp": "移動力＋１",
+  "en": "Movement +1",
+  "slot": 15
+ },
+ "0x0025AA": {
+  "jp": "\u0016指揮効果＋５％",
+  "en": "\u0016Command effect +5%",
+  "slot": 22
+ },
+ "0x0025C1": {
+  "jp": "クリティカル発生率＋１０％",
+  "en": "Critical rate +10%",
+  "slot": 39
+ },
+ "0x0025EF": {
+  "jp": "指揮効果＋５％、クリティカル発生率＋１０％",
+  "en": "Command effect +5%, Critical rate +10%",
+  "slot": 63
+ },
+ "0x002635": {
+  "jp": "最終回避率＋１５％",
+  "en": "Final evasion +15%",
+  "slot": 27
+ },
+ "0x002657": {
+  "jp": "獲得経験値＋２０％",
+  "en": "EXP gained +20%",
+  "slot": 27
+ },
+ "0x002679": {
+  "jp": "獲得資金＋２０％",
+  "en": "Money gained +20%",
+  "slot": 24
+ },
+ "0x00269B": {
+  "jp": "\u001c最終命中率＋１０％",
+  "en": "\u001cFinal accuracy +10%",
+  "slot": 28
+ },
+ "0x0026B8": {
+  "jp": "受ける最終ダメージ－１０％",
+  "en": "Final damage taken -10%",
+  "slot": 39
+ },
+ "0x0026E6": {
+  "jp": "最終命中率＋１０％、受ける最終ダメージ－１０％",
+  "en": "Final accuracy +10%, Final damage taken -10%",
+  "slot": 69
+ },
+ "0x002732": {
+  "jp": "援護防御の最終ダメージ－３０％",
+  "en": "Support Defend final damage -30%",
+  "slot": 45
+ },
+ "0x002766": {
+  "jp": "受ける最終ダメージ－１０％",
+  "en": "Final damage taken -10%",
+  "slot": 39
+ },
+ "0x002797": {
+  "jp": "(マップ兵器及び射程１以外の",
+  "en": "(From weapons other than MAP",
+  "slot": 40
+ },
+ "0x0027C0": {
+  "jp": "武器からの最終ダメージ－１０％",
+  "en": "and range 1, final damage -10%",
+  "slot": 45
+ },
+ "0x0027F4": {
+  "jp": "マップ兵器及び射程１以外の、武器からの最終ダメージ－１０％",
+  "en": "Final damage from weapons other than MAP and range 1 -10%",
+  "slot": 87
+ },
+ "0x002852": {
+  "jp": "指揮効果＋５％",
+  "en": "Command effect +5%",
+  "slot": 21
+ },
+ "0x00286E": {
+  "jp": "クリティカル発生率＋４０％",
+  "en": "Critical rate +40%",
+  "slot": 39
+ },
+ "0x00289C": {
+  "jp": "気力１３０以上で、受ける最終ダメージ－１５％",
+  "en": "At 130+ Morale, final damage taken -15%",
+  "slot": 66
+ },
+ "0x0028E8": {
+  "jp": "\u001c最終命中率＋２０％",
+  "en": "\u001cFinal accuracy +20%",
+  "slot": 28
+ },
+ "0x002905": {
+  "jp": "受ける最終ダメージ－１０％",
+  "en": "Final damage taken -10%",
+  "slot": 39
+ },
+ "0x002933": {
+  "jp": "最終命中率＋２０％、受ける最終ダメージ－１０％",
+  "en": "Final accuracy +20%, Final damage taken -10%",
+  "slot": 69
+ },
+ "0x002986": {
+  "jp": ";射撃武器の与える、",
+  "en": ";Ranged weapons deal,",
+  "slot": 28
+ },
+ "0x0029A3": {
+  "jp": "最終ダメージ＋１０％",
+  "en": "final damage +10%",
+  "slot": 30
+ },
+ "0x0029C2": {
+  "jp": "回避率＋１０％",
+  "en": "Evasion +10%",
+  "slot": 21
+ },
+ "0x0029DE": {
+  "jp": "射撃武器の与える、最終ダメージ＋１０％、回避率＋１０％",
+  "en": "Ranged weapons deal final damage +10%, Evasion +10%",
+  "slot": 81
+ },
+ "0x002A39": {
+  "jp": "\u0016指揮効果＋５％",
+  "en": "\u0016Command effect +5%",
+  "slot": 22
+ },
+ "0x002A50": {
+  "jp": "受ける最終ダメージ－１０％",
+  "en": "Final damage taken -10%",
+  "slot": 39
+ },
+ "0x002A7E": {
+  "jp": "指揮効果＋５％、受ける最終ダメージ－１０％",
+  "en": "Command effect +5%, Final damage taken -10%",
+  "slot": 63
+ },
+ "0x002AC7": {
+  "jp": "\u0016回避率＋１０％",
+  "en": "\u0016Evasion +10%",
+  "slot": 22
+ },
+ "0x002ADE": {
+  "jp": "クリティカル発生率＋２０％",
+  "en": "Critical rate +20%",
+  "slot": 39
+ },
+ "0x002B0C": {
+  "jp": "回避率＋１０％、クリティカル発生率＋２０％",
+  "en": "Evasion +10%, Critical rate +20%",
+  "slot": 63
+ },
+ "0x002B59": {
+  "jp": "/命中率＋１０％",
+  "en": "/Accuracy +10%",
+  "slot": 22
+ },
+ "0x002B70": {
+  "jp": "反撃時に与える、",
+  "en": "Damage dealt on counter,",
+  "slot": 24
+ },
+ "0x002B89": {
+  "jp": "最終ダメージ＋１０％",
+  "en": "final damage +10%",
+  "slot": 30
+ },
+ "0x002BAE": {
+  "jp": "命中率＋１０％、反撃時に与える、最終ダメージ＋１０％",
+  "en": "Accuracy +10%, on counter final damage +10%",
+  "slot": 78
+ },
+ "0x002C06": {
+  "jp": "%受ける最終ダメージ－５％",
+  "en": "%Final damage taken -5%",
+  "slot": 37
+ },
+ "0x002C2C": {
+  "jp": "回避率＋５％",
+  "en": "Evasion +5%",
+  "slot": 18
+ },
+ "0x002C45": {
+  "jp": "受ける最終ダメージ－５％、回避率＋５％",
+  "en": "Final damage taken -5%, Evasion +5%",
+  "slot": 57
+ },
+ "0x002C8C": {
+  "jp": "&命中率＋５％",
+  "en": "&Accuracy +5%",
+  "slot": 19
+ },
+ "0x002CA0": {
+  "jp": "回避率＋５％",
+  "en": "Evasion +5%",
+  "slot": 18
+ },
+ "0x002CB3": {
+  "jp": "クリティカル発生率＋５％",
+  "en": "Critical rate +5%",
+  "slot": 36
+ },
+ "0x002CDE": {
+  "jp": "命中率＋５％、回避率＋５％、クリティカル発生率＋５％",
+  "en": "Accuracy +5%, Evasion +5%, Critical rate +5%",
+  "slot": 78
+ },
+ "0x002D36": {
+  "jp": "%受ける最終ダメージ－５％",
+  "en": "%Final damage taken -5%",
+  "slot": 37
+ },
+ "0x002D5C": {
+  "jp": "命中率＋１０％",
+  "en": "Accuracy +10%",
+  "slot": 21
+ },
+ "0x002D78": {
+  "jp": "受ける最終ダメージ－５％、命中率＋１０％",
+  "en": "Final damage taken -5%, Accuracy +10%",
+  "slot": 60
+ },
+ "0x002DBB": {
+  "jp": "受ける最終ダメージ－２０％",
+  "en": "Final damage taken -20%",
+  "slot": 39
+ },
+ "0x002DE9": {
+  "jp": "命中率＋１０％",
+  "en": "Accuracy +10%",
+  "slot": 21
+ },
+ "0x002E05": {
+  "jp": "クリティカル発生率＋１０％",
+  "en": "Critical rate +10%",
+  "slot": 39
+ },
+ "0x002E33": {
+  "jp": "回避率＋２０％",
+  "en": "Evasion +20%",
+  "slot": 21
+ },
+ "0x002E4F": {
+  "jp": "クリティカル発生率＋２０％",
+  "en": "Critical rate +20%",
+  "slot": 39
+ },
+ "0x002E7D": {
+  "jp": "命中率＋２０％",
+  "en": "Accuracy +20%",
+  "slot": 21
+ },
+ "0x002E99": {
+  "jp": "最終命中率＋１５％",
+  "en": "Final Accuracy +15%",
+  "slot": 27
+ },
+ "0x002EBE": {
+  "jp": "(与える最終ダメージ＋２０％",
+  "en": "(Final damage dealt +20%",
+  "slot": 40
+ },
+ "0x002EE7": {
+  "jp": "クリティカル発生率＋３０％",
+  "en": "Critical Rate +30%",
+  "slot": 39
+ },
+ "0x002F15": {
+  "jp": "与える最終ダメージ＋２０％、クリティカル発生率＋３０％",
+  "en": "Final damage dealt +20%, Critical Rate +30%",
+  "slot": 81
+ },
+ "0x002F6D": {
+  "jp": "与える最終ダメージ＋５％",
+  "en": "Final damage dealt +5%",
+  "slot": 36
+ },
+ "0x002F9B": {
+  "jp": "\u001c射撃武器の与える、",
+  "en": "\u001cFinal damage dealt by,",
+  "slot": 28
+ },
+ "0x002FB8": {
+  "jp": "最終ダメージ＋５％",
+  "en": "ranged weapons +5%",
+  "slot": 27
+ },
+ "0x002FDA": {
+  "jp": "射撃武器の与える、最終ダメージ＋５％",
+  "en": "Final damage dealt by ranged weapons +5%",
+  "slot": 54
+ },
+ "0x003017": {
+  "jp": "受ける最終ダメージ－５％",
+  "en": "Final damage taken -5%",
+  "slot": 36
+ },
+ "0x003042": {
+  "jp": "最終命中率＋１０％",
+  "en": "Final Accuracy +10%",
+  "slot": 27
+ },
+ "0x003067": {
+  "jp": "\u0013命中率＋５％",
+  "en": "\u0013Accuracy +5%",
+  "slot": 19
+ },
+ "0x00307B": {
+  "jp": "回避率＋５％",
+  "en": "Evasion +5%",
+  "slot": 18
+ },
+ "0x003094": {
+  "jp": "命中率＋５％、回避率＋５％",
+  "en": "Accuracy +5%, Evasion +5%",
+  "slot": 39
+ },
+ "0x0030C2": {
+  "jp": "クリティカル発生率＋５％",
+  "en": "Critical Rate +5%",
+  "slot": 36
+ },
+ "0x0030F0": {
+  "jp": "%カウンター発生率＋１５％",
+  "en": "%Counter Rate +15%",
+  "slot": 37
+ },
+ "0x003116": {
+  "jp": "クリティカル率＋２５％",
+  "en": "Critical Rate +25%",
+  "slot": 33
+ },
+ "0x00313E": {
+  "jp": "カウンター発生率＋１５％、クリティカル率＋２５％",
+  "en": "Counter Rate +15%, Critical Rate +25%",
+  "slot": 72
+ },
+ "0x00318D": {
+  "jp": "ＳＰ＋３０",
+  "en": "SP +30",
+  "slot": 15
+ },
+ "0x0031A6": {
+  "jp": "\u001c獲得経験値＋１０％",
+  "en": "\u001cEXP gained +10%",
+  "slot": 28
+ },
+ "0x0031C3": {
+  "jp": "精神コマンド「祝福」の消費ＳＰ２０",
+  "en": "Spirit command \"Bless\" costs 20 SP",
+  "slot": 51
+ },
+ "0x0031FD": {
+  "jp": "獲得経験値＋１０％、精神コマンド「祝福」の消費ＳＰ２０",
+  "en": "EXP gained +10%, Spirit \"Bless\" costs 20 SP",
+  "slot": 81
+ },
+ "0x003258": {
+  "jp": "\u001c最終回避率＋１０％",
+  "en": "\u001cFinal Evasion +10%",
+  "slot": 28
+ },
+ "0x003275": {
+  "jp": "受ける最終ダメージ－１０％",
+  "en": "Final damage taken -10%",
+  "slot": 39
+ },
+ "0x0032A3": {
+  "jp": "最終回避率＋１０％、受ける最終ダメージ－１０％",
+  "en": "Final Evasion +10%, Final damage taken -10%",
+  "slot": 69
+ },
+ "0x0032EF": {
+  "jp": "回避率＋１０％",
+  "en": "Evasion +10%",
+  "slot": 21
+ },
+ "0x00330E": {
+  "jp": "\u0019反撃時に与える、",
+  "en": "\u0019Final damage dealt on",
+  "slot": 25
+ },
+ "0x003328": {
+  "jp": "最終ダメージ＋５％",
+  "en": "counter +5%",
+  "slot": 27
+ },
+ "0x00334A": {
+  "jp": "反撃時に与える、最終ダメージ＋５％",
+  "en": "Final damage dealt on counter +5%",
+  "slot": 51
+ },
+ "0x00338B": {
+  "jp": "Aクリティカル発生率＋１０％",
+  "en": "ACritical Rate +10%",
+  "slot": 40
+ },
+ "0x0033B4": {
+  "jp": "反撃時に与える、",
+  "en": "Final damage dealt on",
+  "slot": 24
+ },
+ "0x0033CD": {
+  "jp": "最終ダメージ＋１０％",
+  "en": "counter +10%",
+  "slot": 30
+ },
+ "0x0033F2": {
+  "jp": "クリティカル発生率＋１０％、反撃時に与える、最終ダメージ＋１０％",
+  "en": "Critical Rate +10%, Final damage on counter +10%",
+  "slot": 96
+ },
+ "0x00345C": {
+  "jp": "(与える最終ダメージ＋１０％",
+  "en": "(Final damage dealt +10%",
+  "slot": 40
+ },
+ "0x003485": {
+  "jp": "命中率＋１０％",
+  "en": "Accuracy +10%",
+  "slot": 21
+ },
+ "0x0034A1": {
+  "jp": "与える最終ダメージ＋１０％、命中率＋１０％",
+  "en": "Final damage dealt +10%, Accuracy +10%",
+  "slot": 63
+ },
+ "0x0034EA": {
+  "jp": "%ラッキーの発生率＋１０％",
+  "en": "%Lucky Rate +10%",
+  "slot": 37
+ },
+ "0x003510": {
+  "jp": "最終回避率＋５％",
+  "en": "Final Evasion +5%",
+  "slot": 24
+ },
+ "0x00352F": {
+  "jp": "ラッキーの発生率＋１０％、最終回避率＋５％",
+  "en": "Lucky Rate +10%, Final Evasion +5%",
+  "slot": 63
+ },
+ "0x003575": {
+  "jp": "受ける最終ダメージ－１５％",
+  "en": "Final damage taken -15%",
+  "slot": 39
+ },
+ "0x0035A3": {
+  "jp": "クリティカル発生率＋３０％",
+  "en": "Critical Rate +30%",
+  "slot": 39
+ },
+ "0x0035D4": {
+  "jp": "\u0016指揮効果＋５％",
+  "en": "\u0016Command Effect +5%",
+  "slot": 22
+ },
+ "0x0035EB": {
+  "jp": "最終命中率＋１０％",
+  "en": "Final Accuracy +10%",
+  "slot": 27
+ },
+ "0x00360D": {
+  "jp": "指揮効果＋５％、最終命中率＋１０％",
+  "en": "Command Effect +5%, Final Accuracy +10%",
+  "slot": 51
+ },
+ "0x003647": {
+  "jp": "気力１６０以上で、自軍フェイズ開始時に「覚醒」が掛かる",
+  "en": "At 160+ Morale, gain \"Awaken\" at own phase start",
+  "slot": 81
+ },
+ "0x0036A2": {
+  "jp": "\u0019獲得資金＋１０％",
+  "en": "\u0019Funds gained +10%",
+  "slot": 25
+ },
+ "0x0036BC": {
+  "jp": "ＳＰ＋１５",
+  "en": "SP +15",
+  "slot": 15
+ },
+ "0x0036D2": {
+  "jp": "獲得資金＋１０％、ＳＰ＋１５",
+  "en": "Funds gained +10%, SP +15",
+  "slot": 42
+ },
+ "0x00370A": {
+  "jp": "D与える最終ダメージ＋２０％",
+  "en": "DFinal damage dealt +20%",
+  "slot": 40
+ },
+ "0x003733": {
+  "jp": "最終命中率＋１５％",
+  "en": "Final Accuracy +15%",
+  "slot": 27
+ },
+ "0x00374F": {
+  "jp": "クリティカル発生率＋１５％",
+  "en": "Critical Rate +15%",
+  "slot": 39
+ },
+ "0x003780": {
+  "jp": "I与える最終ダメージ＋２０％、最終命中率＋１５％、",
+  "en": "IFinal damage dealt +20%, Final Accuracy +15%,",
+  "slot": 73
+ },
+ "0x0037CA": {
+  "jp": "クリティカル発生率＋１５％",
+  "en": "Critical Rate +15%",
+  "slot": 39
+ },
+ "0x0037FF": {
+  "jp": "D与える最終ダメージ＋１５％",
+  "en": "DFinal damage dealt +15%",
+  "slot": 40
+ },
+ "0x003828": {
+  "jp": "最終命中率＋１０％",
+  "en": "Final Accuracy +10%",
+  "slot": 27
+ },
+ "0x003844": {
+  "jp": "クリティカル発生率＋１０％",
+  "en": "Critical Rate +10%",
+  "slot": 39
+ },
+ "0x003875": {
+  "jp": "I与える最終ダメージ＋１５％、最終命中率＋１０％、",
+  "en": "IFinal damage dealt +15%, Final Accuracy +10%,",
+  "slot": 73
+ },
+ "0x0038BF": {
+  "jp": "クリティカル発生率＋１０％",
+  "en": "Critical Rate +10%",
+  "slot": 39
+ },
+ "0x0038F4": {
+  "jp": "D与える最終ダメージ＋１０％",
+  "en": "DFinal damage dealt +10%",
+  "slot": 40
+ },
+ "0x00391D": {
+  "jp": "最終命中率＋１０％",
+  "en": "Final Accuracy +10%",
+  "slot": 27
+ },
+ "0x003939": {
+  "jp": "クリティカル発生率＋１０％",
+  "en": "Critical Rate +10%",
+  "slot": 39
+ },
+ "0x00396A": {
+  "jp": "I与える最終ダメージ＋１０％、最終命中率＋１０％、",
+  "en": "IFinal damage dealt +10%, Final Accuracy +10%,",
+  "slot": 73
+ },
+ "0x0039B4": {
+  "jp": "クリティカル発生率＋１０％",
+  "en": "Critical Rate +10%",
+  "slot": 39
+ },
+ "0x0039E5": {
+  "jp": "%受ける最終ダメージ－５％",
+  "en": "%Final damage taken -5%",
+  "slot": 37
+ },
+ "0x003A0B": {
+  "jp": "最終回避率＋１０％",
+  "en": "Final Evasion +10%",
+  "slot": 27
+ },
+ "0x003A2D": {
+  "jp": "受ける最終ダメージ－５％、最終回避率＋１０％",
+  "en": "Final damage taken -5%, Final Evasion +10%",
+  "slot": 66
+ },
+ "0x003A79": {
+  "jp": "\u001c最終命中率＋１０％",
+  "en": "\u001cFinal Accuracy +10%",
+  "slot": 28
+ },
+ "0x003A96": {
+  "jp": "クリティカル発生率＋１５％",
+  "en": "Critical Rate +15%",
+  "slot": 39
+ },
+ "0x003AC4": {
+  "jp": "最終命中率＋１０％、クリティカル発生率＋１５％",
+  "en": "Final Accuracy +10%, Critical Rate +15%",
+  "slot": 69
+ },
+ "0x003B10": {
+  "jp": "精神コマンド「再動」の消費ＳＰ４５",
+  "en": "Spirit command \"Reawaken\" costs 45 SP",
+  "slot": 51
+ },
+ "0x003B51": {
+  "jp": "Dクリティカル発生率＋３０％",
+  "en": "DCritical Rate +30%",
+  "slot": 40
+ },
+ "0x003B7A": {
+  "jp": "格闘武器の与える、",
+  "en": "Final damage dealt by",
+  "slot": 27
+ },
+ "0x003B96": {
+  "jp": "最終ダメージ＋５％",
+  "en": "melee weapons +5%",
+  "slot": 27
+ },
+ "0x003BBB": {
+  "jp": "Fクリティカル発生率＋３０％、格闘武器の与える、",
+  "en": "FCritical Rate +30%, Final damage by melee,",
+  "slot": 70
+ },
+ "0x003C02": {
+  "jp": "最終ダメージ＋５％",
+  "en": "weapons +5%",
+  "slot": 27
+ },
+ "0x003C27": {
+  "jp": "\u001c最終回避率＋１０％",
+  "en": "\u001cFinal Evasion +10%",
+  "slot": 28
+ },
+ "0x003C44": {
+  "jp": "クリティカル発生率＋１５％",
+  "en": "Critical Rate +15%",
+  "slot": 39
+ },
+ "0x003C72": {
+  "jp": "最終回避率＋１０％、クリティカル発生率＋１５％",
+  "en": "Final Evasion +10%, Critical Rate +15%",
+  "slot": 69
+ },
+ "0x003CBE": {
+  "jp": "援護攻撃の最終ダメージ＋１５％",
+  "en": "Support Attack final damage +15%",
+  "slot": 45
+ },
+ "0x003CF5": {
+  "jp": "\u0019最終命中率＋５％",
+  "en": "\u0019Final Accuracy +5%",
+  "slot": 25
+ },
+ "0x003D0F": {
+  "jp": "クリティカル発生率＋１０％",
+  "en": "Critical Rate +10%",
+  "slot": 39
+ },
+ "0x003D3D": {
+  "jp": "最終命中率＋５％、クリティカル発生率＋１０％",
+  "en": "Final Accuracy +5%, Critical Rate +10%",
+  "slot": 66
+ },
+ "0x003D89": {
+  "jp": "\u0019最終回避率＋５％",
+  "en": "\u0019Final Evasion +5%",
+  "slot": 25
+ },
+ "0x003DA3": {
+  "jp": "クリティカル発生率＋１０％",
+  "en": "Critical Rate +10%",
+  "slot": 39
+ },
+ "0x003DD1": {
+  "jp": "最終回避率＋５％、クリティカル発生率＋１０％",
+  "en": "Final Evasion +5%, Critical Rate +10%",
+  "slot": 66
+ },
+ "0x003E1A": {
+  "jp": "カウンター発生率＋４０％",
+  "en": "Counter Rate +40%",
+  "slot": 36
+ },
+ "0x003E48": {
+  "jp": "\u0019最終命中率＋５％",
+  "en": "\u0019Final Accuracy +5%",
+  "slot": 25
+ },
+ "0x003E62": {
+  "jp": "最終回避率＋５％",
+  "en": "Final Evasion +5%",
+  "slot": 24
+ },
+ "0x003E81": {
+  "jp": "最終命中率＋５％、最終回避率＋５％",
+  "en": "Final Accuracy +5%, Final Evasion +5%",
+  "slot": 51
+ },
+ "0x003EBB": {
+  "jp": "ＨＰ３０％以下になると、一度だけ「鉄壁」が掛かる",
+  "en": "When HP falls below 30%, gain \"Iron Wall\" once",
+  "slot": 72
+ },
+ "0x003F0A": {
+  "jp": "技量＋２５",
+  "en": "Skill +25",
+  "slot": 15
+ },
+ "0x003F20": {
+  "jp": "ＨＰ３０％以下になると、一度だけ「気迫」が掛かる",
+  "en": "When HP falls below 30%, gain \"Drive\" once",
+  "slot": 72
+ },
+ "0x003F6F": {
+  "jp": "精神コマンド「修行」の消費ＳＰ２５",
+  "en": "Spirit command \"Zeal\" costs 25 SP",
+  "slot": 51
+ },
+ "0x003FA9": {
+  "jp": "精神コマンド「脱力」の消費ＳＰ２０",
+  "en": "Spirit command \"Fury\" costs 20 SP",
+  "slot": 51
+ },
+ "0x003FE6": {
+  "jp": "(マップ兵器及び射程１以外の",
+  "en": "(Range of weapons other than",
+  "slot": 40
+ },
+ "0x00400F": {
+  "jp": "武器の射程＋１",
+  "en": "MAP and range-1 +1",
+  "slot": 21
+ },
+ "0x00402B": {
+  "jp": "マップ兵器及び射程１以外の、武器の射程＋１",
+  "en": "Range of weapons other than MAP and range-1 +1",
+  "slot": 63
+ },
+ "0x004071": {
+  "jp": "精神コマンド「補給」の消費ＳＰ４０",
+  "en": "Spirit command \"Resupply\" costs 40 SP",
+  "slot": 51
+ },
+ "0x0040AB": {
+  "jp": "自軍フェイズ開始時に「幸運」が掛かる",
+  "en": "Gain \"Luck\" at own phase start",
+  "slot": 54
+ },
+ "0x0040E8": {
+  "jp": "気力１３０以上で、自軍フェイズ開始時に「努力」が掛かる",
+  "en": "At 130+ Morale, gain \"Gain\" at own phase start",
+  "slot": 81
+ },
+ "0x004140": {
+  "jp": "気力１３０以上で、最終命中率＋１５％、最終回避率＋１５％",
+  "en": "At 130+ Morale, Final Accuracy +15%, Final Evasion +15%",
+  "slot": 84
+ },
+ "0x00419B": {
+  "jp": "ＨＰ５０％以下で、一度だけ「かく乱」を使用する",
+  "en": "Below 50% HP, use \"Disrupt\" once",
+  "slot": 69
+ },
+ "0x0041E7": {
+  "jp": "気力１４０以上で、自軍フェイズ開始時に「集中」が掛かる",
+  "en": "At 140+ Morale, gain \"Focus\" at own phase start",
+  "slot": 81
+ },
+ "0x00423F": {
+  "jp": "ＨＰ６０％以下で、一度だけ「覚醒」が掛かる",
+  "en": "Below 60% HP, gain \"Awaken\" once",
+  "slot": 63
+ },
+ "0x004285": {
+  "jp": "全ての地形適応が「Ｓ」になる",
+  "en": "All terrain ratings become \"S\"",
+  "slot": 42
+ },
+ "0x0042B6": {
+  "jp": "ＨＰ３０％以下で、自軍フェイズ開始時に「集中」が掛かる",
+  "en": "Below 30% HP, gain \"Focus\" at own phase start",
+  "slot": 81
+ },
+ "0x00430E": {
+  "jp": "精神コマンド「覚醒」の消費ＳＰ３０",
+  "en": "Spirit command \"Awaken\" costs 30 SP",
+  "slot": 51
+ },
+ "0x004348": {
+  "jp": "精神コマンド「ド根性」の消費ＳＰ１５",
+  "en": "Spirit command \"Guts\" costs 15 SP",
+  "slot": 54
+ },
+ "0x004385": {
+  "jp": "ＨＰ５０％以下で、最終命中率＋２０％",
+  "en": "Below 50% HP, Final Accuracy +20%",
+  "slot": 54
+ },
+ "0x0043C2": {
+  "jp": "技量＋３０、最終命中率＋１５％",
+  "en": "Skill +30, Final Accuracy +15%",
+  "slot": 45
+ },
+ "0x0043F9": {
+  "jp": "\u001c最終命中率＋１５％",
+  "en": "\u001cFinal Accuracy +15%",
+  "slot": 28
+ },
+ "0x004416": {
+  "jp": "ＳＰ＋１５",
+  "en": "SP +15",
+  "slot": 15
+ },
+ "0x00442C": {
+  "jp": "最終命中率＋１５％、ＳＰ＋１５",
+  "en": "Final Accuracy +15%, SP +15",
+  "slot": 45
+ },
+ "0x004460": {
+  "jp": "気力１４０以上で、一度だけ「絆」を使用する",
+  "en": "At 140+ Morale, use \"Bond\" once",
+  "slot": 63
+ },
+ "0x0044A6": {
+  "jp": "気力１３０以上で、自軍フェイズ開始時に「直撃」が掛かる",
+  "en": "At 130+ Morale, gain \"Direct Hit\" at own phase start",
+  "slot": 81
+ },
+ "0x0044FE": {
+  "jp": "ＨＰ４０％以下になると、一度だけ「愛」が掛かる",
+  "en": "When HP falls below 40%, gain \"Love\" once",
+  "slot": 69
+ },
+ "0x00454A": {
+  "jp": "ＨＰ１０％以下になると、一度だけ「祝福」が掛かる",
+  "en": "When HP falls below 10%, gain \"Bless\" once",
+  "slot": 72
+ },
+ "0x004599": {
+  "jp": "精神コマンド「信頼」の消費ＳＰ１０",
+  "en": "Spirit command \"Support\" costs 10 SP",
+  "slot": 51
+ },
+ "0x0045D3": {
+  "jp": "カウンター発生率＋２０％",
+  "en": "Counter Rate +20%",
+  "slot": 36
+ },
+ "0x0045FE": {
+  "jp": "ＨＰ４０％以下で、一度だけ「かく乱」を使用する",
+  "en": "Below 40% HP, use \"Disrupt\" once",
+  "slot": 69
+ },
+ "0x00464A": {
+  "jp": "ＨＰ２０％以下で、自軍フェイズ開始時に「闘志」が掛かる",
+  "en": "At self phase start, gain \"Fervor\" when HP is 20% or less",
+  "slot": 81
+ },
+ "0x0046A5": {
+  "jp": "(クリティカル発生率＋１０％",
+  "en": "(Critical rate +10%",
+  "slot": 40
+ },
+ "0x0046CE": {
+  "jp": "援護攻撃の最終ダメージ＋１０％",
+  "en": "Support attack final damage +10%",
+  "slot": 45
+ },
+ "0x004702": {
+  "jp": "クリティカル発生率＋１０％、援護攻撃の最終ダメージ＋１０％",
+  "en": "Critical rate +10%, support attack final damage +10%",
+  "slot": 87
+ }
+}

@@ -1,0 +1,499 @@
+{
+ "0x003863": {
+  "jp": "昇順ソート",
+  "en": "Sort Ascending",
+  "slot": 15,
+  "budget": 10,
+  "vis_len": 14
+ },
+ "0x0038BD": {
+  "jp": "頁頭へ／頁末へ",
+  "en": "To Top/To Bottom",
+  "slot": 21,
+  "budget": 14,
+  "vis_len": 16
+ },
+ "0x0038E9": {
+  "jp": "ソート条件切換",
+  "en": "Toggle Sort Order",
+  "slot": 21,
+  "budget": 14,
+  "vis_len": 17
+ },
+ "0x003918": {
+  "jp": "サブ情報切換",
+  "en": "Toggle Sub Info",
+  "slot": 18,
+  "budget": 12,
+  "vis_len": 15
+ },
+ "0x00398D": {
+  "jp": "能力（乗せ換え前）",
+  "en": "Ability (Before Swap)",
+  "slot": 27,
+  "budget": 18,
+  "vis_len": 21
+ },
+ "0x003A7E": {
+  "jp": "全機体の換装武器全解除",
+  "en": "Unequip all swap weapons on all units",
+  "slot": 33,
+  "budget": 22,
+  "vis_len": 37
+ },
+ "0x003AA6": {
+  "jp": "換装武器全解除",
+  "en": "Unequip all swap weapons",
+  "slot": 21,
+  "budget": 14,
+  "vis_len": 24
+ },
+ "0x003AC2": {
+  "jp": "分類切換",
+  "en": "Switch Category",
+  "slot": 12,
+  "budget": 8,
+  "vis_len": 15
+ },
+ "0x003AD5": {
+  "jp": "武器分類切換",
+  "en": "Switch weapon category",
+  "slot": 18,
+  "budget": 12,
+  "vis_len": 22
+ },
+ "0x003B2F": {
+  "jp": "武器変更",
+  "en": "Change Weapon",
+  "slot": 12,
+  "budget": 8,
+  "vis_len": 13
+ },
+ "0x003B42": {
+  "jp": "武器を変更",
+  "en": "Change the weapon",
+  "slot": 15,
+  "budget": 10,
+  "vis_len": 17
+ },
+ "0x003B81": {
+  "jp": "装備機体確認",
+  "en": "Check equipped unit",
+  "slot": 18,
+  "budget": 12,
+  "vis_len": 19
+ },
+ "0x003B9A": {
+  "jp": "パーツ分類切換",
+  "en": "Switch parts category",
+  "slot": 21,
+  "budget": 14,
+  "vis_len": 21
+ },
+ "0x003C1E": {
+  "jp": "変形確認",
+  "en": "Check transform",
+  "slot": 12,
+  "budget": 8,
+  "vis_len": 15
+ },
+ "0x003C31": {
+  "jp": "武器改造",
+  "en": "Weapon Upgrade",
+  "slot": 12,
+  "budget": 8,
+  "vis_len": 14
+ },
+ "0x003C44": {
+  "jp": "武器の改造",
+  "en": "Upgrade weapon",
+  "slot": 15,
+  "budget": 10,
+  "vis_len": 14
+ },
+ "0x003C5A": {
+  "jp": "改造値入力",
+  "en": "Input upgrade value",
+  "slot": 15,
+  "budget": 10,
+  "vis_len": 19
+ },
+ "0x003D1C": {
+  "jp": "アビリティ分類切換",
+  "en": "Switch ability category",
+  "slot": 27,
+  "budget": 18,
+  "vis_len": 23
+ },
+ "0x003D3E": {
+  "jp": "一覧表示分類切換",
+  "en": "Switch list category",
+  "slot": 24,
+  "budget": 16,
+  "vis_len": 20
+ },
+ "0x003D96": {
+  "jp": "検索項目設定",
+  "en": "Set search items",
+  "slot": 18,
+  "budget": 12,
+  "vis_len": 16
+ },
+ "0x003DAF": {
+  "jp": "検索切換",
+  "en": "Switch Search",
+  "slot": 12,
+  "budget": 8,
+  "vis_len": 13
+ },
+ "0x003DC2": {
+  "jp": "検索項目切換",
+  "en": "Switch search item",
+  "slot": 18,
+  "budget": 12,
+  "vis_len": 18
+ },
+ "0x003EC2": {
+  "jp": "設定を元に戻す",
+  "en": "Revert settings",
+  "slot": 21,
+  "budget": 14,
+  "vis_len": 15
+ },
+ "0x003EDE": {
+  "jp": "設定選択",
+  "en": "Select setting",
+  "slot": 12,
+  "budget": 8,
+  "vis_len": 14
+ },
+ "0x003EFE": {
+  "jp": "先攻切換",
+  "en": "Toggle first strike",
+  "slot": 12,
+  "budget": 8,
+  "vis_len": 19
+ },
+ "0x003F24": {
+  "jp": "情報表示の切換",
+  "en": "Switch info display",
+  "slot": 21,
+  "budget": 14,
+  "vis_len": 19
+ },
+ "0x003F53": {
+  "jp": "機体分類切換",
+  "en": "Switch unit category",
+  "slot": 18,
+  "budget": 12,
+  "vis_len": 20
+ },
+ "0x003F6C": {
+  "jp": "パイロット分類切換",
+  "en": "Switch pilot category",
+  "slot": 27,
+  "budget": 18,
+  "vis_len": 21
+ },
+ "0x003F8E": {
+  "jp": "背景分類切換",
+  "en": "Switch background category",
+  "slot": 18,
+  "budget": 12,
+  "vis_len": 26
+ },
+ "0x003FB4": {
+  "jp": "再生（試聴）",
+  "en": "Play (preview)",
+  "slot": 18,
+  "budget": 12,
+  "vis_len": 14
+ },
+ "0x004022": {
+  "jp": "選択終了",
+  "en": "End selection",
+  "slot": 12,
+  "budget": 8,
+  "vis_len": 13
+ },
+ "0x004035": {
+  "jp": "設定画面へ",
+  "en": "To settings screen",
+  "slot": 15,
+  "budget": 10,
+  "vis_len": 18
+ },
+ "0x00406B": {
+  "jp": "選択／ページ切換",
+  "en": "Select/Switch page",
+  "slot": 24,
+  "budget": 16,
+  "vis_len": 18
+ },
+ "0x0040D5": {
+  "jp": "説明文スクロール",
+  "en": "Scroll description",
+  "slot": 24,
+  "budget": 16,
+  "vis_len": 18
+ },
+ "0x00414D": {
+  "jp": "キャラクターを変更",
+  "en": "Change the character",
+  "slot": 27,
+  "budget": 18,
+  "vis_len": 20
+ },
+ "0x004206": {
+  "jp": "反撃設定（全項目の内容）をコピー",
+  "en": "Copy counter settings (all items)",
+  "slot": 48,
+  "budget": 32,
+  "vis_len": 33
+ },
+ "0x004250": {
+  "jp": "コピーした反撃設定へ変更",
+  "en": "Apply copied counter settings",
+  "slot": 36,
+  "budget": 24,
+  "vis_len": 29
+ },
+ "0x004288": {
+  "jp": "基本曲に戻す",
+  "en": "Revert to default song",
+  "slot": 18,
+  "budget": 12,
+  "vis_len": 22
+ },
+ "0x0042C4": {
+  "jp": "マップの機体の場所へ",
+  "en": "To unit's location on map",
+  "slot": 30,
+  "budget": 20,
+  "vis_len": 25
+ },
+ "0x0042F6": {
+  "jp": "情報切換（部隊）",
+  "en": "Switch info (squad)",
+  "slot": 24,
+  "budget": 16,
+  "vis_len": 19
+ },
+ "0x004328": {
+  "jp": "勢力（敵／味方）切換",
+  "en": "Switch side (enemy/ally)",
+  "slot": 30,
+  "budget": 20,
+  "vis_len": 24
+ },
+ "0x00434D": {
+  "jp": "マップの部隊の場所へ",
+  "en": "To squad's location on map",
+  "slot": 30,
+  "budget": 20,
+  "vis_len": 26
+ },
+ "0x00437F": {
+  "jp": "情報切換（機体）",
+  "en": "Switch info (unit)",
+  "slot": 24,
+  "budget": 16,
+  "vis_len": 18
+ },
+ "0x0043DD": {
+  "jp": "精神コマンド",
+  "en": "Spirit command",
+  "slot": 18,
+  "budget": 12,
+  "vis_len": 14
+ },
+ "0x004416": {
+  "jp": "援護切換",
+  "en": "Switch support",
+  "slot": 12,
+  "budget": 8,
+  "vis_len": 14
+ },
+ "0x004429": {
+  "jp": "援護ＯＮ／ＯＦＦ切換",
+  "en": "Toggle support ON/OFF",
+  "slot": 30,
+  "budget": 20,
+  "vis_len": 21
+ },
+ "0x00444E": {
+  "jp": "反撃設定",
+  "en": "Counter Setup",
+  "slot": 12,
+  "budget": 8,
+  "vis_len": 13
+ },
+ "0x004461": {
+  "jp": "反撃時の行動切換",
+  "en": "Switch counter action",
+  "slot": 24,
+  "budget": 16,
+  "vis_len": 21
+ },
+ "0x004493": {
+  "jp": "矢印シーン切換",
+  "en": "Switch arrow scene",
+  "slot": 21,
+  "budget": 14,
+  "vis_len": 18
+ },
+ "0x0044C2": {
+  "jp": "一覧表示へ切換",
+  "en": "Switch to list view",
+  "slot": 21,
+  "budget": 14,
+  "vis_len": 19
+ },
+ "0x0044F1": {
+  "jp": "通常表示へ切換",
+  "en": "Switch to normal view",
+  "slot": 21,
+  "budget": 14,
+  "vis_len": 21
+ },
+ "0x00451A": {
+  "jp": "表示切換",
+  "en": "Switch display",
+  "slot": 12,
+  "budget": 8,
+  "vis_len": 14
+ },
+ "0x004570": {
+  "jp": "機体・武器改造",
+  "en": "Unit/Weapon Upgrade",
+  "slot": 21,
+  "budget": 14,
+  "vis_len": 19
+ },
+ "0x00458C": {
+  "jp": "支援武器",
+  "en": "Support Weapon",
+  "slot": 12,
+  "budget": 8,
+  "vis_len": 14
+ },
+ "0x00459F": {
+  "jp": "支援武器を変更",
+  "en": "Change Support Weapon",
+  "slot": 21,
+  "budget": 14,
+  "vis_len": 21
+ },
+ "0x0045BB": {
+  "jp": "検索項目の設定",
+  "en": "Set Search Terms",
+  "slot": 21,
+  "budget": 14,
+  "vis_len": 16
+ },
+ "0x0045D7": {
+  "jp": "設定のクリア",
+  "en": "Clear Settings",
+  "slot": 18,
+  "budget": 12,
+  "vis_len": 14
+ },
+ "0x0045F0": {
+  "jp": "設定の切換",
+  "en": "Switch Settings",
+  "slot": 15,
+  "budget": 10,
+  "vis_len": 15
+ },
+ "0x004606": {
+  "jp": "優先の切換",
+  "en": "Switch Priority",
+  "slot": 15,
+  "budget": 10,
+  "vis_len": 15
+ },
+ "0x004700": {
+  "jp": "全隊逆順配置",
+  "en": "Reverse All Units",
+  "slot": 18,
+  "budget": 12,
+  "vis_len": 17
+ },
+ "0x0047BE": {
+  "jp": "詳細確認画面へ",
+  "en": "To Details Screen",
+  "slot": 21,
+  "budget": 14,
+  "vis_len": 17
+ },
+ "0x0047DA": {
+  "jp": "武器変更（メイン）",
+  "en": "Change Weapon (Main)",
+  "slot": 27,
+  "budget": 18,
+  "vis_len": 20
+ },
+ "0x0047FC": {
+  "jp": "メイン機体の武器変更",
+  "en": "Change Main Unit Weapon",
+  "slot": 30,
+  "budget": 20,
+  "vis_len": 23
+ },
+ "0x004821": {
+  "jp": "武器変更（サブ）",
+  "en": "Change Weapon (Sub)",
+  "slot": 24,
+  "budget": 16,
+  "vis_len": 19
+ },
+ "0x004840": {
+  "jp": "サブ機体の武器変更",
+  "en": "Change Sub Unit Weapon",
+  "slot": 27,
+  "budget": 18,
+  "vis_len": 22
+ },
+ "0x004862": {
+  "jp": "参加機体を切換",
+  "en": "Switch Active Unit",
+  "slot": 21,
+  "budget": 14,
+  "vis_len": 18
+ },
+ "0x004995": {
+  "jp": "台詞の自動送り＆速度調整",
+  "en": "Auto-Advance & Speed Adjust",
+  "slot": 36,
+  "budget": 24,
+  "vis_len": 27
+ },
+ "0x004A40": {
+  "jp": "スロットに曲を登録",
+  "en": "Register Song to Slot",
+  "slot": 27,
+  "budget": 18,
+  "vis_len": 21
+ },
+ "0x004A75": {
+  "jp": "最新の情報へ更新する",
+  "en": "Update to Latest Info",
+  "slot": 30,
+  "budget": 20,
+  "vis_len": 21
+ },
+ "0x004A9A": {
+  "jp": "曲分類切換",
+  "en": "Switch Song Category",
+  "slot": 15,
+  "budget": 10,
+  "vis_len": 20
+ },
+ "0x004AB0": {
+  "jp": "再生（置換元を試聴）",
+  "en": "Play (Preview Original)",
+  "slot": 30,
+  "budget": 20,
+  "vis_len": 23
+ }
+}

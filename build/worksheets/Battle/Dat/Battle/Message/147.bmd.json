@@ -1,0 +1,937 @@
+{
+"0x00502E": {
+"jp": "「くらえ！」",
+"en": "「Take this!」",
+"slot": 18
+},
+"0x005041": {
+"jp": "「俺が相手をしてやる！」",
+"en": "「I'll be your opponent!」",
+"slot": 36
+},
+"0x005066": {
+"jp": "「そこだ！」",
+"en": "「Right there!」",
+"slot": 18
+},
+"0x005079": {
+"jp": "「仕留める！」",
+"en": "「I'll end this!」",
+"slot": 21
+},
+"0x00508F": {
+"jp": "「確実な攻撃を！」",
+"en": "「A sure strike!」",
+"slot": 27
+},
+"0x0050AB": {
+"jp": "「ここで食い止める！」",
+"en": "「I'll stop you here!」",
+"slot": 33
+},
+"0x0050CD": {
+"jp": "「好きにはやらせん！」",
+"en": "「You won't have your way!」",
+"slot": 33
+},
+"0x0050EF": {
+"jp": "「力の差を教えてやる！」",
+"en": "「I'll show you the power gap!」",
+"slot": 36
+},
+"0x005114": {
+"jp": "「今までの連中と同じにするなよ！」",
+"en": "「Don't lump me with the others!」",
+"slot": 51
+},
+"0x005148": {
+"jp": "「お前達はここで終わりだ！」",
+"en": "「You all end here!」",
+"slot": 42
+},
+"0x005173": {
+"jp": "「選ばれた者達の力を見せてやる！」",
+"en": "「I'll show you the power of the chosen!」",
+"slot": 51
+},
+"0x0051A7": {
+"jp": "「母艦さえ落とせば、貴様らも終わりだ！」",
+"en": "「Down the mothership and you're finished!」",
+"slot": 60
+},
+"0x0051E4": {
+"jp": "「奴らの要はあの艦だ！　沈めてみせる！」",
+"en": "「Their key is that ship! I'll sink it!」",
+"slot": 60
+},
+"0x005221": {
+"jp": "「スペースノア級と言えども！」",
+"en": "「Even a Space Noah class!」",
+"slot": 45
+},
+"0x00524F": {
+"jp": "「何がＳＲＸ計画だ、笑わせるな！」",
+"en": "「SRX Project? Don't make me laugh!」",
+"slot": 51
+},
+"0x005283": {
+"jp": "「所詮は試作機！　すぐにボロが出るさ！」",
+"en": "「Just a prototype! It'll show cracks soon!」",
+"slot": 60
+},
+"0x0052C0": {
+"jp": "「奴らを合体させるわけには！」",
+"en": "「I can't let them combine!」",
+"slot": 45
+},
+"0x0052EE": {
+"jp": "「１機落とせば、合体できまい！」",
+"en": "「Down one and they can't combine!」",
+"slot": 48
+},
+"0x00531F": {
+"jp": "「新型め、落ちろ！」",
+"en": "「Fall, you prototype!」",
+"slot": 30
+},
+"0x00533E": {
+"jp": "「新型か！　落とすぞ！」",
+"en": "「Prototype! I'll take it down!」",
+"slot": 36
+},
+"0x005363": {
+"jp": "「行くぞ、新型！」",
+"en": "「Let's go, prototype!」",
+"slot": 27
+},
+"0x00537F": {
+"jp": "「所詮はアーマードモジュールだ！/　落とせる！」",
+"en": "「Just an Armored Module!/ I can down it!」",
+"slot": 70
+},
+"0x0053C6": {
+"jp": "「プロジェクトごと消え去れ！」",
+"en": "「Vanish, project and all!」",
+"slot": 45
+},
+"0x0053F4": {
+"jp": "「所詮は速さだけが取り柄の機体だ！」",
+"en": "「Speed's its only strong point!」",
+"slot": 54
+},
+"0x00542B": {
+"jp": "「フン、図体がでかいだけの機体だ！」",
+"en": "「Hmph, a machine that's all bulk!」",
+"slot": 54
+},
+"0x005462": {
+"jp": "「見かけ倒しめ！」",
+"en": "「You're all show!」",
+"slot": 27
+},
+"0x00547E": {
+"jp": "「所詮は力だけの機体だ！」",
+"en": "「Just brute force, nothing more!」",
+"slot": 39
+},
+"0x0054A6": {
+"jp": "「その装甲、貫いてやる！」",
+"en": "「I'll pierce that armor!」",
+"slot": 39
+},
+"0x0054CE": {
+"jp": "「特機は最優先で落とす！」",
+"en": "「Special units go down first!」",
+"slot": 39
+},
+"0x0054F6": {
+"jp": "「旧式の改造機など楽勝だ！」",
+"en": "「An old machine tweaked up? Easy!」",
+"slot": 42
+},
+"0x005521": {
+"jp": "「見た目は強そうだがな！」",
+"en": "「Looks tough, but so what!」",
+"slot": 39
+},
+"0x005549": {
+"jp": "「間合いを取れば、落とせる！」",
+"en": "「Keep my distance and I can down it!」",
+"slot": 45
+},
+"0x005577": {
+"jp": "「ゲシュペンストの改造機など！」",
+"en": "「Just a modified Gespenst!」",
+"slot": 48
+},
+"0x0055A8": {
+"jp": "「その名の通り、幽霊にしてやる！」",
+"en": "「Fitting name - I'll make you a ghost!」",
+"slot": 51
+},
+"0x0055DC": {
+"jp": "「幽霊め、成仏させてやるぞ！」",
+"en": "「Ghost, I'll lay you to rest!」",
+"slot": 45
+},
+"0x00560A": {
+"jp": "「所詮は旧式、恐れることはない！」",
+"en": "「Just an old model, nothing to fear!」",
+"slot": 51
+},
+"0x00563E": {
+"jp": "「アダ名どおりに消え去れ！」",
+"en": "「Vanish, just like your nickname!」",
+"slot": 42
+},
+"0x005669": {
+"jp": "「行くぞ、ヒュッケバイン！」",
+"en": "「Here I come, Huckebein!」",
+"slot": 42
+},
+"0x005694": {
+"jp": "「ヒュッケバインの後継機か……！」",
+"en": "「The Huckebein's successor...!」",
+"slot": 51
+},
+"0x0056C8": {
+"jp": "「冗談は見た目だけにしろ！」",
+"en": "「Keep the joke to your looks!」",
+"slot": 42
+},
+"0x0056F3": {
+"jp": "「あの機体、何の冗談だ……！？」",
+"en": "「That machine - is it a joke...!?」",
+"slot": 48
+},
+"0x005724": {
+"jp": "「グルンガストを落とせば、手柄になる！」",
+"en": "「Down the Grungust and I earn glory!」",
+"slot": 60
+},
+"0x005761": {
+"jp": "「超闘士め、落ちろ！」",
+"en": "「Fall, you super machine!」",
+"slot": 33
+},
+"0x005783": {
+"jp": "「行くぞ、グルンガスト！」",
+"en": "「Here I come, Grungust!」",
+"slot": 39
+},
+"0x0057AB": {
+"jp": "「サイバスターは最優先で破壊しろ！」",
+"en": "「Destroy the Cybuster first!」",
+"slot": 54
+},
+"0x0057E2": {
+"jp": "「奴にあの武器を使わせるわけには！」",
+"en": "「I won't let him use that weapon!」",
+"slot": 54
+},
+"0x005819": {
+"jp": "「行くぞ、サイバスター！」",
+"en": "「Here I come, Cybuster!」",
+"slot": 39
+},
+"0x005841": {
+"jp": "「ヴァルシオーネ……/　我らの敵ならば、落とす！」",
+"en": "「Valsione.../ If you're our enemy, you're down!」",
+"slot": 73
+},
+"0x00588B": {
+"jp": "「フッ、龍退治といくか！」",
+"en": "「Heh, time for a dragon hunt!」",
+"slot": 39
+},
+"0x0058B3": {
+"jp": "「虎狩りの始まりだ！」",
+"en": "「The tiger hunt begins!」",
+"slot": 33
+},
+"0x0058D5": {
+"jp": "「あの機体、何という威圧感だ…！」",
+"en": "「That machine - what a presence...!」",
+"slot": 51
+},
+"0x005909": {
+"jp": "「その剣、叩き折ってやる！」",
+"en": "「I'll snap that sword in two!」",
+"slot": 42
+},
+"0x005934": {
+"jp": "「お、おのれぇっ！！」",
+"en": "「D-damn youuu!!」",
+"slot": 33
+},
+"0x005956": {
+"jp": "「だ、脱出する！」",
+"en": "「I-I'm ejecting!」",
+"slot": 27
+},
+"0x005972": {
+"jp": "「ここまでか！　脱出だ！」",
+"en": "「This is it! Ejecting!」",
+"slot": 39
+},
+"0x00599A": {
+"jp": "「くそっ！　機体を破棄する！」",
+"en": "「Damn! Abandoning the machine!」",
+"slot": 45
+},
+"0x0059C8": {
+"jp": "「ええい！　後退する！！」",
+"en": "「Argh! Falling back!!」",
+"slot": 39
+},
+"0x0059F0": {
+"jp": "「ぐあああっ！！」",
+"en": "「Gwaaah!!」",
+"slot": 27
+},
+"0x005A0C": {
+"jp": "「いかん！　これ以上はまずいぞ！」",
+"en": "「No good! Any more and I'm done!」",
+"slot": 51
+},
+"0x005A40": {
+"jp": "「な、何！？　損傷率７０％だとっ！？」",
+"en": "「W-what!? Damage at 70%!?」",
+"slot": 57
+},
+"0x005A7A": {
+"jp": "「くそ！　この機体では勝てんのか！」",
+"en": "「Damn! Can't win in this machine!」",
+"slot": 54
+},
+"0x005AB1": {
+"jp": "「ま、まだだ！/　まだ貴様に屈したわけではない！」",
+"en": "「N-not yet!/ I haven't lost to you yet!」",
+"slot": 73
+},
+"0x005AFB": {
+"jp": "「な、何としてでも奴を止めてみせる！」",
+"en": "「I-I'll stop him no matter what!」",
+"slot": 57
+},
+"0x005B35": {
+"jp": "「ちいっ、機体の性能差がありすぎるのか！」",
+"en": "「Tch, is the performance gap too wide!?」",
+"slot": 63
+},
+"0x005B75": {
+"jp": "「ぬ、ぬうっ！　栄光ある我々がこの程度で！」",
+"en": "「Ngh! Our glory, brought this low!」",
+"slot": 66
+},
+"0x005BB8": {
+"jp": "「うぬっ！/　ここまでのダメージを受けるとは！」",
+"en": "「Ngh!/ To take this much damage!」",
+"slot": 70
+},
+"0x005BFF": {
+"jp": "「ここで倒れる俺ではない！」",
+"en": "「I won't fall here!」",
+"slot": 42
+},
+"0x005C2A": {
+"jp": "「エ、ＡＴＸチームに一矢報いるまでは…！」",
+"en": "「N-not till I hit the ATX Team back...!」",
+"slot": 63
+},
+"0x005C6A": {
+"jp": "「奴め、なんて踏み込みの速さだ！」",
+"en": "「He closes in so fast!」",
+"slot": 51
+},
+"0x005C9E": {
+"jp": "「馬鹿な、奴はゲシュペンストの改造機だぞ！」",
+"en": "「No way, that's a modified Gespenst!」",
+"slot": 66
+},
+"0x005CE1": {
+"jp": "「あれは本当に/　パーソナルトルーパーなのか！？」",
+"en": "「Is that really/ a Personal Trooper!?」",
+"slot": 73
+},
+"0x005D2B": {
+"jp": "「教導隊……いまだ健在ということか……！！」",
+"en": "「The Aggressors... still alive...!!」",
+"slot": 66
+},
+"0x005D6E": {
+"jp": "「お、おのれ！　Ｒシリーズ！！」",
+"en": "「D-damn you! The R Series!!」",
+"slot": 48
+},
+"0x005D9F": {
+"jp": "「お、俺ではＲシリーズを止められんのか！？」",
+"en": "「C-can't I stop the R Series!?」",
+"slot": 66
+},
+"0x005DE2": {
+"jp": "「くそっ！　合体前に何としても奴を！」",
+"en": "「Damn! I have to get him before they combine!」",
+"slot": 57
+},
+"0x005E1C": {
+"jp": "「ええい！　ＳＲＸチームには勝てんのか！？」",
+"en": "「Argh! Can't I beat the SRX Team!?」",
+"slot": 66
+},
+"0x005E5F": {
+"jp": "「ちいっ！　調整は万全というわけか！」",
+"en": "「Tch! Fully tuned, are they!」",
+"slot": 57
+},
+"0x005E99": {
+"jp": "「ぐああっ！　新型め、なんて性能だ！！」",
+"en": "「Gwah! That prototype, what power!!」",
+"slot": 60
+},
+"0x005ED6": {
+"jp": "「ええい！　性能に差がありすぎる！」",
+"en": "「Argh! The performance gap is too much!」",
+"slot": 54
+},
+"0x005F0D": {
+"jp": "「うう…！/　新型のデータだけでも転送しなければ…！」",
+"en": "「Ugh...!/ I have to transmit the prototype data...!」",
+"slot": 79
+},
+"0x005F5D": {
+"jp": "「ぐっ！/　奴は本当にゲシュペンストなのか！？」",
+"en": "「Ngh!/ Is that really a Gespenst!?」",
+"slot": 70
+},
+"0x005FA4": {
+"jp": "「ぐっ！　最新型並の力を持っているのか！？」",
+"en": "「Ngh! It rivals the latest models!?」",
+"slot": 66
+},
+"0x005FE7": {
+"jp": "「ぐうっ！/　見かけ倒しではないということか！」",
+"en": "「Ugh!/ So it's not all show after all!」",
+"slot": 70
+},
+"0x00602E": {
+"jp": "「ええい！　あの特機には勝てんのか！？」",
+"en": "「Argh! Can't I beat that special unit!?」",
+"slot": 60
+},
+"0x00606B": {
+"jp": "「何としてもあの特機を止めなければ……！！」",
+"en": "「I have to stop that special unit...!!」",
+"slot": 66
+},
+"0x0060AE": {
+"jp": "「ぐうっ！　あんな機体にやられるわけには！」",
+"en": "「Ugh! I can't lose to a machine like that!」",
+"slot": 66
+},
+"0x0060F1": {
+"jp": "「や、やはりグルンガストが相手では！」",
+"en": "「A-against the Grungust, of course...!」",
+"slot": 57
+},
+"0x00612B": {
+"jp": "「こ、この力……まさに不幸を呼ぶ機体……！」",
+"en": "「Th-this power... a machine of misfortune...!」",
+"slot": 66
+},
+"0x00616E": {
+"jp": "「お、おのれ、サイバスター……！」",
+"en": "「D-damn you, Cybuster...!」",
+"slot": 51
+},
+"0x0061A2": {
+"jp": "「うぐっ！　直撃だと！？」",
+"en": "「Ugh! A direct hit!?」",
+"slot": 39
+},
+"0x0061CA": {
+"jp": "「俺を止めることは出来なかったようだな！」",
+"en": "「Looks like you couldn't stop me!」",
+"slot": 63
+},
+"0x00620A": {
+"jp": "「ふん、それぐらいでなければな！」",
+"en": "「Hmph, that's more like it!」",
+"slot": 51
+},
+"0x00623E": {
+"jp": "「おのれ！　やってくれる！」",
+"en": "「Damn you! Nicely done!」",
+"slot": 42
+},
+"0x006269": {
+"jp": "「ぐうっ！　一発や二発、食らったぐらいで！」",
+"en": "「Ugh! A hit or two won't stop me!」",
+"slot": 66
+},
+"0x0062AC": {
+"jp": "「こちらの装甲では止められんのか！？」",
+"en": "「My armor can't stop it!?」",
+"slot": 57
+},
+"0x0062E6": {
+"jp": "「ちいっ、俺を甘くみるなよ！」",
+"en": "「Tch, don't underestimate me!」",
+"slot": 45
+},
+"0x006314": {
+"jp": "「エ、ＡＴＸチーム…噂以上だ…！」",
+"en": "「Th-the ATX Team... beyond the rumors...!」",
+"slot": 51
+},
+"0x006348": {
+"jp": "「ただ改造したわけでは/　ないということか……！」",
+"en": "「So it's more than just modified...!」",
+"slot": 73
+},
+"0x006392": {
+"jp": "「くっ！　奴め、特機並の力を！」",
+"en": "「Ngh! His power rivals a special unit!」",
+"slot": 48
+},
+"0x0063C3": {
+"jp": "「あいつ、どういう改造をしたんだ！？」",
+"en": "「What kind of mods did he make!?」",
+"slot": 57
+},
+"0x0063FD": {
+"jp": "「こ、これが教導隊の実力か……！」",
+"en": "「S-so this is the Aggressors' skill...!」",
+"slot": 51
+},
+"0x006431": {
+"jp": "「ただの試作機ではないらしいな！」",
+"en": "「Not just a prototype, it seems!」",
+"slot": 51
+},
+"0x006465": {
+"jp": "「ううう……！　あれがＳＲＸ計画の機体か！」",
+"en": "「Urgh...! So that's an SRX Project machine!」",
+"slot": 66
+},
+"0x0064A8": {
+"jp": "「ぐあぁっ！　合体前でこの攻撃力か！？」",
+"en": "「Gwah! This power before combining!?」",
+"slot": 60
+},
+"0x0064E5": {
+"jp": "「これがＳＲＸチームの実力か…！」",
+"en": "「So this is the SRX Team's skill...!」",
+"slot": 51
+},
+"0x006519": {
+"jp": "「駄目だ、奴のスピードにはついていけん！」",
+"en": "「No good, I can't keep up with his speed!」",
+"slot": 63
+},
+"0x006559": {
+"jp": "「奴らめ、何という機体を作ったんだ！」",
+"en": "「What kind of machine did they build!」",
+"slot": 57
+},
+"0x006593": {
+"jp": "「新型め！　よくも！」",
+"en": "「Prototype! How dare you!」",
+"slot": 33
+},
+"0x0065B5": {
+"jp": "「貴様のデータ取りに協力する気はない！」",
+"en": "「I won't help you gather your data!」",
+"slot": 60
+},
+"0x0065F2": {
+"jp": "「ええい、連邦の試作機ごときに！」",
+"en": "「Argh, beaten by a Federation prototype!」",
+"slot": 51
+},
+"0x006626": {
+"jp": "「こ、このままではこちらが幽霊に……！！」",
+"en": "「A-at this rate we'll be the ghosts...!!」",
+"slot": 63
+},
+"0x006666": {
+"jp": "「ぐっ！　旧型にここまでやられるとは！」",
+"en": "「Ngh! Done in this hard by an old model!」",
+"slot": 60
+},
+"0x0066A3": {
+"jp": "「うぐっ！　見かけによらず素早い！」",
+"en": "「Ugh! Fast for how it looks!」",
+"slot": 54
+},
+"0x0066DA": {
+"jp": "「くっ！　ただ大きいわけではないらしいな！」",
+"en": "「Ngh! Not just big, it seems!」",
+"slot": 66
+},
+"0x00671D": {
+"jp": "「ううっ！　攻撃力が他の機体とは段違いだ！」",
+"en": "「Ugh! Its attack power is on another level!」",
+"slot": 66
+},
+"0x006760": {
+"jp": "「しまった！　奴の見た目に惑わされた！」",
+"en": "「Damn! Fooled by its looks!」",
+"slot": 60
+},
+"0x00679D": {
+"jp": "「ぐっ！/　失敗作の後継機ごときに、何故だ！？」",
+"en": "「Ngh!/ Beaten by a failure's successor, why!?」",
+"slot": 70
+},
+"0x0067E4": {
+"jp": "「くっ！　魔装機神の名は/　伊達じゃないらしいな……！」",
+"en": "「Ngh! The name Masou Kishin/ isn't just for show...!」",
+"slot": 82
+},
+"0x006837": {
+"jp": "「ふん！　口ほどでもない！」",
+"en": "「Hmph! Not so tough after all!」",
+"slot": 42
+},
+"0x006862": {
+"jp": "「こちらの力をなめているのか！？」",
+"en": "「You underestimate our power!?」",
+"slot": 51
+},
+"0x006896": {
+"jp": "「こんなものでひるむ俺ではない！」",
+"en": "「This won't make me flinch!」",
+"slot": 51
+},
+"0x0068CA": {
+"jp": "「思っていた程の力ではないな！」",
+"en": "「Not as strong as I thought!」",
+"slot": 48
+},
+"0x0068FB": {
+"jp": "「ほう……この程度の抵抗しか出来ないのか」",
+"en": "「Ho... is this all the fight you've got?」",
+"slot": 63
+},
+"0x00693B": {
+"jp": "「ダメージ軽微……作戦を続行する！」",
+"en": "「Damage minor... continuing the mission!」",
+"slot": 54
+},
+"0x006972": {
+"jp": "「ふん……チェックの必要もない程度か」",
+"en": "「Hmph... not even worth checking.」",
+"slot": 57
+},
+"0x0069AC": {
+"jp": "「ＡＴＸチーム…噂ほどじゃないな」",
+"en": "「ATX Team... not as good as the rumors.」",
+"slot": 51
+},
+"0x0069E0": {
+"jp": "「フン、所詮は旧型の改造機だ！」",
+"en": "「Hmph, just a modified old model!」",
+"slot": 48
+},
+"0x006A11": {
+"jp": "「おい、どこを改造したんだ？」",
+"en": "「Hey, where'd you even modify it?」",
+"slot": 45
+},
+"0x006A3F": {
+"jp": "「くっ！　あの突進力は……！」",
+"en": "「Ngh! That charging power...!」",
+"slot": 45
+},
+"0x006A6D": {
+"jp": "「この程度か。教導隊も地に落ちたものだな」",
+"en": "「This much? The Aggressors have fallen far.」",
+"slot": 63
+},
+"0x006AAD": {
+"jp": "「それで対異星人用の兵器とは笑わせる！」",
+"en": "「And that's your anti-alien weapon? Laughable!」",
+"slot": 60
+},
+"0x006AEA": {
+"jp": "「どうした？　派手なのは機体の色だけか？」",
+"en": "「What's wrong? Only the paint job is flashy?」",
+"slot": 63
+},
+"0x006B2A": {
+"jp": "「さっさと合体したらどうだ！？」",
+"en": "「Why don't you just combine already!?」",
+"slot": 48
+},
+"0x006B5B": {
+"jp": "「何だ？　それがＳＲＸチームの実力か？」",
+"en": "「What? Is that the SRX Team's real skill?」",
+"slot": 60
+},
+"0x006B98": {
+"jp": "「新型め、調整が上手くいっていないらしいな」",
+"en": "「Prototype, your tuning's off, it seems.」",
+"slot": 66
+},
+"0x006BDB": {
+"jp": "「どうした、新型！　その程度の性能か？」",
+"en": "「What's wrong, prototype! Is that all you've got?」",
+"slot": 60
+},
+"0x006C18": {
+"jp": "「フン…新型機ではなく、欠陥機か？」",
+"en": "「Hmph... not a prototype, but a reject?」",
+"slot": 54
+},
+"0x006C4F": {
+"jp": "「ゲシュペンストなど、/　もう時代遅れなんだよ！」",
+"en": "「The Gespenst is/　obsolete now!」",
+"slot": 73
+},
+"0x006C99": {
+"jp": "「やはり、見かけ倒しか」",
+"en": "「All show, no substance.」",
+"slot": 36
+},
+"0x006CBE": {
+"jp": "「力だけで我らを倒せると思うな！」",
+"en": "「Don't think brute force can beat us!」",
+"slot": 51
+},
+"0x006CF2": {
+"jp": "「見た目通り、のろそうな機体だな！」",
+"en": "「Slow as it looks!」",
+"slot": 54
+},
+"0x006D29": {
+"jp": "「直撃さえしなければ、グルンガストなど！」",
+"en": "「Miss the Grungust and it's nothing!」",
+"slot": 63
+},
+"0x006D69": {
+"jp": "「それがヒュッケバインの力か？」",
+"en": "「That's the Huckebein's power?」",
+"slot": 48
+},
+"0x006D9A": {
+"jp": "「魔装機神などと言っても、その程度か？」",
+"en": "「A Masou Kishin, and that's all?」",
+"slot": 60
+},
+"0x006DD7": {
+"jp": "「かわした！」",
+"en": "「Dodged it!」",
+"slot": 21
+},
+"0x006DED": {
+"jp": "「モーションが大きすぎるんだよ！」",
+"en": "「Your moves are too big!」",
+"slot": 51
+},
+"0x006E21": {
+"jp": "「遅いっ！」",
+"en": "「Too slow!」",
+"slot": 18
+},
+"0x006E34": {
+"jp": "「照準がずれているようだな」",
+"en": "「Your aim is off.」",
+"slot": 42
+},
+"0x006E5F": {
+"jp": "「今までの相手が弱すぎたようだな！」",
+"en": "「Your foes must've been weak!」",
+"slot": 54
+},
+"0x006E96": {
+"jp": "「まぐれ当たりは続かないぞ！」",
+"en": "「Lucky hits won't last!」",
+"slot": 45
+},
+"0x006EC4": {
+"jp": "「よし、回避成功だ！」",
+"en": "「Yes, evasion successful!」",
+"slot": 33
+},
+"0x006EE6": {
+"jp": "「その程度！」",
+"en": "「Is that all?」",
+"slot": 21
+},
+"0x006EFC": {
+"jp": "「そんなもの！」",
+"en": "「Weak!」",
+"slot": 24
+},
+"0x006F15": {
+"jp": "「残念だったな！」",
+"en": "「Too bad!」",
+"slot": 27
+},
+"0x006F31": {
+"jp": "「無駄だ！」",
+"en": "「Useless!」",
+"slot": 18
+},
+"0x006F44": {
+"jp": "「………」",
+"en": "「.........」",
+"slot": 15
+},
+"0x006F54": {
+"jp": "「くっ、補給を！」",
+"en": "「Ngh, I need resupply!」",
+"slot": 27
+},
+"0x006F70": {
+"jp": "「長期戦では不利か！」",
+"en": "「A long fight hurts me!」",
+"slot": 33
+},
+"0x006F92": {
+"jp": "「反撃できんとはな……！」",
+"en": "「I can't strike back...!」",
+"slot": 39
+},
+"0x006FBA": {
+"jp": "「手も足も出させんつもりか！」",
+"en": "「Won't let me lift a finger?!」",
+"slot": 45
+},
+"0x006FE8": {
+"jp": "「バカな、踊らされているのか！？」",
+"en": "「No way, am I being played?!」",
+"slot": 51
+},
+"0x00701C": {
+"jp": "「た、弾切れだと……！？」",
+"en": "「O-out of ammo...?!」",
+"slot": 39
+},
+"0x007044": {
+"jp": "「くっ、この間合いでは……！」",
+"en": "「Ngh, at this range...!」",
+"slot": 45
+},
+"0x007072": {
+"jp": "「ここからでは反撃できん！」",
+"en": "「I can't counter from here!」",
+"slot": 42
+},
+"0x00709D": {
+"jp": "「反撃不可能だと！？」",
+"en": "「No counter possible?!」",
+"slot": 33
+},
+"0x0070BF": {
+"jp": "「くそっ！　これじゃ狙い撃ちされる！」",
+"en": "「Damn! I'll be picked off!」",
+"slot": 57
+},
+"0x0070F9": {
+"jp": "「いかん！　これではただの標的だ！」",
+"en": "「No! I'm just a target now!」",
+"slot": 54
+},
+"0x007130": {
+"jp": "「くっ！　何も出来ないのか……！？」",
+"en": "「Ngh! Can I do nothing...?!」",
+"slot": 54
+},
+"0x007167": {
+"jp": "「よそ見している暇はないぞ！」",
+"en": "「No time to look away!」",
+"slot": 45
+},
+"0x007195": {
+"jp": "「この連携がかわせるか！」",
+"en": "「Can you dodge this combo?!」",
+"slot": 39
+},
+"0x0071BD": {
+"jp": "「これでとどめだ！」",
+"en": "「This ends it!」",
+"slot": 30
+},
+"0x0071DC": {
+"jp": "「確実に倒しておかねば！」",
+"en": "「I must finish this for sure!」",
+"slot": 39
+},
+"0x007204": {
+"jp": "「フン、逃げ損なったな！」",
+"en": "「Hmph, no escape now!」",
+"slot": 39
+},
+"0x00722C": {
+"jp": "「やらせん！」",
+"en": "「Not happening!」",
+"slot": 21
+},
+"0x007242": {
+"jp": "「思うようにはさせん！」",
+"en": "「I won't let you!」",
+"slot": 36
+},
+"0x007267": {
+"jp": "「今の内に後退を！」",
+"en": "「Fall back while you can!」",
+"slot": 30
+},
+"0x007286": {
+"jp": "「ふん、油断したな！」",
+"en": "「Hmph, careless!」",
+"slot": 33
+},
+"0x0072A8": {
+"jp": "「一網打尽にしてやる！」",
+"en": "「I'll wipe you all out!」",
+"slot": 36
+},
+"0x0072CD": {
+"jp": "「まとめて叩き落とす！」",
+"en": "「I'll knock you all down!」",
+"slot": 36
+},
+"0x0072F2": {
+"jp": "「行くぞ！」",
+"en": "「Here I go!」",
+"slot": 18
+},
+"0x007305": {
+"jp": "「ソニック・ブレイカー！！」",
+"en": "「Sonic Breaker!!」",
+"slot": 42
+},
+"0x007330": {
+"jp": "「ターゲット・ロック！」",
+"en": "「Target lock!」",
+"slot": 36
+},
+"0x007355": {
+"jp": "「これで決める！」",
+"en": "「This settles it!」",
+"slot": 27
+},
+"0x007371": {
+"jp": "「さあ、覚悟しろ！」",
+"en": "「Now, prepare yourself!」",
+"slot": 30
+},
+"0x007390": {
+"jp": "「砕け散れ！！」",
+"en": "「Shatter to bits!!」",
+"slot": 24
+},
+"0x0073A9": {
+"jp": "「落とす！」",
+"en": "「Going down!」",
+"slot": 18
+},
+"0x0073BC": {
+"jp": "「直撃させる！」",
+"en": "「Direct hit!」",
+"slot": 24
+}
+}

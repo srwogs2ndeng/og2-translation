@@ -1,0 +1,1037 @@
+{
+ "0x001CC2": {
+  "jp": "最大ＨＰ　＋１０％",
+  "en": "Max HP +10%",
+  "slot": 27
+ },
+ "0x001CE4": {
+  "jp": "最大ＨＰを１０％増加させます。",
+  "en": "Increases max HP by 10%.",
+  "slot": 45
+ },
+ "0x001D18": {
+  "jp": "最大ＥＮ　＋１０％",
+  "en": "Max EN +10%",
+  "slot": 27
+ },
+ "0x001D3A": {
+  "jp": "最大ＥＮを１０％増加させます。",
+  "en": "Increases max EN by 10%.",
+  "slot": 45
+ },
+ "0x001D6E": {
+  "jp": "装甲値　＋１０％",
+  "en": "Armor +10%",
+  "slot": 24
+ },
+ "0x001D8D": {
+  "jp": "装甲値を１０％増加させます。",
+  "en": "Increases armor by 10%.",
+  "slot": 42
+ },
+ "0x001DBE": {
+  "jp": "運動性　＋１０％",
+  "en": "Mobility +10%",
+  "slot": 24
+ },
+ "0x001DDD": {
+  "jp": "運動性を１０％増加させます。",
+  "en": "Increases mobility by 10%.",
+  "slot": 42
+ },
+ "0x001E0E": {
+  "jp": "照準値　＋１０％",
+  "en": "Accuracy +10%",
+  "slot": 24
+ },
+ "0x001E2D": {
+  "jp": "照準値を１０％増加させます。",
+  "en": "Increases accuracy by 10%.",
+  "slot": 42
+ },
+ "0x001E5E": {
+  "jp": "移動力　＋１",
+  "en": "Movement +1",
+  "slot": 18
+ },
+ "0x001E77": {
+  "jp": "移動力を１増加させます。",
+  "en": "Increases movement by 1.",
+  "slot": 36
+ },
+ "0x001EA2": {
+  "jp": "機体の地形適応「空」をＳにする",
+  "en": "Set unit's Air terrain to S",
+  "slot": 45
+ },
+ "0x001ED6": {
+  "jp": "機体の「空」の地形適応を「Ｓ」にします。",
+  "en": "Sets the unit's \"Air\" terrain rating to \"S.\"",
+  "slot": 60
+ },
+ "0x001F19": {
+  "jp": "機体の地形適応「陸」をＳにする",
+  "en": "Set unit's Land terrain to S",
+  "slot": 45
+ },
+ "0x001F4D": {
+  "jp": "機体の「陸」の地形適応を「Ｓ」にします。",
+  "en": "Sets the unit's \"Land\" terrain rating to \"S.\"",
+  "slot": 60
+ },
+ "0x001F90": {
+  "jp": "機体の地形適応「海」をＳにする",
+  "en": "Set unit's Sea terrain to S",
+  "slot": 45
+ },
+ "0x001FC4": {
+  "jp": "機体の「海」の地形適応を「Ｓ」にします。",
+  "en": "Sets the unit's \"Sea\" terrain rating to \"S\".",
+  "slot": 60
+ },
+ "0x002007": {
+  "jp": "機体の地形適応「宇」をＳにする",
+  "en": "Sets unit's Space terrain rating to S",
+  "slot": 45
+ },
+ "0x00203B": {
+  "jp": "機体の「宇宙」の地形適応を「Ｓ」にします。",
+  "en": "Sets the unit's \"Space\" terrain rating to \"S\".",
+  "slot": 63
+ },
+ "0x002081": {
+  "jp": "最大ＨＰ　＋２０００",
+  "en": "Max HP  +2000",
+  "slot": 30
+ },
+ "0x0020A6": {
+  "jp": "最大ＨＰを２０００増加させます。",
+  "en": "Increases max HP by 2000.",
+  "slot": 48
+ },
+ "0x0020DD": {
+  "jp": "最大ＨＰ　＋５０００",
+  "en": "Max HP  +5000",
+  "slot": 30
+ },
+ "0x002102": {
+  "jp": "最大ＨＰを５０００増加させます。",
+  "en": "Increases max HP by 5000.",
+  "slot": 48
+ },
+ "0x002139": {
+  "jp": "最大ＥＮ　＋５０",
+  "en": "Max EN  +50",
+  "slot": 24
+ },
+ "0x002158": {
+  "jp": "最大ＥＮを５０増加させます。",
+  "en": "Increases max EN by 50.",
+  "slot": 42
+ },
+ "0x002189": {
+  "jp": "最大ＥＮ　＋７０",
+  "en": "Max EN  +70",
+  "slot": 24
+ },
+ "0x0021A8": {
+  "jp": "最大ＥＮを７０増加させます。",
+  "en": "Increases max EN by 70.",
+  "slot": 42
+ },
+ "0x0021D9": {
+  "jp": "運動性　＋１０",
+  "en": "Mobility  +10",
+  "slot": 21
+ },
+ "0x0021F5": {
+  "jp": "運動性を１０増加させます。",
+  "en": "Increases mobility by 10.",
+  "slot": 39
+ },
+ "0x002223": {
+  "jp": "運動性　＋２５",
+  "en": "Mobility  +25",
+  "slot": 21
+ },
+ "0x00223F": {
+  "jp": "運動性を２５増加させます。",
+  "en": "Increases mobility by 25.",
+  "slot": 39
+ },
+ "0x00226D": {
+  "jp": "装甲値　＋２００",
+  "en": "Armor  +200",
+  "slot": 24
+ },
+ "0x00228C": {
+  "jp": "装甲値を２００増加させます。",
+  "en": "Increases armor by 200.",
+  "slot": 42
+ },
+ "0x0022BD": {
+  "jp": "装甲値　＋１５０、最大ＨＰ　＋１５００",
+  "en": "Armor  +150, Max HP  +1500",
+  "slot": 57
+ },
+ "0x0022FD": {
+  "jp": "装甲値を１５０、最大ＨＰを１５００増加させます。",
+  "en": "Increases armor by 150 and max HP by 1500.",
+  "slot": 72
+ },
+ "0x00234C": {
+  "jp": "運動性　＋１５、最大ＥＮ　＋３０",
+  "en": "Mobility  +15, Max EN  +30",
+  "slot": 48
+ },
+ "0x002383": {
+  "jp": "運動性を１５、最大ＥＮを３０増加させます。",
+  "en": "Increases mobility by 15 and max EN by 30.",
+  "slot": 63
+ },
+ "0x0023C9": {
+  "jp": "運動性　＋１０、最大ＥＮ　＋５０",
+  "en": "Mobility  +10, Max EN  +50",
+  "slot": 48
+ },
+ "0x002400": {
+  "jp": "運動性を１０、最大ＥＮを５０増加させます。",
+  "en": "Increases mobility by 10 and max EN by 50.",
+  "slot": 63
+ },
+ "0x002446": {
+  "jp": "装甲値　＋２００、最大ＨＰ　＋２５００",
+  "en": "Armor  +200, Max HP  +2500",
+  "slot": 57
+ },
+ "0x002486": {
+  "jp": "装甲値を２００、最大ＨＰを２５００増加させます。",
+  "en": "Increases armor by 200 and max HP by 2500.",
+  "slot": 72
+ },
+ "0x0024D5": {
+  "jp": "装甲値　＋２００、最大ＥＮ　＋３５",
+  "en": "Armor  +200, Max EN  +35",
+  "slot": 51
+ },
+ "0x00250F": {
+  "jp": "装甲値を２００、最大ＥＮを３５増加させます。",
+  "en": "Increases armor by 200 and max EN by 35.",
+  "slot": 66
+ },
+ "0x002558": {
+  "jp": "運動性　＋１０、最大ＥＮ　＋２５",
+  "en": "Mobility  +10, Max EN  +25",
+  "slot": 48
+ },
+ "0x00258F": {
+  "jp": "運動性を１０、最大ＥＮを２５増加させます。",
+  "en": "Increases mobility by 10 and max EN by 25.",
+  "slot": 63
+ },
+ "0x0025D5": {
+  "jp": "運動性　＋１５、装甲値　＋２００",
+  "en": "Mobility  +15, Armor  +200",
+  "slot": 48
+ },
+ "0x00260C": {
+  "jp": "運動性を１５、装甲値を２００増加させます。",
+  "en": "Increases mobility by 15 and armor by 200.",
+  "slot": 63
+ },
+ "0x002652": {
+  "jp": "最大ＨＰ　＋１５００、最大ＥＮ　＋４０",
+  "en": "Max HP  +1500, Max EN  +40",
+  "slot": 57
+ },
+ "0x002692": {
+  "jp": "最大ＨＰを１５００、最大ＥＮを４０増加させます。",
+  "en": "Increases max HP by 1500 and max EN by 40.",
+  "slot": 72
+ },
+ "0x0026E1": {
+  "jp": "運動性　＋１０、最大ＨＰ　＋３０００",
+  "en": "Mobility  +10, Max HP  +3000",
+  "slot": 54
+ },
+ "0x00271E": {
+  "jp": "運動性を１０、最大ＨＰを３０００増加させます。",
+  "en": "Increases mobility by 10 and max HP by 3000.",
+  "slot": 69
+ },
+ "0x00276A": {
+  "jp": "Ｗゲージ　＋３０",
+  "en": "W Gauge  +30",
+  "slot": 24
+ },
+ "0x002789": {
+  "jp": "最大ウェポンゲージを３０増加させます。",
+  "en": "Increases max Weapon Gauge by 30.",
+  "slot": 57
+ },
+ "0x0027C9": {
+  "jp": "Ｗゲージ　＋３０、ＣＴ補正値　＋２０",
+  "en": "W Gauge  +30, CT Rating  +20",
+  "slot": 54
+ },
+ "0x002806": {
+  "jp": "最大ウェポンゲージを３０、機体に装備されている武器のＣＴ補正値を２０増加させます。",
+  "en": "Increases max Weapon Gauge by 30 and the CT rating of the unit's equipped weapons by 20.",
+  "slot": 123
+ },
+ "0x002888": {
+  "jp": "Ｗゲージ　＋４０、最大ＥＮ　＋３０",
+  "en": "W Gauge  +40, Max EN  +30",
+  "slot": 51
+ },
+ "0x0028C2": {
+  "jp": "最大ウェポンゲージを３０、最大ＥＮを３０増加させます。",
+  "en": "Increases max Weapon Gauge by 30 and max EN by 30.",
+  "slot": 81
+ },
+ "0x00291A": {
+  "jp": "Ｗゲージ　＋４０、武器の命中補正値　＋１５",
+  "en": "W Gauge  +40, Weapon Accuracy  +15",
+  "slot": 63
+ },
+ "0x002960": {
+  "jp": "最大ウェポンゲージを４０、機体に装備されている武器の命中補正値を１５増加させます。",
+  "en": "Increases max Weapon Gauge by 40 and the accuracy of the unit's equipped weapons by 15.",
+  "slot": 123
+ },
+ "0x0029E2": {
+  "jp": "強化パーツ最大装備数　＋１",
+  "en": "Max Parts Slots  +1",
+  "slot": 39
+ },
+ "0x002A10": {
+  "jp": "機体に装備できる強化パーツの数を１増加させます。",
+  "en": "Increases the number of parts the unit can equip by 1.",
+  "slot": 72
+ },
+ "0x002A5F": {
+  "jp": "機体の地形適応「空」以外をＳにする",
+  "en": "Sets all terrain ratings but Air to S",
+  "slot": 51
+ },
+ "0x002A99": {
+  "jp": "機体の「陸」「海」「宇宙」の地形適応を「Ｓ」にします。",
+  "en": "Sets the unit's \"Land,\" \"Sea,\" and \"Space\" terrain ratings to \"S\".",
+  "slot": 81
+ },
+ "0x002AF1": {
+  "jp": "特殊能力「フルブロック」装備",
+  "en": "Grants \"Full Block\" ability",
+  "slot": 42
+ },
+ "0x002B22": {
+  "jp": "全ての特殊効果を無効化する能力を得ます。",
+  "en": "Grants the ability to nullify all special effects.",
+  "slot": 60
+ },
+ "0x002B65": {
+  "jp": "特殊能力「ＨＰ回復（小）」装備",
+  "en": "Grants \"HP Regen (S)\" ability",
+  "slot": 45
+ },
+ "0x002B99": {
+  "jp": "毎ターン、ＨＰが１０％回復する能力を得ます。",
+  "en": "Grants the ability to recover 10% HP each turn.",
+  "slot": 66
+ },
+ "0x002BE2": {
+  "jp": "特殊能力「ＥＮ回復（小）」装備",
+  "en": "Grants \"EN Regen (S)\" ability",
+  "slot": 45
+ },
+ "0x002C16": {
+  "jp": "毎ターン、ＥＮが１０％回復する能力を得ます。",
+  "en": "Grants the ability to recover 10% EN each turn.",
+  "slot": 66
+ },
+ "0x002C5F": {
+  "jp": "特殊能力「ＡＢフィールド」装備",
+  "en": "Grants \"AB Field\" ability",
+  "slot": 45
+ },
+ "0x002C93": {
+  "jp": "ビームのダメージを１２００軽減させる能力を得ます（必要ＥＮ１０）。",
+  "en": "Grants the ability to reduce beam damage by 1200 (10 EN required).",
+  "slot": 99
+ },
+ "0x002CFD": {
+  "jp": "特殊能力「分身」装備",
+  "en": "Grants \"Afterimage\" ability",
+  "slot": 30
+ },
+ "0x002D22": {
+  "jp": "攻撃を５０％の確率で回避する能力を得ます（必要気力１３０）。",
+  "en": "Grants a 50% chance to evade attacks (130 morale required).",
+  "slot": 90
+ },
+ "0x002D83": {
+  "jp": "特殊能力「ビーム吸収」装備",
+  "en": "Grants \"Beam Absorb\" ability",
+  "slot": 39
+ },
+ "0x002DB1": {
+  "jp": "ビーム攻撃での、本来受けるダメージ分のＨＰを回復する能力を得ます。",
+  "en": "Grants the ability to recover HP equal to the beam damage that would be taken.",
+  "slot": 99
+ },
+ "0x002E1B": {
+  "jp": "念動フィールド　＋３００",
+  "en": "Psychodriver Field  +300",
+  "slot": 36
+ },
+ "0x002E46": {
+  "jp": "特殊能力「念動フィールド」の無効化できるダメージを３００増加させます。",
+  "en": "Increases the damage nullified by \"Psychodriver Field\" by 300.",
+  "slot": 105
+ },
+ "0x002EB6": {
+  "jp": "分身発生率　＋２０％",
+  "en": "Afterimage Rate  +20%",
+  "slot": 30
+ },
+ "0x002EDB": {
+  "jp": "特殊能力「分身」の発生する確率を２０％増加させます。",
+  "en": "Increases the trigger rate of \"Afterimage\" by 20%.",
+  "slot": 78
+ },
+ "0x002F30": {
+  "jp": "念動武器攻撃力　＋２００",
+  "en": "Psychic Weapon Power  +200",
+  "slot": 36
+ },
+ "0x002F5B": {
+  "jp": "機体に装備されている念動武器の攻撃力を２００増加させます。",
+  "en": "Increases the power of the unit's psychic weapons by 200.",
+  "slot": 87
+ },
+ "0x002FB9": {
+  "jp": "格闘武器の攻撃力　＋２００",
+  "en": "Melee Weapon Power  +200",
+  "slot": 39
+ },
+ "0x002FE7": {
+  "jp": "機体に装備されている格闘武器の攻撃力を２００増加させます。",
+  "en": "Increases the power of the unit's melee weapons by 200.",
+  "slot": 87
+ },
+ "0x003045": {
+  "jp": "射撃武器の攻撃力　＋２００",
+  "en": "Ranged Weapon Power  +200",
+  "slot": 39
+ },
+ "0x003073": {
+  "jp": "機体に装備されている射撃武器の攻撃力を２００増加させます。",
+  "en": "Increases the power of the unit's ranged weapons by 200.",
+  "slot": 87
+ },
+ "0x0030D1": {
+  "jp": "全武器の攻撃力　＋２００",
+  "en": "All Weapon Power  +200",
+  "slot": 36
+ },
+ "0x0030FC": {
+  "jp": "機体に装備されている武器の攻撃力を２００増加させます。",
+  "en": "Increases the power of the unit's weapons by 200.",
+  "slot": 81
+ },
+ "0x003154": {
+  "jp": "固定武器の最大弾数　＋２",
+  "en": "Fixed Weapon Max Ammo  +2",
+  "slot": 36
+ },
+ "0x00317F": {
+  "jp": "機体に装備されている固定武器の弾数を２増加させます。",
+  "en": "Increases the ammo of the unit's fixed weapons by 2.",
+  "slot": 78
+ },
+ "0x0031D4": {
+  "jp": "固定武器の最大弾数　＋４",
+  "en": "Fixed Weapon Max Ammo  +4",
+  "slot": 36
+ },
+ "0x0031FF": {
+  "jp": "機体に装備されている固定武器の弾数を４増加させます。",
+  "en": "Increases the ammo of the unit's fixed weapons by 4.",
+  "slot": 78
+ },
+ "0x003254": {
+  "jp": "武器の命中補正値　＋１０",
+  "en": "Weapon Accuracy  +10",
+  "slot": 36
+ },
+ "0x00327F": {
+  "jp": "機体に装備されている武器の命中補正値を１０増加させます。",
+  "en": "Increases the accuracy of the unit's weapons by 10.",
+  "slot": 84
+ },
+ "0x0032DA": {
+  "jp": "武器の命中補正値　＋２０",
+  "en": "Weapon Accuracy  +20",
+  "slot": 36
+ },
+ "0x003305": {
+  "jp": "機体に装備されている武器の命中補正値を２０増加させます。",
+  "en": "Increases the accuracy of the unit's weapons by 20.",
+  "slot": 84
+ },
+ "0x003360": {
+  "jp": "固定武器の地形適応をＳにする",
+  "en": "Sets fixed weapon terrain ratings to S",
+  "slot": 42
+ },
+ "0x003391": {
+  "jp": "機体に装備されている固定武器の、全ての地形適応を「Ｓ」にします。",
+  "en": "Sets all terrain ratings of the unit's fixed weapons to \"S\".",
+  "slot": 96
+ },
+ "0x0033F8": {
+  "jp": "移動力　＋１、最大ＨＰ　＋１５００",
+  "en": "Movement  +1, Max HP  +1500",
+  "slot": 51
+ },
+ "0x003432": {
+  "jp": "移動力を１、最大ＨＰを１５００増加させます。",
+  "en": "Increases movement by 1 and max HP by 1500.",
+  "slot": 66
+ },
+ "0x00347B": {
+  "jp": "運動性　＋２０、最大ＥＮ　＋２０",
+  "en": "Mobility  +20, Max EN  +20",
+  "slot": 48
+ },
+ "0x0034B2": {
+  "jp": "運動性を２０、最大ＥＮを２０増加させます。",
+  "en": "Increases mobility by 20 and max EN by 20.",
+  "slot": 63
+ },
+ "0x0034F8": {
+  "jp": "装甲値　＋２００、最大ＨＰ　＋２０００",
+  "en": "Armor  +200, Max HP  +2000",
+  "slot": 57
+ },
+ "0x003538": {
+  "jp": "装甲値を２００、最大ＨＰを２０００増加させます。",
+  "en": "Increases armor by 200 and max HP by 2000.",
+  "slot": 72
+ },
+ "0x003587": {
+  "jp": "移動力　＋１、運動性　＋１０",
+  "en": "Movement  +1, Mobility  +10",
+  "slot": 42
+ },
+ "0x0035B8": {
+  "jp": "移動力を１、運動性を１０増加させます。",
+  "en": "Increases movement by 1 and mobility by 10.",
+  "slot": 57
+ },
+ "0x0035F8": {
+  "jp": "格闘武器の攻撃力　＋１００",
+  "en": "Melee Weapon Power  +100",
+  "slot": 39
+ },
+ "0x003626": {
+  "jp": "機体に装備されている格闘武器の攻撃力を１００増加させます。",
+  "en": "Increases the power of the unit's melee weapons by 100.",
+  "slot": 87
+ },
+ "0x003684": {
+  "jp": "格闘武器の攻撃力　＋３００",
+  "en": "Melee Weapon Power  +300",
+  "slot": 39
+ },
+ "0x0036B2": {
+  "jp": "機体に装備されている格闘武器の攻撃力を３００増加させます。",
+  "en": "Increases the power of the unit's melee weapons by 300.",
+  "slot": 87
+ },
+ "0x003710": {
+  "jp": "全武器の攻撃力　＋１００",
+  "en": "All Weapon Power  +100",
+  "slot": 36
+ },
+ "0x00373B": {
+  "jp": "機体に装備されている武器の攻撃力を１００増加させます。",
+  "en": "Increases the power of the unit's weapons by 100.",
+  "slot": 81
+ },
+ "0x003793": {
+  "jp": "移動適応に「地中」を追加する",
+  "en": "Adds \"Underground\" to move terrain",
+  "slot": 42
+ },
+ "0x0037C4": {
+  "jp": "機体の移動適応に「地中」を追加します。",
+  "en": "Adds \"Underground\" to the unit's move terrain.",
+  "slot": 57
+ },
+ "0x003804": {
+  "jp": "全武器の攻撃力　＋３００",
+  "en": "All Weapon Power  +300",
+  "slot": 36
+ },
+ "0x00382F": {
+  "jp": "機体に装備されている武器の攻撃力を３００増加させます。",
+  "en": "Increases the power of the unit's weapons by 300.",
+  "slot": 81
+ },
+ "0x003887": {
+  "jp": "特殊能力「パイロットブロック」装備",
+  "en": "Grants \"Pilot Block\" ability",
+  "slot": 51
+ },
+ "0x0038C1": {
+  "jp": "Ｐ系全ての特殊効果を無効化する能力を得ます。",
+  "en": "Grants the ability to nullify all P-type special effects.",
+  "slot": 66
+ },
+ "0x00390A": {
+  "jp": "移動力　＋３",
+  "en": "Movement  +3",
+  "slot": 18
+ },
+ "0x003923": {
+  "jp": "移動力を３増加させます。",
+  "en": "Increases movement by 3.",
+  "slot": 36
+ },
+ "0x00394E": {
+  "jp": "最大ＨＰ　＋３０００　最大ＥＮ　＋１００",
+  "en": "Max HP  +3000  Max EN  +100",
+  "slot": 60
+ },
+ "0x003991": {
+  "jp": "最大ＨＰを３０００、最大ＥＮを１００増加させます。",
+  "en": "Increases max HP by 3000 and max EN by 100.",
+  "slot": 75
+ },
+ "0x0039E3": {
+  "jp": "念動フィールドＳ　＋４００",
+  "en": "Psychodriver Field S  +400",
+  "slot": 39
+ },
+ "0x003A11": {
+  "jp": "特殊能力「念動フィールドＳ」の無効化できるダメージを４００増加させます",
+  "en": "Increases the damage nullified by \"Psychodriver Field S\" by 400",
+  "slot": 105
+ },
+ "0x003A81": {
+  "jp": "ダミー００",
+  "en": "Dummy 00",
+  "slot": 15
+ },
+ "0x003A97": {
+  "jp": "ダミー０１",
+  "en": "Dummy 01",
+  "slot": 15
+ },
+ "0x003AAD": {
+  "jp": "ダミー０２",
+  "en": "Dummy 02",
+  "slot": 15
+ },
+ "0x003AC3": {
+  "jp": "ダミー０３",
+  "en": "Dummy 03",
+  "slot": 15
+ },
+ "0x003AD9": {
+  "jp": "ダミー０４",
+  "en": "Dummy 04",
+  "slot": 15
+ },
+ "0x003AEF": {
+  "jp": "ダミー０５",
+  "en": "Dummy 05",
+  "slot": 15
+ },
+ "0x003B05": {
+  "jp": "ダミー０６",
+  "en": "Dummy 06",
+  "slot": 15
+ },
+ "0x003B1B": {
+  "jp": "ダミー０７",
+  "en": "Dummy 07",
+  "slot": 15
+ },
+ "0x003B31": {
+  "jp": "換装武器の攻撃力　＋２００",
+  "en": "Swap Weapon Power  +200",
+  "slot": 39
+ },
+ "0x003B5F": {
+  "jp": "機体に装備されている換装武器の攻撃力を２００増加させます。",
+  "en": "Increases the power of the unit's swap weapons by 200.",
+  "slot": 87
+ },
+ "0x003BBD": {
+  "jp": "武器の命中補正値　＋３０",
+  "en": "Weapon Accuracy  +30",
+  "slot": 36
+ },
+ "0x003BE8": {
+  "jp": "機体に装備されている武器の命中補正値を３０増加させます。",
+  "en": "Increases the accuracy of the unit's weapons by 30.",
+  "slot": 84
+ },
+ "0x003C43": {
+  "jp": "武器の命中、ＣＴ補正値　＋２０",
+  "en": "Weapon Accuracy, CT Rating  +20",
+  "slot": 45
+ },
+ "0x003C77": {
+  "jp": "機体に装備されている武器の命中補正値、ＣＴ補正値を２０増加させます。",
+  "en": "Raises the hit correction and CT correction of the unit's weapons by 20.",
+  "slot": 102
+ },
+ "0x003CE4": {
+  "jp": "武器のＣＴ補正値　＋３０",
+  "en": "Weapon CT Correction +30",
+  "slot": 36
+ },
+ "0x003D0F": {
+  "jp": "機体に装備されている武器のＣＴ補正値を３０増加させます。",
+  "en": "Raises the CT correction of the unit's weapons by 30.",
+  "slot": 84
+ },
+ "0x003D6A": {
+  "jp": "運動性、照準値　＋１５",
+  "en": "Mobility, Accuracy +15",
+  "slot": 33
+ },
+ "0x003D92": {
+  "jp": "運動性、照準値を１５増加させます。",
+  "en": "Raises Mobility and Accuracy by 15.",
+  "slot": 51
+ },
+ "0x003DCC": {
+  "jp": "移動力　＋１、武器のＣＴ補正値　＋２０",
+  "en": "Movement +1, Weapon CT Correction +20",
+  "slot": 57
+ },
+ "0x003E0C": {
+  "jp": "移動力を１、機体に装備されている武器のＣＴ補正値を２０増加させます。",
+  "en": "Raises Movement by 1 and the CT correction of the unit's weapons by 20.",
+  "slot": 102
+ },
+ "0x003E79": {
+  "jp": "装甲値　＋２００、武器の命中補正値　＋２０",
+  "en": "Armor +200, Weapon Hit Correction +20",
+  "slot": 63
+ },
+ "0x003EBF": {
+  "jp": "装甲値を２００、機体に装備されている武器の命中補正を２０増加させます。",
+  "en": "Raises Armor by 200 and the hit correction of the unit's weapons by 20.",
+  "slot": 105
+ },
+ "0x003F2F": {
+  "jp": "ダミー０８",
+  "en": "Dummy 08",
+  "slot": 15
+ },
+ "0x003F45": {
+  "jp": "装甲値　＋１５０、最大ＥＮ　＋５０",
+  "en": "Armor +150, Max EN +50",
+  "slot": 51
+ },
+ "0x003F7F": {
+  "jp": "装甲値を１５０、最大ＥＮを５０増加させます。",
+  "en": "Raises Armor by 150 and Max EN by 50.",
+  "slot": 66
+ },
+ "0x003FC8": {
+  "jp": "武器「超大型回転衝角」の消費ＥＮ　－１５",
+  "en": "Weapon \"Giant Rotating Ram\" EN Cost -15",
+  "slot": 60
+ },
+ "0x00400B": {
+  "jp": "固定武器「超大型回転衝角」の消費ＥＮを１５減少させます。",
+  "en": "Reduces the EN cost of the fixed weapon \"Giant Rotating Ram\" by 15.",
+  "slot": 84
+ },
+ "0x004066": {
+  "jp": "移動力　＋１、最大ＥＮ　＋１５％",
+  "en": "Movement +1, Max EN +15%",
+  "slot": 48
+ },
+ "0x00409D": {
+  "jp": "移動力を１、最大ＥＮを１５％増加させます。",
+  "en": "Raises Movement by 1 and Max EN by 15%.",
+  "slot": 63
+ },
+ "0x0040E3": {
+  "jp": "武器「８７１０式龍虎射連打」の攻撃力　＋２００、地形適応をＳにする",
+  "en": "Weapon \"Type 8710 Ryuuko Sharen\" Attack +200, terrain rating S",
+  "slot": 99
+ },
+ "0x00414D": {
+  "jp": "固定武器「８７１０式龍虎射連打」の攻撃力を２００増加させ、全ての地形適応を「Ｓ」にします。",
+  "en": "Raises the attack of fixed weapon \"Type 8710 Ryuuko Sharen\" by 200 and sets all terrain ratings to \"S\".",
+  "slot": 135
+ },
+ "0x0041DB": {
+  "jp": "特殊能力「ＥＮ回復（中）」装備",
+  "en": "Equips ability \"EN Regen (M)\"",
+  "slot": 45
+ },
+ "0x00420F": {
+  "jp": "毎ターン、ＥＮが２０％回復する能力を得ます。",
+  "en": "Grants an ability that regenerates 20% EN each turn.",
+  "slot": 66
+ },
+ "0x004258": {
+  "jp": "運動性　＋１５、最大ＥＮ　＋６０",
+  "en": "Mobility +15, Max EN +60",
+  "slot": 48
+ },
+ "0x00428F": {
+  "jp": "運動性を１５、最大ＥＮを６０増加させます。",
+  "en": "Raises Mobility by 15 and Max EN by 60.",
+  "slot": 63
+ },
+ "0x0042D5": {
+  "jp": "運動性　＋１０、武器「コスモノヴァ」の弾数　＋１",
+  "en": "Mobility +10, Weapon \"Cosmo Nova\" Ammo +1",
+  "slot": 72
+ },
+ "0x004324": {
+  "jp": "運動性を１０、固定武器「コスモノヴァ」の弾数を１増加させます。",
+  "en": "Raises Mobility by 10 and the ammo of fixed weapon \"Cosmo Nova\" by 1.",
+  "slot": 93
+ },
+ "0x004388": {
+  "jp": "特殊能力「ＨＰ回復（大）」装備",
+  "en": "Equips ability \"HP Regen (L)\"",
+  "slot": 45
+ },
+ "0x0043BC": {
+  "jp": "毎ターン、ＨＰが３０％回復する能力を得ます。",
+  "en": "Grants an ability that regenerates 30% HP each turn.",
+  "slot": 66
+ },
+ "0x004405": {
+  "jp": "装甲値　＋２００、最大ＥＮ　＋５０",
+  "en": "Armor +200, Max EN +50",
+  "slot": 51
+ },
+ "0x00443F": {
+  "jp": "装甲値を２００、最大ＥＮを５０増加させます。",
+  "en": "Raises Armor by 200 and Max EN by 50.",
+  "slot": 66
+ },
+ "0x004488": {
+  "jp": "移動力　＋１、最大ＨＰ　＋１０００",
+  "en": "Movement +1, Max HP +1000",
+  "slot": 51
+ },
+ "0x0044C2": {
+  "jp": "移動力を１、最大ＨＰを１０００増加させます。",
+  "en": "Raises Movement by 1 and Max HP by 1000.",
+  "slot": 66
+ },
+ "0x00450B": {
+  "jp": "特殊能力「ＨＰ回復（中）」装備",
+  "en": "Equips ability \"HP Regen (M)\"",
+  "slot": 45
+ },
+ "0x00453F": {
+  "jp": "毎ターン、ＨＰが２０％回復する能力を得ます。",
+  "en": "Grants an ability that regenerates 20% HP each turn.",
+  "slot": 66
+ },
+ "0x004588": {
+  "jp": "機体、武器の地形適応を全てＳにする",
+  "en": "Sets all unit and weapon terrain ratings to S",
+  "slot": 51
+ },
+ "0x0045C2": {
+  "jp": "機体と機体に装備されている武器の、全ての地形適応を「Ｓ」にします。",
+  "en": "Sets all terrain ratings of the unit and its weapons to \"S\".",
+  "slot": 99
+ },
+ "0x00462C": {
+  "jp": "機体の地形適応を全てＳにする",
+  "en": "Sets all unit terrain ratings to S",
+  "slot": 42
+ },
+ "0x00465D": {
+  "jp": "機体の、全ての地形適応を「Ｓ」にします。",
+  "en": "Sets all terrain ratings of the unit to \"S\".",
+  "slot": 60
+ },
+ "0x0046A0": {
+  "jp": "移動力　＋２",
+  "en": "Movement +2",
+  "slot": 18
+ },
+ "0x0046B9": {
+  "jp": "移動力を２増加させます。",
+  "en": "Raises Movement by 2.",
+  "slot": 36
+ },
+ "0x0046E4": {
+  "jp": "機体と武器の地形適応「空」をＳにする",
+  "en": "Sets unit and weapon Air terrain rating to S",
+  "slot": 54
+ },
+ "0x004721": {
+  "jp": "機体と機体に装備されている武器の、「空」の地形適応を「Ｓ」にします。",
+  "en": "Sets the Air terrain rating of the unit and its weapons to \"S\".",
+  "slot": 102
+ },
+ "0x00478E": {
+  "jp": "機体と武器の地形適応「海」と「宇」をＳにする",
+  "en": "Sets unit and weapon Sea and Space terrain to S",
+  "slot": 66
+ },
+ "0x0047D7": {
+  "jp": "機体と機体に装備されている武器の、「空」と「宇宙」の地形適応を「Ｓ」にします。",
+  "en": "Sets the Sea and Space terrain ratings of the unit and its weapons to \"S\".",
+  "slot": 117
+ },
+ "0x004853": {
+  "jp": "機体と武器の地形適応「陸」をＳにする",
+  "en": "Sets unit and weapon Land terrain rating to S",
+  "slot": 54
+ },
+ "0x004890": {
+  "jp": "機体と機体に装備されている武器の、「陸」の地形適応を「Ｓ」にします。",
+  "en": "Sets the Land terrain rating of the unit and its weapons to \"S\".",
+  "slot": 102
+ },
+ "0x0048FD": {
+  "jp": "装甲値　＋４００",
+  "en": "Armor +400",
+  "slot": 24
+ },
+ "0x00491C": {
+  "jp": "装甲値を４００増加させます。",
+  "en": "Raises Armor by 400.",
+  "slot": 42
+ },
+ "0x00494D": {
+  "jp": "ＭＡＰ兵器無効",
+  "en": "MAP Weapon Immunity",
+  "slot": 21
+ },
+ "0x004969": {
+  "jp": "マップ兵器による攻撃を無効化する能力を得ます。",
+  "en": "Grants an ability that nullifies MAP weapon attacks.",
+  "slot": 69
+ },
+ "0x0049B5": {
+  "jp": "遠距離攻撃無効",
+  "en": "Long-Range Attack Immunity",
+  "slot": 21
+ },
+ "0x0049D1": {
+  "jp": "射撃武器による攻撃を無効化する能力を得ます。",
+  "en": "Grants an ability that nullifies ranged weapon attacks.",
+  "slot": 66
+ },
+ "0x004A1A": {
+  "jp": "射撃武器の攻撃力　＋３００",
+  "en": "Ranged Weapon Attack +300",
+  "slot": 39
+ },
+ "0x004A48": {
+  "jp": "機体に装備されている射撃武器の攻撃力を３００増加させます。",
+  "en": "Raises the attack of the unit's ranged weapons by 300.",
+  "slot": 87
+ },
+ "0x004AA6": {
+  "jp": "武器「ネオサンダークラッシュ」にＰ属性を付加",
+  "en": "Adds P attribute to weapon \"Neo Thunder Crush\"",
+  "slot": 66
+ },
+ "0x004AEF": {
+  "jp": "固定武器「ネオサンダークラッシュ」を「移動」実行後、攻撃可能にします。",
+  "en": "Lets fixed weapon \"Neo Thunder Crush\" attack after moving.",
+  "slot": 105
+ },
+ "0x004B5F": {
+  "jp": "武器「カリドゥム・サギッタ」の攻撃力　＋３００",
+  "en": "Weapon \"Calidum Sagitta\" Attack +300",
+  "slot": 69
+ },
+ "0x004BAB": {
+  "jp": "固定武器「カリドゥム・サギッタ」の攻撃力を３００増加させます。",
+  "en": "Raises the attack of fixed weapon \"Calidum Sagitta\" by 300.",
+  "slot": 93
+ },
+ "0x004C0F": {
+  "jp": "ＭＡＰと射程１以外の武器の射程　＋１",
+  "en": "Range +1 to weapons except MAP and range 1",
+  "slot": 54
+ },
+ "0x004C4C": {
+  "jp": "機体に装備されているマップ兵器、射程１の武器以外の武器の射程を１増加させます。",
+  "en": "Raises the range of the unit's weapons by 1, except MAP weapons and range 1 weapons.",
+  "slot": 117
+ },
+ "0x004CC8": {
+  "jp": "武器ＩＤ２の弾数　＋２",
+  "en": "Weapon ID 2 Ammo +2",
+  "slot": 33
+ },
+ "0x004CF0": {
+  "jp": "固定武器「ＩＤ２」の弾数を２増加させます。",
+  "en": "Raises the ammo of fixed weapon \"ID 2\" by 2.",
+  "slot": 63
+ },
+ "0x004D36": {
+  "jp": "装甲値　＋５００",
+  "en": "Armor +500",
+  "slot": 24
+ },
+ "0x004D55": {
+  "jp": "装甲値を５００増加させます。",
+  "en": "Raises Armor by 500.",
+  "slot": 42
+ },
+ "0x004D86": {
+  "jp": "運動性　＋３０　装甲値　＋４００",
+  "en": "Mobility +30  Armor +400",
+  "slot": 48
+ },
+ "0x004DBD": {
+  "jp": "運動性を３０、装甲値を４００増加させます。",
+  "en": "Raises Mobility by 30 and Armor by 400.",
+  "slot": 63
+ },
+ "0x004E03": {
+  "jp": "武器「ソニック・アクセラレーション」の必要気力、消費ＥＮ　－１０",
+  "en": "Weapon \"Sonic Acceleration\" Will req. and EN cost -10",
+  "slot": 96
+ },
+ "0x004E6A": {
+  "jp": "固定武器「ソニック・アクセラレーション」の必要気力、消費ＥＮを１０減少させます。",
+  "en": "Reduces the Will requirement and EN cost of fixed weapon \"Sonic Acceleration\" by 10.",
+  "slot": 120
+ },
+ "0x004EE9": {
+  "jp": "武器の命中、ＣＴ補正値　＋９９",
+  "en": "Weapon Hit, CT Correction +99",
+  "slot": 45
+ },
+ "0x004F1D": {
+  "jp": "武器の命中補正値、ＣＴ補正値を９９増加させます。",
+  "en": "Raises the weapon hit correction and CT correction by 99.",
+  "slot": 72
+ },
+ "0x004F6C": {
+  "jp": "武器ＩＤ４の消費ＥＮ　－１５",
+  "en": "Weapon ID 4 EN Cost -15",
+  "slot": 42
+ },
+ "0x004F9D": {
+  "jp": "固定武器「ＩＤ４」の消費ＥＮを１５減少させます。",
+  "en": "Reduces the EN cost of fixed weapon \"ID 4\" by 15.",
+  "slot": 72
+ }
+}

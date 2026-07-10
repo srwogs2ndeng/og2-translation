@@ -1,0 +1,662 @@
+{
+"0x002340": {
+"jp": "「やってみせる！」",
+"en": "「I'll pull it off!」",
+"slot": 27
+},
+"0x00235C": {
+"jp": "「よし、狙いはついた！」",
+"en": "「Good, I've got my target!」",
+"slot": 36
+},
+"0x002381": {
+"jp": "「仕掛ける！」",
+"en": "「Making my move!」",
+"slot": 21
+},
+"0x002397": {
+"jp": "「行くぞ、地上人！」",
+"en": "「Coming, surface-dweller!」",
+"slot": 30
+},
+"0x0023B6": {
+"jp": "「ラングランに与する地上人め！」",
+"en": "「A surface-dweller siding with Langran!」",
+"slot": 48
+},
+"0x0023E7": {
+"jp": "「地上人の好きにはやらせん！」",
+"en": "「I won't let surface-dwellers run wild!」",
+"slot": 45
+},
+"0x002415": {
+"jp": "「地上のメカなどに！」",
+"en": "「To a surface machine?!」",
+"slot": 33
+},
+"0x002437": {
+"jp": "「行くぞ、サイバスター！」",
+"en": "「Here I come, Cybuster!」",
+"slot": 39
+},
+"0x00245F": {
+"jp": "「サイバスターを落とせば、/　最上の手柄になる！」",
+"en": "「Downing the Cybuster/ is the greatest prize!」",
+"slot": 73
+},
+"0x0024A9": {
+"jp": "「魔装機神が相手でも！」",
+"en": "「Even against Elemental Lords!」",
+"slot": 36
+},
+"0x0024CE": {
+"jp": "「魔装機神を仕留めれば、大手柄だ！」",
+"en": "「Bring down an Elemental Lord and I'm a hero!」",
+"slot": 54
+},
+"0x002505": {
+"jp": "「魔装機神……数でかかれば何とかなる！」",
+"en": "「Elemental Lord... numbers will beat it!」",
+"slot": 60
+},
+"0x002542": {
+"jp": "「グランヴェール……仕留めてやるさ！」",
+"en": "「Granveil... I'll take you down!」",
+"slot": 57
+},
+"0x00257C": {
+"jp": "「ガッデス……落としてみせる！」",
+"en": "「Gaddess... I'll shoot you down!」",
+"slot": 48
+},
+"0x0025AD": {
+"jp": "「ラングランの魔装機など！」",
+"en": "「A mere Langran mech!」",
+"slot": 42
+},
+"0x0025D8": {
+"jp": "「ラングランめ、好きにはやらせんぞ！」",
+"en": "「Langran, I won't let you have your way!」",
+"slot": 57
+},
+"0x002612": {
+"jp": "「打倒ラングラン！　行くぞ！」",
+"en": "「Down with Langran! Here I go!」",
+"slot": 45
+},
+"0x002640": {
+"jp": "「こっちからも行くぞ！」",
+"en": "「We're coming at you now!」",
+"slot": 36
+},
+"0x002665": {
+"jp": "「反撃開始！」",
+"en": "「Counterattack!」",
+"slot": 21
+},
+"0x00267B": {
+"jp": "「今度はこっちの番だ！」",
+"en": "「Now it's our turn!」",
+"slot": 36
+},
+"0x0026A0": {
+"jp": "「ただでは帰さん！」",
+"en": "「You won't get off easy!」",
+"slot": 30
+},
+"0x0026BF": {
+"jp": "「次はこちらから行くぞ！」",
+"en": "「This time we come at you!」",
+"slot": 39
+},
+"0x0026E7": {
+"jp": "「まだここからだ！」",
+"en": "「It starts here!」",
+"slot": 30
+},
+"0x002706": {
+"jp": "「うわああっ！！」",
+"en": "「Uwaaah!!」",
+"slot": 27
+},
+"0x002722": {
+"jp": "「こ、ここまでか！」",
+"en": "「Th-this is the end?!」",
+"slot": 30
+},
+"0x002741": {
+"jp": "「だ、脱出を！」",
+"en": "「E-eject!」",
+"slot": 24
+},
+"0x00275A": {
+"jp": "「おのれ、おのれぇっ！！」",
+"en": "「Curse you, curse you!!」",
+"slot": 39
+},
+"0x002782": {
+"jp": "「し、しまった！！」",
+"en": "「D-damn it!!」",
+"slot": 30
+},
+"0x0027A1": {
+"jp": "「こ、これ以上は！！」",
+"en": "「Th-this is too much!!」",
+"slot": 33
+},
+"0x0027C3": {
+"jp": "「ぐああっ！　何だ、これは！？」",
+"en": "「Gwaah! What is this?!」",
+"slot": 48
+},
+"0x0027F4": {
+"jp": "「ま、まずい！　このままでは！」",
+"en": "「T-this is bad! At this rate!」",
+"slot": 48
+},
+"0x002825": {
+"jp": "「ええい、まだ退けんのだ！！」",
+"en": "「Gah, I still can't retreat!!」",
+"slot": 45
+},
+"0x002853": {
+"jp": "「いかん、シールドのパワーが低下している！」",
+"en": "「No good, the shield's power is dropping!」",
+"slot": 66
+},
+"0x002896": {
+"jp": "「ぐううっ！　こ、これではもたん！」",
+"en": "「Guuh! I-I can't hold out!」",
+"slot": 54
+},
+"0x0028CD": {
+"jp": "「うぐっ！　奴め、何というパワーなんだ！」",
+"en": "「Ugh! What incredible power he has!」",
+"slot": 63
+},
+"0x00290D": {
+"jp": "「くうっ！　祖国のためにも、/　ここで退くわけには！」",
+"en": "「Kuh! For my homeland,/ I can't pull back here!」",
+"slot": 79
+},
+"0x00295D": {
+"jp": "「うぐっ！/　まだ決着はついていないぞ、地上人！」",
+"en": "「Ugh!/ It's not over yet, surface-dweller!」",
+"slot": 73
+},
+"0x0029A7": {
+"jp": "「あ、あの地上人には敵わないのか……！？」",
+"en": "「Am I no match for that surface-dweller...?!」",
+"slot": 63
+},
+"0x0029E7": {
+"jp": "「何なんだ、あの地上のメカは！！」",
+"en": "「What is that surface machine?!」",
+"slot": 51
+},
+"0x002A1B": {
+"jp": "「ス、スピードもパワーも/　サイバスターには敵わない！」",
+"en": "「In s-speed and power/ I'm no match for the Cybuster!」",
+"slot": 82
+},
+"0x002A6E": {
+"jp": "「お、おのれ、サイバスターめ！！」",
+"en": "「C-curse you, Cybuster!!」",
+"slot": 51
+},
+"0x002AA2": {
+"jp": "「こ、これが魔装機神の力なのか！！」",
+"en": "「S-so this is an Elemental Lord's power!!」",
+"slot": 54
+},
+"0x002AD9": {
+"jp": "「ま、魔装機神……やはり、あれは危険だ！」",
+"en": "「An Elemental Lord... it truly is a threat!」",
+"slot": 63
+},
+"0x002B19": {
+"jp": "「駄目だ、グランヴェールを止められん！！」",
+"en": "「No good, I can't stop the Granveil!!」",
+"slot": 63
+},
+"0x002B59": {
+"jp": "「ほ、炎の魔装機神……/　その名は伊達ではないな……！」",
+"en": "「Th-the Lord of Flame.../ that name's no idle boast...!」",
+"slot": 82
+},
+"0x002BAC": {
+"jp": "「ガ、ガッデス……強過ぎる！」",
+"en": "「G-Gaddess... too strong!」",
+"slot": 45
+},
+"0x002BDA": {
+"jp": "「な、何としてもここでガッデスを……！！」",
+"en": "「I have to stop the Gaddess here...!!」",
+"slot": 63
+},
+"0x002C1A": {
+"jp": "「ぐっ！　直撃か！」",
+"en": "「Gah! A direct hit!」",
+"slot": 30
+},
+"0x002C39": {
+"jp": "「ま、まともに当てられた！？」",
+"en": "「I-it hit me dead on?!」",
+"slot": 45
+},
+"0x002C67": {
+"jp": "「まだだ、まだやられてはいない！」",
+"en": "「Not yet, I'm not done!」",
+"slot": 51
+},
+"0x002C9B": {
+"jp": "「ぐうっ！　よくも！！」",
+"en": "「Guuh! How dare you!!」",
+"slot": 36
+},
+"0x002CC0": {
+"jp": "「う、動きが読まれているのか！？」",
+"en": "「A-are my moves being read?!」",
+"slot": 51
+},
+"0x002CF4": {
+"jp": "「ううっ、油断したか……！」",
+"en": "「Uugh, I got careless...!」",
+"slot": 42
+},
+"0x002D1F": {
+"jp": "「何っ！？　パワー負けしているのか！？」",
+"en": "「What?! Am I outmatched in power?!」",
+"slot": 60
+},
+"0x002D5C": {
+"jp": "「やってくれたな、地上人！！」",
+"en": "「You've done it now, surface-dweller!!」",
+"slot": 45
+},
+"0x002D8A": {
+"jp": "「うぐっ！　地上人め、よくも！」",
+"en": "「Ugh! Surface-dweller, how dare you!」",
+"slot": 48
+},
+"0x002DBB": {
+"jp": "「地上人に後れを取るとは……！」",
+"en": "「Bested by a surface-dweller...!」",
+"slot": 48
+},
+"0x002DEC": {
+"jp": "「サイバスターめ、何てスピードなんだ！」",
+"en": "「Cybuster, what incredible speed!」",
+"slot": 60
+},
+"0x002E29": {
+"jp": "「な、何としてもサイバスターを……！！」",
+"en": "「I have to stop the Cybuster somehow...!!」",
+"slot": 60
+},
+"0x002E66": {
+"jp": "「さ、さすがだな、魔装機神！」",
+"en": "「I-impressive, Elemental Lord!」",
+"slot": 45
+},
+"0x002E94": {
+"jp": "「魔装機神相手に油断したつもりは……！」",
+"en": "「I didn't mean to drop my guard...!」",
+"slot": 60
+},
+"0x002ED1": {
+"jp": "「グ、グランヴェール……奴の火力は！」",
+"en": "「G-Granveil... such firepower!」",
+"slot": 57
+},
+"0x002F0B": {
+"jp": "「せめて、/　グランヴェールの足止めだけでも……！」",
+"en": "「If I could just/ slow the Granveil down...!」",
+"slot": 76
+},
+"0x002F58": {
+"jp": "「ガ、ガッデスめ、やってくれる！」",
+"en": "「G-Gaddess, you've done it now!」",
+"slot": 51
+},
+"0x002F8C": {
+"jp": "「ガッデスを止められんとは……！」",
+"en": "「I can't stop the Gaddess...!」",
+"slot": 51
+},
+"0x002FC0": {
+"jp": "「チッ、回避し損なったか！」",
+"en": "「Tch, I failed to evade!」",
+"slot": 42
+},
+"0x002FEB": {
+"jp": "「当たっただけだ！」",
+"en": "「You only grazed me!」",
+"slot": 30
+},
+"0x00300A": {
+"jp": "「こんなもの、ダメージの内に入らん！」",
+"en": "「This won't even count as damage!」",
+"slot": 57
+},
+"0x003044": {
+"jp": "「ふん、それがどうしたと言うのだ！」",
+"en": "「Hmph, and what of it!」",
+"slot": 54
+},
+"0x00307B": {
+"jp": "「何の、かすっただけだ！」",
+"en": "「Bah, just a scratch!」",
+"slot": 39
+},
+"0x0030A3": {
+"jp": "「それで我らを止める気か！」",
+"en": "「You think that will stop us!」",
+"slot": 42
+},
+"0x0030CE": {
+"jp": "「我らシュテドニアスを/　甘く見てもらっては困る！」",
+"en": "「Do not underestimate/　us of Shtedonias!」",
+"slot": 76
+},
+"0x00311B": {
+"jp": "「地上人め、やるな！」",
+"en": "「Not bad, surface-dweller!」",
+"slot": 33
+},
+"0x00313D": {
+"jp": "「調子に乗るなよ、地上人！」",
+"en": "「Don't push it, surface-dweller!」",
+"slot": 42
+},
+"0x003168": {
+"jp": "「ふん、地上では/　それで通用していたのかも知れんが……」",
+"en": "「Hmph, maybe that worked/　up on the surface...」",
+"slot": 85
+},
+"0x0031BE": {
+"jp": "「ハッ！　スピードだけか、サイバスター！」",
+"en": "「Hah! All speed, Cybuster?」",
+"slot": 63
+},
+"0x0031FE": {
+"jp": "「サイバスター……噂ほどではないな」",
+"en": "「Cybuster... less than the rumors said.」",
+"slot": 54
+},
+"0x003235": {
+"jp": "「大したことはないな、魔装機神も」",
+"en": "「Not so great, this Elemental Lord.」",
+"slot": 51
+},
+"0x003269": {
+"jp": "「いける！　これなら魔装機神と戦えるぞ！」",
+"en": "「Yes! I can fight an Elemental Lord!」",
+"slot": 63
+},
+"0x0032A9": {
+"jp": "「グランヴェール……そんなものか」",
+"en": "「Granveil... is that all?」",
+"slot": 51
+},
+"0x0032DD": {
+"jp": "「グランヴェール、思っていたほどではないな」",
+"en": "「Granveil, less than I expected.」",
+"slot": 66
+},
+"0x003320": {
+"jp": "「その程度か、ガッデスは！」",
+"en": "「Is that all the Gaddess has!」",
+"slot": 42
+},
+"0x00334B": {
+"jp": "「ふん、ガッデスは非力だな！」",
+"en": "「Hmph, the Gaddess is weak!」",
+"slot": 45
+},
+"0x003379": {
+"jp": "「なんのっ！」",
+"en": "「Not a chance!」",
+"slot": 21
+},
+"0x00338F": {
+"jp": "「当たるか！」",
+"en": "「That won't hit!」",
+"slot": 21
+},
+"0x0033A5": {
+"jp": "「遅い！」",
+"en": "「Too slow!」",
+"slot": 15
+},
+"0x0033B5": {
+"jp": "「甘いな！」",
+"en": "「Sloppy!」",
+"slot": 18
+},
+"0x0033C8": {
+"jp": "「そんなものか、地上人！」",
+"en": "「Is that all, surface-dweller!」",
+"slot": 39
+},
+"0x0033F0": {
+"jp": "「魔装機神と言っても、大したことはないな」",
+"en": "「An Elemental Lord? Nothing special.」",
+"slot": 63
+},
+"0x003430": {
+"jp": "「無駄だっ！」",
+"en": "「Useless!」",
+"slot": 21
+},
+"0x003446": {
+"jp": "「効くものか！」",
+"en": "「That won't work!」",
+"slot": 24
+},
+"0x00345F": {
+"jp": "「そんなもの！」",
+"en": "「Is that all!」",
+"slot": 24
+},
+"0x003478": {
+"jp": "「………」",
+"en": "「........」",
+"slot": 15
+},
+"0x003488": {
+"jp": "「弾切れだと！？」",
+"en": "「Out of ammo!?」",
+"slot": 27
+},
+"0x0034A4": {
+"jp": "「反撃できんとは！」",
+"en": "「I can't counterattack!」",
+"slot": 30
+},
+"0x0034C3": {
+"jp": "「くっ、これでは！」",
+"en": "「Ngh, not like this!」",
+"slot": 30
+},
+"0x0034E2": {
+"jp": "「いったん後退するしかないか……！」",
+"en": "「I've no choice but to fall back...!」",
+"slot": 54
+},
+"0x003519": {
+"jp": "「奴め、どこへ行った！？」",
+"en": "「Where did he go!?」",
+"slot": 39
+},
+"0x003541": {
+"jp": "「ちっ、見失うとは！」",
+"en": "「Tch, I lost him!」",
+"slot": 33
+},
+"0x003563": {
+"jp": "「くっ、逃げ足の速い奴め……！」",
+"en": "「Ngh, quick to run away...!」",
+"slot": 48
+},
+"0x003594": {
+"jp": "「死角に入られたか！」",
+"en": "「He got in my blind spot!」",
+"slot": 33
+},
+"0x0035B6": {
+"jp": "「援護する！」",
+"en": "「Covering you!」",
+"slot": 21
+},
+"0x0035CC": {
+"jp": "「後に続くぞ！」",
+"en": "「Right behind you!」",
+"slot": 24
+},
+"0x0035E5": {
+"jp": "「後は任せろ！」",
+"en": "「Leave it to me!」",
+"slot": 24
+},
+"0x0035FE": {
+"jp": "「いける！　もう一撃！」",
+"en": "「Yes! One more hit!」",
+"slot": 36
+},
+"0x003623": {
+"jp": "「やらせん！」",
+"en": "「Won't let you!」",
+"slot": 21
+},
+"0x003639": {
+"jp": "「させるかっ！」",
+"en": "「Not gonna happen!」",
+"slot": 24
+},
+"0x003652": {
+"jp": "「ここは引き受ける！」",
+"en": "「I'll take this one!」",
+"slot": 33
+},
+"0x003674": {
+"jp": "「覚悟してもらおうか！」",
+"en": "「Prepare yourself!」",
+"slot": 36
+},
+"0x003699": {
+"jp": "「まだだ！　もう一撃！」",
+"en": "「Not yet! One more hit!」",
+"slot": 36
+},
+"0x0036BE": {
+"jp": "「まだ終わりじゃないぞ！」",
+"en": "「It's not over yet!」",
+"slot": 39
+},
+"0x0036E6": {
+"jp": "「まだまだっ！」",
+"en": "「Not done yet!」",
+"slot": 24
+},
+"0x0036FF": {
+"jp": "「もらう！」",
+"en": "「You're mine!」",
+"slot": 18
+},
+"0x003712": {
+"jp": "「こいつをくらえ！」",
+"en": "「Take this!」",
+"slot": 30
+},
+"0x003731": {
+"jp": "「くらえ！」",
+"en": "「Eat this!」",
+"slot": 18
+},
+"0x003744": {
+"jp": "「受けろ！」",
+"en": "「Take it!」",
+"slot": 18
+},
+"0x003757": {
+"jp": "「そこだ！」",
+"en": "「There!」",
+"slot": 18
+},
+"0x00376A": {
+"jp": "「落ちろ！」",
+"en": "「Go down!」",
+"slot": 18
+},
+"0x00377D": {
+"jp": "「はあっ！」",
+"en": "「Haaa!」",
+"slot": 18
+},
+"0x003790": {
+"jp": "「おりゃあ！」",
+"en": "「Oryaa!」",
+"slot": 21
+},
+"0x0037A6": {
+"jp": "「たああっ！」",
+"en": "「Taaah!」",
+"slot": 21
+},
+"0x0037BC": {
+"jp": "「むんっ！」",
+"en": "「Mngh!」",
+"slot": 18
+},
+"0x0037CF": {
+"jp": "「当ててやる！」",
+"en": "「I'll hit you!」",
+"slot": 24
+},
+"0x0037E8": {
+"jp": "「機銃座、撃ち方始め！」",
+"en": "「Machine gun, open fire!」",
+"slot": 36
+},
+"0x00380D": {
+"jp": "「対空機銃、撃て！」",
+"en": "「AA guns, fire!」",
+"slot": 30
+},
+"0x00382C": {
+"jp": "「高射砲、発射用意！　撃て！」",
+"en": "「Flak cannons, ready! Fire!」",
+"slot": 45
+},
+"0x00385A": {
+"jp": "「高射砲、１番、２番！　撃て！」",
+"en": "「Flak guns one and two! Fire!」",
+"slot": 48
+},
+"0x00388B": {
+"jp": "「前部全砲塔、発射用意！　撃て！」",
+"en": "「All forward turrets, ready! Fire!」",
+"slot": 51
+},
+"0x0038BF": {
+"jp": "「前部砲塔、一斉射撃！　撃て！」",
+"en": "「Forward turrets, volley! Fire!」",
+"slot": 48
+},
+"0x0038F0": {
+"jp": "「バリオン・ビーム砲、発射用意！」",
+"en": "「Barion beam cannon, ready!」",
+"slot": 51
+},
+"0x003924": {
+"jp": "「撃て！」",
+"en": "「Fire!」",
+"slot": 15
+},
+"0x003934": {
+"jp": "「主砲、発射用意！」",
+"en": "「Main gun, ready to fire!」",
+"slot": 30
+}
+}

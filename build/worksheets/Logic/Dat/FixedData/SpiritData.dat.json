@@ -1,0 +1,502 @@
+{
+ "0x0003A6": {
+  "jp": "－－－－",
+  "en": "----",
+  "slot": 12
+ },
+ "0x0003B9": {
+  "jp": "無し",
+  "en": "None",
+  "slot": 6
+ },
+ "0x0003C6": {
+  "jp": "？？？？",
+  "en": "????",
+  "slot": 12
+ },
+ "0x0003D9": {
+  "jp": "？？？",
+  "en": "???",
+  "slot": 9
+ },
+ "0x0003E9": {
+  "jp": "偵察",
+  "en": "Scan",
+  "slot": 6
+ },
+ "0x0003F6": {
+  "jp": "指定した敵ユニットのステータスを調べることができます。",
+  "en": "View a target's status.",
+  "slot": 81
+ },
+ "0x00044E": {
+  "jp": "集中",
+  "en": "Focus",
+  "slot": 6
+ },
+ "0x00045B": {
+  "jp": "１ターンの間、命中率・回避率が３０だけ上昇します。",
+  "en": "Hit & evade +30 for 1 turn.",
+  "slot": 75
+ },
+ "0x0004AD": {
+  "jp": "必中",
+  "en": "Strike",
+  "slot": 6
+ },
+ "0x0004BD": {
+  "jp": "F１ターンの間、攻撃の命中率が１００％になります",
+  "en": "FHit rate 100% for 1 turn.",
+  "slot": 70
+ },
+ "0x000504": {
+  "jp": "（「ひらめき」が優先）。",
+  "en": "(Alert takes priority).",
+  "slot": 36
+ },
+ "0x00052F": {
+  "jp": "感応",
+  "en": "Sense",
+  "slot": 6
+ },
+ "0x00053C": {
+  "jp": "指定した機体に「必中」の効果を与えることができます。",
+  "en": "Grants Strike to a unit.",
+  "slot": 78
+ },
+ "0x000591": {
+  "jp": "ひらめき",
+  "en": "Alert",
+  "slot": 12
+ },
+ "0x0005A4": {
+  "jp": "一度だけ、戦闘での敵の攻撃を完全回避します。",
+  "en": "Fully evades 1 enemy attack.",
+  "slot": 66
+ },
+ "0x0005ED": {
+  "jp": "直感",
+  "en": "Intuition",
+  "slot": 6
+ },
+ "0x0005FA": {
+  "jp": "一度に「ひらめき」「必中」の効果を得ることができます。",
+  "en": "Grants Alert & Strike.",
+  "slot": 81
+ },
+ "0x000652": {
+  "jp": "かく乱",
+  "en": "Disrupt",
+  "slot": 9
+ },
+ "0x000665": {
+  "jp": "L１ターンの間、全敵の命中率が半分になります。ただし",
+  "en": "LHalves all enemy hit 1 turn;",
+  "slot": 76
+ },
+ "0x0006B2": {
+  "jp": "「必中」は優先されます。",
+  "en": "Strike takes priority.",
+  "slot": 36
+ },
+ "0x0006DD": {
+  "jp": "加速",
+  "en": "Accel",
+  "slot": 6
+ },
+ "0x0006EA": {
+  "jp": "一度だけ、移動力に＋３されます。",
+  "en": "Movement +3 once.",
+  "slot": 48
+ },
+ "0x000721": {
+  "jp": "狙撃",
+  "en": "Snipe",
+  "slot": 6
+ },
+ "0x000731": {
+  "jp": "F一度だけ、射程１の武器とマップ兵器以外の武器の",
+  "en": "F+2 range once (except",
+  "slot": 70
+ },
+ "0x000778": {
+  "jp": "射程に対して＋２されます。",
+  "en": "range-1 & map weapons).",
+  "slot": 39
+ },
+ "0x0007A6": {
+  "jp": "突撃",
+  "en": "Charge",
+  "slot": 6
+ },
+ "0x0007B6": {
+  "jp": "L１ターンの間、マップ兵器以外の全ての武器が移動後に",
+  "en": "LAll weapons (except map) can",
+  "slot": 76
+ },
+ "0x000803": {
+  "jp": "使用できるようになります。",
+  "en": "fire after moving, 1 turn.",
+  "slot": 39
+ },
+ "0x000831": {
+  "jp": "同調",
+  "en": "Attune",
+  "slot": 6
+ },
+ "0x000841": {
+  "jp": "[ツインユニットの、パイロットの能力（格闘・射撃・回避・命中・",
+  "en": "[Twin pilots' stats each set",
+  "slot": 91
+ },
+ "0x00089D": {
+  "jp": "技量・防御）を両メインパイロットの数値の高い方へ合わせます。",
+  "en": "to the higher of the two.",
+  "slot": 90
+ },
+ "0x0008FE": {
+  "jp": "熱血",
+  "en": "Valor",
+  "slot": 6
+ },
+ "0x00090B": {
+  "jp": "一度だけ、戦闘で敵に与えるダメージが２倍になります。",
+  "en": "Doubles damage dealt (once).",
+  "slot": 78
+ },
+ "0x000960": {
+  "jp": "魂",
+  "en": "Soul",
+  "slot": 3
+ },
+ "0x00096D": {
+  "jp": "U一度だけ、戦闘で敵に与えるダメージが２．５倍になります。",
+  "en": "UDamage dealt x2.5 (once).",
+  "slot": 85
+ },
+ "0x0009C3": {
+  "jp": "「熱血」との併用はできません。",
+  "en": "Cannot combine with Valor.",
+  "slot": 45
+ },
+ "0x0009F7": {
+  "jp": "闘志",
+  "en": "Drive",
+  "slot": 6
+ },
+ "0x000A04": {
+  "jp": "１ターンの間、攻撃が必ずクリティカルになります。",
+  "en": "All hits critical, 1 turn.",
+  "slot": 72
+ },
+ "0x000A53": {
+  "jp": "幸運",
+  "en": "Luck",
+  "slot": 6
+ },
+ "0x000A60": {
+  "jp": "次の戦闘で得られる資金が２倍になります。",
+  "en": "Doubles money next battle.",
+  "slot": 60
+ },
+ "0x000AA3": {
+  "jp": "祝福",
+  "en": "Bless",
+  "slot": 6
+ },
+ "0x000AB0": {
+  "jp": "指定した機体に「幸運」の効果を与えることができます。",
+  "en": "Grants Luck to a unit.",
+  "slot": 78
+ },
+ "0x000B05": {
+  "jp": "努力",
+  "en": "Gain",
+  "slot": 6
+ },
+ "0x000B12": {
+  "jp": "次の戦闘で得られる経験値が２倍になります。",
+  "en": "Doubles EXP next battle.",
+  "slot": 63
+ },
+ "0x000B58": {
+  "jp": "応援",
+  "en": "Cheer",
+  "slot": 6
+ },
+ "0x000B65": {
+  "jp": "指定した機体に「努力」の効果を与えることができます。",
+  "en": "Grants Gain to a unit.",
+  "slot": 78
+ },
+ "0x000BBA": {
+  "jp": "修行",
+  "en": "Train",
+  "slot": 6
+ },
+ "0x000BC7": {
+  "jp": "次の戦闘で得られるパイロットポイントが２倍になります。",
+  "en": "Doubles PP next battle.",
+  "slot": 81
+ },
+ "0x000C1F": {
+  "jp": "強襲",
+  "en": "Assault",
+  "slot": 6
+ },
+ "0x000C2F": {
+  "jp": "I一度に「加速」「突撃」「直撃」の効果を得ることが",
+  "en": "IGains Accel, Charge &",
+  "slot": 73
+ },
+ "0x000C79": {
+  "jp": "できます。",
+  "en": "Direct Hit at once.",
+  "slot": 15
+ },
+ "0x000C8F": {
+  "jp": "愛",
+  "en": "Love",
+  "slot": 3
+ },
+ "0x000C9C": {
+  "jp": "L一度に「加速」「熱血」「ひらめき」「必中」「気合」",
+  "en": "LGains Accel, Valor, Alert,",
+  "slot": 76
+ },
+ "0x000CE9": {
+  "jp": "「努力」「幸運」の効果を得ることができます。",
+  "en": "Strike, Spirit, Gain & Luck.",
+  "slot": 66
+ },
+ "0x000D32": {
+  "jp": "直撃",
+  "en": "Direct Hit",
+  "slot": 6
+ },
+ "0x000D42": {
+  "jp": "C一度だけ、敵の援護防御、特殊な防御能力を発動",
+  "en": "COnce, blocks enemy support",
+  "slot": 67
+ },
+ "0x000D86": {
+  "jp": "させません。",
+  "en": "defense & special defenses.",
+  "slot": 18
+ },
+ "0x000D9F": {
+  "jp": "鉄壁",
+  "en": "Iron Wall",
+  "slot": 6
+ },
+ "0x000DAC": {
+  "jp": "１ターンの間、戦闘で受けるダメージを１／４にします。",
+  "en": "Damage taken 1/4 for 1 turn.",
+  "slot": 78
+ },
+ "0x000E01": {
+  "jp": "信念",
+  "en": "Faith",
+  "slot": 6
+ },
+ "0x000E11": {
+  "jp": "O１ターンの間、戦闘で受けるステータス異常を無効にし、",
+  "en": "OBlocks ailments taken and",
+  "slot": 79
+ },
+ "0x000E61": {
+  "jp": "ダメージを１／４にします。",
+  "en": "cuts damage 1/4, 1 turn.",
+  "slot": 39
+ },
+ "0x000E8F": {
+  "jp": "不屈",
+  "en": "Guts",
+  "slot": 6
+ },
+ "0x000E9C": {
+  "jp": "一度だけ、戦闘で受ける全てのダメージを１０にします。",
+  "en": "All damage taken to 10 once.",
+  "slot": 78
+ },
+ "0x000EF1": {
+  "jp": "連撃",
+  "en": "Assail",
+  "slot": 6
+ },
+ "0x000F01": {
+  "jp": "F次の戦闘で攻撃した敵ユニットを壊滅させた場合、",
+  "en": "FIf next attack destroys the",
+  "slot": 70
+ },
+ "0x000F48": {
+  "jp": "行動終了せず、もう一度行動できます。",
+  "en": "enemy, act again for free.",
+  "slot": 54
+ },
+ "0x000F85": {
+  "jp": "覚醒",
+  "en": "Awaken",
+  "slot": 6
+ },
+ "0x000F92": {
+  "jp": "一回分、行動回数が増えます。",
+  "en": "Grants one extra action.",
+  "slot": 42
+ },
+ "0x000FC3": {
+  "jp": "再動",
+  "en": "Restir",
+  "slot": 6
+ },
+ "0x000FD0": {
+  "jp": "指定した行動済みのユニットを再び行動可能にします。",
+  "en": "Lets a unit act again.",
+  "slot": 75
+ },
+ "0x001022": {
+  "jp": "信頼",
+  "en": "Support",
+  "slot": 6
+ },
+ "0x00102F": {
+  "jp": "指定した機体のＨＰを２０００回復します。",
+  "en": "Restores 2000 HP to a unit.",
+  "slot": 60
+ },
+ "0x001072": {
+  "jp": "友情",
+  "en": "Friendship",
+  "slot": 6
+ },
+ "0x00107F": {
+  "jp": "指定した機体のＨＰを全回復します。",
+  "en": "Fully restores a unit's HP.",
+  "slot": 51
+ },
+ "0x0010B9": {
+  "jp": "絆",
+  "en": "Bond",
+  "slot": 3
+ },
+ "0x0010C3": {
+  "jp": "全味方の機体のＨＰを最大値の５０％分だけ回復させます。",
+  "en": "Restores 50% HP to allies.",
+  "slot": 81
+ },
+ "0x00111B": {
+  "jp": "根性",
+  "en": "Guts",
+  "slot": 6
+ },
+ "0x001128": {
+  "jp": "自分のＨＰを最大値の３０％分だけ回復させます。",
+  "en": "Restores 30% of your max HP.",
+  "slot": 69
+ },
+ "0x001174": {
+  "jp": "ド根性",
+  "en": "True Guts",
+  "slot": 9
+ },
+ "0x001184": {
+  "jp": "自分のＨＰを最大値まで回復させます。",
+  "en": "Fully restores your own HP.",
+  "slot": 54
+ },
+ "0x0011C1": {
+  "jp": "祈り",
+  "en": "Prayer",
+  "slot": 6
+ },
+ "0x0011CE": {
+  "jp": "指定した部隊のステータス異常を解除します。",
+  "en": "Cures ailments on a squad.",
+  "slot": 63
+ },
+ "0x001214": {
+  "jp": "てかげん",
+  "en": "Mercy",
+  "slot": 12
+ },
+ "0x00122A": {
+  "jp": "@次の戦闘で敵機体を倒さずに、ＨＰを１０だけ",
+  "en": "@Leaves enemy at 10 HP next",
+  "slot": 64
+ },
+ "0x00126B": {
+  "jp": "残します（相手より技量が上回っていなければ無効）。",
+  "en": "battle (needs higher skill).",
+  "slot": 75
+ },
+ "0x0012BD": {
+  "jp": "気合",
+  "en": "Spirit",
+  "slot": 6
+ },
+ "0x0012CA": {
+  "jp": "自分の気力を＋１０します。",
+  "en": "Your morale +10.",
+  "slot": 39
+ },
+ "0x0012F8": {
+  "jp": "気迫",
+  "en": "Drive",
+  "slot": 6
+ },
+ "0x001305": {
+  "jp": "自分の気力を＋３０します。",
+  "en": "Your morale +30.",
+  "slot": 39
+ },
+ "0x001333": {
+  "jp": "激励",
+  "en": "Rouse",
+  "slot": 6
+ },
+ "0x001340": {
+  "jp": "指定した機体の気力を１０上げます。",
+  "en": "A unit's morale +10.",
+  "slot": 51
+ },
+ "0x00137A": {
+  "jp": "大激励",
+  "en": "Great Rouse",
+  "slot": 9
+ },
+ "0x00138A": {
+  "jp": "全味方パイロットの気力を５上げます。",
+  "en": "All allies' morale +5.",
+  "slot": 54
+ },
+ "0x0013C7": {
+  "jp": "脱力",
+  "en": "Fury",
+  "slot": 6
+ },
+ "0x0013D4": {
+  "jp": "指定した機体の気力を１０下げます。",
+  "en": "A unit's morale -10.",
+  "slot": 51
+ },
+ "0x00140E": {
+  "jp": "期待",
+  "en": "Trust",
+  "slot": 6
+ },
+ "0x00141B": {
+  "jp": "指定したパイロットの精神ポイントを５０回復します。",
+  "en": "Restores 50 SP to a pilot.",
+  "slot": 75
+ },
+ "0x00146D": {
+  "jp": "補給",
+  "en": "Resupply",
+  "slot": 6
+ },
+ "0x00147A": {
+  "jp": "指定した機体のＥＮ、弾数値を最大値まで回復させます。",
+  "en": "Restores a unit's EN & ammo.",
+  "slot": 78
+ }
+}
