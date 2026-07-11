@@ -1,0 +1,113 @@
+{
+ "comment": "code/cave patch: deployed EBOOT (advance K=0.66 x14 sites + menu caves + term-field caves) minus worksheet string slots; apply to _rollback/EBOOT.elf.orig | +window-family fontsize Kf=0.8 (2026-07-08)",
+ "base_len": 14145056,
+ "patch": [
+  {
+   "off": 4813084,
+   "bytes": "4879e844"
+  },
+  {
+   "off": 6355324,
+   "bytes": "48626034"
+  },
+  {
+   "off": 6355412,
+   "bytes": "48626004"
+  },
+  {
+   "off": 6355532,
+   "bytes": "48625f3c"
+  },
+  {
+   "off": 9729048,
+   "bytes": "482ee750"
+  },
+  {
+   "off": 10496360,
+   "bytes": "48233138"
+  },
+  {
+   "off": 10496792,
+   "bytes": "48232fb0"
+  },
+  {
+   "off": 10499008,
+   "bytes": "48232730"
+  },
+  {
+   "off": 10500432,
+   "bytes": "482321c8"
+  },
+  {
+   "off": 10500740,
+   "bytes": "482321ac"
+  },
+  {
+   "off": 10501720,
+   "bytes": "48231ce8"
+  },
+  {
+   "off": 10506032,
+   "bytes": "48230ad0"
+  },
+  {
+   "off": 10506456,
+   "bytes": "48230858"
+  },
+  {
+   "off": 10508672,
+   "bytes": "482300a8"
+  },
+  {
+   "off": 10510096,
+   "bytes": "4822fb40"
+  },
+  {
+   "off": 10511228,
+   "bytes": "4822f6fc"
+  },
+  {
+   "off": 10514172,
+   "bytes": "4822ed5c"
+  },
+  {
+   "off": 12534616,
+   "bytes": "48041838"
+  },
+  {
+   "off": 12536720,
+   "bytes": "48041028"
+  },
+  {
+   "off": 12539588,
+   "bytes": "4804051c"
+  },
+  {
+   "off": 12541708,
+   "bytes": "4803fcfc"
+  },
+  {
+   "off": 12802352,
+   "bytes": "ec1c0032f98101603d8000c4618c5950c18c0000e9810160ec0003324bdcf7903f19999a"
+  },
+  {
+   "off": 12802400,
+   "bytes": "f981fff8d981fff03d8000c4618c5950c18c0000ec000332c981fff0e981fff8efde002a4b86179cf981fff8d981fff03d8000c4618c5950c18c0000ec000332c981fff0e981fff8efde002a4b9da0a4f981fff8d981fff03d8000c4618c5950c18c0000eca50332c981fff0e981fff8efde282a4b9d9facf981fff8d981fff03d8000c4618c5950c18c0000ed6b0332c981fff0e981fff8efde582a4b9d9fdcf981fff8d981fff03d8000c4618c5950c18c0000ec000332c981fff0e981fff8efde002a4bdcf510f981fff8d981fff03d8000c4618c5950c18c0000ec000332c981fff0e981fff8efde002a4bdcff38f981fff8d981fff03d8000c4618c5950c18c0000ec000332c981fff0e981fff8efde002a4bdd04a0f981fff8d981fff03d8000c4618c5950c18c0000ec000332c981fff0e981fff8efde002a4bdd08e4f981fff8d981fff03d8000c4618c5950c18c0000ec000332c981fff0e981fff8efde002a4bdccea8f981fff8d981fff03d8000c4618c5950c18c0000ec000332c981fff0e981fff8efde002a4bdcd030f981fff8d981fff03d8000c4618c5950c18c0000ec000332c981fff0e981fff8efde002a4bdcd8b0f981fff8d981fff03d8000c4618c5950c18c0000ec000332c981fff0e981fff8efde002a4bdcde18f981fff8d981fff03d8000c4618c5950c18c0000ec000332c981fff0e981fff8efde002a4bdce2f8ec1c0032f981fff8d981fff03d8000c4618c5950c18c0000ec000332c981fff0e981fff84bd11890ec1c0032f981fff8d981fff03d8000c4618c5950c18c0000ec000332c981fff0e981fff84bfbe7a8ec1c0032f981fff8d981fff03d8000c4618c5950c18c0000ec000332c981fff0e981fff84bfbefb8ec1c0032f981fff8d981fff03d8000c4618c5950c18c0000ec000332c981fff0e981fff84bfbfac4ec1c0032f981fff8d981fff03d8000c4618c5950c18c0000ec000332c981fff0e981fff84bfc02e4ed3c06b2f981fff8d981fff03d8000c4618c5950c18c0000ed290332c981fff0e981fff84bdcde34ed3b06b2f981fff8d981fff03d8000c4618c5950c18c0000ed290332c981fff0e981fff84bdd1284"
+  },
+  {
+   "off": 6011268,
+   "bytes": "4867a2fc",
+   "note": "fontsize store redirect -> cave (FUN_005cb970)"
+  },
+  {
+   "off": 12803200,
+   "bytes": "3d8000c4618c5cb0c00c0000ec210032d023002c4b985cf4",
+   "note": "fontsize leaf-safe cave: f1*=Kf; stfs; branch back"
+  },
+  {
+   "off": 12803248,
+   "bytes": "3f666666",
+   "note": "fontsize Kf constant (0.8)"
+  }
+ ]
+}

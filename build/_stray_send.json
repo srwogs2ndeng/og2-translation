@@ -1,0 +1,236 @@
+[
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC398B0",
+  "jp": "自機中心型",
+  "slot_bytes": 15
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC5A220",
+  "jp": "武器選択",
+  "slot_bytes": 12
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC5D1F0",
+  "jp": "絶対",
+  "slot_bytes": 6
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC5D1F8",
+  "jp": "相対",
+  "slot_bytes": 6
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC5D3D0",
+  "jp": "攻撃方法：全体攻撃",
+  "slot_bytes": 27
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC5E428",
+  "jp": "■強制バリア：神の盾",
+  "slot_bytes": 30
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC5E448",
+  "jp": "■強制バリア：神獣盾",
+  "slot_bytes": 30
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC5F6F8",
+  "jp": "全体設定",
+  "slot_bytes": 12
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC5F788",
+  "jp": "： 黄",
+  "slot_bytes": 7
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC5FF18",
+  "jp": "機体設定",
+  "slot_bytes": 12
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC604E8",
+  "jp": "： ＨＩＴ",
+  "slot_bytes": 13
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC604F8",
+  "jp": "： ＭＩＳＳ",
+  "slot_bytes": 16
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC60938",
+  "jp": "： 分身",
+  "slot_bytes": 10
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC60BA0",
+  "jp": "： 神の盾",
+  "slot_bytes": 13
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC60BB0",
+  "jp": "： 神獣盾",
+  "slot_bytes": 13
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC64B70",
+  "jp": "○：早送り",
+  "slot_bytes": 15
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC67630",
+  "jp": "・反撃時に使用不可",
+  "slot_bytes": 27
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC69B48",
+  "jp": "同時攻撃",
+  "slot_bytes": 12
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC6E7E8",
+  "jp": "制限条件",
+  "slot_bytes": 12
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC6E960",
+  "jp": "射程外",
+  "slot_bytes": 9
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC6FDC0",
+  "jp": "地下系",
+  "slot_bytes": 9
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC6FE08",
+  "jp": "機体図鑑登録",
+  "slot_bytes": 18
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC6FF28",
+  "jp": "即時",
+  "slot_bytes": 6
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC70018",
+  "jp": "脇役",
+  "slot_bytes": 6
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC70098",
+  "jp": "自機中心",
+  "slot_bytes": 12
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC70170",
+  "jp": "欧米",
+  "slot_bytes": 6
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC70200",
+  "jp": "超強気",
+  "slot_bytes": 9
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC70238",
+  "jp": "努力家",
+  "slot_bytes": 9
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC70268",
+  "jp": "狡猾",
+  "slot_bytes": 6
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC702B8",
+  "jp": "念動",
+  "slot_bytes": 6
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC70308",
+  "jp": "補助",
+  "slot_bytes": 6
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC74570",
+  "jp": "ＤＭ",
+  "slot_bytes": 6
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC753A0",
+  "jp": "ＤＭ",
+  "slot_bytes": 6
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC77358",
+  "jp": "Ｅａｓｙ",
+  "slot_bytes": 12
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC77368",
+  "jp": "Ｎｏｒｍａｌ",
+  "slot_bytes": 18
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xC77380",
+  "jp": "Ｈａｒｄ",
+  "slot_bytes": 12
+ },
+ {
+  "file": "EBOOT/eboot.json",
+  "key": "0xD5E1E8",
+  "jp": "攻撃不可",
+  "slot_bytes": 12
+ },
+ {
+  "file": "General2d/Dat/Window/WindowToolData/windowdataMain.wtd.json",
+  "key": "0x0B551F",
+  "jp": "+　=",
+  "slot_bytes": 8
+ },
+ {
+  "file": "Battle/Dat/Battle/Message/078.bmd.json",
+  "key": "0x00899D",
+  "jp": "「残念だったな、ロフ！」",
+  "slot_bytes": 36
+ }
+]

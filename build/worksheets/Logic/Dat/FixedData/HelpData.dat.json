@@ -1,0 +1,4677 @@
+{
+ "0x002411": {
+  "jp": "攻撃を行えないことを表します。",
+  "en": "Indicates that no attack can be made.",
+  "slot": 45
+ },
+ "0x002445": {
+  "jp": "フル改造ボーナスによって変更される能力値が表示されます。",
+  "en": "Shows the stats changed by the full upgrade bonus.",
+  "slot": 84
+ },
+ "0x0024A0": {
+  "jp": "その精神コマンドについて、マークを行っている場合、表示されます。",
+  "en": "Shown when this spirit command has been marked.",
+  "slot": 96
+ },
+ "0x002507": {
+  "jp": "ソート用カーソルが合っている場合、パイロット名の読みがなで並べ替えを行います。",
+  "en": "When the sort cursor is here, sorts by pilot name reading.",
+  "slot": 117
+ },
+ "0x002583": {
+  "jp": "ソート用カーソルが合っている場合、機体名の読みがなで並べ替えを行います。",
+  "en": "When the sort cursor is here, sorts by unit name reading.",
+  "slot": 108
+ },
+ "0x0025F6": {
+  "jp": "パイロットに設定されているＢＧＭを表します。設定されたＢＧＭは戦闘デモで流れます。",
+  "en": "Shows the pilot's BGM. It plays during battle demos.",
+  "slot": 123
+ },
+ "0x002678": {
+  "jp": "機体に設定されているＢＧＭを表します。設定されたＢＧＭは戦闘デモで流れます。",
+  "en": "Shows the unit's BGM. It plays during battle demos.",
+  "slot": 114
+ },
+ "0x00277A": {
+  "jp": "場合などに消費されます。",
+  "en": "consumed in such cases.",
+  "slot": 36
+ },
+ "0x0027A5": {
+  "jp": "ボーナス取得前と取得後の、機体の最大ＥＮを表します。",
+  "en": "Shows the unit's max EN before and after the bonus.",
+  "slot": 78
+ },
+ "0x0027FA": {
+  "jp": "改造前と改造後の、機体の最大ＥＮを表します。",
+  "en": "Shows the unit's max EN before and after upgrading.",
+  "slot": 66
+ },
+ "0x002843": {
+  "jp": "換装パーツ変更前と変更後の、機体の最大ＥＮを表します。",
+  "en": "Shows the unit's max EN before and after swap parts.",
+  "slot": 81
+ },
+ "0x00289B": {
+  "jp": "強化パーツ変更前と変更後の、機体の最大ＥＮを表します。",
+  "en": "Shows the unit's max EN before and after part change.",
+  "slot": 81
+ },
+ "0x0028F3": {
+  "jp": "現在の機体の最大ＥＮを表します。（）内は選択中の強化パーツを外した場合の能力値を表します。",
+  "en": "Shows current max EN. ( ) is the value without the selected upgrade part.",
+  "slot": 135
+ },
+ "0x002981": {
+  "jp": "機体の最大ＥＮとＥＮの改造段階を表します。",
+  "en": "Shows the unit's max EN and EN upgrade level.",
+  "slot": 63
+ },
+ "0x0029C7": {
+  "jp": "その地形にいる機体のＥＮが自軍フェイズ開始時に、最大値の何％分回復するかを表します。",
+  "en": "Shows what % of max EN the unit recovers on this terrain at your phase start.",
+  "slot": 126
+ },
+ "0x002A4C": {
+  "jp": "機体の最大ＥＮの改造段階を表します。",
+  "en": "Shows the unit's max EN upgrade level.",
+  "slot": 54
+ },
+ "0x002A89": {
+  "jp": "次のステージでイベント出撃するパイロットの場合は<I=4>が表示されます。",
+  "en": "<I=4> is shown if the pilot deploys by event next stage.",
+  "slot": 101
+ },
+ "0x002AF5": {
+  "jp": "次のステージでイベント出撃する機体の場合は<I=4>が表示されます。",
+  "en": "<I=4> is shown if the unit deploys by event next stage.",
+  "slot": 92
+ },
+ "0x002B58": {
+  "jp": "次のステージでイベント出撃する機体、もしくはパイロットの場合は<I=4>が表示されます。",
+  "en": "<I=4> is shown if the unit or pilot deploys by event next stage.",
+  "slot": 122
+ },
+ "0x002C65": {
+  "jp": "と表示されます。",
+  "en": "is displayed.",
+  "slot": 24
+ },
+ "0x002C84": {
+  "jp": "機体のヒットポイントを表します。戦闘などでＨＰが０になると機体は破壊され、撃墜されます。",
+  "en": "The unit's hit points. If HP reaches 0 the unit is destroyed and shot down.",
+  "slot": 132
+ },
+ "0x002D0F": {
+  "jp": "ボーナス取得前と取得後の、機体の最大ＨＰを表します。",
+  "en": "Shows the unit's max HP before and after the bonus.",
+  "slot": 78
+ },
+ "0x002D64": {
+  "jp": "改造前と改造後の、機体の最大ＨＰを表します。",
+  "en": "Shows the unit's max HP before and after upgrading.",
+  "slot": 66
+ },
+ "0x002DAD": {
+  "jp": "換装パーツ変更前と変更後の、機体の最大ＨＰを表します。",
+  "en": "Shows the unit's max HP before and after swap parts.",
+  "slot": 81
+ },
+ "0x002E05": {
+  "jp": "強化パーツ変更前と変更後の、機体の最大ＨＰを表します。",
+  "en": "Shows the unit's max HP before and after part change.",
+  "slot": 81
+ },
+ "0x002E5D": {
+  "jp": "現在の機体の最大ＨＰを表します。（）内は選択中の強化パーツを外した場合の能力値を表します。",
+  "en": "Shows current max HP. ( ) is the value without the selected upgrade part.",
+  "slot": 135
+ },
+ "0x002EEB": {
+  "jp": "機体の最大ＨＰとＨＰの改造段階を表します。",
+  "en": "Shows the unit's max HP and HP upgrade level.",
+  "slot": 63
+ },
+ "0x002F31": {
+  "jp": "その地形にいる機体のＨＰが自軍フェイズ開始時に、最大値の何％分回復するかを表します。",
+  "en": "Shows what % of max HP the unit recovers on this terrain at your phase start.",
+  "slot": 126
+ },
+ "0x002FB6": {
+  "jp": "機体の最大ＨＰの改造段階を表します。",
+  "en": "Shows the unit's max HP upgrade level.",
+  "slot": 54
+ },
+ "0x00307C": {
+  "jp": "な精神コマンドを覚えたり、特殊スキルのスキルレベルが上がる場合もあります。",
+  "en": "new spirit commands may be learned, or special skill levels may rise too.",
+  "slot": 111
+ },
+ "0x0030F2": {
+  "jp": "レベルアップした後の、パイロットのレベルを表します。",
+  "en": "Shows the pilot's level after leveling up.",
+  "slot": 78
+ },
+ "0x003147": {
+  "jp": "レベルアップする前の、パイロットのレベルを表します。",
+  "en": "Shows the pilot's level before leveling up.",
+  "slot": 78
+ },
+ "0x00319C": {
+  "jp": "攻撃を行った場合、その攻撃が回避されることを表します。",
+  "en": "Indicates that the attack, if made, will be evaded.",
+  "slot": 81
+ },
+ "0x0031F4": {
+  "jp": "他のパイロットから使用してもらえるコマンドを表します。",
+  "en": "Shows commands that other pilots can use on this unit.",
+  "slot": 81
+ },
+ "0x003251": {
+  "jp": "&\u0001\nパイロットが獲得したパイロットポイントを表します。インターミッションの「パイロット養成」",
+  "en": "&\u0001\nShows the Pilot Points a pilot has earned. In the intermission 'Pilot Training'",
+  "slot": 135
+ },
+ "0x0032D9": {
+  "jp": "コマンドで、ＰＰを消費することによって、パイロットの能力を上昇させたり、特殊スキルを修得",
+  "en": "command, spend PP to raise a pilot's stats or learn special skills.",
+  "slot": 132
+ },
+ "0x00335E": {
+  "jp": "させることができます。戦闘で敵を撃墜した場合、ＰＰを獲得することができます。",
+  "en": "PP is earned by shooting down enemies in battle.",
+  "slot": 114
+ },
+ "0x0033D7": {
+  "jp": "ステージ中に獲得したＰＰを表します。",
+  "en": "Shows the PP earned during this stage.",
+  "slot": 54
+ },
+ "0x00349D": {
+  "jp": "できます。獲得したＰＰは、インターミッションの「パイロット養成」コマンドで使用します。",
+  "en": "Earned PP is used in the intermission 'Pilot Training' command.",
+  "slot": 129
+ },
+ "0x003525": {
+  "jp": "ＰＰの所持値から必要値を差し引いた値を表します。",
+  "en": "Shows current PP minus the required amount.",
+  "slot": 72
+ },
+ "0x003574": {
+  "jp": "養成に必要なＰＰを表します。",
+  "en": "Shows the PP needed for training.",
+  "slot": 42
+ },
+ "0x0035A5": {
+  "jp": "入力中の項目について、必要なＰＰを表します。",
+  "en": "Shows the PP needed for the item being entered.",
+  "slot": 66
+ },
+ "0x0035F3": {
+  "jp": "\"\u0001\nパイロットの「現在の精神ポイント」／「最大精神ポイント」を表します。ＳＰを消費することに",
+  "en": "\"\u0001\nShows the pilot's current/max Spirit Points. Spend SP to",
+  "slot": 135
+ },
+ "0x00367B": {
+  "jp": "よって精神コマンド・ツイン精神コマンドを使用することができます。ツイン精神コマンドを使用",
+  "en": "use spirit and twin spirit commands. Using a twin spirit command",
+  "slot": 132
+ },
+ "0x003700": {
+  "jp": "した場合、ツインユニットの二人のメインパイロットのＳＰを消費します。",
+  "en": "consumes the SP of both main pilots in the twin unit.",
+  "slot": 102
+ },
+ "0x0037F6": {
+  "jp": "文字色が緑色で表示され、上昇した値が表示されます。",
+  "en": "Text turns green, showing the raised value.",
+  "slot": 75
+ },
+ "0x00384D": {
+  "jp": "\u0015\u0001\nパイロットの現在の精神ポイントを表します。ＳＰを消費することによって精神コマンド・ツイン",
+  "en": "\u0015\u0001\nShows the pilot's current Spirit Points. Spend SP to use spirit and twin",
+  "slot": 135
+ },
+ "0x0038D5": {
+  "jp": "精神コマンドを使用することができます。ツイン精神コマンドを使用した場合、ツインユニットの",
+  "en": "spirit commands. Using a twin spirit command consumes the SP of the",
+  "slot": 132
+ },
+ "0x00395A": {
+  "jp": "二人のメインパイロットのＳＰを消費します。",
+  "en": "twin unit's two main pilots.",
+  "slot": 63
+ },
+ "0x0039A5": {
+  "jp": "\u0014\u0001\nパイロットの最大精神ポイントを表します。ＳＰを消費することによって精神コマンド・ツイン精",
+  "en": "\u0014\u0001\nShows the pilot's max Spirit Points. Spend SP to use spirit and twin spirit",
+  "slot": 135
+ },
+ "0x003A2D": {
+  "jp": "神コマンドを使用することができます。ツイン精神コマンドを使用した場合、ツインユニットの二",
+  "en": "commands. Using a twin spirit command consumes the SP of the twin unit's",
+  "slot": 132
+ },
+ "0x003AB2": {
+  "jp": "人のメインパイロットのＳＰを消費します。",
+  "en": "two main pilots.",
+  "slot": 60
+ },
+ "0x003B7E": {
+  "jp": "易度は「ＮＯＲＭＡＬ」に、８０％以上の場合は「ＨＡＲＤ」になります。",
+  "en": "difficulty is NORMAL; at 80% or more it becomes HARD.",
+  "slot": 102
+ },
+ "0x003BF8": {
+  "jp": "%\u0002\u0014ステージでのＳＲポイントを獲得するための条件を表します。ＳＲポイントを獲得した場合、マッ",
+  "en": "%\u0002\u0014Shows the conditions to earn the SR Point on this stage. Earning it gives",
+  "slot": 135
+ },
+ "0x003C80": {
+  "jp": "プ上の全味方パイロットのＰＰ（パイロットポイント）に＋１０されます。ＳＲポイント獲得条件",
+  "en": "+10 PP to all allied pilots on the map. SR Point conditions",
+  "slot": 132
+ },
+ "0x003D05": {
+  "jp": "はイベントなどにより変化する場合があります。ゲームオーバーになったステージをそのまま再プ",
+  "en": "may change due to events. Replaying a stage after a game over",
+  "slot": 132
+ },
+ "0x003D8A": {
+  "jp": "レイする場合、ＳＲポイントを獲得することはできません。ＳＲポイントの獲得が８０％未満の場",
+  "en": "means the SR Point cannot be earned. If SR Points earned are below 80%,",
+  "slot": 132
+ },
+ "0x003E0F": {
+  "jp": "合、難易度は「ＮＯＲＭＡＬ」に、８０％以上の場合は「ＨＡＲＤ」になります。",
+  "en": "difficulty is NORMAL; at 80% or more it becomes HARD.",
+  "slot": 111
+ },
+ "0x003E8A": {
+  "jp": "$\u0001\nパイロットの「ツイン精神コマンド」を表します。部隊が２機の機体で構成される「ツインユニッ",
+  "en": "$\u0001\nShows the pilot's twin spirit command. Usable when the squad is a two-unit",
+  "slot": 135
+ },
+ "0x003F12": {
+  "jp": "ト」の場合、使用することができます。ツインユニットにするためには個別コマンド「合流」、も",
+  "en": "'twin unit'. To form a twin unit, use the 'Merge' command,",
+  "slot": 132
+ },
+ "0x003F97": {
+  "jp": "しくはインターミッションの「部隊編成」コマンドを使用する必要があります。",
+  "en": "or the intermission 'Squad Formation' command.",
+  "slot": 108
+ },
+ "0x00400A": {
+  "jp": "機体の最大ウェポンゲージ値を表します。",
+  "en": "Shows the unit's max Weapon Gauge value.",
+  "slot": 57
+ },
+ "0x00404A": {
+  "jp": "機体の最大ウェポンゲージ値から使用しているウェポンゲージ値を差し引いた値を表します。",
+  "en": "Shows the unit's max Weapon Gauge minus the amount currently in use.",
+  "slot": 126
+ },
+ "0x0040CF": {
+  "jp": "機体が現在使用しているウェポンゲージ値の量を表します。",
+  "en": "Shows the amount of Weapon Gauge the unit is currently using.",
+  "slot": 81
+ },
+ "0x004127": {
+  "jp": "「使用しているウェポンゲージ値」／「機体の最大ウェポンゲージ値」を表します。",
+  "en": "Shows 'Weapon Gauge in use'/'unit's max Weapon Gauge'.",
+  "slot": 114
+ },
+ "0x004229": {
+  "jp": "ンゲージ値を表します。",
+  "en": "Weapon Gauge value.",
+  "slot": 33
+ },
+ "0x004251": {
+  "jp": "機体がその武器を装備するために必要なウェポンゲージ値を表します。",
+  "en": "Shows the Weapon Gauge the unit needs to equip that weapon.",
+  "slot": 96
+ },
+ "0x004341": {
+  "jp": "ウェポンゲージ値を表します。",
+  "en": "Shows the Weapon Gauge value.",
+  "slot": 42
+ },
+ "0x0043FB": {
+  "jp": "表します。",
+  "en": "is shown.",
+  "slot": 15
+ },
+ "0x004411": {
+  "jp": "検索したアビリティについて、「機体の装備数」＋「パイロットの装備数」を表します。",
+  "en": "For the searched ability, shows 'unit equipped' + 'pilot equipped'.",
+  "slot": 120
+ },
+ "0x004490": {
+  "jp": "機体に発動しているアビリティ効果を表します。",
+  "en": "Shows the ability effects active on the unit.",
+  "slot": 66
+ },
+ "0x0044D9": {
+  "jp": "アビリティ変更前と変更後のアビリティ効果を表します。",
+  "en": "Shows ability effects before and after the change.",
+  "slot": 78
+ },
+ "0x00452E": {
+  "jp": "部隊に発動しているアビリティ効果を表します。",
+  "en": "Shows the ability effects active on the squad.",
+  "slot": 66
+ },
+ "0x004577": {
+  "jp": "アビリティ変更前と変更後の、部隊のアビリティ効果を表します。",
+  "en": "Shows the squad's ability effects before and after the change.",
+  "slot": 90
+ },
+ "0x0045D8": {
+  "jp": "部隊の、現在のアビリティ効果数を表します。",
+  "en": "Shows the squad's current number of ability effects.",
+  "slot": 63
+ },
+ "0x00461E": {
+  "jp": "パイロットの、現在のアビリティ装備数を表します。",
+  "en": "Shows the pilot's current number of equipped abilities.",
+  "slot": 72
+ },
+ "0x00466D": {
+  "jp": "機体の、現在のアビリティ装備数を表します。",
+  "en": "Shows the unit's current number of equipped abilities.",
+  "slot": 63
+ },
+ "0x0046B8": {
+  "jp": " \u0001\n点灯している場合、エースパイロットであることを表します。敵を５０機以上撃墜しているとエー",
+  "en": " \u0001\nWhen lit, the pilot is an Ace. Shooting down 50+ enemies makes an",
+  "slot": 135
+ },
+ "0x004740": {
+  "jp": "スパイロットになります。その場合、出撃時の気力に＋５され、撃墜時の獲得資金が１．２倍にな",
+  "en": "Ace. Then deploy Morale gets +5, and shot-down funds are 1.2x.",
+  "slot": 132
+ },
+ "0x0047C5": {
+  "jp": "ります。また、エースボーナスがパイロット能力画面に表示されます。",
+  "en": "An Ace Bonus also appears on the pilot stats screen.",
+  "slot": 96
+ },
+ "0x0048B8": {
+  "jp": "トになるためには、敵を５０機以上撃墜している必要があります。",
+  "en": "to become an Ace, 50 or more enemies must be shot down.",
+  "slot": 90
+ },
+ "0x004919": {
+  "jp": "カーソルが機体に合っている場合の、キーのショートカット内容を設定することができます。",
+  "en": "Sets the key shortcut for when the cursor is on a unit.",
+  "slot": 126
+ },
+ "0x00499E": {
+  "jp": "カーソルが機体に合っていない場合の、キーのショートカット内容を設定することができます。",
+  "en": "Sets the key shortcut for when the cursor is not on a unit.",
+  "slot": 129
+ },
+ "0x004A26": {
+  "jp": "攻撃が攻撃対象に命中した際にクリティカルになるかどうかを設定します。",
+  "en": "Sets whether the attack lands a critical hit when it connects.",
+  "slot": 102
+ },
+ "0x004B1C": {
+  "jp": "高くなります。",
+  "en": "becomes higher.",
+  "slot": 21
+ },
+ "0x004BC1": {
+  "jp": "す。",
+  "en": "es.",
+  "slot": 6
+ },
+ "0x004BCE": {
+  "jp": "換装パーツ変更前と変更後の、機体のサイズを表します。",
+  "en": "Shows the unit's size before and after swap parts.",
+  "slot": 78
+ },
+ "0x004CAC": {
+  "jp": "ことにより上昇します。",
+  "en": "rises by doing so.",
+  "slot": 33
+ },
+ "0x004CD4": {
+  "jp": "ステータス異常になっている場合、文字色が赤色で表示されます。",
+  "en": "When under a status ailment, the text is shown in red.",
+  "slot": 90
+ },
+ "0x004D35": {
+  "jp": "パイロットがステータス異常になっている場合、表示されます。",
+  "en": "Shown when the pilot is under a status ailment.",
+  "slot": 87
+ },
+ "0x004D93": {
+  "jp": "機体がステータス異常になっている場合、表示されます。",
+  "en": "Shown when the unit is under a status ailment.",
+  "slot": 78
+ },
+ "0x004DE8": {
+  "jp": "ステージ開始時から現時点までのターン数を表します。",
+  "en": "Shows the number of turns from stage start to now.",
+  "slot": 75
+ },
+ "0x004E3A": {
+  "jp": "ゲーム開始時から現時点までのターン数を表します。",
+  "en": "Shows the number of turns from game start to now.",
+  "slot": 72
+ },
+ "0x004E89": {
+  "jp": "攻撃が攻撃対象に命中した際に与えるダメージを設定します。",
+  "en": "Sets the damage dealt when the attack connects with its target.",
+  "slot": 84
+ },
+ "0x004EE9": {
+  "jp": "$\u0001\nパイロットのツイン精神コマンドと使用するために必要なＳＰ（精神ポイント）を表します。パイ",
+  "en": "$\u0001\nShows the SP needed to use the pilot's twin spirit command. The",
+  "slot": 135
+ },
+ "0x004F71": {
+  "jp": "ロットによって覚えるツイン精神コマンド、消費ＳＰは変化します。部隊が２機の機体で構成され",
+  "en": "twin spirit command and SP cost vary by pilot. When the squad is two",
+  "slot": 132
+ },
+ "0x004FF6": {
+  "jp": "る「ツインユニット」の場合、ツイン精神コマンドを使用することができます。",
+  "en": "units, a 'twin unit', the twin spirit command can be used.",
+  "slot": 108
+ },
+ "0x005069": {
+  "jp": "同じ部隊に所属している機体と、それに搭乗しているパイロットのアビリティ状態を表します。",
+  "en": "Shows the ability status of squad units and their onboard pilots.",
+  "slot": 129
+ },
+ "0x0050F1": {
+  "jp": "パイロットの名前を表します。",
+  "en": "Shows the pilot's name.",
+  "slot": 42
+ },
+ "0x0051AE": {
+  "jp": "トの名前が表示されます。",
+  "en": "the pilot's name is shown.",
+  "slot": 36
+ },
+ "0x0051D9": {
+  "jp": "検索した特殊スキルを保有している、パイロットの名前が表示されます。",
+  "en": "Shows the name of a pilot who has the searched special skill.",
+  "slot": 99
+ },
+ "0x005243": {
+  "jp": "検索した精神コマンド・ツイン精神コマンドを保有している、パイロットの名前が表示されます。",
+  "en": "Shows the name of a pilot who has the searched spirit or twin spirit command.",
+  "slot": 132
+ },
+ "0x0052CE": {
+  "jp": "攻撃が攻撃対象に命中した際に発生するバリアを設定します。",
+  "en": "Sets the barrier that occurs when the attack connects.",
+  "slot": 84
+ },
+ "0x00532E": {
+  "jp": "\u0014\u0001\n点灯している場合、機体が特殊能力「ビームコート」や「念動フィールド」などの、バリア系特殊",
+  "en": "\u0014\u0001\nWhen lit, the unit has a barrier-type special ability like 'Beam Coat' or",
+  "slot": 135
+ },
+ "0x0053B6": {
+  "jp": "能力を保有していることを表します。バリア系特殊能力は一定条件を満たしている場合、戦闘で受",
+  "en": "'Psycho Field'. Under set conditions, such abilities reduce damage",
+  "slot": 132
+ },
+ "0x00543B": {
+  "jp": "けるダメージを軽減させることができます。",
+  "en": "taken in battle.",
+  "slot": 60
+ },
+ "0x005507": {
+  "jp": "ムボーナスを表します。",
+  "en": "team bonus.",
+  "slot": 33
+ },
+ "0x00552F": {
+  "jp": "攻撃が攻撃対象に命中した際に発生するブロックを設定します。",
+  "en": "Sets the block that occurs when the attack connects.",
+  "slot": 87
+ },
+ "0x00558D": {
+  "jp": "キャラクターのニックネームを表します。",
+  "en": "Shows the character's nickname.",
+  "slot": 57
+ },
+ "0x005656": {
+  "jp": "うかを表します。",
+  "en": "whether or not.",
+  "slot": 24
+ },
+ "0x005675": {
+  "jp": "換装パーツ変更前と変更後の、機体の移動力と移動タイプを表します。",
+  "en": "Shows the unit's movement and move type before/after swap parts.",
+  "slot": 96
+ },
+ "0x0056DC": {
+  "jp": "換装パーツ変更前と変更後の、部隊の移動力と移動タイプを表します。",
+  "en": "Shows the squad's movement and move type before/after swap parts.",
+  "slot": 96
+ },
+ "0x005743": {
+  "jp": "強化パーツ変更前と変更後の、機体の移動力と移動タイプを表します。",
+  "en": "Shows the unit's movement and move type before/after part change.",
+  "slot": 96
+ },
+ "0x005833": {
+  "jp": "値を表します。",
+  "en": "value.",
+  "slot": 21
+ },
+ "0x0058D8": {
+  "jp": "値を表します。",
+  "en": "value.",
+  "slot": 21
+ },
+ "0x0058F4": {
+  "jp": "強化パーツ変更前と変更後の、部隊の移動力と移動タイプを表します。",
+  "en": "Shows the squad's movement and move type before/after part change.",
+  "slot": 96
+ },
+ "0x0059EC": {
+  "jp": "うかを表します。それぞれ地形の表示文字は白色、灰色、無しの３ランクがあり、ツインユニット",
+  "en": "suited it is. Terrain display has 3 ranks: white, gray, none. For twin units,",
+  "slot": 132
+ },
+ "0x005A71": {
+  "jp": "の場合は部隊を構成する２機の移動タイプにより決定されます。白色が最もその地形に適していま",
+  "en": "it is set by the movement types of the 2 units in the squad. White is best suited to that terrain.",
+  "slot": 132
+ },
+ "0x005AF6": {
+  "jp": "す。",
+  "en": "nan.",
+  "slot": 6
+ },
+ "0x005B03": {
+  "jp": "編成後の、部隊の移動力と移動タイプを表します。",
+  "en": "Shows the squad's movement and move type after forming.",
+  "slot": 69
+ },
+ "0x005B4F": {
+  "jp": "編成前の、部隊の移動力と移動タイプを表します。",
+  "en": "Shows the squad's movement and move type before forming.",
+  "slot": 69
+ },
+ "0x005B9B": {
+  "jp": "機体が「空」「陸」「水」「地中」の各地形について、移動する能力を持つかどうかを表します。",
+  "en": "Shows if the unit can move over Air, Land, Sea, and Underground terrain.",
+  "slot": 132
+ },
+ "0x005C2B": {
+  "jp": "\u001f\u0001\n部隊が「空」「陸」「水」「地中」の各地形について、移動する能力を持つかどうかを表します。",
+  "en": "\u001f\u0001\nShows if the squad can move over Air, Land, Sea, and Underground terrain.",
+  "slot": 135
+ },
+ "0x005CB3": {
+  "jp": "表示文字は白色、灰色、無しの３ランクがあり、ツインユニットの場合は部隊を構成する２機の移",
+  "en": "Display has 3 ranks: white, gray, none. For twin units it is set by the 2 units'",
+  "slot": 132
+ },
+ "0x005D38": {
+  "jp": "動タイプにより決定されます。白色が最もその地形に適しています。",
+  "en": "move types. White is best suited to that terrain.",
+  "slot": 93
+ },
+ "0x005D9C": {
+  "jp": "機体が「空」の地形について、移動する能力を持つかどうかを表します。",
+  "en": "Shows if the unit can move over Air terrain.",
+  "slot": 99
+ },
+ "0x005E0B": {
+  "jp": "\u0014\u0001\n部隊が「空」の地形について、移動する能力を持つかどうかを表します。表示文字は白色、灰色、",
+  "en": "\u0014\u0001\nShows if the squad can move over Air terrain. Display has 3 ranks: white, gray,",
+  "slot": 135
+ },
+ "0x005E93": {
+  "jp": "無しの３ランクがあり、ツインユニットの場合は部隊を構成する２機の移動タイプにより決定され",
+  "en": "and none. For twin units it is set by the move types of the 2 units in the squad.",
+  "slot": 132
+ },
+ "0x005F18": {
+  "jp": "ます。白色が最もその地形に適しています。",
+  "en": "White is best suited to that terrain.",
+  "slot": 60
+ },
+ "0x005F5B": {
+  "jp": "機体が「水」の地形について、移動する能力を持つかどうかを表します。",
+  "en": "Shows if the unit can move over Sea terrain.",
+  "slot": 99
+ },
+ "0x005FCA": {
+  "jp": "\u0014\u0001\n部隊が「水」の地形について、移動する能力を持つかどうかを表します。表示文字は白色、灰色、",
+  "en": "\u0014\u0001\nShows if the squad can move over Sea terrain. Display has 3 ranks: white, gray,",
+  "slot": 135
+ },
+ "0x006052": {
+  "jp": "無しの３ランクがあり、ツインユニットの場合は部隊を構成する２機の移動タイプにより決定され",
+  "en": "and none. For twin units it is set by the move types of the 2 units in the squad.",
+  "slot": 132
+ },
+ "0x0060D7": {
+  "jp": "ます。白色が最もその地形に適しています。",
+  "en": "White is best suited to that terrain.",
+  "slot": 60
+ },
+ "0x00611A": {
+  "jp": "機体が「地中」の地形について、移動する能力を持つかどうかを表します。",
+  "en": "Shows if the unit can move over Underground terrain.",
+  "slot": 102
+ },
+ "0x00618C": {
+  "jp": "\u0014\u0001\r部隊が「地中」の地形について、移動する能力を持つかどうかを表します。表示文字は白色、灰色、",
+  "en": "\u0014\u0001\rShows if the squad can move underground. Display has 3 ranks: white, gray,",
+  "slot": 138
+ },
+ "0x006217": {
+  "jp": "無しの３ランクがあり、ツインユニットの場合は部隊を構成する２機の移動タイプにより決定され",
+  "en": "and none. For twin units it is set by the move types of the 2 units in the squad.",
+  "slot": 132
+ },
+ "0x00629C": {
+  "jp": "ます。白色が最もその地形に適しています。",
+  "en": "White is best suited to that terrain.",
+  "slot": 60
+ },
+ "0x0062DF": {
+  "jp": "機体が「陸」の地形について、移動する能力を持つかどうかを表します。",
+  "en": "Shows if the unit can move over Land terrain.",
+  "slot": 99
+ },
+ "0x00634E": {
+  "jp": "\u0014\u0001\n部隊が「陸」の地形について、移動する能力を持つかどうかを表します。表示文字は白色、灰色、",
+  "en": "\u0014\u0001\nShows if the squad can move over Land terrain. Display has 3 ranks: white, gray,",
+  "slot": 135
+ },
+ "0x0063D6": {
+  "jp": "無しの３ランクがあり、ツインユニットの場合は部隊を構成する２機の移動タイプにより決定され",
+  "en": "and none. For twin units it is set by the move types of the 2 units in the squad.",
+  "slot": 132
+ },
+ "0x00645B": {
+  "jp": "ます。白色が最もその地形に適しています。",
+  "en": "White is best suited to that terrain.",
+  "slot": 60
+ },
+ "0x006527": {
+  "jp": "体の移動タイプにより変化します。",
+  "en": "it varies by the unit's move type.",
+  "slot": 48
+ },
+ "0x00655E": {
+  "jp": "ボーナス取得前と取得後の、機体の移動力を表します。",
+  "en": "Shows the unit's movement before and after gaining the bonus.",
+  "slot": 75
+ },
+ "0x0065B5": {
+  "jp": "\u0007\u0001\n部隊の移動能力を表します。ツインユニットの場合は、部隊を構成する２機の移動力の平均値にな",
+  "en": "\u0007\u0001\nShows the squad's movement. For a twin unit it is the average of the 2 units'",
+  "slot": 135
+ },
+ "0x00663D": {
+  "jp": "ります。それぞれの地形に対しての、進入するために必要な移動コストは、部隊の移動タイプによ",
+  "en": "movement. The move cost to enter each terrain varies by the squad's",
+  "slot": 132
+ },
+ "0x0066C2": {
+  "jp": "り変化します。",
+  "en": "move type.",
+  "slot": 21
+ },
+ "0x0066DE": {
+  "jp": "機体の回避能力を表します。数値が大きいほど、攻撃を回避しやすくなります。",
+  "en": "Shows the unit's evasion. The higher the value, the easier it dodges attacks.",
+  "slot": 108
+ },
+ "0x006751": {
+  "jp": "ボーナス取得前と取得後の、機体の運動性を表します。",
+  "en": "Shows the unit's Mobility before and after gaining the bonus.",
+  "slot": 75
+ },
+ "0x0067A3": {
+  "jp": "改造前と改造後の、機体の運動性を表します。",
+  "en": "Shows the unit's Mobility before and after upgrading.",
+  "slot": 63
+ },
+ "0x0067E9": {
+  "jp": "換装パーツ変更前と変更後の、機体の運動性を表します。",
+  "en": "Shows the unit's Mobility before and after changing swap parts.",
+  "slot": 78
+ },
+ "0x00683E": {
+  "jp": "強化パーツ変更前と変更後の、機体の運動性を表します。",
+  "en": "Shows the unit's Mobility before and after changing parts.",
+  "slot": 78
+ },
+ "0x006893": {
+  "jp": "現在の機体の運動性を表します。（）内は選択中の強化パーツを外した場合の能力値を表します。",
+  "en": "Shows the unit's current Mobility. The ( ) value is with the selected part removed.",
+  "slot": 132
+ },
+ "0x00691E": {
+  "jp": "機体の運動性とその改造段階を表します。",
+  "en": "Shows the unit's Mobility and its upgrade level.",
+  "slot": 57
+ },
+ "0x00695E": {
+  "jp": "機体の運動性の改造段階を表します。",
+  "en": "Shows the unit's Mobility upgrade level.",
+  "slot": 51
+ },
+ "0x006A21": {
+  "jp": "レベル（１ターンの援護可能回数）」を表します。",
+  "en": "Level (support uses per turn).\"",
+  "slot": 69
+ },
+ "0x006A72": {
+  "jp": "\u0011\u0001\nパイロットが特殊スキル「援護攻撃」を保有するかどうかを表します。数値は現在のスキルレベル",
+  "en": "\u0011\u0001\nShows if the pilot has the Support Attack skill. The value is the current skill level.",
+  "slot": 135
+ },
+ "0x006AFA": {
+  "jp": "です。スキルを持つパイロットは、隣接する味方機体の援護攻撃に入ります。スキルレベルが高く",
+  "en": "A pilot with this skill joins in support attacks for adjacent allies. Higher",
+  "slot": 132
+ },
+ "0x006B7F": {
+  "jp": "なるほど援護可能回数が上昇します。",
+  "en": "levels raise the number of support uses.",
+  "slot": 51
+ },
+ "0x006C42": {
+  "jp": "ついての、援護攻撃可能な回数です。",
+  "en": "the number of possible support attacks.",
+  "slot": 51
+ },
+ "0x006D05": {
+  "jp": "レベル（１ターンの援護可能回数）」を表します。",
+  "en": "Level (support uses per turn).\"",
+  "slot": 69
+ },
+ "0x006D56": {
+  "jp": "\u0011\u0001\nパイロットが特殊スキル「援護防御」を保有するかどうかを表します。数値は現在のスキルレベル",
+  "en": "\u0011\u0001\nShows if the pilot has the Support Defend skill. The value is the current skill level.",
+  "slot": 135
+ },
+ "0x006DDE": {
+  "jp": "です。スキルを持つパイロットは、隣接する味方機体の援護防御に入ります。スキルレベルが高く",
+  "en": "A pilot with this skill joins in support defends for adjacent allies. Higher",
+  "slot": 132
+ },
+ "0x006E63": {
+  "jp": "なるほど援護可能回数が上昇します。",
+  "en": "levels raise the number of support uses.",
+  "slot": 51
+ },
+ "0x006F26": {
+  "jp": "ついての、援護防御可能な回数です。",
+  "en": "the number of possible support defends.",
+  "slot": 51
+ },
+ "0x006F60": {
+  "jp": "パイロットの回避能力を表します。数値が大きいほど、攻撃を回避しやすくなります。",
+  "en": "Shows the pilot's evasion. The higher the value, the easier it dodges attacks.",
+  "slot": 117
+ },
+ "0x007065": {
+  "jp": "異常を受けている場合、減少している値が表示されます。",
+  "en": "If afflicted with a status ailment, the reduced value is shown.",
+  "slot": 78
+ },
+ "0x007143": {
+  "jp": "緑色で表示され、上昇した値が表示されます。",
+  "en": "is shown in green, displaying the raised value.",
+  "slot": 63
+ },
+ "0x007189": {
+  "jp": "その地形にいる機体が攻撃をうけた場合に、相手の攻撃の命中率を減少させる値を表します。",
+  "en": "Shows the value that reduces the enemy's hit rate when a unit on this terrain is attacked.",
+  "slot": 126
+ },
+ "0x00720E": {
+  "jp": "数値及び、ゲージは機体の現在の能力値と改造段階を表します。",
+  "en": "The value and gauge show the unit's current stat and upgrade level.",
+  "slot": 87
+ },
+ "0x0072F7": {
+  "jp": "るダメージが上昇します。",
+  "en": "the damage dealt rises.",
+  "slot": 36
+ },
+ "0x0073AD": {
+  "jp": "るダメージが上昇します。ステータス異常を受けている場合、減少している値が表示されます。",
+  "en": "the damage dealt rises. If afflicted with a status ailment, the reduced value is shown.",
+  "slot": 129
+ },
+ "0x0074BE": {
+  "jp": "字色が緑色で表示され、上昇した値が表示されます。",
+  "en": "text is shown in green, displaying the raised value.",
+  "slot": 72
+ },
+ "0x00750D": {
+  "jp": "ステージ中に敵から獲得した、ボーナスの内容と個数が表示されます。",
+  "en": "Shows the type and count of bonuses gained from enemies during the stage.",
+  "slot": 96
+ },
+ "0x007574": {
+  "jp": "戦闘で獲得したボーナスの内容が表示されます。",
+  "en": "Shows the content of bonuses gained in battle.",
+  "slot": 66
+ },
+ "0x0075BD": {
+  "jp": "機体が現在装備している、換装パーツを表します。",
+  "en": "Shows the swap parts the unit currently has equipped.",
+  "slot": 69
+ },
+ "0x007609": {
+  "jp": "機体が現在保有している換装パーツの一覧が表示されます。",
+  "en": "Shows a list of swap parts the unit currently holds.",
+  "slot": 81
+ },
+ "0x007661": {
+  "jp": "機体が装備可能な換装パーツの数を表します。",
+  "en": "Shows the number of swap parts the unit can equip.",
+  "slot": 63
+ },
+ "0x0076A7": {
+  "jp": "機体が装備している換装武器の数を表します。",
+  "en": "Shows the number of swap weapons the unit has equipped.",
+  "slot": 63
+ },
+ "0x00775D": {
+  "jp": "　<C=800000FF><I=98><I=98></C>…撃墜される。",
+  "en": "　<C=800000FF><I=98><I=98></C>...will be shot down.",
+  "slot": 52
+ },
+ "0x007792": {
+  "jp": "　<C=800000FF><I=98></C><I=98>…撃墜される可能性あり。",
+  "en": "　<C=800000FF><I=98></C><I=98>...may be shot down.",
+  "slot": 67
+ },
+ "0x0077D6": {
+  "jp": "　<I=98><I=98>…撃墜される可能性なし。",
+  "en": "　<I=98><I=98>...will not be shot down.",
+  "slot": 51
+ },
+ "0x007810": {
+  "jp": "武器の改造しない状態での攻撃力を表します。",
+  "en": "Shows the weapon's attack power when not upgraded.",
+  "slot": 63
+ },
+ "0x007856": {
+  "jp": "機体の名前を表します。",
+  "en": "Shows the unit's name.",
+  "slot": 33
+ },
+ "0x007907": {
+  "jp": "名前が表示されます。",
+  "en": "The name is shown.",
+  "slot": 30
+ },
+ "0x00792C": {
+  "jp": "ステージ中に撃墜された機体の名前が表示されます。",
+  "en": "Shows the name of the unit shot down during the stage.",
+  "slot": 72
+ },
+ "0x00797B": {
+  "jp": "検索した特殊能力を保有している、機体の名前が表示されます。",
+  "en": "Shows the name of a unit that has the searched special ability.",
+  "slot": 87
+ },
+ "0x0079D9": {
+  "jp": "機体のＨＰ・ＥＮ・装甲・運動性・照準値の改造率を表します。",
+  "en": "Shows the upgrade rate of the unit's HP, EN, Armor, Mobility, and Accuracy.",
+  "slot": 87
+ },
+ "0x007AC0": {
+  "jp": "メージに影響を与えます。",
+  "en": "it affects the damage.",
+  "slot": 36
+ },
+ "0x007B74": {
+  "jp": "キル「カウンター」の発動率が上昇します。",
+  "en": "the Counter skill's activation rate rises.",
+  "slot": 60
+ },
+ "0x007BBC": {
+  "jp": "\u0007\u0001\nパイロットの戦闘技術力を表します。数値が大きいほど、戦闘でのクリティカル発生率や、特殊ス",
+  "en": "\u0007\u0001\nShows the pilot's Skill. The higher the value, the more critical hits and",
+  "slot": 135
+ },
+ "0x007C44": {
+  "jp": "キル「カウンター」の発動率が上昇します。ステータス異常を受けている場合、減少している値が",
+  "en": "the higher the Counter skill's rate. If afflicted with a status ailment, the reduced value",
+  "slot": 132
+ },
+ "0x007CC9": {
+  "jp": "表示されます。",
+  "en": "is shown.",
+  "slot": 21
+ },
+ "0x007D6E": {
+  "jp": "が緑色で表示され、上昇した値が表示されます。",
+  "en": "is shown in green, displaying the raised value.",
+  "slot": 66
+ },
+ "0x007E40": {
+  "jp": "マップでＨＰなどの回復を行うことができます。",
+  "en": "HP and other stats can be recovered on the map.",
+  "slot": 66
+ },
+ "0x007E89": {
+  "jp": "保有している強化パーツが表示されます。",
+  "en": "Shows the parts currently held.",
+  "slot": 57
+ },
+ "0x007EC9": {
+  "jp": "機体の、強化パーツの最大装備可能数と、現在の装備数が表示されます。",
+  "en": "Shows the unit's max equippable parts and current equipped count.",
+  "slot": 99
+ },
+ "0x007F40": {
+  "jp": "%\u0001*攻撃範囲のタイプを表します。",
+  "en": "%\u0001*Shows the attack range type.",
+  "slot": 45
+ },
+ "0x007F6E": {
+  "jp": "「自機中心」　　…射程内が攻撃範囲になります。",
+  "en": "\"Self-Centered\"...the whole range in range is the attack area.",
+  "slot": 69
+ },
+ "0x007FB4": {
+  "jp": "「方向指定」　　…攻撃範囲を自機中心の４方向から選択します。",
+  "en": "\"Directional\"...pick the attack area from 4 directions around your unit.",
+  "slot": 90
+ },
+ "0x00800F": {
+  "jp": "「着弾地点指定」…攻撃範囲を射程内の任意の場所から選択します。",
+  "en": "\"Impact Point\"...pick the attack area from any spot within range.",
+  "slot": 93
+ },
+ "0x00806D": {
+  "jp": "「軌道指定」　　…自機と射程内の任意の場所を結ぶ直線が攻撃範囲になります。",
+  "en": "\"Trajectory\"...a line from your unit to any spot in range is the attack area.",
+  "slot": 111
+ },
+ "0x0080E8": {
+  "jp": "\t\u0001\nパイロットが現在までに獲得した経験値を表します。経験値をためることで、パイロットのレベル",
+  "en": "\t\u0001\nShows the EXP the pilot has gained so far. Building up EXP raises the pilot's",
+  "slot": 135
+ },
+ "0x008170": {
+  "jp": "が上昇します。戦闘を行ったり、個別コマンド「修理」「補給」を使用した場合、経験値を獲得す",
+  "en": "level. You gain EXP by fighting, or by using the Repair or Resupply commands.",
+  "slot": 132
+ },
+ "0x0081F5": {
+  "jp": "ることができます。",
+  "en": "You can do this.",
+  "slot": 27
+ },
+ "0x008217": {
+  "jp": "パイロットのレベルが、現在値から１つ上昇するために必要になる経験値を表します。",
+  "en": "Shows the EXP needed for the pilot's level to rise by 1 from its current value.",
+  "slot": 117
+ },
+ "0x008293": {
+  "jp": "戦闘で獲得した経験値を表します。",
+  "en": "Shows the EXP gained in battle.",
+  "slot": 48
+ },
+ "0x0082CA": {
+  "jp": "そのパイロットが、ステージ中の戦闘で撃墜した敵の数を表します。",
+  "en": "Shows the number of enemies that pilot shot down in battle during the stage.",
+  "slot": 93
+ },
+ "0x0083B7": {
+  "jp": "パイロットになり、<I=5>が点灯します。",
+  "en": "pilot, and <I=5> lights up.",
+  "slot": 53
+ },
+ "0x0083F3": {
+  "jp": "ソート用カーソルが合っている場合、設定されている検索項目で並べ替えを行います。",
+  "en": "If the sort cursor is on it, it sorts by the set search item.",
+  "slot": 117
+ },
+ "0x00846F": {
+  "jp": "その機体、またはパイロットが検索している項目に該当する場合、表示されます。",
+  "en": "Shown if that unit or pilot matches the searched item.",
+  "slot": 111
+ },
+ "0x0084EA": {
+  "jp": "\u0007\u0001\n「ＯＮ」の場合、編入ウィンドウについて、検索項目の最低１つに該当するユニットに検索アイコ",
+  "en": "\u0007\u0001\nWhen ON, in the assign window a search icon shows on units matching at least one",
+  "slot": 135
+ },
+ "0x008572": {
+  "jp": "ンが表示されます。検索アイコンが表示されているユニットはウィンドウでのソートの優先が最も",
+  "en": "search item. Units with the search icon get the highest sort priority in the",
+  "slot": 132
+ },
+ "0x0085F7": {
+  "jp": "高くなります。",
+  "en": "window.",
+  "slot": 21
+ },
+ "0x008613": {
+  "jp": "検索している項目（「精神コマンド」「特殊スキル」「特殊能力」「アビリティ」）を表します。",
+  "en": "Shows the searched item (Spirit Command, Skill, Special Ability, Ability).",
+  "slot": 132
+ },
+ "0x00869E": {
+  "jp": "選択しているアビリティについての説明文が表示されます。",
+  "en": "Shows the description of the selected ability.",
+  "slot": 81
+ },
+ "0x0086F6": {
+  "jp": "選択している特殊スキルについての説明文が表示されます。",
+  "en": "Shows the description of the selected skill.",
+  "slot": 81
+ },
+ "0x00874E": {
+  "jp": "特殊能力「ＨＰ回復」「ＥＮ回復」の検索の場合、「大」「中」「小」のいずれかが表示されます。",
+  "en": "For HP Regen or EN Regen search, one of Large, Medium, or Small is shown.",
+  "slot": 135
+ },
+ "0x0087DC": {
+  "jp": "選択している、精神コマンド・ツイン精神コマンドについての説明文が表示されます。",
+  "en": "Shows the description of the selected Spirit or Twin Spirit Command.",
+  "slot": 117
+ },
+ "0x008858": {
+  "jp": "選択している特殊能力についての説明文が表示されます。",
+  "en": "Shows the description of the selected special ability.",
+  "slot": 78
+ },
+ "0x0088AD": {
+  "jp": "左右のどちら側から攻撃を行うかを設定します。",
+  "en": "Sets which side, left or right, attacks.",
+  "slot": 66
+ },
+ "0x0088F6": {
+  "jp": "攻撃側の攻撃のタイプを設定します。",
+  "en": "Sets the attacker's attack type.",
+  "slot": 51
+ },
+ "0x0089B9": {
+  "jp": "せん。",
+  "en": "not occur.",
+  "slot": 9
+ },
+ "0x008A52": {
+  "jp": "体攻撃に対しては、カウンターは発生しません。",
+  "en": "Counters do not occur against area attacks.",
+  "slot": 66
+ },
+ "0x008B24": {
+  "jp": "反撃側のラッキーは発生しません。",
+  "en": "The counterattacker's Luck does not occur.",
+  "slot": 48
+ },
+ "0x008B5B": {
+  "jp": "マキシマムブレイクの支援攻撃の内容を設定します。",
+  "en": "Sets the support attack for Maximum Break.",
+  "slot": 72
+ },
+ "0x008BAA": {
+  "jp": "武器の攻撃力を表します。数値が大きいほど、戦闘で大きなダメージを与えることができます。",
+  "en": "Shows the weapon's attack power. The higher the value, the more damage in battle.",
+  "slot": 129
+ },
+ "0x008C32": {
+  "jp": "改造後の武器の攻撃力を表します。",
+  "en": "Shows the weapon's attack power after upgrading.",
+  "slot": 48
+ },
+ "0x008C69": {
+  "jp": "背景を設定します。",
+  "en": "Sets the background.",
+  "slot": 27
+ },
+ "0x008C8B": {
+  "jp": "攻撃を仕掛けた側であることを表します。",
+  "en": "Shows this is the attacking side.",
+  "slot": 57
+ },
+ "0x008CCB": {
+  "jp": "攻撃を仕掛けられた側であることを表します。",
+  "en": "Shows this is the side being attacked.",
+  "slot": 63
+ },
+ "0x008D11": {
+  "jp": "ダブルアタックを除く、全体攻撃武器による攻撃のことを表します。",
+  "en": "Refers to an area attack weapon, excluding Double Attack.",
+  "slot": 93
+ },
+ "0x008D75": {
+  "jp": "コンビネーション攻撃を行っていることを表します。",
+  "en": "Shows a Combination Attack is being performed.",
+  "slot": 72
+ },
+ "0x008DC4": {
+  "jp": "ダブルアタックを行っていることを表します。",
+  "en": "Shows a Double Attack is being performed.",
+  "slot": 63
+ },
+ "0x008E0A": {
+  "jp": "マキシマムブレイクを行っていることを表します。",
+  "en": "Shows a Maximum Break is being performed.",
+  "slot": 69
+ },
+ "0x008E56": {
+  "jp": "援護攻撃（再攻撃）を行っていることを表します。",
+  "en": "Shows a Support Attack (re-attack) is being performed.",
+  "slot": 69
+ },
+ "0x008EA2": {
+  "jp": "援護防御を行っていることを表します。",
+  "en": "Shows a Support Defend is being performed.",
+  "slot": 54
+ },
+ "0x008EDF": {
+  "jp": "反撃側で、行動設定で「回避する」を選択していることを表します。",
+  "en": "Indicates \"Evade\" is set as the counter action.",
+  "slot": 93
+ },
+ "0x008F43": {
+  "jp": "通常武器による攻撃のことを表します。",
+  "en": "Indicates an attack with a normal weapon.",
+  "slot": 54
+ },
+ "0x008F80": {
+  "jp": "攻撃可能な状態で、かつ戦闘に参加しないことを表します。",
+  "en": "Indicates a unit able to attack but not joining battle.",
+  "slot": 81
+ },
+ "0x008FD8": {
+  "jp": "何もしないことを表します。",
+  "en": "Indicates doing nothing.",
+  "slot": 39
+ },
+ "0x009006": {
+  "jp": "ダミー",
+  "en": "Dummy",
+  "slot": 9
+ },
+ "0x009016": {
+  "jp": "反撃側で、行動設定で「防御する」を選択していることを表します。",
+  "en": "Indicates \"Defend\" is set as the counter action.",
+  "slot": 93
+ },
+ "0x00907A": {
+  "jp": "入力された全ての強化パーツを、売却した場合の金額を表します。",
+  "en": "Shows the sale value of all entered parts if sold.",
+  "slot": 90
+ },
+ "0x0090DB": {
+  "jp": "点灯している場合、複数の機体を合体させて、別形態に変形可能なことを表します。",
+  "en": "When lit, several units can combine to change form.",
+  "slot": 114
+ },
+ "0x009154": {
+  "jp": "合体攻撃武器の場合、攻撃に参加する機体が表示されます。",
+  "en": "For combo weapons, shows the units joining the attack.",
+  "slot": 81
+ },
+ "0x0091AC": {
+  "jp": "機体に搭乗しているメインパイロットが再攻撃が可能なことを表します。",
+  "en": "Indicates the main pilot can attack again.",
+  "slot": 99
+ },
+ "0x00929F": {
+  "jp": "撃武器は<I=30><S=-79><I=32><S=39>が表示されている武器です。",
+  "en": "weapons show <I=30><S=-79><I=32><S=39>.",
+  "slot": 76
+ },
+ "0x00937B": {
+  "jp": "武器の攻撃力が加算された値が表示されます。",
+  "en": "Shows the weapon's total added attack power.",
+  "slot": 63
+ },
+ "0x00944A": {
+  "jp": "器は<I=30><S=-81><I=31><S=33>が表示されている武器です。",
+  "en": "weapons show <I=30><S=-81><I=31><S=33>.",
+  "slot": 70
+ },
+ "0x009497": {
+  "jp": "機体が装備している換装武器の中で、最も攻撃力が高い武器の攻撃力が表示されます。",
+  "en": "Shows the attack power of the unit's strongest swap weapon.",
+  "slot": 117
+ },
+ "0x009513": {
+  "jp": "機体が装備している固定武器の中で、最も攻撃力が高い武器の攻撃力が表示されます。",
+  "en": "Shows the attack power of the unit's strongest fixed weapon.",
+  "slot": 117
+ },
+ "0x009618": {
+  "jp": "が表示されます。",
+  "en": "is displayed.",
+  "slot": 24
+ },
+ "0x0096C0": {
+  "jp": "両者の最も攻撃力が高い武器の攻撃力が加算された値が表示されます。",
+  "en": "Shows the summed attack power of both strongest weapons.",
+  "slot": 96
+ },
+ "0x0097B3": {
+  "jp": "特殊効果武器は<I=37><S=-76><I=36><S=52>が表示されている武器です。",
+  "en": "Special-effect weapons show <I=37><S=-76><I=36><S=52>.",
+  "slot": 85
+ },
+ "0x00980F": {
+  "jp": "設定に不具合あることを表します。",
+  "en": "Indicates a fault in the settings.",
+  "slot": 48
+ },
+ "0x009846": {
+  "jp": "装備していないアビリティの数を表します。",
+  "en": "Shows the number of unequipped abilities.",
+  "slot": 60
+ },
+ "0x009889": {
+  "jp": "装備していない換装武器の数を表します。",
+  "en": "Shows the number of unequipped swap weapons.",
+  "slot": 57
+ },
+ "0x0098C9": {
+  "jp": "機体が装備していない強化パーツの数を表します。",
+  "en": "Shows the number of parts the unit has not equipped.",
+  "slot": 69
+ },
+ "0x009915": {
+  "jp": "改造を行った後の資金を表します。",
+  "en": "Shows the funds remaining after upgrading.",
+  "slot": 48
+ },
+ "0x00994C": {
+  "jp": "特殊スキルの「残り使用回数」／「スキルレベル」を表します。",
+  "en": "Shows a special skill's uses left / skill level.",
+  "slot": 87
+ },
+ "0x0099AA": {
+  "jp": "パイロットに効果が発生している、精神コマンド・ツイン精神コマンドの状態を表します。",
+  "en": "Shows the spirit / twin spirit commands active on the pilot.",
+  "slot": 123
+ },
+ "0x009A2C": {
+  "jp": "戦闘に参加しない事を表します。",
+  "en": "Indicates not joining the battle.",
+  "slot": 45
+ },
+ "0x009A60": {
+  "jp": "現時点での資金を表します。",
+  "en": "Shows the current funds.",
+  "slot": 39
+ },
+ "0x009A8E": {
+  "jp": "ステージ中に獲得した資金を表します。",
+  "en": "Shows the funds gained during the stage.",
+  "slot": 54
+ },
+ "0x009ACB": {
+  "jp": "戦闘で獲得した資金を表します。敵の機体を倒した場合にのみ、資金を得ることができます。",
+  "en": "Shows funds gained in battle. Funds are earned only by destroying an enemy unit.",
+  "slot": 126
+ },
+ "0x009B50": {
+  "jp": "現在の資金と、ステージ中に撃墜された、全ての機体の修理費を表します。",
+  "en": "Shows current funds and the repair cost of all units shot down this stage.",
+  "slot": 102
+ },
+ "0x009C48": {
+  "jp": "るダメージが上昇します。",
+  "en": "damage dealt rises.",
+  "slot": 36
+ },
+ "0x009CFE": {
+  "jp": "るダメージが上昇します。ステータス異常を受けている場合、減少している値が表示されます。",
+  "en": "damage dealt rises. If a status ailment applies, the reduced value is shown.",
+  "slot": 129
+ },
+ "0x009E0F": {
+  "jp": "緑色で表示され、上昇した値が表示されます。",
+  "en": "Shown in green, with the increased value.",
+  "slot": 63
+ },
+ "0x009E55": {
+  "jp": "武器の使用可能範囲を表します。",
+  "en": "Shows the weapon's usable range.",
+  "slot": 45
+ },
+ "0x009E96": {
+  "jp": "E\u0002S武器の攻撃手段を表します。",
+  "en": "E\u0002SShows the weapon's attack method.",
+  "slot": 42
+ },
+ "0x009EC1": {
+  "jp": "<W=18>「合体」　　　　　…合体攻撃を行います。　　　　　　　　　「通常攻撃」　　　　…攻撃目標の１機を攻撃できます。</W>",
+  "en": "<W=18>\"Combine\"　　　　　...Performs a combo attack.　　　　　　　　　\"Normal Attack\"　　...Attacks one target unit.</W>",
+  "slot": 175
+ },
+ "0x009F71": {
+  "jp": "<W=18>「全体攻撃」　　　…攻撃目標の全機体を攻撃できます。　　　「マップ兵器」　　　…攻撃範囲内の複数の部隊を攻撃できます。</W>",
+  "en": "<W=18>\"All Attack\"　　　...Attacks all target units.　　　\"Map Weapon\"　　　...Attacks several squads in range.</W>",
+  "slot": 187
+ },
+ "0x00A02D": {
+  "jp": "<W=18>「ダブルアタック」…目標に隣接する部隊も攻撃できます。　　「コンビネーション」…目標に隣接する複数の部隊を攻撃できます。</W>",
+  "en": "<W=18>\"Double Attack\"...Also hits squads adjacent to the target.　　\"Combination\"...Hits several squads adjacent to the target.</W>",
+  "slot": 190
+ },
+ "0x00A0EC": {
+  "jp": "<W=18>「支援用武器」　　…マキシマムブレイクに必要です。　　　　「修理／補給装置」　…個別コマンド「修理／補給」が使用可能。</W>",
+  "en": "<W=18>\"Support Weapon\"　...Needed for Maximum Break.　　　　\"Repair/Supply Unit\"　...Enables the Repair/Supply command.</W>",
+  "slot": 187
+ },
+ "0x00A1B7": {
+  "jp": "W\u0001t武器の攻撃手段を表します。",
+  "en": "W\u0001tShows the weapon's attack method.",
+  "slot": 42
+ },
+ "0x00A1E2": {
+  "jp": "<I=30><S=-81><I=40><S=33>…合体攻撃を行います。　　　　　　　　　　<I=30><S=-79><I=32><S=39>…攻撃目標の全機体を攻撃できます。",
+  "en": "<I=30><S=-81><I=40><S=33>...Performs a combo attack.　　　　　　　　　　<I=30><S=-79><I=32><S=39>...Attacks all target units.",
+  "slot": 164
+ },
+ "0x00A287": {
+  "jp": "<I=30><S=-81><I=31><S=33>…攻撃範囲内の複数の部隊を攻撃できます。　<I=30><S=-30><I=33><S=6>…目標に隣接する部隊も攻撃できます。",
+  "en": "<I=30><S=-81><I=31><S=33>...Attacks several squads in range.　<I=30><S=-30><I=33><S=6>...Also hits squads adjacent to the target.",
+  "slot": 166
+ },
+ "0x00A32E": {
+  "jp": "<I=30><S=-31><I=34><S=7>…目標に隣接する複数の部隊を攻撃できます。<I=30><S=-31><I=185><S=7>…マキシマムブレイクで使用します。",
+  "en": "<I=30><S=-31><I=34><S=7>...Hits several squads next to the target.<I=30><S=-31><I=185><S=7>...Used in Maximum Break.",
+  "slot": 163
+ },
+ "0x00A3DD": {
+  "jp": "?\u0001\n点灯している場合、機体が個別コマンド「修理」を使用できることを表します。「修理」を使用し",
+  "en": "?\u0001\nWhen lit, the unit can use the Repair command. When Repair is used,",
+  "slot": 135
+ },
+ "0x00A465": {
+  "jp": "た場合、射程内に位置する部隊のＨＰを回復させることができます。インターミッションの「武器",
+  "en": "it restores the HP of squads in range. In the intermission, via the Weapon",
+  "slot": 132
+ },
+ "0x00A4EA": {
+  "jp": "換装」コマンドで、<I=8><S=-16><Y=5><I=16></Y>修理装置を装備させると、「修理」が使用可能になります。",
+  "en": "Swap command, equip <I=8><S=-16><Y=5><I=16></Y>a repair device to enable Repair.",
+  "slot": 135
+ },
+ "0x00A57D": {
+  "jp": "?\u0001\n点灯している場合、部隊が個別コマンド「修理」を使用できることを表します。「修理」を使用し",
+  "en": "?\u0001\nWhen lit, the squad can use the Repair command. When Repair is used,",
+  "slot": 135
+ },
+ "0x00A605": {
+  "jp": "た場合、射程内に位置する部隊のＨＰを回復させることができます。インターミッションの「武器",
+  "en": "it restores the HP of squads in range. In the intermission, via the Weapon",
+  "slot": 132
+ },
+ "0x00A68A": {
+  "jp": "換装」コマンドで、<I=8><S=-16><Y=5><I=16></Y>修理装置を装備させると、「修理」が使用可能になります。",
+  "en": "Swap command, equip <I=8><S=-16><Y=5><I=16></Y>a repair device to enable Repair.",
+  "slot": 135
+ },
+ "0x00A718": {
+  "jp": "編成後の部隊について、個別コマンド「修理」を使用できるかどうかを表します。",
+  "en": "Shows whether the formed squad can use the Repair command.",
+  "slot": 111
+ },
+ "0x00A78E": {
+  "jp": "編成前の部隊について、個別コマンド「修理」を使用できるかどうかを表します。",
+  "en": "Shows whether the pre-form squad can use the Repair command.",
+  "slot": 111
+ },
+ "0x00A804": {
+  "jp": "ステージ中に撃墜された機体の、修理に必要な金額を表します。",
+  "en": "Shows the funds needed to repair units shot down this stage.",
+  "slot": 87
+ },
+ "0x00A862": {
+  "jp": "機体の重量を表します。",
+  "en": "Shows the unit's weight.",
+  "slot": 33
+ },
+ "0x00A88A": {
+  "jp": "出撃可能な部隊の数を表します。",
+  "en": "Shows the number of squads that can deploy.",
+  "slot": 45
+ },
+ "0x00A8BE": {
+  "jp": "次のステージで出撃可能な部隊の数を表します。",
+  "en": "Shows the number of squads that can deploy next stage.",
+  "slot": 66
+ },
+ "0x00A993": {
+  "jp": "を行うと、受けるダメージを更に１０％減少させることができます。",
+  "en": "doing so reduces damage taken by a further 10%.",
+  "slot": 93
+ },
+ "0x00A9F7": {
+  "jp": "攻撃を行った場合、与えるダメージを表します。",
+  "en": "Shows the damage dealt if you attack.",
+  "slot": 66
+ },
+ "0x00AAC9": {
+  "jp": "場合があります。",
+  "en": "in some cases.",
+  "slot": 24
+ },
+ "0x00AAE8": {
+  "jp": "入力された数の強化パーツを、売却した場合の金額を表します。",
+  "en": "Shows the sale value of the entered number of parts.",
+  "slot": 87
+ },
+ "0x00ABCF": {
+  "jp": "エネルギー値が足りない場合、その武器は使用できません。",
+  "en": "If energy is insufficient, that weapon cannot be used.",
+  "slot": 81
+ },
+ "0x00AC27": {
+  "jp": "精神コマンドを使用した場合に消費する精神ポイントを表します。",
+  "en": "Shows the SP used when a spirit command is cast.",
+  "slot": 90
+ },
+ "0x00AD14": {
+  "jp": "「最大精神ポイント」を表します。",
+  "en": "Shows the maximum SP.",
+  "slot": 48
+ },
+ "0x00AD4B": {
+  "jp": "機体の照準能力を表します。数値が大きいほど、攻撃を命中させやすくなります。",
+  "en": "Shows the unit's targeting. Higher values land attacks more easily.",
+  "slot": 111
+ },
+ "0x00ADC1": {
+  "jp": "ボーナス取得前と取得後の、機体の照準値を表します。",
+  "en": "Shows the unit's accuracy before and after the bonus.",
+  "slot": 75
+ },
+ "0x00AE13": {
+  "jp": "改造前と改造後の、機体の照準値を表します。",
+  "en": "Shows the unit's accuracy before and after upgrading.",
+  "slot": 63
+ },
+ "0x00AE59": {
+  "jp": "換装パーツ変更前と変更後の、機体の照準値を表します。",
+  "en": "Shows the unit's accuracy before and after swapping parts.",
+  "slot": 78
+ },
+ "0x00AEAE": {
+  "jp": "強化パーツ変更前と変更後の、機体の照準値を表します。",
+  "en": "Shows the unit's accuracy before and after changing parts.",
+  "slot": 78
+ },
+ "0x00AF03": {
+  "jp": "現在の機体の照準値を表します。（）内は選択中の強化パーツを外した場合の能力値を表します。",
+  "en": "Shows the unit's current accuracy. ( ) is the value without the selected part.",
+  "slot": 132
+ },
+ "0x00AF8E": {
+  "jp": "機体の照準値とその改造段階を表します。",
+  "en": "Shows the unit's accuracy and its upgrade level.",
+  "slot": 57
+ },
+ "0x00AFCE": {
+  "jp": "機体の照準値の改造段階を表します。",
+  "en": "Shows the upgrade level of the unit's accuracy.",
+  "slot": 51
+ },
+ "0x00B008": {
+  "jp": "養成後の能力値を表します。（）内は加算される能力値を表します。",
+  "en": "Shows the stats after training. ( ) is the value added.",
+  "slot": 93
+ },
+ "0x00B0F5": {
+  "jp": "によって覚える精神コマンド、消費ＳＰは変化します。",
+  "en": "the spirit commands learned and their SP cost change.",
+  "slot": 75
+ },
+ "0x00B147": {
+  "jp": "パイロットの精神コマンドを表します。パイロットによって覚える精神コマンドは変化します。",
+  "en": "Shows the pilot's spirit commands. These vary by pilot.",
+  "slot": 129
+ },
+ "0x00B258": {
+  "jp": "マンド（ツイン精神コマンド）は変化します。",
+  "en": "the (twin) spirit commands change.",
+  "slot": 63
+ },
+ "0x00B327": {
+  "jp": "ます。レベルアップにより新たに覚えた精神コマンドは、コマンドの文字色が緑色で表示されます。",
+  "en": "Spirit commands newly learned on level-up are shown in green text.",
+  "slot": 135
+ },
+ "0x00B3B5": {
+  "jp": "声優名を表します。",
+  "en": "Shows the voice actor's name.",
+  "slot": 27
+ },
+ "0x00B3D7": {
+  "jp": "戦闘で表示される背景を表します。",
+  "en": "Shows the background shown in battle.",
+  "slot": 48
+ },
+ "0x00B40E": {
+  "jp": "マップ上に配置されている「プレイヤー属性の機体数」／「敵属性の機体数」を表します。",
+  "en": "Shows the player units / enemy units placed on the map.",
+  "slot": 123
+ },
+ "0x00B490": {
+  "jp": "機体の全長を表します。",
+  "en": "Shows the unit's length.",
+  "slot": 33
+ },
+ "0x00B4B8": {
+  "jp": "保有しているアビリティの数を表します。",
+  "en": "Shows the number of abilities held.",
+  "slot": 57
+ },
+ "0x00B4F8": {
+  "jp": "保有している換装武器の数を表します。",
+  "en": "Shows the number of swap weapons held.",
+  "slot": 54
+ },
+ "0x00B535": {
+  "jp": "保有している強化パーツの数を表します。",
+  "en": "Shows the number of parts held.",
+  "slot": 57
+ },
+ "0x00B575": {
+  "jp": "入力された全ての強化パーツを、売却した場合の資金を表します。",
+  "en": "Shows the funds from selling all entered parts.",
+  "slot": 90
+ },
+ "0x00B68C": {
+  "jp": "ことができます。",
+  "en": "is possible.",
+  "slot": 24
+ },
+ "0x00B6B0": {
+  "jp": "\u0002\u0001\n機体とパイロットの、それぞれの地形に対しての相性を表します。戦闘での命中率・回避率、受け",
+  "en": "\u0002\u0001\nShows the unit's and pilot's terrain rating. It affects hit and evade rates and damage",
+  "slot": 135
+ },
+ "0x00B738": {
+  "jp": "るダメージに影響します。Ｓ、Ａ、Ｂ、Ｃ、Ｄの５ランクがあり、Ｓが最もその地形に適していま",
+  "en": "taken. There are 5 ranks: S, A, B, C, D. S suits the terrain best.",
+  "slot": 132
+ },
+ "0x00B7BD": {
+  "jp": "す。",
+  "en": ".",
+  "slot": 6
+ },
+ "0x00B853": {
+  "jp": "ジに影響します。Ｓ、Ａ、Ｂ、Ｃ、Ｄの５ランクがあり、Ｓが最もその地形に適しています。",
+  "en": "damage. There are 5 ranks: S, A, B, C, D. S suits the terrain best.",
+  "slot": 126
+ },
+ "0x00B961": {
+  "jp": "に影響します。Ｓ、Ａ、Ｂ、Ｃ、Ｄの５ランクがあり、Ｓが最もその地形に適しています。",
+  "en": "There are 5 ranks: S, A, B, C, D. S suits the terrain best.",
+  "slot": 123
+ },
+ "0x00BA6C": {
+  "jp": "に影響します。Ｓ、Ａ、Ｂ、Ｃ、Ｄの５ランクがあり、Ｓが最もその地形に適しています。",
+  "en": "There are 5 ranks: S, A, B, C, D. S suits the terrain best.",
+  "slot": 123
+ },
+ "0x00BB77": {
+  "jp": "に影響します。Ｓ、Ａ、Ｂ、Ｃ、Ｄの５ランクがあり、Ｓが最もその地形に適しています。",
+  "en": "There are 5 ranks: S, A, B, C, D. S suits the terrain best.",
+  "slot": 123
+ },
+ "0x00BBF9": {
+  "jp": "機体の防御力を表します。数値が大きいほど、戦闘で受けるダメージが少なくなります。",
+  "en": "Shows the unit's defense. Higher values reduce damage taken in battle.",
+  "slot": 120
+ },
+ "0x00BC78": {
+  "jp": "ボーナス取得前と取得後の、機体の装甲値を表します。",
+  "en": "Shows the unit's armor before and after the bonus.",
+  "slot": 75
+ },
+ "0x00BCCA": {
+  "jp": "改造前と改造後の、機体の装甲値を表します。",
+  "en": "Shows the unit's armor before and after upgrading.",
+  "slot": 63
+ },
+ "0x00BD10": {
+  "jp": "換装パーツ変更前と変更後の、機体の装甲値を表します。",
+  "en": "Shows the unit's armor before and after swapping parts.",
+  "slot": 78
+ },
+ "0x00BD65": {
+  "jp": "強化パーツ変更前と変更後の、機体の装甲値を表します。",
+  "en": "Shows the unit's armor before and after changing parts.",
+  "slot": 78
+ },
+ "0x00BDBA": {
+  "jp": "現在の機体の装甲値を表します。（）内は選択中の強化パーツを外した場合の能力値を表します。",
+  "en": "Shows the unit's current armor. ( ) is the value without the selected part.",
+  "slot": 132
+ },
+ "0x00BE45": {
+  "jp": "機体の装甲値とその改造段階を表します。",
+  "en": "Shows the unit's armor and its upgrade level.",
+  "slot": 57
+ },
+ "0x00BE85": {
+  "jp": "機体の装甲値の改造段階を表します。",
+  "en": "Shows the upgrade level of the unit's armor.",
+  "slot": 51
+ },
+ "0x00BECC": {
+  "jp": "\u0019\u0001W武器の属性を表します。",
+  "en": "\u0019\u0001WShows the weapon's attribute.",
+  "slot": 36
+ },
+ "0x00BEF1": {
+  "jp": "「Ｓ」…ステータス異常やバリア貫通能力など、特殊効果を発生させる武器。",
+  "en": "\"S\"...A weapon with special effects like status ailments or barrier piercing.",
+  "slot": 105
+ },
+ "0x00BF5B": {
+  "jp": "「Ｐ」…個別コマンド「移動」実行後に使用可能な武器。",
+  "en": "\"P\"...A weapon usable after the Move command.",
+  "slot": 78
+ },
+ "0x00BFAA": {
+  "jp": "「Ｂ」…「ビームコート」など特定のバリア系特殊能力でダメージが減少するビーム兵器。",
+  "en": "\"B\"...A beam weapon reduced by barriers like Beam Coat.",
+  "slot": 123
+ },
+ "0x00C026": {
+  "jp": "「Ｍ」…「ジャマー」で無効化されるミサイル系武器。",
+  "en": "\"M\"...A missile weapon nullified by Jammer.",
+  "slot": 75
+ },
+ "0x00C081": {
+  "jp": "/\u0001'武器の属性を表します。",
+  "en": "/\u0001'Shows the weapon's attribute.",
+  "slot": 36
+ },
+ "0x00C0A6": {
+  "jp": "<I=37><S=-52><I=36><S=28>…ステータス異常やバリア貫通能力など、特殊効果を発生させる武器。",
+  "en": "<I=37><S=-52><I=36><S=28>...A weapon with special effects like ailments or barrier piercing.",
+  "slot": 121
+ },
+ "0x00C120": {
+  "jp": "<I=37><S=-30><I=38><S=6>…「ビームコート」など特定のバリア系特殊能力でダメージが減少するビーム兵器。",
+  "en": "<I=37><S=-30><I=38><S=6>...A beam weapon reduced by barriers like Beam Coat.",
+  "slot": 138
+ },
+ "0x00C1AB": {
+  "jp": "<I=37><S=-29><I=106><S=5>…「ジャマー」で無効化されるミサイル系武器。",
+  "en": "<I=37><S=-29><I=106><S=5>...A missile weapon nullified by Jammer.",
+  "slot": 91
+ },
+ "0x00C23F": {
+  "jp": "<I=37><S=-76><I=36><S=52>…ステータス異常やバリア貫通能力など、特殊効果を発生させる武器。",
+  "en": "<I=37><S=-76><I=36><S=52>...A weapon with special effects like ailments or barrier piercing.",
+  "slot": 121
+ },
+ "0x00C2B9": {
+  "jp": "<I=37><S=-53><I=39><S=29>…個別コマンド「移動」実行後に使用可能な武器。",
+  "en": "<I=37><S=-53><I=39><S=29>...A weapon usable after the Move command.",
+  "slot": 94
+ },
+ "0x00C318": {
+  "jp": "<I=37><S=-30><I=38><S=6>…「ビームコート」など特定のバリア系特殊能力でダメージが減少するビーム兵器。",
+  "en": "<I=37><S=-30><I=38><S=6>...A beam weapon reduced by barriers like Beam Coat.",
+  "slot": 138
+ },
+ "0x00C3A3": {
+  "jp": "<I=37><S=-29><I=106><S=5>…「ジャマー」で無効化されるミサイル系武器。",
+  "en": "<I=37><S=-29><I=106><S=5>...A missile weapon nullified by Jammer.",
+  "slot": 91
+ },
+ "0x00C405": {
+  "jp": "精神コマンド対象を表します。",
+  "en": "Shows the spirit command's target.",
+  "slot": 42
+ },
+ "0x00C4BF": {
+  "jp": "ません。",
+  "en": "cannot.",
+  "slot": 12
+ },
+ "0x00C55B": {
+  "jp": "す。Ｓ、Ａ、Ｂ、Ｃ、Ｄの５ランクがあり、Ｓが最もその地形に適しています。",
+  "en": "There are 5 ranks: S, A, B, C, D. S suits the terrain best.",
+  "slot": 108
+ },
+ "0x00C657": {
+  "jp": "す。Ｓ、Ａ、Ｂ、Ｃ、Ｄの５ランクがあり、Ｓが最もその地形に適しています。",
+  "en": "There are 5 ranks: S, A, B, C, D. S suits the terrain best.",
+  "slot": 108
+ },
+ "0x00C753": {
+  "jp": "響します。Ｓ、Ａ、Ｂ、Ｃ、Ｄの５ランクがあり、Ｓが最もその地形に適しています。",
+  "en": "affects it. There are 5 ranks: S, A, B, C, D. S suits the terrain best.",
+  "slot": 117
+ },
+ "0x00C7CF": {
+  "jp": "ボーナス取得前と取得後の、機体の宇宙地形についての地形適応を表します。",
+  "en": "Shows the unit's space terrain rating before and after the bonus.",
+  "slot": 105
+ },
+ "0x00C83F": {
+  "jp": "換装パーツ変更後の、機体の宇宙地形についての地形適応を表します。",
+  "en": "Shows the unit's space terrain rating after swapping parts.",
+  "slot": 96
+ },
+ "0x00C8A6": {
+  "jp": "換装パーツ変更前の、機体の宇宙地形についての地形適応を表します。",
+  "en": "Shows the unit's space terrain rating before swapping parts.",
+  "slot": 96
+ },
+ "0x00C90D": {
+  "jp": "選択中の強化パーツを外した場合の、機体の宇宙地形についての地形適応を表します。",
+  "en": "Shows the unit's space terrain rating if the selected part is removed.",
+  "slot": 117
+ },
+ "0x00C989": {
+  "jp": "現在の、機体の宇宙地形についての地形適応を表します。",
+  "en": "Shows the unit's current space terrain rating.",
+  "slot": 78
+ },
+ "0x00C9DE": {
+  "jp": "強化パーツ変更後の、機体の宇宙地形についての地形適応を表します。",
+  "en": "Shows the unit's space terrain rating after the part change.",
+  "slot": 96
+ },
+ "0x00CA45": {
+  "jp": "強化パーツ変更前の、機体の宇宙地形についての地形適応を表します。",
+  "en": "Shows the unit's space terrain rating before the part change.",
+  "slot": 96
+ },
+ "0x00CB38": {
+  "jp": "Ａ、Ｂ、Ｃ、Ｄの５ランクがあり、Ｓが最もその地形に適しています。",
+  "en": "There are 5 ranks: A, B, C, D; S is best suited to that terrain.",
+  "slot": 96
+ },
+ "0x00CC2B": {
+  "jp": "Ｓ、Ａ、Ｂ、Ｃ、Ｄの５ランクがあり、Ｓが最もその地形に適しています。",
+  "en": "There are 5 ranks: S, A, B, C, D; S is best suited to that terrain.",
+  "slot": 102
+ },
+ "0x00CD21": {
+  "jp": "します。Ｓ、Ａ、Ｂ、Ｃ、Ｄの５ランクがあり、Ｓが最もその地形に適しています。",
+  "en": "There are 5 ranks: S, A, B, C, D; S is best suited to that terrain.",
+  "slot": 114
+ },
+ "0x00CD9A": {
+  "jp": "ボーナス取得前と取得後の、機体の海地形についての地形適応を表します。",
+  "en": "Shows the unit's sea terrain rating before and after the bonus.",
+  "slot": 102
+ },
+ "0x00CE07": {
+  "jp": "換装パーツ変更後の、機体の海地形についての地形適応を表します。",
+  "en": "Shows the unit's sea terrain rating after the swap part change.",
+  "slot": 93
+ },
+ "0x00CE6B": {
+  "jp": "換装パーツ変更前の、機体の海地形についての地形適応を表します。",
+  "en": "Shows the unit's sea terrain rating before the swap part change.",
+  "slot": 93
+ },
+ "0x00CECF": {
+  "jp": "選択中の強化パーツを外した場合の、機体の海地形についての地形適応を表します。",
+  "en": "Shows the unit's sea terrain rating if the selected part is removed.",
+  "slot": 114
+ },
+ "0x00CF48": {
+  "jp": "現在の、機体の海地形についての地形適応を表します。",
+  "en": "Shows the unit's current sea terrain rating.",
+  "slot": 75
+ },
+ "0x00CF9A": {
+  "jp": "強化パーツ変更後の、機体の海地形についての地形適応を表します。",
+  "en": "Shows the unit's sea terrain rating after the part change.",
+  "slot": 93
+ },
+ "0x00CFFE": {
+  "jp": "強化パーツ変更前の、機体の海地形についての地形適応を表します。",
+  "en": "Shows the unit's sea terrain rating before the part change.",
+  "slot": 93
+ },
+ "0x00D0EB": {
+  "jp": "Ａ、Ｂ、Ｃ、Ｄの５ランクがあり、Ｓが最もその地形に適しています。",
+  "en": "There are 5 ranks: A, B, C, D; S is best suited to that terrain.",
+  "slot": 96
+ },
+ "0x00D1DE": {
+  "jp": "Ｓ、Ａ、Ｂ、Ｃ、Ｄの５ランクがあり、Ｓが最もその地形に適しています。",
+  "en": "There are 5 ranks: S, A, B, C, D; S is best suited to that terrain.",
+  "slot": 102
+ },
+ "0x00D2D4": {
+  "jp": "します。Ｓ、Ａ、Ｂ、Ｃ、Ｄの５ランクがあり、Ｓが最もその地形に適しています。",
+  "en": "There are 5 ranks: S, A, B, C, D; S is best suited to that terrain.",
+  "slot": 114
+ },
+ "0x00D34D": {
+  "jp": "ボーナス取得前と取得後の、機体の空地形についての地形適応を表します。",
+  "en": "Shows the unit's air terrain rating before and after the bonus.",
+  "slot": 102
+ },
+ "0x00D3BA": {
+  "jp": "換装パーツ変更後の、機体の空地形についての地形適応を表します。",
+  "en": "Shows the unit's air terrain rating after the swap part change.",
+  "slot": 93
+ },
+ "0x00D41E": {
+  "jp": "換装パーツ変更前の、機体の空地形についての地形適応を表します。",
+  "en": "Shows the unit's air terrain rating before the swap part change.",
+  "slot": 93
+ },
+ "0x00D482": {
+  "jp": "選択中の強化パーツを外した場合の、機体の空地形についての地形適応を表します。",
+  "en": "Shows the unit's air terrain rating if the selected part is removed.",
+  "slot": 114
+ },
+ "0x00D4FB": {
+  "jp": "現在の、機体の空地形についての地形適応を表します。",
+  "en": "Shows the unit's current air terrain rating.",
+  "slot": 75
+ },
+ "0x00D54D": {
+  "jp": "強化パーツ変更後の、機体の空地形についての地形適応を表します。",
+  "en": "Shows the unit's air terrain rating after the part change.",
+  "slot": 93
+ },
+ "0x00D5B1": {
+  "jp": "強化パーツ変更前の、機体の空地形についての地形適応を表します。",
+  "en": "Shows the unit's air terrain rating before the part change.",
+  "slot": 93
+ },
+ "0x00D69E": {
+  "jp": "Ａ、Ｂ、Ｃ、Ｄの５ランクがあり、Ｓが最もその地形に適しています。",
+  "en": "There are 5 ranks: A, B, C, D; S is best suited to that terrain.",
+  "slot": 96
+ },
+ "0x00D791": {
+  "jp": "Ｓ、Ａ、Ｂ、Ｃ、Ｄの５ランクがあり、Ｓが最もその地形に適しています。",
+  "en": "There are 5 ranks: S, A, B, C, D; S is best suited to that terrain.",
+  "slot": 102
+ },
+ "0x00D887": {
+  "jp": "します。Ｓ、Ａ、Ｂ、Ｃ、Ｄの５ランクがあり、Ｓが最もその地形に適しています。",
+  "en": "There are 5 ranks: S, A, B, C, D; S is best suited to that terrain.",
+  "slot": 114
+ },
+ "0x00D900": {
+  "jp": "ボーナス取得前と取得後の、機体の陸地形についての地形適応を表します。",
+  "en": "Shows the unit's land terrain rating before and after the bonus.",
+  "slot": 102
+ },
+ "0x00D96D": {
+  "jp": "換装パーツ変更後の、機体の陸地形についての地形適応を表します。",
+  "en": "Shows the unit's land terrain rating after the swap part change.",
+  "slot": 93
+ },
+ "0x00D9D1": {
+  "jp": "換装パーツ変更前の、機体の陸地形についての地形適応を表します。",
+  "en": "Shows the unit's land terrain rating before the swap part change.",
+  "slot": 93
+ },
+ "0x00DA35": {
+  "jp": "選択中の強化パーツを外した場合の、機体の陸地形についての地形適応を表します。",
+  "en": "Shows the unit's land terrain rating if the selected part is removed.",
+  "slot": 114
+ },
+ "0x00DAAE": {
+  "jp": "現在の、機体の陸地形についての地形適応を表します。",
+  "en": "Shows the unit's current land terrain rating.",
+  "slot": 75
+ },
+ "0x00DB00": {
+  "jp": "強化パーツ変更後の、機体の陸地形についての地形適応を表します。",
+  "en": "Shows the unit's land terrain rating after the part change.",
+  "slot": 93
+ },
+ "0x00DB64": {
+  "jp": "強化パーツ変更前の、機体の陸地形についての地形適応を表します。",
+  "en": "Shows the unit's land terrain rating before the part change.",
+  "slot": 93
+ },
+ "0x00DC51": {
+  "jp": "Ａ、Ｂ、Ｃ、Ｄの５ランクがあり、Ｓが最もその地形に適しています。",
+  "en": "There are 5 ranks: A, B, C, D; S is best suited to that terrain.",
+  "slot": 96
+ },
+ "0x00DD00": {
+  "jp": "「有効」…敵属性の機体のみに攻撃が命中します。",
+  "en": "\"Active\"...attacks hit only enemy-type units.",
+  "slot": 69
+ },
+ "0x00DD46": {
+  "jp": "「無効」…敵味方関係なく攻撃が命中します。",
+  "en": "\"Inactive\"...attacks hit friend and foe alike.",
+  "slot": 63
+ },
+ "0x00DD91": {
+  "jp": "#\u0001\u0010パイロットが修得した特殊スキルを表します。特殊スキルはパイロットがレベルアップした場合や、",
+  "en": "#\u0001\u0010Shows the special skills the pilot has learned. Special skills are gained when a pilot levels up, or",
+  "slot": 138
+ },
+ "0x00DE1C": {
+  "jp": "インターミッションの「パイロット養成」コマンドで、ＰＰを消費することによって修得できます。",
+  "en": "can be learned by spending PP via the \"Pilot Training\" command in the Intermission.",
+  "slot": 135
+ },
+ "0x00DEA4": {
+  "jp": "マップ中、発動条件を満たした特殊スキルは、文字の色が青く表示されます。",
+  "en": "On the map, special skills whose conditions are met are shown in blue text.",
+  "slot": 105
+ },
+ "0x00DF9D": {
+  "jp": "キルの文字色が緑色で表示されます。",
+  "en": "the skill's text is shown in green.",
+  "slot": 51
+ },
+ "0x00DFD7": {
+  "jp": "養成中のパイロットが修得可能な特殊スキルが表示されます。",
+  "en": "Shows the special skills the training pilot can learn.",
+  "slot": 84
+ },
+ "0x00E032": {
+  "jp": "攻撃対象が攻撃を回避した際に発生する特殊回避を設定します。",
+  "en": "Sets the special evasion that occurs when the target dodges an attack.",
+  "slot": 87
+ },
+ "0x00E119": {
+  "jp": "常などの特殊効果を与えます。",
+  "en": "applies special effects such as status ailments.",
+  "slot": 42
+ },
+ "0x00E14A": {
+  "jp": "武器の、攻撃対象のバリア系特殊能力に対する効果を表します。",
+  "en": "Shows the weapon's effect against the target's barrier-type abilities.",
+  "slot": 87
+ },
+ "0x00E231": {
+  "jp": "示されます。",
+  "en": "is shown.",
+  "slot": 18
+ },
+ "0x00E24A": {
+  "jp": "換装パーツ変更前と変更後の、機体の特殊能力の有無を表します。",
+  "en": "Shows whether the unit has special abilities before and after the swap.",
+  "slot": 90
+ },
+ "0x00E2AB": {
+  "jp": "強化パーツ変更前と変更後の、機体の特殊な能力の変化を表します。",
+  "en": "Shows the change in the unit's special abilities before and after the part change.",
+  "slot": 93
+ },
+ "0x00E30F": {
+  "jp": "現在の選択中の、強化パーツの特殊な能力を表します。",
+  "en": "Shows the special ability of the currently selected part.",
+  "slot": 75
+ },
+ "0x00E361": {
+  "jp": "パイロットが特殊スキル「念動力」を保有するかを表します。",
+  "en": "Shows whether the pilot has the special skill \"Psychodriver.\"",
+  "slot": 84
+ },
+ "0x00E3BC": {
+  "jp": "パイロットの戦闘能力を表します。数値が大きいほど、能力は高くなります。",
+  "en": "Shows the pilot's combat ability. The higher the value, the greater the ability.",
+  "slot": 105
+ },
+ "0x00E42C": {
+  "jp": "養成前の能力値を表します。",
+  "en": "Shows the stat value before training.",
+  "slot": 39
+ },
+ "0x00E4E3": {
+  "jp": "件はイベントなどにより変化する場合があります。",
+  "en": "conditions may change due to events and the like.",
+  "slot": 69
+ },
+ "0x00E52F": {
+  "jp": "背景の名前を表します。",
+  "en": "Shows the name of the background.",
+  "slot": 33
+ },
+ "0x00E557": {
+  "jp": "売却する強化パーツの数を表します。",
+  "en": "Shows the number of parts to be sold.",
+  "slot": 51
+ },
+ "0x00E61A": {
+  "jp": "行うかはメイン側の機体の設定に依存します。",
+  "en": "depends on the main unit's settings.",
+  "slot": 63
+ },
+ "0x00E716": {
+  "jp": "を確認することができます。",
+  "en": "can be checked.",
+  "slot": 39
+ },
+ "0x00E744": {
+  "jp": "改造に必要な資金を表します。",
+  "en": "Shows the funds needed for the upgrade.",
+  "slot": 42
+ },
+ "0x00E7FE": {
+  "jp": "は使用できません。",
+  "en": "cannot be used.",
+  "slot": 27
+ },
+ "0x00E8AC": {
+  "jp": "トの気力を表します。気力が足りない場合、その武器は使用できません。",
+  "en": "pilot's Will. If Will is too low, that weapon cannot be used.",
+  "slot": 99
+ },
+ "0x00E916": {
+  "jp": "機体の固定武器の改造段階を表します。",
+  "en": "Shows the upgrade level of the unit's fixed weapons.",
+  "slot": 54
+ },
+ "0x00E953": {
+  "jp": "改造前と改造後の、機体の固定武器の改造段階を表します。",
+  "en": "Shows the upgrade level of the unit's fixed weapons before and after upgrading.",
+  "slot": 81
+ },
+ "0x00E9AB": {
+  "jp": "武器の改造段階を表します。",
+  "en": "Shows the weapon's upgrade level.",
+  "slot": 39
+ },
+ "0x00EA92": {
+  "jp": "装」コマンドで装備の変更を行えます。マキシマムブレイクで使用する支援武器は<I=7><S=-8><Y=-6><I=158></Y>など、<C=FF0000FF>Ｆ</C>が表",
+  "en": "command changes gear. Support weapons used in Maximum Break show <I=7><S=-8><Y=-6><I=158></Y> and such, with <C=FF0000FF>F</C>",
+  "slot": 173
+ },
+ "0x00EB40": {
+  "jp": "示されます。",
+  "en": "is shown.",
+  "slot": 18
+ },
+ "0x00EB53": {
+  "jp": "「格闘武器」…パイロットの格闘能力が影響。　　「射撃武器」…パイロットの射撃能力が影響。",
+  "en": "\"Melee\"...affected by pilot's Melee. \"Ranged\"...affected by pilot's Ranged.",
+  "slot": 132
+ },
+ "0x00EBD8": {
+  "jp": "「修理装置」…個別コマンド「修理」使用可能。　「補給装置」…個別コマンド「補給」使用可能。",
+  "en": "\"Repair Kit\"...enables \"Repair\" command. \"Supply Kit\"...enables \"Resupply\" command.",
+  "slot": 135
+ },
+ "0x00EC66": {
+  "jp": "武器の名前を表します。",
+  "en": "Shows the weapon's name.",
+  "slot": 33
+ },
+ "0x00ED13": {
+  "jp": "<I=0>が、変形可能な機体には<I=2>が、サブパイロットには<I=3>が表示されます。",
+  "en": "<I=0> shows; transformable units show <I=2>; subpilots show <I=3>.",
+  "slot": 105
+ },
+ "0x00ED83": {
+  "jp": "パイロットが戦闘で使用可能な服装の種類の数を表します。",
+  "en": "Shows the number of outfits the pilot can use in battle.",
+  "slot": 81
+ },
+ "0x00EDDB": {
+  "jp": "リストへの表示を行う、対象の分類を表します。",
+  "en": "Shows the category shown in the list.",
+  "slot": 66
+ },
+ "0x00EE24": {
+  "jp": "味方系以外のパイロットのみが表示されます。",
+  "en": "Only non-ally pilots are shown.",
+  "slot": 63
+ },
+ "0x00EE6A": {
+  "jp": "味方系のパイロットのみが表示されます。",
+  "en": "Only ally pilots are shown.",
+  "slot": 57
+ },
+ "0x00EEAA": {
+  "jp": "味方系以外の機体のみが表示されます。",
+  "en": "Only non-ally units are shown.",
+  "slot": 54
+ },
+ "0x00EEE7": {
+  "jp": "味方系の機体のみが表示されます。",
+  "en": "Only ally units are shown.",
+  "slot": 48
+ },
+ "0x00EF1E": {
+  "jp": "地上系以外の背景のみが表示されます。",
+  "en": "Only non-ground backgrounds are shown.",
+  "slot": 54
+ },
+ "0x00EF5B": {
+  "jp": "地上系の背景のみが表示されます。",
+  "en": "Only ground backgrounds are shown.",
+  "slot": 48
+ },
+ "0x00EF92": {
+  "jp": "固定武器及び換装武器以外の武器のみが表示されます。",
+  "en": "Only weapons other than fixed and swap weapons are shown.",
+  "slot": 75
+ },
+ "0x00EFE4": {
+  "jp": "換装武器のみが表示されます。",
+  "en": "Only swap weapons are shown.",
+  "slot": 42
+ },
+ "0x00F015": {
+  "jp": "固定武器のみが表示されます。",
+  "en": "Only fixed weapons are shown.",
+  "slot": 42
+ },
+ "0x00F046": {
+  "jp": "戦闘時に獲得できる、資金や経験値を上昇させるアビリティのみが表示されます。",
+  "en": "Only abilities that raise funds or EXP gained in battle are shown.",
+  "slot": 111
+ },
+ "0x00F0BC": {
+  "jp": "攻撃力を上昇させるアビリティのみが表示されます。",
+  "en": "Only abilities that raise attack power are shown.",
+  "slot": 72
+ },
+ "0x00F10B": {
+  "jp": "全てのアビリティが表示されます。",
+  "en": "All abilities are shown.",
+  "slot": 48
+ },
+ "0x00F142": {
+  "jp": "機体の能力を向上させるアビリティのみが表示されます。",
+  "en": "Only abilities that improve unit performance are shown.",
+  "slot": 78
+ },
+ "0x00F197": {
+  "jp": "防御力を上昇させるアビリティのみが表示されます。",
+  "en": "Only abilities that raise defense are shown.",
+  "slot": 72
+ },
+ "0x00F1E6": {
+  "jp": "命中率や回避率、クリティカル発生率などを上昇させるアビリティのみが表示されます。",
+  "en": "Only abilities that raise hit rate, evasion, or critical rate are shown.",
+  "slot": 120
+ },
+ "0x00F265": {
+  "jp": "アビリティを装備しているパイロットのみが表示されます。",
+  "en": "Only pilots equipped with the ability are shown.",
+  "slot": 81
+ },
+ "0x00F2BD": {
+  "jp": "アビリティを装備している機体のみが表示されます。",
+  "en": "Only units equipped with the ability are shown.",
+  "slot": 72
+ },
+ "0x00F30C": {
+  "jp": "分類が格闘の武器のみが表示されます。",
+  "en": "Only weapons categorized as melee are shown.",
+  "slot": 54
+ },
+ "0x00F349": {
+  "jp": "分類が射撃の武器のみが表示されます。",
+  "en": "Only weapons categorized as ranged are shown.",
+  "slot": 54
+ },
+ "0x00F386": {
+  "jp": "全ての換装武器が表示されます。",
+  "en": "All swap weapons are shown.",
+  "slot": 45
+ },
+ "0x00F443": {
+  "jp": "装置など、特別なもののみが表示されます。",
+  "en": "Only special items such as kits are shown.",
+  "slot": 60
+ },
+ "0x00F486": {
+  "jp": "機体の能力を向上させる強化パーツのみが表示されます。",
+  "en": "Only parts that improve unit performance are shown.",
+  "slot": 78
+ },
+ "0x00F4DB": {
+  "jp": "マップでの個別コマンド「パーツ」で使用可能な強化パーツのみが表示されます。",
+  "en": "Only parts usable via the map \"Parts\" command are shown.",
+  "slot": 111
+ },
+ "0x00F551": {
+  "jp": "全ての強化パーツが表示されます。",
+  "en": "All parts are shown.",
+  "slot": 48
+ },
+ "0x00F588": {
+  "jp": "武器の能力を向上させる強化パーツのみが表示されます。",
+  "en": "Only parts that improve weapon performance are shown.",
+  "slot": 78
+ },
+ "0x00F5DD": {
+  "jp": "複数の分類の効果を併せ持つなど、特殊な効果を持つ強化パーツのみが表示されます。",
+  "en": "Only parts with special effects, such as combining multiple types, are shown.",
+  "slot": 117
+ },
+ "0x00F659": {
+  "jp": "点灯している場合、機体が別形態に変形可能なことを表します。",
+  "en": "When lit, the unit can transform into another form.",
+  "slot": 87
+ },
+ "0x00F6BC": {
+  "jp": "@\u0001\n機体が、個別コマンド「補給」を使用できるかどうかを表します。「補給」を使用した場合、射程",
+  "en": "@\u0001\nShows whether the unit can use the \"Resupply\" command. When used, the range",
+  "slot": 135
+ },
+ "0x00F744": {
+  "jp": "内に位置する機体のＥＮ、武器の弾数値を回復させることができます。インターミッションの「武",
+  "en": "restores the EN and ammo of units within range. In the Intermission's",
+  "slot": 132
+ },
+ "0x00F7C9": {
+  "jp": "器換装」コマンドで、<I=9><S=-16><Y=5><I=16></Y>補給装置を装備させると、「補給」が使用可能になります。",
+  "en": "weapon swap command, equipping a <I=9><S=-16><Y=5><I=16></Y> Supply Kit enables \"Resupply.\"",
+  "slot": 138
+ },
+ "0x00F8EB": {
+  "jp": "た場合、射程内に位置する機体のＥＮ、武器の弾数値を最大値まで回復させることができます。イ",
+  "en": "if used, restores the EN and ammo of units within range to their max. In the",
+  "slot": 132
+ },
+ "0x00F970": {
+  "jp": "ンターミッションの「武器換装」コマンドで、<I=9><S=-16><Y=5><I=16></Y>補給装置を装備させると、「補給」が使用可能に",
+  "en": "Intermission's weapon swap command, equipping a <I=9><S=-16><Y=5><I=16></Y> Supply Kit enables \"Resupply\"",
+  "slot": 156
+ },
+ "0x00FA0D": {
+  "jp": "なります。",
+  "en": ".",
+  "slot": 15
+ },
+ "0x00FAB4": {
+  "jp": "た場合、射程内に位置する機体のＥＮ、武器の弾数値を最大値まで回復させることができます。イ",
+  "en": "if used, restores the EN and ammo of units within range to their max. In the",
+  "slot": 132
+ },
+ "0x00FB39": {
+  "jp": "ンターミッションの「武器換装」コマンドで、<I=9><S=-16><Y=5><I=16></Y>補給装置を装備させると、「補給」が使用可能に",
+  "en": "Intermission's weapon swap command, equipping a <I=9><S=-16><Y=5><I=16></Y> Supply Kit enables \"Resupply\"",
+  "slot": 156
+ },
+ "0x00FBD6": {
+  "jp": "なります。",
+  "en": ".",
+  "slot": 15
+ },
+ "0x00FBEC": {
+  "jp": "編成後の部隊について、個別コマンド「補給」を使用できるかどうかを表します。",
+  "en": "Shows whether the squad after forming can use the \"Resupply\" command.",
+  "slot": 111
+ },
+ "0x00FC62": {
+  "jp": "編成前の部隊について、個別コマンド「補給」を使用できるかどうかを表します。",
+  "en": "Shows whether the squad before forming can use the \"Resupply\" command.",
+  "slot": 111
+ },
+ "0x00FD61": {
+  "jp": "なります。",
+  "en": ".",
+  "slot": 15
+ },
+ "0x00FE00": {
+  "jp": "なります。ステータス異常を受けている場合、減少している値が表示されます。",
+  "en": ". If afflicted by a status ailment, the reduced value is shown.",
+  "slot": 108
+ },
+ "0x00FEFC": {
+  "jp": "の文字色が緑色で表示され、上昇した値が表示されます。",
+  "en": "is shown in green text, and the raised value is shown.",
+  "slot": 78
+ },
+ "0x00FF51": {
+  "jp": "その地形にいる機体が攻撃をうけた場合に増加する、防御力の割合を表します。",
+  "en": "Shows the defense bonus percentage gained when a unit on that terrain is attacked.",
+  "slot": 108
+ },
+ "0x00FFC4": {
+  "jp": "パイロットの攻撃の正確さを表します。数値が大きいほど、攻撃を命中させやすくなります。",
+  "en": "Shows the pilot's attack accuracy. The higher the value, the easier attacks hit.",
+  "slot": 126
+ },
+ "0x0100D5": {
+  "jp": "タス異常を受けている場合、減少している値が表示されます。",
+  "en": "ailment, the reduced value is shown.",
+  "slot": 84
+ },
+ "0x0101B9": {
+  "jp": "色が緑色で表示され、上昇した値が表示されます。",
+  "en": "is shown in green, and the raised value is shown.",
+  "slot": 69
+ },
+ "0x010205": {
+  "jp": "攻撃が攻撃対象に命中するかどうかを設定します。",
+  "en": "Sets whether the attack hits the target.",
+  "slot": 69
+ },
+ "0x010251": {
+  "jp": "武器の命中精度を表します。数値が大きいほど、敵への攻撃の命中率が高くなります。",
+  "en": "Shows the weapon's accuracy. The higher the value, the higher the hit rate on enemies.",
+  "slot": 117
+ },
+ "0x0102CD": {
+  "jp": "目標に攻撃が命中する確率を表します。",
+  "en": "Shows the probability the attack hits the target.",
+  "slot": 54
+ },
+ "0x01030F": {
+  "jp": "+\u0001\nパイロットが特殊スキル「連続攻撃」を保有するかどうかを表します。数値は現在のスキルレベル",
+  "en": "+\u0001\nShows whether the pilot has the special skill \"Continuous Attack.\" The value is the current skill level",
+  "slot": 135
+ },
+ "0x010397": {
+  "jp": "です。スキルを持つパイロットは、一度の戦闘で複数の敵機体に対し「コンビネーション攻撃」を",
+  "en": ". Pilots with this skill can perform a \"Combination Attack\" against multiple enemy units in a ",
+  "slot": 132
+ },
+ "0x01041C": {
+  "jp": "行うことが可能になります。スキルレベルが高くなるほど攻撃可能になる機体数が上昇します。",
+  "en": "single battle. The higher the skill level, the more units can be attacked.",
+  "slot": 129
+ },
+ "0x0104A4": {
+  "jp": "機体の移動力を１だけ上昇させます。",
+  "en": "Raises the unit's Movement by 1.",
+  "slot": 51
+ },
+ "0x0104DE": {
+  "jp": "機体の移動力を２だけ上昇させます。",
+  "en": "Raises the unit's Movement by 2.",
+  "slot": 51
+ },
+ "0x010518": {
+  "jp": "機体の運動性を２５だけ上昇させます。",
+  "en": "Raises the unit's Mobility by 25.",
+  "slot": 54
+ },
+ "0x010555": {
+  "jp": "機体の運動性を１５だけ上昇させます。",
+  "en": "Raises the unit's Mobility by 15.",
+  "slot": 54
+ },
+ "0x010592": {
+  "jp": "機体の運動性を５だけ上昇させます。",
+  "en": "Raises the unit's Mobility by 5.",
+  "slot": 51
+ },
+ "0x0105CC": {
+  "jp": "機体の移動力を１、運動性を５だけ上昇させます。",
+  "en": "Raises the unit's Movement by 1 and Mobility by 5.",
+  "slot": 69
+ },
+ "0x010618": {
+  "jp": "機体の最大ＨＰを５００、装甲値を１００だけ上昇させます。",
+  "en": "Raises the unit's max HP by 500 and Armor by 100.",
+  "slot": 84
+ },
+ "0x010673": {
+  "jp": "機体の最大ＨＰを１０００、装甲値を１５０だけ上昇させます。",
+  "en": "Raises the unit's max HP by 1000 and Armor by 150.",
+  "slot": 87
+ },
+ "0x0106D1": {
+  "jp": "機体の最大ＨＰを１０００、装甲値を２００だけ上昇させます。",
+  "en": "Raises the unit's max HP by 1000 and Armor by 200.",
+  "slot": 87
+ },
+ "0x01072F": {
+  "jp": "機体の最大ＨＰを１５００、装甲値を２５０だけ上昇させます。",
+  "en": "Raises the unit's max HP by 1500 and Armor by 250.",
+  "slot": 87
+ },
+ "0x01078D": {
+  "jp": "機体に移動タイプ「空」を与え、機体と武器の地形適応「空」をＡにします。",
+  "en": "Grants the unit the \"Air\" movement type and sets unit and weapon \"Air\" terrain to A.",
+  "slot": 105
+ },
+ "0x010886": {
+  "jp": "にします。",
+  "en": ".",
+  "slot": 15
+ },
+ "0x01089C": {
+  "jp": "機体と武器の地形適応「宇」をＳにします。",
+  "en": "Sets unit and weapon \"Space\" terrain rating to S.",
+  "slot": 60
+ },
+ "0x0108DF": {
+  "jp": "機体に移動タイプ「陸」を与え、機体と武器の地形適応「陸」をＳにします。",
+  "en": "Grants the unit the \"Land\" movement type and sets unit and weapon \"Land\" terrain to S.",
+  "slot": 105
+ },
+ "0x01094F": {
+  "jp": "機体に移動タイプ「海」を与え、機体と武器の地形適応「海」をＳにします。",
+  "en": "Grants the unit the \"Sea\" movement type and sets unit and weapon \"Sea\" terrain to S.",
+  "slot": 105
+ },
+ "0x0109BF": {
+  "jp": "機体と武器の全地形適応をＡにします。",
+  "en": "Sets all unit and weapon terrain ratings to A.",
+  "slot": 54
+ },
+ "0x0109FC": {
+  "jp": "機体と武器の全地形適応をＳにします。",
+  "en": "Sets all unit and weapon terrain ratings to S.",
+  "slot": 54
+ },
+ "0x010A39": {
+  "jp": "パイロットの気力が１３０以上の場合、５０％の確率で敵の攻撃を回避できます。",
+  "en": "When the pilot's Will is 130 or higher, evades enemy attacks with a 50% chance.",
+  "slot": 111
+ },
+ "0x010AAF": {
+  "jp": "装備武器の命中率を２０だけ上昇させます。",
+  "en": "Raises equipped weapon accuracy by 20.",
+  "slot": 60
+ },
+ "0x010AF2": {
+  "jp": "装備武器の命中率を１０だけ上昇させます。",
+  "en": "Raises equipped weapon accuracy by 10.",
+  "slot": 60
+ },
+ "0x010B35": {
+  "jp": "マップ兵器、射程１の武器以外の武器の射程を１だけ上昇させます。",
+  "en": "Raises range by 1 for all weapons except MAP weapons and range-1 weapons.",
+  "slot": 93
+ },
+ "0x010B99": {
+  "jp": "装備武器の命中率を４０だけ上昇させます。",
+  "en": "Raises equipped weapon accuracy by 40.",
+  "slot": 60
+ },
+ "0x010BDC": {
+  "jp": "装備武器のクリティカル発生率を２０だけ上昇させます。",
+  "en": "Raises equipped weapon critical rate by 20.",
+  "slot": 78
+ },
+ "0x010C31": {
+  "jp": "装備武器の命中率を３０だけ上昇させます。",
+  "en": "Raises equipped weapon accuracy by 30.",
+  "slot": 60
+ },
+ "0x010C74": {
+  "jp": "機体のＨＰを全回復させます。１マップで、一度だけ使用可能です。",
+  "en": "Fully restores the unit's HP. Usable only once per map.",
+  "slot": 93
+ },
+ "0x010CD8": {
+  "jp": "機体のＥＮを全回復させます。１マップで、一度だけ使用可能です。",
+  "en": "Fully restores the unit's EN. Usable only once per map.",
+  "slot": 93
+ },
+ "0x010D3C": {
+  "jp": "装備武器の弾数値を全回復させます。１マップで、一度だけ使用可能です。",
+  "en": "Fully restores equipped weapon ammo. Usable only once per map.",
+  "slot": 102
+ },
+ "0x010DA9": {
+  "jp": "機体のＨＰ・ＥＮ・弾数値を全回復させます。１マップで、一度だけ使用可能です。",
+  "en": "Fully restores the unit's HP, EN, and ammo. Usable only once per map.",
+  "slot": 114
+ },
+ "0x010E22": {
+  "jp": "パイロットの精神ポイントを５０だけ回復させます。１マップで、一度だけ使用可能です。",
+  "en": "Restores 50 of the pilot's SP. Usable only once per map.",
+  "slot": 123
+ },
+ "0x010EA4": {
+  "jp": "パイロットの精神ポイントを全回復させます。１マップで、一度だけ使用可能です。",
+  "en": "Fully restores the pilot's SP. Usable only once per map.",
+  "slot": 114
+ },
+ "0x010FA6": {
+  "jp": "射程を１だけ上昇させます。",
+  "en": "Raises range by 1.",
+  "slot": 39
+ },
+ "0x010FD4": {
+  "jp": "機体の装甲値を２００、運動性を２５、武器の命中率を３０だけ上昇させます。",
+  "en": "Raises the unit's Armor by 200, Mobility by 25, and weapon accuracy by 30.",
+  "slot": 108
+ },
+ "0x011047": {
+  "jp": "機体の装甲値を２５０、運動性を３０、武器の命中率を３５だけ上昇させます。",
+  "en": "Raises the unit's Armor by 250, Mobility by 30, and weapon accuracy by 35.",
+  "slot": 108
+ },
+ "0x0110BA": {
+  "jp": "機体の最大ＥＮを５０だけ上昇させます。",
+  "en": "Raises the unit's max EN by 50.",
+  "slot": 57
+ },
+ "0x0110FA": {
+  "jp": "機体の最大ＥＮを１００だけ上昇させます。",
+  "en": "Raises the unit's max EN by 100.",
+  "slot": 60
+ },
+ "0x01113D": {
+  "jp": "機体の最大ＥＮを２００だけ上昇させます。",
+  "en": "Raises the unit's max EN by 200.",
+  "slot": 60
+ },
+ "0x011180": {
+  "jp": "自軍フェイズ開始時に、ＥＮが最大値の１０％分だけ回復します。",
+  "en": "At the start of the player phase, EN recovers by 10% of its max value.",
+  "slot": 90
+ },
+ "0x01126A": {
+  "jp": "ます。",
+  "en": "s.",
+  "slot": 9
+ },
+ "0x011303": {
+  "jp": "減します。",
+  "en": "reduces.",
+  "slot": 15
+ },
+ "0x0113A2": {
+  "jp": "でのダメージを無効化します。",
+  "en": "Nullifies damage taken.",
+  "slot": 42
+ },
+ "0x0113D6": {
+  "jp": "|ＥＮが１５以上、気力が１２０以上の場合、全ての攻撃（バリア貫通系武器を除く）による",
+  "en": "|When EN is 15+ and Will is 120+, all attacks (except barrier-piercing weapons) dealing",
+  "slot": 124
+ },
+ "0x011453": {
+  "jp": "１８００までのダメージを無効化します。",
+  "en": "damage up to 1800 are nullified.",
+  "slot": 57
+ },
+ "0x011493": {
+  "jp": "出撃時にパイロットの気力を５だけ上昇させます。",
+  "en": "Raises the pilot's Will by 5 upon deployment.",
+  "slot": 69
+ },
+ "0x0114DF": {
+  "jp": "出撃時にパイロットの気力を１０だけ上昇させます。",
+  "en": "Raises the pilot's Will by 10 upon deployment.",
+  "slot": 72
+ },
+ "0x01152E": {
+  "jp": "スキルレベルが高くなるほど、戦闘での命中率・回避率が上昇します。",
+  "en": "The higher the skill level, the higher accuracy and evasion in battle.",
+  "slot": 96
+ },
+ "0x01161E": {
+  "jp": "ベルが高くなるほど発動確率が上昇します。",
+  "en": "The higher the level, the higher the activation rate.",
+  "slot": 60
+ },
+ "0x0116EA": {
+  "jp": "ル発生率が上昇します。",
+  "en": "critical rate rises.",
+  "slot": 33
+ },
+ "0x011712": {
+  "jp": "隣接する味方機体の援護攻撃に入ります。スキルレベルが高くなるほど援護可能回数が上昇します。",
+  "en": "Provides support attack for adjacent allies. The higher the skill level, the more support attacks possible.",
+  "slot": 135
+ },
+ "0x0117A0": {
+  "jp": "隣接する味方機体の援護防御に入ります。スキルレベルが高くなるほど援護可能回数が上昇します。",
+  "en": "Provides support defense for adjacent allies. The higher the skill level, the more support defenses possible.",
+  "slot": 135
+ },
+ "0x0118B7": {
+  "jp": "昇します。",
+  "en": "rises.",
+  "slot": 15
+ },
+ "0x011958": {
+  "jp": "ます。",
+  "en": "s.",
+  "slot": 9
+ },
+ "0x0119F3": {
+  "jp": "す。",
+  "en": ".",
+  "slot": 6
+ },
+ "0x011A00": {
+  "jp": "スキルレベルが高くなるほど最大精神ポイントが上昇します。",
+  "en": "The higher the skill level, the higher the max SP.",
+  "slot": 84
+ },
+ "0x011AE4": {
+  "jp": "す。",
+  "en": ".",
+  "slot": 6
+ },
+ "0x011B7A": {
+  "jp": "発生させる能力です。連続攻撃Ｌｖの「レベル数」＋１＝「攻撃可能な機体数」になります。",
+  "en": "Ability to trigger this. The \"level\" of Continuous Attack Lv +1 = number of units attackable.",
+  "slot": 126
+ },
+ "0x011BFF": {
+  "jp": "自軍フェイズ開始時に、ＳＰが１０だけ回復します。",
+  "en": "At the start of the player phase, SP recovers by 10.",
+  "slot": 72
+ },
+ "0x011C4E": {
+  "jp": "精神コマンド・ツイン精神コマンド使用時の消費ポイントが８０％になります。",
+  "en": "SP cost for Spirit Commands and Twin Spirit Commands becomes 80%.",
+  "slot": 108
+ },
+ "0x011CC1": {
+  "jp": "移動せずに攻撃した場合、その後に移動ができます。",
+  "en": "If the unit attacks without moving, it can move afterward.",
+  "slot": 72
+ },
+ "0x011D10": {
+  "jp": "命中率・回避率・クリティカル発生率が２０だけ上昇します。",
+  "en": "Raises accuracy, evasion, and critical rate by 20.",
+  "slot": 84
+ },
+ "0x011D6B": {
+  "jp": "気力が１３０以上の場合、ダメージが１．２倍になります。",
+  "en": "When Will is 130 or higher, damage dealt becomes 1.2x.",
+  "slot": 81
+ },
+ "0x011DC3": {
+  "jp": "反撃時の与えるダメージが１．２倍になります。",
+  "en": "Damage dealt on counterattack becomes 1.2x.",
+  "slot": 66
+ },
+ "0x011E0C": {
+  "jp": "気力が１３０以上の場合、敵対勢力のフェイズのみ、最終的な回避率が３０だけ上昇します。",
+  "en": "When Will is 130+, final evasion rises by 30 during enemy phases only.",
+  "slot": 126
+ },
+ "0x011F1A": {
+  "jp": "の最大値は２倍までです。",
+  "en": "the max value is up to 2x.",
+  "slot": 36
+ },
+ "0x011F45": {
+  "jp": "気力が１３０以上の場合、命中率・回避率が１０だけ上昇します。",
+  "en": "When Will is 130 or higher, accuracy and evasion rise by 10.",
+  "slot": 90
+ },
+ "0x011FA6": {
+  "jp": "武器の消費ＥＮが通常の７０％になります。",
+  "en": "Weapon EN cost becomes 70% of normal.",
+  "slot": 60
+ },
+ "0x011FE9": {
+  "jp": "武器の最大弾数が通常の１．５倍になります。",
+  "en": "Weapon max ammo becomes 1.5x normal.",
+  "slot": 63
+ },
+ "0x01202F": {
+  "jp": "サブ機体での戦闘時、メイン機体と同様の経験値・ＰＰを獲得できます。",
+  "en": "When fighting in a sub-unit, gains the same EXP and PP as the main unit.",
+  "slot": 99
+ },
+ "0x012099": {
+  "jp": "出撃時の気力が５だけ上昇します。",
+  "en": "Raises Will by 5 upon deployment.",
+  "slot": 48
+ },
+ "0x0120D0": {
+  "jp": "自軍フェイズ開始時に、気力が２上昇します。",
+  "en": "At the start of the player phase, Will rises by 2.",
+  "slot": 63
+ },
+ "0x012116": {
+  "jp": "攻撃を回避した場合、気力が本来の増減に加えて更に１上昇します。",
+  "en": "When an attack is evaded, Will rises by 1 more beyond the normal change.",
+  "slot": 93
+ },
+ "0x01217A": {
+  "jp": "敵への攻撃が命中した場合、気力が本来の増減に加えて更に１上昇します。",
+  "en": "When an attack hits an enemy, Will rises by 1 more beyond the normal change.",
+  "slot": 102
+ },
+ "0x0121E7": {
+  "jp": "攻撃でダメージを受けた場合、気力が本来の増減に加えて更に２上昇します。",
+  "en": "When damaged by an attack, Will rises by 2 more beyond the normal change.",
+  "slot": 105
+ },
+ "0x012257": {
+  "jp": "敵が撃墜された場合、気力が本来の増減に加えて更に１上昇します。",
+  "en": "When an enemy is shot down, Will rises by 1 more beyond the normal change.",
+  "slot": 93
+ },
+ "0x0122BB": {
+  "jp": "援護攻撃での与えるダメージを１００％にします。",
+  "en": "Makes damage dealt in support attacks 100%.",
+  "slot": 69
+ },
+ "0x012307": {
+  "jp": "メイン（サブ）機体がサブ（メイン）機体を攻撃した場合の、ダメージ低下が２０％減少します。",
+  "en": "Reduces the damage drop by 20% when a main (sub) unit attacks a sub (main) unit.",
+  "slot": 132
+ },
+ "0x012392": {
+  "jp": "気力が１３０以上の場合、戦闘で受けるダメージが８０％になります。",
+  "en": "When Will is 130 or higher, damage taken in battle becomes 80%.",
+  "slot": 96
+ },
+ "0x0123F9": {
+  "jp": "気力上昇の上限が１７０になります。",
+  "en": "The Will cap becomes 170.",
+  "slot": 51
+ },
+ "0x012433": {
+  "jp": "個別コマンド「修理」を使用時に、ＨＰ回復量が１．２倍になります。",
+  "en": "When using the \"Repair\" command, HP recovery becomes 1.2x.",
+  "slot": 96
+ },
+ "0x01249A": {
+  "jp": "移動後に個別コマンド「補給」を使用可能になります。",
+  "en": "The \"Resupply\" command becomes usable after moving.",
+  "slot": 75
+ },
+ "0x0124EC": {
+  "jp": "１ターンの行動回数が１回増えます。",
+  "en": "Increases actions per turn by 1.",
+  "slot": 51
+ },
+ "0x012526": {
+  "jp": "戦闘での獲得経験値が１．２倍になります。",
+  "en": "EXP gained in battle becomes 1.2x.",
+  "slot": 60
+ },
+ "0x0125F2": {
+  "jp": "撃を行います。",
+  "en": "performs an attack.",
+  "slot": 21
+ },
+ "0x012697": {
+  "jp": "ジを１５００だけ軽減します。",
+  "en": "reduces damage by 1500.",
+  "slot": 42
+ },
+ "0x012751": {
+  "jp": "します。",
+  "en": ".",
+  "slot": 12
+ },
+ "0x0127ED": {
+  "jp": "を１５００だけ軽減します。",
+  "en": "reduces by 1500.",
+  "slot": 39
+ },
+ "0x0128A4": {
+  "jp": "回復します。",
+  "en": "recovers.",
+  "slot": 18
+ },
+ "0x012949": {
+  "jp": "ト特殊スキル「念動力」の「スキルレベル」×２００までのダメージを無効化します。",
+  "en": "pilot special skill \"Psychodriver\" skill level x200 of damage is nullified.",
+  "slot": 116
+ },
+ "0x012A50": {
+  "jp": "ト特殊スキル「念動力」の「スキルレベル」×２５０までのダメージを無効化します。",
+  "en": "pilot special skill \"Psychodriver\" skill level x250 of damage is nullified.",
+  "slot": 116
+ },
+ "0x012ACB": {
+  "jp": "ＥＮが１０以上の場合、全ての攻撃（バリア貫通系武器を除く）によるダメージを半減します。",
+  "en": "When EN is 10 or higher, halves damage from all attacks (except barrier-piercing weapons).",
+  "slot": 129
+ },
+ "0x012B53": {
+  "jp": "自軍フェイズ開始時に、ＨＰが回復します。",
+  "en": "At the start of the player phase, HP recovers.",
+  "slot": 60
+ },
+ "0x012B96": {
+  "jp": "自軍フェイズ開始時に、ＨＰが最大値の１０％分だけ回復します。",
+  "en": "At the start of the player phase, HP recovers by 10% of its max value.",
+  "slot": 90
+ },
+ "0x012BF7": {
+  "jp": "自軍フェイズ開始時に、ＨＰが最大値の２０％分だけ回復します。",
+  "en": "At the start of the player phase, HP recovers by 20% of its max value.",
+  "slot": 90
+ },
+ "0x012C58": {
+  "jp": "自軍フェイズ開始時に、ＨＰが最大値の３０％分だけ回復します。",
+  "en": "At the start of the player phase, HP recovers by 30% of its max value.",
+  "slot": 90
+ },
+ "0x012CB9": {
+  "jp": "自軍フェイズ開始時に、ＥＮが回復します。",
+  "en": "At the start of the player phase, EN recovers.",
+  "slot": 60
+ },
+ "0x012CFC": {
+  "jp": "自軍フェイズ開始時に、ＥＮが最大値の２０％分だけ回復します。",
+  "en": "At the start of the player phase, EN recovers by 20% of its max value.",
+  "slot": 90
+ },
+ "0x012D5D": {
+  "jp": "自軍フェイズ開始時に、ＥＮが最大値の３０％分だけ回復します。",
+  "en": "At the start of the player phase, EN recovers by 30% of its max value.",
+  "slot": 90
+ },
+ "0x012DBE": {
+  "jp": "気力が１３０以上の場合、メインパイロットの格闘・命中・技量が２０だけ上昇します。",
+  "en": "When Will is 130+, the main pilot's Melee, Hit, and Skill rise by 20.",
+  "slot": 120
+ },
+ "0x012E42": {
+  "jp": "#\u0001\n自軍フェイズ開始時に、特殊能力「ＯＤＥシステム」を保有するマップ上の機体の、パイロットの",
+  "en": "#\u0001\nAt the start of the player phase, for units on the map with the \"ODE System\" ability, the pilot's",
+  "slot": 135
+ },
+ "0x012ECA": {
+  "jp": "気力がその中で最も高いパイロットの気力と同じになります。また、最終命中率・回避率が「マッ",
+  "en": "Will becomes equal to the highest pilot Will among them. Also, final accuracy and evasion rise by the \"num",
+  "slot": 132
+ },
+ "0x012F4F": {
+  "jp": "プ上のＯＤＥシステム搭載機の数」＋「経過ターン数」×２だけ上昇します。",
+  "en": "ber of ODE System units on the map\" + \"turns elapsed\" x2.",
+  "slot": 104
+ },
+ "0x012FBE": {
+  "jp": "ミサイル系の攻撃を５０％の確率で無効化します。",
+  "en": "Nullifies missile-type attacks with a 50% chance.",
+  "slot": 69
+ },
+ "0x01300A": {
+  "jp": "パイロットの気力が１３０以上の場合、５０％の確率で攻撃を回避できます。",
+  "en": "When the pilot's Will is 130 or higher, evades attacks with a 50% chance.",
+  "slot": 105
+ },
+ "0x01307A": {
+  "jp": "ＢＧＭを設定します。",
+  "en": "Sets the BGM.",
+  "slot": 30
+ },
+ "0x013128": {
+  "jp": "を表します。",
+  "en": "indicates.",
+  "slot": 18
+ },
+ "0x013141": {
+  "jp": "攻撃が命中する場合のみ、有効になる設定です。",
+  "en": "A setting that is active only when the attack hits.",
+  "slot": 66
+ },
+ "0x01318A": {
+  "jp": "攻撃が命中しない場合のみ、有効になる設定です。",
+  "en": "A setting that is active only when the attack misses.",
+  "slot": 69
+ },
+ "0x0131D6": {
+  "jp": "Ｐ系全ての特殊効果を無効化します。",
+  "en": "Nullifies all P-type special effects.",
+  "slot": 51
+ },
+ "0x013210": {
+  "jp": "Ｒ系全ての特殊効果を無効化します。",
+  "en": "Nullifies all R-type special effects.",
+  "slot": 51
+ },
+ "0x01324A": {
+  "jp": "全ての特殊効果を無効化します。",
+  "en": "Nullifies all special effects.",
+  "slot": 45
+ },
+ "0x01327E": {
+  "jp": "隣接した機体に装備中の強化パーツ（コマンドで使用可能なもの）を使用できます。",
+  "en": "Can use commandable parts equipped on adjacent units.",
+  "slot": 114
+ },
+ "0x0132F7": {
+  "jp": "機体を別形態に変化させることができます。",
+  "en": "Can transform the unit into a different form.",
+  "slot": 60
+ },
+ "0x01333A": {
+  "jp": "複数の機体を合体させて、別形態の機体へ変化させたり、元の機体へ分離させることができます。",
+  "en": "Can combine multiple units into a different form, or separate back into the original units.",
+  "slot": 132
+ },
+ "0x0133C5": {
+  "jp": "射程内に位置する機体のＥＮ、弾数値を最大値まで回復させることができます。",
+  "en": "Can restore EN and ammo of units within range to max.",
+  "slot": 108
+ },
+ "0x013438": {
+  "jp": "射程内に位置する部隊のＨＰを回復させることができます。",
+  "en": "Can restore HP of units within range.",
+  "slot": 81
+ },
+ "0x013490": {
+  "jp": "？？？",
+  "en": "???",
+  "slot": 9
+ },
+ "0x0134A0": {
+  "jp": "一度だけ、戦闘で与えるダメージが２倍になります。",
+  "en": "Once only, damage dealt in battle becomes 2x.",
+  "slot": 72
+ },
+ "0x0134EF": {
+  "jp": "一度だけ、戦闘での敵の攻撃を完全回避します。",
+  "en": "Once only, completely evades the enemy's attack in battle.",
+  "slot": 66
+ },
+ "0x013538": {
+  "jp": "一度だけ、戦闘で受ける全てのダメージを１０にします。",
+  "en": "Once only, makes all damage taken in battle 10.",
+  "slot": 78
+ },
+ "0x01358D": {
+  "jp": "１ターンの間、戦闘で受けるダメージを１／４にします。",
+  "en": "For 1 turn, reduces damage taken in battle to 1/4.",
+  "slot": 78
+ },
+ "0x0135E2": {
+  "jp": "１ターンの間、命中率・回避率が３０だけ上昇します。",
+  "en": "For 1 turn, raises hit and evasion rates by 30.",
+  "slot": 75
+ },
+ "0x0136BD": {
+  "jp": "らめき」が優先）。",
+  "en": "(Alert takes priority).",
+  "slot": 27
+ },
+ "0x0136DF": {
+  "jp": "指定した機体に「必中」の効果を与えることができます。",
+  "en": "Grants the Strike effect to the selected unit.",
+  "slot": 78
+ },
+ "0x013734": {
+  "jp": "一度だけ、移動力に＋３されます。",
+  "en": "Adds +3 to movement one time.",
+  "slot": 48
+ },
+ "0x01376B": {
+  "jp": "一回分、行動回数が増えます。",
+  "en": "Grants one extra action this turn.",
+  "slot": 42
+ },
+ "0x01379C": {
+  "jp": "自分のＨＰを最大値の３０％分だけ回復させます。",
+  "en": "Restores 30% of your max HP.",
+  "slot": 69
+ },
+ "0x0137E8": {
+  "jp": "自分のＨＰを最大値まで回復させます。",
+  "en": "Restores your HP to maximum.",
+  "slot": 54
+ },
+ "0x013825": {
+  "jp": "指定した機体のＨＰを２０００回復します。",
+  "en": "Restores 2000 HP to the selected unit.",
+  "slot": 60
+ },
+ "0x013868": {
+  "jp": "指定した機体のＨＰを全回復します。",
+  "en": "Fully restores the selected unit's HP.",
+  "slot": 51
+ },
+ "0x0138A2": {
+  "jp": "指定した機体のＥＮ、弾数値を最大値まで回復させます。",
+  "en": "Restores the selected unit's EN and ammo to max.",
+  "slot": 78
+ },
+ "0x0138F7": {
+  "jp": "自分の気力を１０だけ上げます。",
+  "en": "Raises your morale by 10.",
+  "slot": 45
+ },
+ "0x01392B": {
+  "jp": "自分の気力を３０だけ上げます。",
+  "en": "Raises your morale by 30.",
+  "slot": 45
+ },
+ "0x01395F": {
+  "jp": "指定した機体の気力を１０だけ上げます。",
+  "en": "Raises the selected unit's morale by 10.",
+  "slot": 57
+ },
+ "0x013A28": {
+  "jp": "れば無効になります。",
+  "en": "it is nullified.",
+  "slot": 30
+ },
+ "0x013A4D": {
+  "jp": "一度だけ、射程１の武器とマップ兵器以外の武器の射程に対して＋２されます。",
+  "en": "One time, adds +2 range to all weapons except range-1 and map weapons.",
+  "slot": 108
+ },
+ "0x013AC0": {
+  "jp": "一度だけ、敵の援護防御、特殊な防御能力を発動させません。",
+  "en": "One time, prevents the enemy's support defense and special defenses.",
+  "slot": 84
+ },
+ "0x013B1B": {
+  "jp": "指定した敵部隊のステータスを調べることができます。",
+  "en": "Lets you view the status of the selected enemy unit.",
+  "slot": 75
+ },
+ "0x013B6D": {
+  "jp": "指定した機体の気力を１０下げます。",
+  "en": "Lowers the selected unit's morale by 10.",
+  "slot": 51
+ },
+ "0x013C30": {
+  "jp": "ます。",
+  "en": ".",
+  "slot": 9
+ },
+ "0x013C40": {
+  "jp": "次の戦闘で得られる資金が２倍になります。",
+  "en": "Doubles the funds earned in the next battle.",
+  "slot": 60
+ },
+ "0x013C83": {
+  "jp": "指定した機体に「幸運」の効果を与えることができます。",
+  "en": "Grants the Luck effect to the selected unit.",
+  "slot": 78
+ },
+ "0x013CD8": {
+  "jp": "次の戦闘で得られる経験値が２倍になります。",
+  "en": "Doubles the EXP earned in the next battle.",
+  "slot": 63
+ },
+ "0x013D1E": {
+  "jp": "指定した機体に「努力」の効果を与えることができます。",
+  "en": "Grants the Gain effect to the selected unit.",
+  "slot": 78
+ },
+ "0x013D73": {
+  "jp": "一度に「ひらめき」「必中」の効果を得ることができます。",
+  "en": "Gains the Alert and Strike effects at once.",
+  "slot": 81
+ },
+ "0x013DCB": {
+  "jp": "指定した行動済みの部隊を再び行動可能にします。",
+  "en": "Lets a unit that has already acted act again.",
+  "slot": 69
+ },
+ "0x013E17": {
+  "jp": "１ターンの間、マップ兵器以外の全ての武器が移動後に使用できるようになります。",
+  "en": "For 1 turn, all weapons except map weapons can be used after moving.",
+  "slot": 114
+ },
+ "0x013E90": {
+  "jp": "全味方の機体のＨＰを最大値の５０％分だけ回復させます。",
+  "en": "Restores 50% of max HP to all allied units.",
+  "slot": 81
+ },
+ "0x013EE8": {
+  "jp": "全味方パイロットの気力を５上げます。",
+  "en": "Raises the morale of all allied pilots by 5.",
+  "slot": 54
+ },
+ "0x013F25": {
+  "jp": "次の戦闘で得られるパイロットポイントが２倍になります。",
+  "en": "Doubles the PP earned in the next battle.",
+  "slot": 81
+ },
+ "0x013F7D": {
+  "jp": "１ターンの間、戦闘で受けるステータス異常を無効にし、ダメージを１／４にします。",
+  "en": "For 1 turn, nullifies status ailments in battle and cuts damage to 1/4.",
+  "slot": 117
+ },
+ "0x013FF9": {
+  "jp": "１ターンの間、全敵の命中率が半分になります。ただし「必中」は優先されます。",
+  "en": "For 1 turn, halves all enemy hit rates. Strike still takes priority.",
+  "slot": 111
+ },
+ "0x01406F": {
+  "jp": "一度だけ、戦闘で与えるダメージが２．５倍になります。「熱血」との併用はできません。",
+  "en": "One time, deals 2.5x damage in battle. Cannot be used with Valor.",
+  "slot": 123
+ },
+ "0x0140F1": {
+  "jp": "次の戦闘で攻撃した敵部隊を壊滅させた場合、行動終了せずもう一度行動できます。",
+  "en": "If you destroy the attacked enemy unit next battle, you may act again.",
+  "slot": 114
+ },
+ "0x0141F6": {
+  "jp": "トの数値の高い方へ合わせます。",
+  "en": "to match the higher pilot's value.",
+  "slot": 45
+ },
+ "0x01422A": {
+  "jp": "１ターンの間、攻撃が必ずクリティカルになります。",
+  "en": "For 1 turn, all attacks are guaranteed critical hits.",
+  "slot": 72
+ },
+ "0x014279": {
+  "jp": "指定したパイロットの精神ポイントを５０回復します。",
+  "en": "Restores 50 SP to the selected pilot.",
+  "slot": 75
+ },
+ "0x0142CB": {
+  "jp": "指定した部隊のステータス異常を解除します。",
+  "en": "Cures the status ailments of the selected unit.",
+  "slot": 63
+ },
+ "0x014311": {
+  "jp": "一度に「加速」「突撃」「直撃」の効果を得ることができます。",
+  "en": "Gains the Accel, Charge, and Direct Hit effects at once.",
+  "slot": 87
+ },
+ "0x01436F": {
+  "jp": "機体の運動値がステータス異常により減少している場合、その効果が表示されます。",
+  "en": "Shown when the unit's mobility is reduced by a status ailment.",
+  "slot": 114
+ },
+ "0x0143E8": {
+  "jp": "機体の装甲値がステータス異常により減少している場合、その効果が表示されます。",
+  "en": "Shown when the unit's armor is reduced by a status ailment.",
+  "slot": 114
+ },
+ "0x014461": {
+  "jp": "機体の移動力がステータス異常により減少している場合、その効果が表示されます。",
+  "en": "Shown when the unit's movement is reduced by a status ailment.",
+  "slot": 114
+ },
+ "0x0144DA": {
+  "jp": "機体の攻撃力がステータス異常により減少している場合、その効果が表示されます。",
+  "en": "Shown when the unit's attack is reduced by a status ailment.",
+  "slot": 114
+ },
+ "0x014553": {
+  "jp": "機体の射程値がステータス異常により減少している場合、その効果が表示されます。",
+  "en": "Shown when the unit's range is reduced by a status ailment.",
+  "slot": 114
+ },
+ "0x0145CC": {
+  "jp": "機体の照準値がステータス異常により減少している場合、その効果が表示されます。",
+  "en": "Shown when the unit's accuracy is reduced by a status ailment.",
+  "slot": 114
+ },
+ "0x0146CE": {
+  "jp": "ている場合、表示されます。",
+  "en": "case, it is shown.",
+  "slot": 39
+ },
+ "0x014701": {
+  "jp": "\u0017\u0001\n機体がステータス異常により、個別コマンドを使用できなくなっている場合、表示されます。異常",
+  "en": "\u0017\u0001\nShown when a status ailment prevents the unit from using individual commands. When",
+  "slot": 135
+ },
+ "0x014789": {
+  "jp": "時は個別コマンドについて、「合流」「解散」「メイン」「能力」以外のコマンドが使用不可能に",
+  "en": "ailing, individual commands other than Merge, Split, Main, and Ability become",
+  "slot": 132
+ },
+ "0x01480E": {
+  "jp": "なり、反撃時のコマンド選択が出来なくなります。",
+  "en": "unusable, and no command can be chosen when counterattacking.",
+  "slot": 69
+ },
+ "0x0148E6": {
+  "jp": "異常時は精神コマンドを使用できなくなり、継続性のある精神コマンドは全て解除されます。",
+  "en": "While ailing, spirit commands cannot be used and all lasting spirit effects are cleared.",
+  "slot": 126
+ },
+ "0x01496B": {
+  "jp": "効果を受けた場合に１ターンの間、機体の運動性が減少します。",
+  "en": "When hit, the unit's mobility drops for 1 turn.",
+  "slot": 87
+ },
+ "0x0149C9": {
+  "jp": "効果を受けた場合に１ターンの間、機体の運動性が１０だけ減少します。",
+  "en": "When hit, the unit's mobility drops by 10 for 1 turn.",
+  "slot": 99
+ },
+ "0x014A33": {
+  "jp": "効果を受けた場合に１ターンの間、機体の運動性が２０だけ減少します。",
+  "en": "When hit, the unit's mobility drops by 20 for 1 turn.",
+  "slot": 99
+ },
+ "0x014A9D": {
+  "jp": "効果を受けた場合に１ターンの間、機体の運動性が３０だけ減少します。",
+  "en": "When hit, the unit's mobility drops by 30 for 1 turn.",
+  "slot": 99
+ },
+ "0x014B07": {
+  "jp": "効果を受けた場合に１ターンの間、機体の装甲値が減少します。",
+  "en": "When hit, the unit's armor drops for 1 turn.",
+  "slot": 87
+ },
+ "0x014B65": {
+  "jp": "効果を受けた場合に１ターンの間、機体の装甲値が２５０だけ減少します。",
+  "en": "When hit, the unit's armor drops by 250 for 1 turn.",
+  "slot": 102
+ },
+ "0x014BD2": {
+  "jp": "効果を受けた場合に１ターンの間、機体の装甲値が５００だけ減少します。",
+  "en": "When hit, the unit's armor drops by 500 for 1 turn.",
+  "slot": 102
+ },
+ "0x014C3F": {
+  "jp": "効果を受けた場合に１ターンの間、機体の装甲値が７５０だけ減少します。",
+  "en": "When hit, the unit's armor drops by 750 for 1 turn.",
+  "slot": 102
+ },
+ "0x014CAC": {
+  "jp": "効果を受けた場合に１ターンの間、機体の移動力が４減少します。",
+  "en": "When hit, the unit's movement drops by 4 for 1 turn.",
+  "slot": 90
+ },
+ "0x014D0D": {
+  "jp": "効果を受けた場合に１ターンの間、機体の最終ダメージが減少します。",
+  "en": "When hit, the unit's final damage drops for 1 turn.",
+  "slot": 96
+ },
+ "0x014D74": {
+  "jp": "効果を受けた場合に１ターンの間、機体の最終ダメージが１０％分だけ減少します。",
+  "en": "When hit, the unit's final damage drops by 10% for 1 turn.",
+  "slot": 114
+ },
+ "0x014DED": {
+  "jp": "効果を受けた場合に１ターンの間、機体の最終ダメージが２０％分だけ減少します。",
+  "en": "When hit, the unit's final damage drops by 20% for 1 turn.",
+  "slot": 114
+ },
+ "0x014E66": {
+  "jp": "効果を受けた場合に１ターンの間、機体の最終ダメージが３０％分だけ減少します。",
+  "en": "When hit, the unit's final damage drops by 30% for 1 turn.",
+  "slot": 114
+ },
+ "0x014EDF": {
+  "jp": "効果を受けた場合に１ターンの間、機体全武器の最大射程が２だけ減少します。",
+  "en": "When hit, the max range of all the unit's weapons drops by 2 for 1 turn.",
+  "slot": 108
+ },
+ "0x014F52": {
+  "jp": "効果を受けた場合に１ターンの間、機体の照準値が減少します。",
+  "en": "When hit, the unit's accuracy drops for 1 turn.",
+  "slot": 87
+ },
+ "0x014FB0": {
+  "jp": "効果を受けた場合に１ターンの間、機体の照準値が１０だけ減少します。",
+  "en": "When hit, the unit's accuracy drops by 10 for 1 turn.",
+  "slot": 99
+ },
+ "0x01501A": {
+  "jp": "効果を受けた場合に１ターンの間、機体の照準値が２０だけ減少します。",
+  "en": "When hit, the unit's accuracy drops by 20 for 1 turn.",
+  "slot": 99
+ },
+ "0x015084": {
+  "jp": "効果を受けた場合に１ターンの間、機体の照準値が３０だけ減少します。",
+  "en": "When hit, the unit's accuracy drops by 30 for 1 turn.",
+  "slot": 99
+ },
+ "0x0150EE": {
+  "jp": "効果を受けた場合、機体の現ＥＮ値が減少します。",
+  "en": "When hit, the unit's current EN drops.",
+  "slot": 69
+ },
+ "0x01513A": {
+  "jp": "効果を受けた場合、機体の現ＥＮ値が３０だけ減少します。",
+  "en": "When hit, the unit's current EN drops by 30.",
+  "slot": 81
+ },
+ "0x015192": {
+  "jp": "効果を受けた場合、機体の現ＥＮ値が５０だけ減少します。",
+  "en": "When hit, the unit's current EN drops by 50.",
+  "slot": 81
+ },
+ "0x0151EA": {
+  "jp": "効果を受けた場合、機体の現ＥＮ値が１００だけ減少します。",
+  "en": "When hit, the unit's current EN drops by 100.",
+  "slot": 84
+ },
+ "0x015245": {
+  "jp": "効果を受けた場合、機体の現ＥＮ値が減少し、その分だけ攻撃機体の現ＥＮ値を上昇させます。",
+  "en": "When hit, the unit's current EN drops and the attacker's EN rises by that amount.",
+  "slot": 129
+ },
+ "0x015356": {
+  "jp": "ます。",
+  "en": ".",
+  "slot": 9
+ },
+ "0x0153EF": {
+  "jp": "ます。",
+  "en": ".",
+  "slot": 9
+ },
+ "0x015488": {
+  "jp": "せます。",
+  "en": "s it.",
+  "slot": 12
+ },
+ "0x015524": {
+  "jp": "が減少します。",
+  "en": "drops.",
+  "slot": 21
+ },
+ "0x0155C9": {
+  "jp": "が１０だけ減少します。",
+  "en": "drops by 10.",
+  "slot": 33
+ },
+ "0x01567A": {
+  "jp": "が２０だけ減少します。",
+  "en": "drops by 20.",
+  "slot": 33
+ },
+ "0x01572B": {
+  "jp": "が３０だけ減少します。",
+  "en": "drops by 30.",
+  "slot": 33
+ },
+ "0x0157DC": {
+  "jp": "以外のコマンドが使用不可能になり、反撃時のコマンド選択が出来なくなります。",
+  "en": "become unusable, and no command can be chosen when counterattacking.",
+  "slot": 111
+ },
+ "0x015852": {
+  "jp": "効果を受けた場合、メインパイロットの気力が減少します。",
+  "en": "When hit, the main pilot's morale drops.",
+  "slot": 81
+ },
+ "0x0158AA": {
+  "jp": "効果を受けた場合、メインパイロットの気力が５だけ減少します。",
+  "en": "When hit, the main pilot's morale drops by 5.",
+  "slot": 90
+ },
+ "0x01590B": {
+  "jp": "効果を受けた場合、メインパイロットの気力が１０だけ減少します。",
+  "en": "When hit, the main pilot's morale drops by 10.",
+  "slot": 93
+ },
+ "0x01596F": {
+  "jp": "効果を受けた場合、メインパイロットの気力が１５だけ減少します。",
+  "en": "When hit, the main pilot's morale drops by 15.",
+  "slot": 93
+ },
+ "0x015A5F": {
+  "jp": "トの現ＳＰ値を上昇させます。",
+  "en": "raises the pilot's current SP.",
+  "slot": 42
+ },
+ "0x015B19": {
+  "jp": "ンパイロットの現ＳＰ値を上昇させます。",
+  "en": "raises the main pilot's current SP.",
+  "slot": 57
+ },
+ "0x015BE2": {
+  "jp": "ンパイロットの現ＳＰ値を上昇させます。",
+  "en": "raises the main pilot's current SP.",
+  "slot": 57
+ },
+ "0x015CAB": {
+  "jp": "ンパイロットの現ＳＰ値を上昇させます。",
+  "en": "raises the main pilot's current SP.",
+  "slot": 57
+ },
+ "0x015D74": {
+  "jp": "精神コマンドは全て解除されます。",
+  "en": "all spirit commands are cleared.",
+  "slot": 48
+ },
+ "0x015DAB": {
+  "jp": "攻撃対象のバリア系特殊能力を発生させません。",
+  "en": "Prevents the target's barrier-type special abilities from activating.",
+  "slot": 66
+ },
+ "0x015DF4": {
+  "jp": "攻撃対象に発生したバリアを貫通します。",
+  "en": "Pierces any barrier the target has generated.",
+  "slot": 57
+ },
+ "0x015E34": {
+  "jp": "攻撃対象のバリア系特殊能力を半減させます。",
+  "en": "Halves the target's barrier-type special abilities.",
+  "slot": 63
+ },
+ "0x015E7F": {
+  "jp": "\u0019\u0001\n部隊内の機体、もしくはメインパイロットが「格闘↑」のアビリティを、合わせて３つ以上装備し",
+  "en": "\u0019\u0001\nIf the unit or its main pilot in the squad has 3 or more Melee Up abilities equipped,",
+  "slot": 135
+ },
+ "0x015F07": {
+  "jp": "ている場合、自ユニットの格闘武器の与えるダメージが５％上昇します。アビリティの装備はイン",
+  "en": "the unit's melee weapon damage rises by 5%. Abilities are equipped from the",
+  "slot": 132
+ },
+ "0x015F8C": {
+  "jp": "ターミッションの「アビリティ」コマンドで行います。",
+  "en": "Ability command on the intermission screen.",
+  "slot": 75
+ },
+ "0x015FE3": {
+  "jp": "\u0019\u0001\n部隊内の機体、もしくはメインパイロットが「射撃↑」のアビリティを、合わせて３つ以上装備し",
+  "en": "\u0019\u0001\nIf the unit or its main pilot in the squad has 3 or more Ranged Up abilities equipped,",
+  "slot": 135
+ },
+ "0x01606B": {
+  "jp": "ている場合、自ユニットの射撃武器の与えるダメージが５％上昇します。アビリティの装備はイン",
+  "en": "the unit's ranged weapon damage rises by 5%. Abilities are equipped from the",
+  "slot": 132
+ },
+ "0x0160F0": {
+  "jp": "ターミッションの「アビリティ」コマンドで行います。",
+  "en": "Ability command on the intermission screen.",
+  "slot": 75
+ },
+ "0x016147": {
+  "jp": "\u0017\u0001\r部隊内の機体、もしくはメインパイロットが「反撃↑」のアビリティを、合わせて３つ以上装備し",
+  "en": "\u0017\u0001\rIf the unit or its main pilot in the squad has 3 or more Counter Up abilities equipped,",
+  "slot": 135
+ },
+ "0x0161CF": {
+  "jp": "ている場合、自ユニットの反撃時の与えるダメージが５％上昇します。アビリティの装備はインター",
+  "en": "the unit's counter damage rises by 5%. Abilities are equipped from the",
+  "slot": 135
+ },
+ "0x016257": {
+  "jp": "ミッションの「アビリティ」コマンドで行います。",
+  "en": "Ability command on the intermission screen.",
+  "slot": 69
+ },
+ "0x0162A8": {
+  "jp": "\u001c\u0001\n部隊内の機体、もしくはメインパイロットが「ビーム↑」のアビリティを、合わせて３つ以上装備",
+  "en": "\u001c\u0001\nIf the unit or its main pilot in the squad has 3 or more Beam Up abilities equipped,",
+  "slot": 135
+ },
+ "0x016330": {
+  "jp": "している場合、自ユニットのビーム系武器の与えるダメージが５％上昇します。アビリティの装備",
+  "en": "the unit's beam weapon damage rises by 5%. Abilities are",
+  "slot": 132
+ },
+ "0x0163B5": {
+  "jp": "はインターミッションの「アビリティ」コマンドで行います。",
+  "en": "equipped from the Ability command on the intermission screen.",
+  "slot": 84
+ },
+ "0x016415": {
+  "jp": "\u001a\u0001\n部隊内の機体、もしくはメインパイロットが「実弾↑」のアビリティを、合わせて３つ以上装備し",
+  "en": "\u001a\u0001\nIf the unit or its main pilot in the squad has 3 or more Ammo Up abilities equipped,",
+  "slot": 135
+ },
+ "0x01649D": {
+  "jp": "ている場合、自ユニットの弾数系武器の与えるダメージが５％上昇します。アビリティの装備はイ",
+  "en": "the unit's ammo weapon damage rises by 5%. Abilities are equipped from",
+  "slot": 132
+ },
+ "0x016522": {
+  "jp": "ンターミッションの「アビリティ」コマンドで行います。",
+  "en": "the Ability command on the intermission screen.",
+  "slot": 78
+ },
+ "0x01657C": {
+  "jp": "\u001a\u0001\n部隊内の機体、もしくはメインパイロットが「念動↑」のアビリティを、合わせて３つ以上装備し",
+  "en": "\u001a\u0001\nIf the unit or its main pilot in the squad has 3 or more Psychic Up abilities equipped,",
+  "slot": 135
+ },
+ "0x016604": {
+  "jp": "ている場合、自ユニットの念動系武器の与えるダメージが５％上昇します。アビリティの装備はイ",
+  "en": "the unit's psychic weapon damage rises by 5%. Abilities are equipped from",
+  "slot": 132
+ },
+ "0x016689": {
+  "jp": "ンターミッションの「アビリティ」コマンドで行います。",
+  "en": "the Ability command on the intermission screen.",
+  "slot": 78
+ },
+ "0x0166E3": {
+  "jp": "\u001a\u0001\n部隊内の機体、もしくはメインパイロットが「援攻↑」のアビリティを、合わせて３つ以上装備し",
+  "en": "\u001a\u0001\nIf the unit or its main pilot in the squad has 3 or more Support Atk Up abilities equipped,",
+  "slot": 135
+ },
+ "0x01676B": {
+  "jp": "ている場合、自ユニットの援護攻撃時の与えるダメージが５％上昇します。アビリティの装備はイ",
+  "en": "the unit's support attack damage rises by 5%. Abilities are equipped from",
+  "slot": 132
+ },
+ "0x0167F0": {
+  "jp": "ンターミッションの「アビリティ」コマンドで行います。",
+  "en": "the Ability command on the intermission screen.",
+  "slot": 78
+ },
+ "0x01684A": {
+  "jp": "\u0013\u0001\r部隊内の機体、もしくはメインパイロットが「装甲↑」のアビリティを、合わせて３つ以上装備し",
+  "en": "\u0013\u0001\rIf the unit or its main pilot in the squad has 3 or more Armor Up abilities equipped,",
+  "slot": 135
+ },
+ "0x0168D2": {
+  "jp": "ている場合、自ユニットの受けるダメージが５％減少します。アビリティの装備はインターミッショ",
+  "en": "the unit takes 5% less damage. Abilities are equipped from the intermission",
+  "slot": 135
+ },
+ "0x01695A": {
+  "jp": "ンの「アビリティ」コマンドで行います。",
+  "en": "screen's Ability command.",
+  "slot": 57
+ },
+ "0x01699F": {
+  "jp": "\u001a\u0001\n部隊内の機体、もしくはメインパイロットが「援防↑」のアビリティを、合わせて３つ以上装備し",
+  "en": "\u001a\u0001\nIf the unit or its main pilot in the squad has 3 or more Support Def Up abilities equipped,",
+  "slot": 135
+ },
+ "0x016A27": {
+  "jp": "ている場合、自ユニットの援護防御時の受けるダメージが５％減少します。アビリティの装備はイ",
+  "en": "the unit takes 5% less damage on support defense. Abilities are equipped from",
+  "slot": 132
+ },
+ "0x016AAC": {
+  "jp": "ンターミッションの「アビリティ」コマンドで行います。",
+  "en": "the Ability command on the intermission screen.",
+  "slot": 78
+ },
+ "0x016B06": {
+  "jp": "\u0011\u0001\n部隊内の機体、もしくはメインパイロットが「命中↑」のアビリティを、合わせて３つ以上装備し",
+  "en": "\u0011\u0001\nWhen units and/or main pilots in the squad have 3 or more \"Hit Up\" abilities",
+  "slot": 135
+ },
+ "0x016B8E": {
+  "jp": "ている場合、自ユニットの命中率が５だけ上昇します。アビリティの装備はインターミッションの",
+  "en": "equipped in total, this unit's accuracy rises by 5. Equip abilities via the Intermission's",
+  "slot": 132
+ },
+ "0x016C13": {
+  "jp": "「アビリティ」コマンドで行います。",
+  "en": "\"Ability\" command.",
+  "slot": 51
+ },
+ "0x016C52": {
+  "jp": "\u0011\u0001\n部隊内の機体、もしくはメインパイロットが「回避↑」のアビリティを、合わせて３つ以上装備し",
+  "en": "\u0011\u0001\nWhen units and/or main pilots in the squad have 3 or more \"Evade Up\" abilities equipped",
+  "slot": 135
+ },
+ "0x016CDA": {
+  "jp": "ている場合、自ユニットの回避率が５だけ上昇します。アビリティの装備はインターミッションの",
+  "en": "in total, this unit's evasion rises by 5. Equip abilities via the Intermission's",
+  "slot": 132
+ },
+ "0x016D5F": {
+  "jp": "「アビリティ」コマンドで行います。",
+  "en": "\"Ability\" command.",
+  "slot": 51
+ },
+ "0x016D9E": {
+  "jp": "\u0019\u0001\n部隊内の機体、もしくはメインパイロットが「ＣＲＴ↑」のアビリティを、合わせて３つ以上装備",
+  "en": "\u0019\u0001\nWhen units and/or main pilots in the squad have 3 or more \"CRT Up\" abilities equipped",
+  "slot": 135
+ },
+ "0x016E26": {
+  "jp": "している場合、自ユニットのクリティカル発生率が１０だけ上昇します。アビリティの装備はイン",
+  "en": "in total, this unit's critical rate rises by 10. Equip abilities in the",
+  "slot": 132
+ },
+ "0x016EAB": {
+  "jp": "ターミッションの「アビリティ」コマンドで行います。",
+  "en": "Intermission's \"Ability\" command.",
+  "slot": 75
+ },
+ "0x016F02": {
+  "jp": "\u0019\u0001\n部隊内の機体、もしくはメインパイロットが「経験値＋」のアビリティを、合わせて３つ以上装備",
+  "en": "\u0019\u0001\nWhen units and/or main pilots in the squad have 3 or more \"EXP+\" abilities equipped",
+  "slot": 135
+ },
+ "0x016F8A": {
+  "jp": "している場合、自ユニットの、戦闘での獲得経験値が１０％上昇します。アビリティの装備はイン",
+  "en": "in total, EXP gained in battle by this unit rises by 10%. Equip abilities in the",
+  "slot": 132
+ },
+ "0x01700F": {
+  "jp": "ターミッションの「アビリティ」コマンドで行います。",
+  "en": "Intermission's \"Ability\" command.",
+  "slot": 75
+ },
+ "0x017066": {
+  "jp": "\u0017\u0001\n部隊内の機体、もしくはメインパイロットが「資金＋」のアビリティを、合わせて３つ以上装備し",
+  "en": "\u0017\u0001\nWhen units and/or main pilots in the squad have 3 or more \"Cash+\" abilities equipped",
+  "slot": 135
+ },
+ "0x0170EE": {
+  "jp": "ている場合、自ユニットの、戦闘での獲得資金が１０％上昇します。アビリティの装備はインター",
+  "en": "in total, cash gained in battle by this unit rises by 10%. Equip abilities via the",
+  "slot": 132
+ },
+ "0x017173": {
+  "jp": "ミッションの「アビリティ」コマンドで行います。",
+  "en": "Intermission's \"Ability\" command.",
+  "slot": 69
+ },
+ "0x0171C4": {
+  "jp": "\u0015\u0001\n部隊内の機体、もしくはメインパイロットが「修理＋」のアビリティを、合わせて３つ以上装備し",
+  "en": "\u0015\u0001\nWhen units and/or main pilots in the squad have 3 or more \"Repair+\" abilities equipped",
+  "slot": 135
+ },
+ "0x01724C": {
+  "jp": "ている場合、自ユニットの修理時の回復率が１０％上昇します。アビリティの装備はインターミッ",
+  "en": "in total, this unit's repair recovery rate rises by 10%. Equip abilities in the",
+  "slot": 132
+ },
+ "0x0172D1": {
+  "jp": "ションの「アビリティ」コマンドで行います。",
+  "en": "Intermission's \"Ability\" command.",
+  "slot": 63
+ },
+ "0x01731C": {
+  "jp": "\u0011\u0001\n部隊内の機体、もしくはメインパイロットが「ＨＰ＋」のアビリティを、合わせて３つ以上装備し",
+  "en": "\u0011\u0001\nWhen units and/or main pilots in the squad have 3 or more \"HP+\" abilities equipped",
+  "slot": 135
+ },
+ "0x0173A4": {
+  "jp": "ている場合、自ユニットの最大ＨＰが５％上昇します。アビリティの装備はインターミッションの",
+  "en": "in total, this unit's max HP rises by 5%. Equip abilities via the Intermission's",
+  "slot": 132
+ },
+ "0x017429": {
+  "jp": "「アビリティ」コマンドで行います。",
+  "en": "\"Ability\" command.",
+  "slot": 51
+ },
+ "0x017468": {
+  "jp": "\u0011\u0001\n部隊内の機体、もしくはメインパイロットが「ＥＮ＋」のアビリティを、合わせて３つ以上装備し",
+  "en": "\u0011\u0001\nWhen units and/or main pilots in the squad have 3 or more \"EN+\" abilities equipped",
+  "slot": 135
+ },
+ "0x0174F0": {
+  "jp": "ている場合、自ユニットの最大ＥＮが５％上昇します。アビリティの装備はインターミッションの",
+  "en": "in total, this unit's max EN rises by 5%. Equip abilities via the Intermission's",
+  "slot": 132
+ },
+ "0x017575": {
+  "jp": "「アビリティ」コマンドで行います。",
+  "en": "\"Ability\" command.",
+  "slot": 51
+ },
+ "0x0175B4": {
+  "jp": "\u0012\u0001\n部隊内の機体、もしくはメインパイロットが「移動力＋」のアビリティを、合わせて３つ以上装備",
+  "en": "\u0012\u0001\nWhen units and/or main pilots in the squad have 3 or more \"Move+\" abilities equipped",
+  "slot": 135
+ },
+ "0x01763C": {
+  "jp": "している場合、自ユニットの移動力が１だけ上昇します。アビリティの装備はインターミッション",
+  "en": "in total, this unit's movement rises by 1. Equip abilities in the Intermission's",
+  "slot": 132
+ },
+ "0x0176C1": {
+  "jp": "の「アビリティ」コマンドで行います。",
+  "en": "\"Ability\" command.",
+  "slot": 54
+ },
+ "0x017703": {
+  "jp": "\u0017\u0001\r部隊内の機体、もしくはメインパイロットが「ブロック」のアビリティを、合わせて３つ以上装備",
+  "en": "\u0017\u0001\rWhen units and/or main pilots in the squad have 3 or more \"Block\" abilities equipped",
+  "slot": 135
+ },
+ "0x01778B": {
+  "jp": "している場合、自ユニットに「フルブロック」の特殊能力を与えます。アビリティの装備はインター",
+  "en": "in total, this unit gains the \"Full Block\" special ability. Equip abilities via the",
+  "slot": 135
+ },
+ "0x017813": {
+  "jp": "ミッションの「アビリティ」コマンドで行います。",
+  "en": "Intermission's \"Ability\" command.",
+  "slot": 69
+ },
+ "0x017864": {
+  "jp": "$\u0001\n部隊内の機体、もしくはメインパイロットが「バリア＋」のアビリティを、合わせて３つ以上装備",
+  "en": "$\u0001\nWhen units and/or main pilots in the squad have 3 or more \"Barrier+\" abilities equipped",
+  "slot": 135
+ },
+ "0x0178EC": {
+  "jp": "している場合、自ユニットのバリア系特殊能力が２００上昇します（バリアが無い場合は無効）。",
+  "en": "in total, this unit's barrier abilities rise by 200 (no effect if no barrier).",
+  "slot": 132
+ },
+ "0x017971": {
+  "jp": "アビリティの装備はインターミッションの「アビリティ」コマンドで行います。",
+  "en": "Equip abilities via the Intermission's \"Ability\" command.",
+  "slot": 108
+ },
+ "0x0179E9": {
+  "jp": "\u001f\u0001\n部隊内の機体、もしくはメインパイロットが「射程＋」のアビリティを、合わせて３つ以上装備し",
+  "en": "\u001f\u0001\nWhen units and/or main pilots in the squad have 3 or more \"Range+\" abilities equipped",
+  "slot": 135
+ },
+ "0x017A71": {
+  "jp": "ている場合、自ユニットのマップ兵器、射程１以外の武器の射程が１だけ上昇します。アビリティ",
+  "en": "in total, this unit's weapon range rises by 1 (except MAP and range-1 weapons). Abilities",
+  "slot": 132
+ },
+ "0x017AF6": {
+  "jp": "の装備はインターミッションの「アビリティ」コマンドで行います。",
+  "en": "are equipped via the Intermission's \"Ability\" command.",
+  "slot": 93
+ },
+ "0x017B5F": {
+  "jp": "!\u0001\r自ユニットの格闘武器の与えるダメージが５％上昇します。部隊内の機体、もしくはメインパイロッ",
+  "en": "!\u0001\rDamage dealt by this unit's melee weapons rises by 5%. When units and/or main pilots",
+  "slot": 138
+ },
+ "0x017BEA": {
+  "jp": "トが「格闘↑」のアビリティを、合わせて３つ以上装備している場合、効果が発動します。アビリ",
+  "en": "in the squad have 3 or more \"Melee Up\" abilities equipped, the effect activates. Equip",
+  "slot": 132
+ },
+ "0x017C6F": {
+  "jp": "ティの装備はインターミッションの「アビリティ」コマンドで行います。",
+  "en": "abilities via the Intermission's \"Ability\" command.",
+  "slot": 99
+ },
+ "0x017CDE": {
+  "jp": "!\u0001\r自ユニットの射撃武器の与えるダメージが５％上昇します。部隊内の機体、もしくはメインパイロッ",
+  "en": "!\u0001\rDamage dealt by this unit's ranged weapons rises by 5%. When units and/or main pilots",
+  "slot": 138
+ },
+ "0x017D69": {
+  "jp": "トが「射撃↑」のアビリティを、合わせて３つ以上装備している場合、効果が発動します。アビリ",
+  "en": "in the squad have 3 or more \"Range Up\" abilities equipped, the effect activates. Equip",
+  "slot": 132
+ },
+ "0x017DEE": {
+  "jp": "ティの装備はインターミッションの「アビリティ」コマンドで行います。",
+  "en": "abilities via the Intermission's \"Ability\" command.",
+  "slot": 99
+ },
+ "0x017E5D": {
+  "jp": "!\u0001\n自ユニットの反撃時の与えるダメージが５％上昇します。部隊内の機体、もしくはメインパイロッ",
+  "en": "!\u0001\nDamage dealt by this unit on counter rises by 5%. When units and/or main pilots",
+  "slot": 135
+ },
+ "0x017EE5": {
+  "jp": "トが「反撃↑」のアビリティを、合わせて３つ以上装備している場合、効果が発動します。アビリ",
+  "en": "in the squad have 3 or more \"Counter Up\" abilities equipped, the effect activates. Equip",
+  "slot": 132
+ },
+ "0x017F6A": {
+  "jp": "ティの装備はインターミッションの「アビリティ」コマンドで行います。",
+  "en": "abilities via the Intermission's \"Ability\" command.",
+  "slot": 99
+ },
+ "0x017FD9": {
+  "jp": "$\u0001\r自ユニットのビーム系武器の与えるダメージが５％上昇します。部隊内の機体、もしくはメインパ",
+  "en": "$\u0001\rDamage dealt by this unit's beam weapons rises by 5%. When units and/or main pilots",
+  "slot": 135
+ },
+ "0x018061": {
+  "jp": "イロットが「ビーム↑」のアビリティを、合わせて３つ以上装備している場合、効果が発動します。",
+  "en": "in the squad have 3 or more \"Beam Up\" abilities equipped, the effect activates.",
+  "slot": 135
+ },
+ "0x0180E9": {
+  "jp": "アビリティの装備はインターミッションの「アビリティ」コマンドで行います。",
+  "en": "Equip abilities via the Intermission's \"Ability\" command.",
+  "slot": 108
+ },
+ "0x018161": {
+  "jp": "#\u0001\n自ユニットの弾数系武器の与えるダメージが５％上昇します。部隊内の機体、もしくはメインパイ",
+  "en": "#\u0001\nDamage dealt by this unit's ammo-based weapons rises by 5%. When units and/or main",
+  "slot": 135
+ },
+ "0x0181E9": {
+  "jp": "ロットが「実弾↑」のアビリティを、合わせて３つ以上装備している場合、効果が発動します。ア",
+  "en": "pilots have 3 or more \"Ammo Up\" abilities equipped, the effect activates. Equip",
+  "slot": 132
+ },
+ "0x01826E": {
+  "jp": "ビリティの装備はインターミッションの「アビリティ」コマンドで行います。",
+  "en": "abilities via the Intermission's \"Ability\" command.",
+  "slot": 105
+ },
+ "0x0182E3": {
+  "jp": "#\u0001\n自ユニットの念動系武器の与えるダメージが５％上昇します。部隊内の機体、もしくはメインパイ",
+  "en": "#\u0001\nDamage dealt by this unit's psychodriver weapons rises by 5%. When units and/or main",
+  "slot": 135
+ },
+ "0x01836B": {
+  "jp": "ロットが「念動↑」のアビリティを、合わせて３つ以上装備している場合、効果が発動します。ア",
+  "en": "pilots have 3 or more \"Psychic Up\" abilities equipped, the effect activates. Equip",
+  "slot": 132
+ },
+ "0x0183F0": {
+  "jp": "ビリティの装備はインターミッションの「アビリティ」コマンドで行います。",
+  "en": "abilities via the Intermission's \"Ability\" command.",
+  "slot": 105
+ },
+ "0x018465": {
+  "jp": "#\u0001\n自ユニットの援護攻撃時の与えるダメージが５％上昇します。部隊内の機体、もしくはメインパイ",
+  "en": "#\u0001\nDamage dealt by this unit on support attack rises by 5%. When units and/or main",
+  "slot": 135
+ },
+ "0x0184ED": {
+  "jp": "ロットが「援攻↑」のアビリティを、合わせて３つ以上装備している場合、効果が発動します。ア",
+  "en": "pilots have 3 or more \"Supp Atk Up\" abilities equipped, the effect activates. Equip",
+  "slot": 132
+ },
+ "0x018572": {
+  "jp": "ビリティの装備はインターミッションの「アビリティ」コマンドで行います。",
+  "en": "abilities via the Intermission's \"Ability\" command.",
+  "slot": 105
+ },
+ "0x0185E7": {
+  "jp": "\u001d\u0001\n自ユニットの受けるダメージが５％減少します。部隊内の機体、もしくはメインパイロットが「装",
+  "en": "\u001d\u0001\nDamage taken by this unit drops by 5%. When units and/or main pilots in the squad have \"Armor",
+  "slot": 135
+ },
+ "0x01866F": {
+  "jp": "甲↑」のアビリティを、合わせて３つ以上装備している場合、効果が発動します。アビリティの装",
+  "en": "Up\" abilities equipped, 3 or more in total, the effect activates. Ability",
+  "slot": 132
+ },
+ "0x0186F4": {
+  "jp": "備はインターミッションの「アビリティ」コマンドで行います。",
+  "en": "equipping is done via the Intermission's \"Ability\" command.",
+  "slot": 87
+ },
+ "0x018757": {
+  "jp": "#\u0001\n自ユニットの援護防御時の受けるダメージが５％減少します。部隊内の機体、もしくはメインパイ",
+  "en": "#\u0001\nDamage taken by this unit on support defend drops by 5%. When units and/or main",
+  "slot": 135
+ },
+ "0x0187DF": {
+  "jp": "ロットが「援防↑」のアビリティを、合わせて３つ以上装備している場合、効果が発動します。ア",
+  "en": "pilots have 3 or more \"Supp Def Up\" abilities equipped, the effect activates. Equip",
+  "slot": 132
+ },
+ "0x018864": {
+  "jp": "ビリティの装備はインターミッションの「アビリティ」コマンドで行います。",
+  "en": "abilities via the Intermission's \"Ability\" command.",
+  "slot": 105
+ },
+ "0x0188D9": {
+  "jp": "\u001a\u0001\n自ユニットの命中率が５だけ上昇します。部隊内の機体、もしくはメインパイロットが「命中↑」",
+  "en": "\u001a\u0001\nThis unit's accuracy rises by 5. When units and/or main pilots in the squad have \"Hit Up\"",
+  "slot": 135
+ },
+ "0x018961": {
+  "jp": "のアビリティを、合わせて３つ以上装備している場合、効果が発動します。アビリティの装備はイ",
+  "en": "abilities equipped, 3 or more in total, the effect activates. Equipping abilities is done",
+  "slot": 132
+ },
+ "0x0189E6": {
+  "jp": "ンターミッションの「アビリティ」コマンドで行います。",
+  "en": "in the Intermission's \"Ability\" command.",
+  "slot": 78
+ },
+ "0x018A40": {
+  "jp": "\u001a\u0001\n自ユニットの回避率が５だけ上昇します。部隊内の機体、もしくはメインパイロットが「回避↑」",
+  "en": "\u001a\u0001\nThis unit's evasion rises by 5. When units and/or main pilots in the squad have \"Evade Up\"",
+  "slot": 135
+ },
+ "0x018AC8": {
+  "jp": "のアビリティを、合わせて３つ以上装備している場合、効果が発動します。アビリティの装備はイ",
+  "en": "abilities equipped, 3 or more in total, the effect activates. Equipping abilities is done",
+  "slot": 132
+ },
+ "0x018B4D": {
+  "jp": "ンターミッションの「アビリティ」コマンドで行います。",
+  "en": "in the Intermission's \"Ability\" command.",
+  "slot": 78
+ },
+ "0x018BA7": {
+  "jp": "\"\u0001\n自ユニットのクリティカル発生率が１０だけ上昇します。部隊内の機体、もしくはメインパイロッ",
+  "en": "\"\u0001\nThis unit's critical rate rises by 10. When units and/or main pilots",
+  "slot": 135
+ },
+ "0x018C2F": {
+  "jp": "トが「ＣＲＴ↑」のアビリティを、合わせて３つ以上装備している場合、効果が発動します。アビ",
+  "en": "have 3 or more \"CRT Up\" abilities equipped, the effect activates. Equip",
+  "slot": 132
+ },
+ "0x018CB4": {
+  "jp": "リティの装備はインターミッションの「アビリティ」コマンドで行います。",
+  "en": "abilities via the Intermission's \"Ability\" command.",
+  "slot": 102
+ },
+ "0x018D26": {
+  "jp": "\"\u0001\n自ユニットの、戦闘での獲得経験値が１０％上昇します。部隊内の機体、もしくはメインパイロッ",
+  "en": "\"\u0001\nEXP gained in battle by this unit rises by 10%. When units and/or main pilots",
+  "slot": 135
+ },
+ "0x018DAE": {
+  "jp": "トが「経験値＋」のアビリティを、合わせて３つ以上装備している場合、効果が発動します。アビ",
+  "en": "have 3 or more \"EXP+\" abilities equipped, the effect activates. Equip",
+  "slot": 132
+ },
+ "0x018E33": {
+  "jp": "リティの装備はインターミッションの「アビリティ」コマンドで行います。",
+  "en": "abilities via the Intermission's \"Ability\" command.",
+  "slot": 102
+ },
+ "0x018EA5": {
+  "jp": "\u001f\u0001\r自ユニットの、戦闘での獲得資金が１０％上昇します。部隊内の機体、もしくはメインパイロット",
+  "en": "\u001f\u0001\rCash gained in battle by this unit rises by 10%. When units and/or main pilots",
+  "slot": 135
+ },
+ "0x018F2D": {
+  "jp": "が「資金＋」のアビリティを、合わせて３つ以上装備している場合、効果が発動します。アビリティ",
+  "en": "have 3 or more \"Cash+\" abilities equipped, the effect activates. Abilities",
+  "slot": 135
+ },
+ "0x018FB5": {
+  "jp": "の装備はインターミッションの「アビリティ」コマンドで行います。",
+  "en": "are equipped via the Intermission's \"Ability\" command.",
+  "slot": 93
+ },
+ "0x01901E": {
+  "jp": "\u001f\u0001\u0007自ユニットの修理時の回復率が１０％上昇します。部隊内の機体、もしくはメインパイロットが",
+  "en": "\u001f\u0001\u0007This unit's repair recovery rate rises by 10%. When units and/or main pilots have",
+  "slot": 132
+ },
+ "0x0190A3": {
+  "jp": "「修理＋」のアビリティを、合わせて３つ以上装備している場合、効果が発動します。アビリティ",
+  "en": "3 or more \"Repair+\" abilities equipped, the effect activates. Abilities",
+  "slot": 132
+ },
+ "0x019128": {
+  "jp": "の装備はインターミッションの「アビリティ」コマンドで行います。",
+  "en": "are equipped via the Intermission's \"Ability\" command.",
+  "slot": 93
+ },
+ "0x019191": {
+  "jp": "\u001a\u0001\n自ユニットの最大ＨＰが５％上昇します。部隊内の機体、もしくはメインパイロットが「ＨＰ＋」",
+  "en": "\u001a\u0001\nThis unit's max HP rises by 5%. When units and/or main pilots in the squad have \"HP+\"",
+  "slot": 135
+ },
+ "0x019219": {
+  "jp": "のアビリティを、合わせて３つ以上装備している場合、効果が発動します。アビリティの装備はイ",
+  "en": "abilities equipped, 3 or more in total, the effect activates. Equipping abilities is done",
+  "slot": 132
+ },
+ "0x01929E": {
+  "jp": "ンターミッションの「アビリティ」コマンドで行います。",
+  "en": "in the Intermission's \"Ability\" command.",
+  "slot": 78
+ },
+ "0x0192F8": {
+  "jp": "\u001a\u0001\n自ユニットの最大ＥＮが５％上昇します。部隊内の機体、もしくはメインパイロットが「ＥＮ＋」",
+  "en": "\u001a\u0001\nThis unit's max EN rises by 5%. When units and/or main pilots in the squad have \"EN+\"",
+  "slot": 135
+ },
+ "0x019380": {
+  "jp": "のアビリティを、合わせて３つ以上装備している場合、効果が発動します。アビリティの装備はイ",
+  "en": "abilities equipped, 3 or more in total, the effect activates. Equipping abilities is done",
+  "slot": 132
+ },
+ "0x019405": {
+  "jp": "ンターミッションの「アビリティ」コマンドで行います。",
+  "en": "in the Intermission's \"Ability\" command.",
+  "slot": 78
+ },
+ "0x01945F": {
+  "jp": "\u001a\u0001\r自ユニットの移動力が１だけ上昇します。部隊内の機体、もしくはメインパイロットが「移動力＋」",
+  "en": "\u001a\u0001\rThis unit's movement rises by 1. When units and/or main pilots in the squad have \"Move+\"",
+  "slot": 138
+ },
+ "0x0194EA": {
+  "jp": "のアビリティを、合わせて３つ以上装備している場合、効果が発動します。アビリティの装備はイ",
+  "en": "abilities equipped, 3 or more in total, the effect activates. Equipping abilities is done",
+  "slot": 132
+ },
+ "0x01956F": {
+  "jp": "ンターミッションの「アビリティ」コマンドで行います。",
+  "en": "in the Intermission's \"Ability\" command.",
+  "slot": 78
+ },
+ "0x0195C9": {
+  "jp": "!\u0001\n自ユニットに「フルブロック」の特殊能力を与えます。部隊内の機体、もしくはメインパイロット",
+  "en": "!\u0001\nThis unit gains the \"Full Block\" special ability. When units and/or main pilots",
+  "slot": 135
+ },
+ "0x019651": {
+  "jp": "が「ブロック」のアビリティを、合わせて３つ以上装備している場合、効果が発動します。アビリ",
+  "en": "have 3 or more \"Block\" abilities equipped, the effect activates. Equip",
+  "slot": 132
+ },
+ "0x0196D6": {
+  "jp": "ティの装備はインターミッションの「アビリティ」コマンドで行います。",
+  "en": "abilities via the Intermission's \"Ability\" command.",
+  "slot": 99
+ },
+ "0x019745": {
+  "jp": "-\u0001\n自ユニットのバリア系特殊能力が２００上昇します（バリアが無い場合は無効）。部隊内の機体、",
+  "en": "-\u0001\nThis unit's barrier abilities rise by 200 (no effect if no barrier). When units,",
+  "slot": 135
+ },
+ "0x0197CD": {
+  "jp": "もしくはメインパイロットが「バリア＋」のアビリティを、合わせて３つ以上装備している場合、",
+  "en": "or main pilots, have 3 or more \"Barrier+\" abilities equipped in total,",
+  "slot": 132
+ },
+ "0x019852": {
+  "jp": "効果が発動します。アビリティの装備はインターミッションの「アビリティ」コマンドで行います。",
+  "en": "the effect activates. Equip abilities via the Intermission's \"Ability\" command.",
+  "slot": 135
+ },
+ "0x0198E5": {
+  "jp": "(\u0001\n自ユニットのマップ兵器、射程１以外の武器の射程が１だけ上昇します。部隊内の機体、もしくは",
+  "en": "(\u0001\nThis unit's weapon range rises by 1 (except MAP and range-1 weapons). When units, or",
+  "slot": 135
+ },
+ "0x01996D": {
+  "jp": "メインパイロットが「射程＋」のアビリティを、合わせて３つ以上装備している場合、効果が発動",
+  "en": "main pilots, have 3 or more \"Range+\" abilities equipped, the effect",
+  "slot": 132
+ },
+ "0x0199F2": {
+  "jp": "します。アビリティの装備はインターミッションの「アビリティ」コマンドで行います。",
+  "en": "activates. Equip abilities via the Intermission's \"Ability\" command.",
+  "slot": 120
+ },
+ "0x019A71": {
+  "jp": "スキルレベルが高くなるほど、戦闘での命中率・回避率・クリティカル発生率が上昇します。",
+  "en": "The higher the skill level, the more accuracy, evasion, and critical rate rise in battle.",
+  "slot": 126
+ },
+ "0x019AF6": {
+  "jp": "強化パーツ変更前と変更後の、機体が装備している武器の最大射程を表します。",
+  "en": "Shows the max range of the unit's equipped weapons before and after the parts change.",
+  "slot": 108
+ },
+ "0x019BF2": {
+  "jp": "合の能力値を表します。",
+  "en": "Shows the stats in that case.",
+  "slot": 33
+ },
+ "0x019C1A": {
+  "jp": "その強化パーツを売却した場合、得られる資金を表します。",
+  "en": "Shows the cash gained if this upgrade part is sold.",
+  "slot": 81
+ },
+ "0x019C72": {
+  "jp": "援護攻撃を行わない設定になっていることを表します。",
+  "en": "Indicates that support attack is set to not be performed.",
+  "slot": 75
+ },
+ "0x019CC4": {
+  "jp": "再攻撃を行わない設定になっていることを表します。",
+  "en": "Indicates that re-attack is set to not be performed.",
+  "slot": 72
+ },
+ "0x019D13": {
+  "jp": "援護防御を行わない設定になっていることを表します。",
+  "en": "Indicates that support defend is set to not be performed.",
+  "slot": 75
+ },
+ "0x019D65": {
+  "jp": "マップ兵器による攻撃を行っていることを表します。",
+  "en": "Indicates that a MAP weapon attack is being performed.",
+  "slot": 72
+ },
+ "0x019DBD": {
+  "jp": "/\u00010武器の属性を表します。　",
+  "en": "/\u00010Shows the weapon's attributes.　",
+  "slot": 39
+ },
+ "0x019DE5": {
+  "jp": "<I=37><S=-76><I=36><S=52>…ステータス異常やバリア貫通能力など、特殊効果を発生させる武器。　",
+  "en": "<I=37><S=-76><I=36><S=52>...Weapon causing special effects like status ailments or barrier piercing.　",
+  "slot": 124
+ },
+ "0x019E62": {
+  "jp": "<I=37><S=-30><I=38><S=6>…「ビームコート」など特定のバリア系特殊能力でダメージが減少するビーム兵器。　",
+  "en": "<I=37><S=-30><I=38><S=6>...Beam weapon whose damage is cut by barriers like \"Beam Coat.\"　",
+  "slot": 141
+ },
+ "0x019EF0": {
+  "jp": "<I=37><S=-29><I=106><S=5>…「ジャマー」で無効化されるミサイル系武器。",
+  "en": "<I=37><S=-29><I=106><S=5>...Missile-type weapon nullified by \"Jammer.\"",
+  "slot": 91
+ },
+ "0x019F52": {
+  "jp": "武器の現在の弾数を表します。現弾数が０になった場合、その武器は使用できません。",
+  "en": "Shows the weapon's current ammo. When ammo hits 0, that weapon cannot be used.",
+  "slot": 117
+ },
+ "0x019FCE": {
+  "jp": "武器を使用した場合、消費するエネルギーを表します。",
+  "en": "Shows the energy consumed when the weapon is used.",
+  "slot": 75
+ },
+ "0x01A025": {
+  "jp": "\f\u0001;検索項目の最低１つに当てはまり、かつ当てはまった検索項目の検索の優先が「ＯＮ」場合、表示",
+  "en": "\f\u0001;Shown if at least one search item matches and the matched item's search priority is \"ON.\"",
+  "slot": 135
+ },
+ "0x01A0AD": {
+  "jp": "されます。一覧のソートの順番では<I=137>が表示されている行の優先が高くなります。<W=32><H=32><S=-4><Y=-3><I=47></Y><S=-4></H></W>で検索内容を",
+  "en": "In the list sort order, rows showing <I=137> are given higher priority. Use <W=32><H=32><S=-4><Y=-3><I=47></Y><S=-4></H></W> to change",
+  "slot": 181
+ },
+ "0x01A163": {
+  "jp": "変更することができます。",
+  "en": "the search terms.",
+  "slot": 36
+ },
+ "0x01A18E": {
+  "jp": "攻撃を受けた場合、マップ上に存在する、神僕の機体数×１００だけ、最終ダメージが減少します。",
+  "en": "When attacked, final damage drops by 100 times the number of Divine Servant units on the map.",
+  "slot": 134
+ },
+ "0x01A21B": {
+  "jp": "自軍フェイズ開始時に、マップ上に存在する敵対勢力の全パイロットの気力を２下げます。",
+  "en": "At the start of your phase, lowers morale of all enemy pilots on the map by 2.",
+  "slot": 123
+ },
+ "0x01A326": {
+  "jp": "の現ＨＰの５０％分のダメージを与えます。",
+  "en": "Deals damage equal to 50% of its current HP.",
+  "slot": 60
+ },
+ "0x01A369": {
+  "jp": "自軍フェイズ終了時に、接続する周囲８マスに存在する敵対勢力のＥＮを３０下げます。",
+  "en": "At the end of your phase, lowers EN of adjacent enemy units in the 8 surrounding tiles by 30.",
+  "slot": 120
+ },
+ "0x01A3E8": {
+  "jp": "ＨＰが６０％以下の場合、自軍フェイズ開始時に、精神コマンド「覚醒」を使用します。",
+  "en": "When HP is 60% or below, uses the spirit command \"Awaken\" at the start of the player phase.",
+  "slot": 120
+ },
+ "0x01A467": {
+  "jp": "受けたダメージの１％分だけ自機の現ＥＮを回復します。",
+  "en": "Recovers your unit's current EN by 1% of the damage taken.",
+  "slot": 78
+ },
+ "0x01A545": {
+  "jp": "ド「必中」を使用します。",
+  "en": "Uses the command \"Strike\".",
+  "slot": 36
+ },
+ "0x01A5F9": {
+  "jp": "応」を使用します。",
+  "en": "Uses \"Cheer\".",
+  "slot": 27
+ },
+ "0x01A6A4": {
+  "jp": "分の現ＨＰを回復させます。",
+  "en": "Recovers your unit's current HP.",
+  "slot": 39
+ },
+ "0x01A75B": {
+  "jp": "定）を使用します。",
+  "en": "Uses (Strike).",
+  "slot": 27
+ },
+ "0x01A77D": {
+  "jp": "反撃時などに「防御」を行うと、受けるダメージを更に１０％減少させることができます。",
+  "en": "When you Defend on counterattacks, etc., damage taken is reduced by a further 10%.",
+  "slot": 123
+ },
+ "0x01A7FF": {
+  "jp": "マキシマムブレイクを発生させる能力です。",
+  "en": "The ability to trigger a Maximum Break.",
+  "slot": 60
+ },
+ "0x01A842": {
+  "jp": "宇宙系の背景のみが表示されます。",
+  "en": "Only space backgrounds are shown.",
+  "slot": 48
+ },
+ "0x01A879": {
+  "jp": "地下系の背景のみが表示されます。",
+  "en": "Only underground backgrounds are shown.",
+  "slot": 48
+ },
+ "0x01A8B0": {
+  "jp": "背景を空中表示にできるかを表します。",
+  "en": "Shows whether the background can be set to airborne.",
+  "slot": 54
+ },
+ "0x01A8ED": {
+  "jp": "メインパイロットについて、特殊スキル「念動力」を必要とする武器かどうかを表します。",
+  "en": "Shows whether the main pilot needs the special skill \"Psychodriver\" to use this weapon.",
+  "slot": 123
+ },
+ "0x01A96F": {
+  "jp": "自軍フェイズ開始時に、周囲１～３マス内に存在する、敵対勢力のパイロットの気力を３下げます。",
+  "en": "At the start of the player phase, lowers the will of enemy pilots within 1-3 tiles by 3.",
+  "slot": 135
+ },
+ "0x01AA86": {
+  "jp": "を半減します。",
+  "en": "Halves it.",
+  "slot": 21
+ },
+ "0x01AAA7": {
+  "jp": "\u000e\u0001\n気力が１２０以上で攻撃した敵ユニットを壊滅させた場合、行動終了せずもう一度行動できます。",
+  "en": "\u000e\u0001\nWhen you destroy an enemy unit while attacking with will 120 or higher, you can act again without ending your turn.",
+  "slot": 135
+ },
+ "0x01AB2F": {
+  "jp": "１ユニットに対して１フェイズに１度だけ発動可能です（「変形」等でメインパイロットが代わっ",
+  "en": "Can trigger only once per phase per unit (the count does not rise even if the main pilot changes",
+  "slot": 132
+ },
+ "0x01ABB4": {
+  "jp": "ても、発動回数は増えない）。",
+  "en": "via \"Transform\" etc.).",
+  "slot": 42
+ },
+ "0x01ABE5": {
+  "jp": "本タイトルに初めから内蔵されている曲のみが表示されます。",
+  "en": "Only tracks built into this title are shown.",
+  "slot": 84
+ },
+ "0x01AC40": {
+  "jp": "追加コンテンツのみが表示されます。",
+  "en": "Only additional content is shown.",
+  "slot": 51
+ },
+ "0x01AC7A": {
+  "jp": "ハードディスクに保存された音楽コンテンツのみが表示されます。",
+  "en": "Only music content saved on the hard disk is shown.",
+  "slot": 90
+ },
+ "0x01ACDB": {
+  "jp": "音楽コンテンツのアルバム名が表示されます。",
+  "en": "Shows the album name of the music content.",
+  "slot": 63
+ },
+ "0x01ADAA": {
+  "jp": "が再生されます。",
+  "en": "is played.",
+  "slot": 24
+ },
+ "0x01ADC9": {
+  "jp": "置き換えた後のＢＧＭが表示されます。",
+  "en": "Shows the BGM after replacement.",
+  "slot": 54
+ },
+ "0x01AE06": {
+  "jp": "武器の最大弾数を表します。",
+  "en": "Shows the weapon's maximum ammo count.",
+  "slot": 39
+ },
+ "0x01AE34": {
+  "jp": "イベント出撃パイロットの場合は<I=4>が表示されます。",
+  "en": "For event-sortie pilots, <I=4> is shown.",
+  "slot": 74
+ },
+ "0x01AE85": {
+  "jp": "イベント出撃機体の場合は<I=4>が表示されます。",
+  "en": "For event-sortie units, <I=4> is shown.",
+  "slot": 65
+ },
+ "0x01AECD": {
+  "jp": "イベント出撃機体、イベント出撃パイロットの場合は<I=4>が表示されます。",
+  "en": "For event-sortie units and event-sortie pilots, <I=4> is shown.",
+  "slot": 101
+ },
+ "0x01AF39": {
+  "jp": "武器を使用するために必要な、メインパイロットの気力を表します。",
+  "en": "Shows the main pilot's will needed to use the weapon.",
+  "slot": 93
+ },
+ "0x01AF9D": {
+  "jp": "現在のステージについて、ＳＲポイントを獲得しているかどうかが表示されます。",
+  "en": "Shows whether an SR Point has been earned on the current stage.",
+  "slot": 111
+ },
+ "0x01B013": {
+  "jp": "援護攻撃を行えないことを表します。",
+  "en": "Indicates that support attacks cannot be made.",
+  "slot": 51
+ },
+ "0x01B04D": {
+  "jp": "再攻撃を行えないことを表します。",
+  "en": "Indicates that re-attacks cannot be made.",
+  "slot": 48
+ },
+ "0x01B084": {
+  "jp": "出撃する部隊を選択します。出撃可能部隊数は、ステージによって異なります。",
+  "en": "Selects the squads to sortie. The number that can sortie varies by stage.",
+  "slot": 108
+ },
+ "0x01B0F7": {
+  "jp": "機体系の操作を行います。",
+  "en": "Performs unit-related operations.",
+  "slot": 36
+ },
+ "0x01B122": {
+  "jp": "パイロット系の操作を行います。",
+  "en": "Performs pilot-related operations.",
+  "slot": 45
+ },
+ "0x01B156": {
+  "jp": "部隊の編成内容を変更します。",
+  "en": "Changes the squad's formation.",
+  "slot": 42
+ },
+ "0x01B187": {
+  "jp": "マップの状態の確認や、部隊の出撃位置を変更します。",
+  "en": "Checks the map state and changes squad sortie positions.",
+  "slot": 75
+ },
+ "0x01B1D9": {
+  "jp": "現在の戦闘マップの状況を保存し、同じ状況から再現できるようにします。",
+  "en": "Saves the current battle map state so it can be resumed from the same point.",
+  "slot": 102
+ },
+ "0x01B246": {
+  "jp": "機体一覧から能力を表示します。",
+  "en": "Shows abilities from the unit list.",
+  "slot": 45
+ },
+ "0x01B27A": {
+  "jp": "機体性能強化・武器攻撃力アップを行います。",
+  "en": "Upgrades unit performance and weapon attack power.",
+  "slot": 63
+ },
+ "0x01B2C0": {
+  "jp": "機体に強化パーツを装備させます。",
+  "en": "Equips a unit with upgrade parts.",
+  "slot": 48
+ },
+ "0x01B2F7": {
+  "jp": "機体に専用の換装パーツを装備させます。",
+  "en": "Equips a unit with its own swap parts.",
+  "slot": 57
+ },
+ "0x01B337": {
+  "jp": "機体に換装武器を装備させます。",
+  "en": "Equips a unit with swap weapons.",
+  "slot": 45
+ },
+ "0x01B36B": {
+  "jp": "機体・パイロットにアビリティを装備させます。",
+  "en": "Equips units and pilots with abilities.",
+  "slot": 66
+ },
+ "0x01B3B4": {
+  "jp": "パイロット一覧から能力を表示します。",
+  "en": "Shows abilities from the pilot list.",
+  "slot": 54
+ },
+ "0x01B3F1": {
+  "jp": "パイロットの能力強化やスキル修得を行います。",
+  "en": "Enhances pilot abilities and learns skills.",
+  "slot": 66
+ },
+ "0x01B43A": {
+  "jp": "パイロットを別の機体に乗せ換えます。",
+  "en": "Moves a pilot into a different unit.",
+  "slot": 54
+ },
+ "0x01B477": {
+  "jp": "プレイヤーの行動フェイズを終了し、ＣＯＭの行動フェイズに進みます。",
+  "en": "Ends the player's action phase and advances to the COM's action phase.",
+  "slot": 99
+ },
+ "0x01B4E1": {
+  "jp": "指定した精神コマンドや特殊能力などを持つ、パイロットや機体を検索します。",
+  "en": "Searches for pilots or units with the specified spirit commands or special abilities.",
+  "slot": 108
+ },
+ "0x01B554": {
+  "jp": "出撃しているユニットの一覧を表示します。",
+  "en": "Shows a list of the units that have sortied.",
+  "slot": 60
+ },
+ "0x01B597": {
+  "jp": "このステージでの勝敗条件とＳＲポイント獲得条件を表示します。",
+  "en": "Shows this stage's victory/defeat conditions and SR Point conditions.",
+  "slot": 90
+ },
+ "0x01B5F8": {
+  "jp": "このステージでの戦況と獲得物などの累積データを表示します。",
+  "en": "Shows cumulative data such as this stage's battle status and gains.",
+  "slot": 87
+ },
+ "0x01B656": {
+  "jp": "グリッドやＢＧＭの設定など、ゲームの環境設定を行います。",
+  "en": "Configures game settings such as the grid and BGM.",
+  "slot": 84
+ },
+ "0x01B6B1": {
+  "jp": "ツインユニットの２機が、攻撃目標の部隊の、別々の機体を攻撃します。",
+  "en": "The twin unit's two units each attack different units in the target squad.",
+  "slot": 99
+ },
+ "0x01B71B": {
+  "jp": "攻撃を攻撃目標の部隊内の１機に集中させます。",
+  "en": "Concentrates the attack on one unit in the target squad.",
+  "slot": 66
+ },
+ "0x01B764": {
+  "jp": "目標ユニットに対し、隣接する味方ユニットと同時に攻撃を行います。",
+  "en": "Attacks the target unit at the same time as an adjacent allied unit.",
+  "slot": 96
+ },
+ "0x01B7CB": {
+  "jp": "特別な攻撃方法を使用せず、通常の攻撃を行います。",
+  "en": "Makes a normal attack without using a special attack method.",
+  "slot": 72
+ },
+ "0x01B81A": {
+  "jp": "目標ユニットと隣接する複数のユニットに対し、同時に攻撃を行います。",
+  "en": "Attacks the target unit and multiple adjacent units at the same time.",
+  "slot": 99
+ },
+ "0x01B884": {
+  "jp": "隣接する２つのユニットに対し、同時に攻撃を行います。",
+  "en": "Attacks two adjacent units at the same time.",
+  "slot": 78
+ },
+ "0x01B8D9": {
+  "jp": "移動範囲内の別の場所へ移動します。移動後には更に、別のコマンドを使用できる場合があります。",
+  "en": "Moves to another spot within range. After moving, you may be able to use another command.",
+  "slot": 135
+ },
+ "0x01B967": {
+  "jp": "武器を選択し、射程内の敵に対して攻撃を行います。",
+  "en": "Selects a weapon and attacks an enemy within range.",
+  "slot": 72
+ },
+ "0x01B9B6": {
+  "jp": "戦艦に搭載されている部隊を再出撃させます。戦艦の行動終了後も実行可能です。",
+  "en": "Re-sorties squads loaded on a warship. Can be done even after the warship's turn ends.",
+  "slot": 111
+ },
+ "0x01BA2C": {
+  "jp": "地上に移動します。地上に位置する場合、地形による防御、回避率補正を受けることができます。",
+  "en": "Moves to the ground. On the ground, you gain terrain defense and evade bonuses.",
+  "slot": 132
+ },
+ "0x01BAB7": {
+  "jp": "空中に移動します。空中に位置する場合、地形による防御、回避率補正を受けることができません。",
+  "en": "Moves airborne. While airborne, you gain no terrain defense or evade bonuses.",
+  "slot": 135
+ },
+ "0x01BB45": {
+  "jp": "地中に移動します。地中に位置する場合、攻撃を受けなくなりますが、攻撃を行えなくなります。",
+  "en": "Moves underground. While underground, you cannot be attacked but also cannot attack.",
+  "slot": 132
+ },
+ "0x01BBD0": {
+  "jp": "水中に移動します。水中に位置する場合、地形による防御、回避率補正を受けることができます。",
+  "en": "Moves underwater. While underwater, you gain terrain defense and evade bonuses.",
+  "slot": 132
+ },
+ "0x01BC5B": {
+  "jp": "機体を別形態に変形させます。変形後は機体性能などが変化します。",
+  "en": "Transforms the unit into another form. Unit performance changes after transforming.",
+  "slot": 93
+ },
+ "0x01BCBF": {
+  "jp": "換装パーツを外し、別形態へ変形させます。変形後は機体性能などが変化します。",
+  "en": "Removes swap parts and transforms into another form. Unit performance changes after.",
+  "slot": 111
+ },
+ "0x01BD35": {
+  "jp": "１機の機体が複数の機体に分離します。",
+  "en": "One unit separates into multiple units.",
+  "slot": 54
+ },
+ "0x01BD72": {
+  "jp": "装備している消費型の強化パーツを使用します（戦艦は３マス以内のユニットに対しても使用可）。",
+  "en": "Uses an equipped consumable upgrade part (warships can use it on units within 3 tiles too).",
+  "slot": 135
+ },
+ "0x01BE00": {
+  "jp": "射程内に位置する部隊のＨＰを回復させます。回復量はパイロットのＬｖに比例して上昇します。",
+  "en": "Recovers the HP of a squad within range. The amount rises with the pilot's Lv.",
+  "slot": 132
+ },
+ "0x01BE8B": {
+  "jp": "射程内に位置する機体のＥＮ・弾数値を全回復させます。対象の機体は気力が１０下がります。",
+  "en": "Fully recovers a unit's EN and ammo within range. The target's will drops by 10.",
+  "slot": 129
+ },
+ "0x01BF13": {
+  "jp": "ツインユニットのメイン側の機体を変更します。",
+  "en": "Changes the main unit of a twin unit.",
+  "slot": 66
+ },
+ "0x01BF5C": {
+  "jp": "ステータスウィンドウを表示します。",
+  "en": "Shows the status window.",
+  "slot": 51
+ },
+ "0x01BF96": {
+  "jp": "精神コマンド・ツイン精神コマンドを使用します。",
+  "en": "Uses spirit commands and twin spirit commands.",
+  "slot": 69
+ },
+ "0x01BFE2": {
+  "jp": "ユニット能力、パイロット能力、機体能力、武器性能を確認することができます。",
+  "en": "Lets you check unit abilities, pilot abilities, unit stats, and weapon performance.",
+  "slot": 111
+ },
+ "0x01C058": {
+  "jp": "戦艦に搭載します。搭載中は自軍フェイズ開始時にＨＰ・ＥＮが１５％、弾数が全回復します。",
+  "en": "Loads onto a warship. While loaded, HP/EN recover 15% and ammo fully at player phase start.",
+  "slot": 129
+ },
+ "0x01C0E0": {
+  "jp": "移動先を決定して、行動を終了します。",
+  "en": "Confirms the destination and ends the action.",
+  "slot": 54
+ },
+ "0x01C11D": {
+  "jp": "「換装」コマンド",
+  "en": "\"Swap\" Command",
+  "slot": 24
+ },
+ "0x01C13C": {
+  "jp": "複数の機体を１機の機体に合体させます。",
+  "en": "Combines multiple units into one unit.",
+  "slot": 57
+ },
+ "0x01C17C": {
+  "jp": "２機の機体を同じマスに配置して、ツインユニットにします。",
+  "en": "Places two units on the same tile to form a twin unit.",
+  "slot": 84
+ },
+ "0x01C1D7": {
+  "jp": "ツインユニットを２機の機体に分散させます。",
+  "en": "Splits a twin unit into two units.",
+  "slot": 63
+ },
+ "0x01C21D": {
+  "jp": "隣接する敵を説得します。説得の結果、ストーリー展開が変化することもあります。",
+  "en": "Persuades an adjacent enemy. The result may change how the story unfolds.",
+  "slot": 114
+ },
+ "0x01C296": {
+  "jp": "隣接するユニットを搭載し行動を終了します。移動後にも使用可能です。",
+  "en": "Loads an adjacent unit and ends the action. Can be used after moving too.",
+  "slot": 99
+ },
+ "0x01C300": {
+  "jp": "<W=32><H=32><S=-4><Y=-3><I=41></Y><S=-4></H></W>でコマンドメニューが表示されます。",
+  "en": "<W=32><H=32><S=-4><Y=-3><I=41></Y><S=-4></H></W> shows the command menu.",
+  "slot": 99
+ },
+ "0x01C36A": {
+  "jp": "<W=32><H=32><S=-4><Y=-3><I=61></Y><S=-4></H></W>で反撃設定のメニューが表示されます。",
+  "en": "<W=32><H=32><S=-4><Y=-3><I=61></Y><S=-4></H></W> shows the counter-setting menu.",
+  "slot": 102
+ },
+ "0x01C3D7": {
+  "jp": "目標を選択して、攻撃が命中するか、与えるダメージ等の設定を行います。",
+  "en": "Selects a target and sets whether the attack hits, damage dealt, and so on.",
+  "slot": 102
+ },
+ "0x01C444": {
+  "jp": "戦闘で使用する武器を変更します。",
+  "en": "Changes the weapon used in battle.",
+  "slot": 48
+ },
+ "0x01C47B": {
+  "jp": "搭乗パイロットを変更します。",
+  "en": "Changes the boarding pilot.",
+  "slot": 42
+ },
+ "0x01C4AC": {
+  "jp": "別のマスへ移動させます。",
+  "en": "Moves it to another tile.",
+  "slot": 36
+ },
+ "0x01C4D7": {
+  "jp": "この機体を複製して配置します。",
+  "en": "Copies this unit and places it.",
+  "slot": 45
+ },
+ "0x01C50B": {
+  "jp": "戦闘への参加／不参加を設定します。",
+  "en": "Sets participation/non-participation in battle.",
+  "slot": 51
+ },
+ "0x01C545": {
+  "jp": "別の機体へ変更します。",
+  "en": "Changes it to another unit.",
+  "slot": 33
+ },
+ "0x01C56D": {
+  "jp": "機体とパイロットを変更します。",
+  "en": "Changes the unit and pilot.",
+  "slot": 45
+ },
+ "0x01C5A1": {
+  "jp": "戦闘開始時の、ＨＰを設定します。",
+  "en": "Sets the HP at the start of battle.",
+  "slot": 48
+ },
+ "0x01C5D8": {
+  "jp": "機体に発生している、不具合の内容を確認することができます。",
+  "en": "Lets you check the details of malfunctions occurring on a unit.",
+  "slot": 87
+ },
+ "0x01C636": {
+  "jp": "機体を削除します。",
+  "en": "Deletes the unit.",
+  "slot": 27
+ },
+ "0x01C658": {
+  "jp": "<W=32><H=32><S=-4><Y=-3><I=41></Y><S=-4></H></W>で背景を設定するマスを選択します。",
+  "en": "<W=32><H=32><S=-4><Y=-3><I=41></Y><S=-4></H></W> selects the tile to set the background.",
+  "slot": 99
+ },
+ "0x01C6C2": {
+  "jp": "<W=32><H=32><S=-4><Y=-3><I=41></Y><S=-4></H></W>で支援攻撃の設定をするマスを選択します。",
+  "en": "<W=32><H=32><S=-4><Y=-3><I=41></Y><S=-4></H></W> selects the tile to set support attacks.",
+  "slot": 108
+ },
+ "0x01C735": {
+  "jp": "<W=32><H=32><S=-4><Y=-3><I=41></Y><S=-4></H></W>でユニットを設定するマスを選択します。",
+  "en": "<W=32><H=32><S=-4><Y=-3><I=41></Y><S=-4></H></W> selects the tile to set the unit.",
+  "slot": 105
+ }
+}

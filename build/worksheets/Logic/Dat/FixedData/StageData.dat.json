@@ -1,0 +1,532 @@
+{
+"0x000B3A": {
+"jp": "プロローグ",
+"en": "Prologue",
+"slot": 15
+},
+"0x000B57": {
+"jp": "プロローグです。",
+"en": "The prologue.",
+"slot": 24
+},
+"0x000B76": {
+"jp": "共通",
+"en": "Common",
+"slot": 6
+},
+"0x000B9F": {
+"jp": "星なき空",
+"en": "Starless Sky",
+"slot": 12
+},
+"0x000BB2": {
+"jp": "分岐シナリオ",
+"en": "Branching Scenario",
+"slot": 18
+},
+"0x000BCB": {
+"jp": "召喚",
+"en": "Summoning",
+"slot": 6
+},
+"0x000BD8": {
+"jp": "？？？",
+"en": "???",
+"slot": 9
+},
+"0x000BFF": {
+"jp": "イモータルの迎撃",
+"en": "Immortal Intercept",
+"slot": 24
+},
+"0x000C1E": {
+"jp": "マサキ",
+"en": "Masaki",
+"slot": 9
+},
+"0x000C2E": {
+"jp": "ソラティス神殿",
+"en": "Soratis Temple",
+"slot": 21
+},
+"0x000C4A": {
+"jp": "デモン・ハック",
+"en": "Demon Hack",
+"slot": 21
+},
+"0x000C66": {
+"jp": "コーラルキャニオン",
+"en": "Coral Canyon",
+"slot": 27
+},
+"0x000C88": {
+"jp": "喪われた記憶",
+"en": "Lost Memories",
+"slot": 18
+},
+"0x000CA1": {
+"jp": "ザムジードの心",
+"en": "Zamzeed's Heart",
+"slot": 21
+},
+"0x000CBD": {
+"jp": "囚われの王女",
+"en": "Captive Princess",
+"slot": 18
+},
+"0x000CD6": {
+"jp": "王都への路",
+"en": "Road to the Capital",
+"slot": 15
+},
+"0x000CEC": {
+"jp": "カークスの野望",
+"en": "Kirkus's Ambition",
+"slot": 21
+},
+"0x000D08": {
+"jp": "テリウス出奔",
+"en": "Terius Departs",
+"slot": 18
+},
+"0x000D21": {
+"jp": "野心の代償",
+"en": "Price of Ambition",
+"slot": 15
+},
+"0x000D37": {
+"jp": "邪神の胎動",
+"en": "Stirring of the Dark God",
+"slot": 15
+},
+"0x000D4D": {
+"jp": "フェイルの闇",
+"en": "Darkness of Feil",
+"slot": 18
+},
+"0x000D66": {
+"jp": "違えた道",
+"en": "The Wrong Path",
+"slot": 12
+},
+"0x000D79": {
+"jp": "決戦、デュラクシール",
+"en": "Decisive Battle, Duraxil",
+"slot": 30
+},
+"0x000D9E": {
+"jp": "地底世界",
+"en": "The Underworld",
+"slot": 12
+},
+"0x000DC8": {
+"jp": "孤狼との再会",
+"en": "Reunion with the Lone Wolf",
+"slot": 18
+},
+"0x000DE1": {
+"jp": "リューネ",
+"en": "Lune",
+"slot": 12
+},
+"0x000DF4": {
+"jp": "ダンク市の攻防",
+"en": "Battle for Dunk City",
+"slot": 21
+},
+"0x000E10": {
+"jp": "それぞれの正義",
+"en": "Each One's Justice",
+"slot": 21
+},
+"0x000E2C": {
+"jp": "胞子の谷",
+"en": "Valley of Spores",
+"slot": 12
+},
+"0x000E3F": {
+"jp": "サプライズド・アタック",
+"en": "Surprise Attack",
+"slot": 33
+},
+"0x000E67": {
+"jp": "信念と疑惑",
+"en": "Faith and Doubt",
+"slot": 15
+},
+"0x000E7D": {
+"jp": "ヴォルクルスの影",
+"en": "Shadow of Volkruss",
+"slot": 24
+},
+"0x000E9C": {
+"jp": "カークスの真意",
+"en": "Kirkus's True Intent",
+"slot": 21
+},
+"0x000EB8": {
+"jp": "異界の剣",
+"en": "Sword of the Otherworld",
+"slot": 12
+},
+"0x000ECB": {
+"jp": "遭遇",
+"en": "Encounter",
+"slot": 6
+},
+"0x000ED8": {
+"jp": "カークスの目",
+"en": "Kirkus's Eye",
+"slot": 18
+},
+"0x000EF1": {
+"jp": "セブ神殿",
+"en": "Sev Temple",
+"slot": 12
+},
+"0x000F04": {
+"jp": "シュテドニアス追撃",
+"en": "Pursuit of Shtednias",
+"slot": 27
+},
+"0x000F26": {
+"jp": "敗軍の将",
+"en": "The Defeated General",
+"slot": 12
+},
+"0x000F39": {
+"jp": "超魔装機エウリード",
+"en": "Super Machine God Eulid",
+"slot": 27
+},
+"0x000F5B": {
+"jp": "「混乱」からの使者",
+"en": "Envoy from Chaos",
+"slot": 27
+},
+"0x000F7D": {
+"jp": "手負いの狼",
+"en": "The Wounded Wolf",
+"slot": 15
+},
+"0x000F93": {
+"jp": "空を望む騎士",
+"en": "Knight Who Longs for the Sky",
+"slot": 18
+},
+"0x000FAC": {
+"jp": "黒焔の狩人",
+"en": "Hunter of Black Flame",
+"slot": 15
+},
+"0x000FC2": {
+"jp": "黒き迅雷",
+"en": "Black Lightning",
+"slot": 12
+},
+"0x000FD5": {
+"jp": "厭客再来",
+"en": "The Loathsome Guest Returns",
+"slot": 12
+},
+"0x000FE8": {
+"jp": "地球を護る剣",
+"en": "Sword That Guards Earth",
+"slot": 18
+},
+"0x001001": {
+"jp": "甦る青龍",
+"en": "Revival of the Azure Dragon",
+"slot": 12
+},
+"0x001014": {
+"jp": "ミクスト・トルーパーズ",
+"en": "Mixed Troopers",
+"slot": 33
+},
+"0x00103C": {
+"jp": "南極の門",
+"en": "The Antarctic Gate",
+"slot": 12
+},
+"0x00104F": {
+"jp": "その名は“破滅”",
+"en": "Its Name Is \"Ruin\"",
+"slot": 24
+},
+"0x00106E": {
+"jp": "揺れる矛先",
+"en": "Wavering Spearhead",
+"slot": 15
+},
+"0x001084": {
+"jp": "常夜の世界",
+"en": "World of Endless Night",
+"slot": 15
+},
+"0x00109A": {
+"jp": "地上",
+"en": "Ground",
+"slot": 6
+},
+"0x0010A7": {
+"jp": "影の軍団",
+"en": "Shadow Legion",
+"slot": 12
+},
+"0x0010BA": {
+"jp": "アイス・ドール",
+"en": "Ice Doll",
+"slot": 21
+},
+"0x0010D6": {
+"jp": "偽面の報復者",
+"en": "Masked Avenger",
+"slot": 18
+},
+"0x0010EF": {
+"jp": "流星と彗星",
+"en": "Meteor and Comet",
+"slot": 15
+},
+"0x001105": {
+"jp": "漆黒の虎、氷の白刃",
+"en": "Black Tiger, White Blade of Ice",
+"slot": 27
+},
+"0x001127": {
+"jp": "運命の風",
+"en": "Wind of Destiny",
+"slot": 12
+},
+"0x00113A": {
+"jp": "蒼光なき宇宙",
+"en": "Space Without Blue Light",
+"slot": 18
+},
+"0x001153": {
+"jp": "宇宙",
+"en": "Space",
+"slot": 6
+},
+"0x001160": {
+"jp": "遠方からの刺客",
+"en": "Assassin from Afar",
+"slot": 21
+},
+"0x00117C": {
+"jp": "呼応する偽核",
+"en": "Resonating False Cores",
+"slot": 18
+},
+"0x001195": {
+"jp": "繋がる縁",
+"en": "Bonds That Connect",
+"slot": 12
+},
+"0x0011A8": {
+"jp": "ダブル・インターセプト",
+"en": "Double Intercept",
+"slot": 33
+},
+"0x0011D0": {
+"jp": "追逃逆転",
+"en": "Pursuit Reversal",
+"slot": 12
+},
+"0x0011E3": {
+"jp": "不可視の扉",
+"en": "The Invisible Door",
+"slot": 15
+},
+"0x0011F9": {
+"jp": "頑鉄番長Ｇバンカラン",
+"en": "Iron Boss G Bankaran",
+"slot": 30
+},
+"0x00121E": {
+"jp": "四神邂逅",
+"en": "The Four Gods Meet",
+"slot": 12
+},
+"0x001231": {
+"jp": "狼と犬達",
+"en": "Wolf and the Dogs",
+"slot": 12
+},
+"0x001244": {
+"jp": "蒼炎の逆鱗",
+"en": "Wrath of the Blue Flame",
+"slot": 15
+},
+"0x00125A": {
+"jp": "妄念に操られし者（前篇）",
+"en": "Slave to Delusion (Part 1)",
+"slot": 36
+},
+"0x001285": {
+"jp": "妄念に操られし者（後篇）",
+"en": "Slave to Delusion (Part 2)",
+"slot": 36
+},
+"0x0012B0": {
+"jp": "輝きを一つに",
+"en": "As One Light",
+"slot": 18
+},
+"0x0012C9": {
+"jp": "特異点崩壊",
+"en": "Singularity Collapse",
+"slot": 15
+},
+"0x0012DF": {
+"jp": "凶鳥は三度死ぬ",
+"en": "The Ill Bird Dies Thrice",
+"slot": 21
+},
+"0x0012FB": {
+"jp": "リューネ・カプリッチオ",
+"en": "Lune Capriccio",
+"slot": 33
+},
+"0x001323": {
+"jp": "トーチカ奇襲",
+"en": "Bunker Ambush",
+"slot": 18
+},
+"0x00133C": {
+"jp": "深秘なる存在",
+"en": "A Deep Mystery",
+"slot": 18
+},
+"0x001355": {
+"jp": "闘志、炎に燃ゆる",
+"en": "Fighting Spirit Ablaze",
+"slot": 24
+},
+"0x001374": {
+"jp": "去来交差点",
+"en": "Crossroads of Fate",
+"slot": 15
+},
+"0x00138A": {
+"jp": "風の呼び声",
+"en": "Call of the Wind",
+"slot": 15
+},
+"0x0013A0": {
+"jp": "私に、さよならを",
+"en": "Say Goodbye to Me",
+"slot": 24
+},
+"0x0013BF": {
+"jp": "封印の予兆",
+"en": "Omen of the Seal",
+"slot": 15
+},
+"0x0013D5": {
+"jp": "天蓋の下で",
+"en": "Under the Firmament",
+"slot": 15
+},
+"0x0013EB": {
+"jp": "雷迅昇星",
+"en": "Rising Thunderbolt",
+"slot": 12
+},
+"0x0013FE": {
+"jp": "紅の聖誕祭（前篇）",
+"en": "Crimson Nativity (Part 1)",
+"slot": 27
+},
+"0x001420": {
+"jp": "紅の聖誕祭（後篇）",
+"en": "Crimson Nativity (Part 2)",
+"slot": 27
+},
+"0x001442": {
+"jp": "神の牢獄",
+"en": "Prison of God",
+"slot": 12
+},
+"0x001455": {
+"jp": "ゲストとインスペクター",
+"en": "Guests and Inspectors",
+"slot": 33
+},
+"0x00147D": {
+"jp": "オペレーション・レコンキスタ",
+"en": "Operation Reconquista",
+"slot": 42
+},
+"0x0014AE": {
+"jp": "激震の白い大地",
+"en": "Quaking White Land",
+"slot": 21
+},
+"0x0014CA": {
+"jp": "クライシス・ポイント",
+"en": "Crisis Point",
+"slot": 30
+},
+"0x0014EF": {
+"jp": "デザイア",
+"en": "Desire",
+"slot": 12
+},
+"0x001502": {
+"jp": "四龍の長",
+"en": "Lord of the Four Dragons",
+"slot": 12
+},
+"0x001515": {
+"jp": "封印戦争",
+"en": "Sealing War",
+"slot": 12
+},
+"0x001528": {
+"jp": "最終分岐ルート１",
+"en": "Final Branch Route 1",
+"slot": 24
+},
+"0x001547": {
+"jp": "ラスト・クライ",
+"en": "Last Cry",
+"slot": 21
+},
+"0x001563": {
+"jp": "機人大戦",
+"en": "War of the Machine Men",
+"slot": 12
+},
+"0x001576": {
+"jp": "最終分岐ルート２",
+"en": "Final Branch Route 2",
+"slot": 24
+},
+"0x001595": {
+"jp": "母なる星の護り神",
+"en": "Guardian of the Mother Star",
+"slot": 24
+},
+"0x0015B4": {
+"jp": "古の忌憶",
+"en": "Ancient Cursed Memory",
+"slot": 12
+},
+"0x0015C7": {
+"jp": "？？？？？？？？",
+"en": "????????",
+"slot": 24
+},
+"0x0015E6": {
+"jp": "ガイダンス",
+"en": "Guidance",
+"slot": 15
+},
+"0x0015FC": {
+"jp": "ーーーーーー",
+"en": "------",
+"slot": 18
+}
+}

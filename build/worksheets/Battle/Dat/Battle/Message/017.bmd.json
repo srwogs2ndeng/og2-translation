@@ -1,0 +1,507 @@
+{
+"0x0013C0": {
+"jp": "「なめるなっ！！」",
+"en": "「Don't mock me!!」",
+"slot": 27
+},
+"0x0013DC": {
+"jp": "「勝負だっ！」",
+"en": "「Let's do this!」",
+"slot": 21
+},
+"0x0013F2": {
+"jp": "「甘いんだよっ！！」",
+"en": "「Not a chance!!」",
+"slot": 30
+},
+"0x001411": {
+"jp": "「女だからって甘く見ないことねっ！！」",
+"en": "「Don't go easy just 'cause I'm a girl!!」",
+"slot": 57
+},
+"0x00144B": {
+"jp": "「覚悟っ！」",
+"en": "「Get ready!」",
+"slot": 18
+},
+"0x00145E": {
+"jp": "「やってみせるっ！」",
+"en": "「I'll show you!」",
+"slot": 30
+},
+"0x00147D": {
+"jp": "「一気に片を付けるよ！」",
+"en": "「I'll end this in one go!」",
+"slot": 36
+},
+"0x0014A2": {
+"jp": "「逃げるんなら今の内だよ！」",
+"en": "「Run now while you still can!」",
+"slot": 42
+},
+"0x0014CD": {
+"jp": "「邪魔をするんじゃない！」",
+"en": "「Don't get in my way!」",
+"slot": 39
+},
+"0x0014F5": {
+"jp": "「なるほど、戦い甲斐がありそうだ」",
+"en": "「I see, this could be worth fighting.」",
+"slot": 51
+},
+"0x001529": {
+"jp": "「面白い……/　やはり強敵が相手でなくてはな」",
+"en": "「Interesting.../ A strong foe is what I want!」",
+"slot": 67
+},
+"0x00156D": {
+"jp": "「行くぞ、地上人！」",
+"en": "「Come, surface dweller!」",
+"slot": 30
+},
+"0x00158C": {
+"jp": "「地上人か……/　存分に腕を振るえそうだな！」",
+"en": "「A surface dweller.../ I can really cut loose!」",
+"slot": 67
+},
+"0x0015D0": {
+"jp": "「女だからといって、侮るな！/　グランヴェールといえど、先手を取れば！」",
+"en": "「Don't underestimate me for being a girl!/ Even against Granveil, if I strike first!」",
+"slot": 106
+},
+"0x00163B": {
+"jp": "「傲岸不遜を絵に描いたような男！/　貴様には負けないっ！」",
+"en": "「A man of pure arrogance!/ I won't lose to you!」",
+"slot": 85
+},
+"0x001691": {
+"jp": "「魔装機神グランヴェール……/　確かに厄介な相手だが、/　先に落としさえすれば！」",
+"en": "「The Elemental Lord Granveil.../ A nasty foe, sure, /  but if I down it first!」",
+"slot": 119
+},
+"0x001709": {
+"jp": "「地上のメカか？/　何というか……変わったデザインだな」",
+"en": "「A surface machine?/ How to put it... an odd design.」",
+"slot": 82
+},
+"0x00175C": {
+"jp": "「確か……ヴァルシオーネとか言ったか？/　必要以上に人に似せるのに、/　こだわる理由があるのか？」",
+"en": "「Valsione, was it?/ Why make it look so human?/ Is there a reason for that?」",
+"slot": 143
+},
+"0x0017EC": {
+"jp": "「くっ……何なんだ、あの化け物は！/　あんなもの、野放しに出来ん！」",
+"en": "「Ngh... What is that monster!/ I can't let it run free!」",
+"slot": 100
+},
+"0x001851": {
+"jp": "「ルオゾールめ、/　厄介なものを復活させてくれたものだ！」",
+"en": "「Louzorl, /  you revived something truly troublesome!」",
+"slot": 85
+},
+"0x0018A7": {
+"jp": "「悪いが、こちらも手は抜けなくてな！」",
+"en": "「Sorry, but I can't hold back either!」",
+"slot": 57
+},
+"0x0018E1": {
+"jp": "「なら、今度はこっちの番！」",
+"en": "「Then it's my turn now!」",
+"slot": 42
+},
+"0x00190C": {
+"jp": "「反撃する！」",
+"en": "「Counterattack!」",
+"slot": 21
+},
+"0x001922": {
+"jp": "「そのまま帰すと思ったか！？」",
+"en": "「Think I'd let you leave like that!?」",
+"slot": 45
+},
+"0x001950": {
+"jp": "「ただでは帰さん！」",
+"en": "「You're not getting away!」",
+"slot": 30
+},
+"0x00196F": {
+"jp": "「借りは返す！」",
+"en": "「I repay my debts!」",
+"slot": 24
+},
+"0x001988": {
+"jp": "「今度はこちらからいくぞ！」",
+"en": "「Now it's my turn!」",
+"slot": 42
+},
+"0x0019B3": {
+"jp": "「ただで済むと思うなっ！」",
+"en": "「You won't get off easy!」",
+"slot": 39
+},
+"0x0019DB": {
+"jp": "「お礼だ、受け取れ！」",
+"en": "「Here's payback, take it!」",
+"slot": 33
+},
+"0x0019FD": {
+"jp": "「そんな、この私が！？」",
+"en": "「No, that I could be...!?」",
+"slot": 36
+},
+"0x001A22": {
+"jp": "「ちっ、ここまでか……撤退する！」",
+"en": "「Tch, this far, huh... Retreat!」",
+"slot": 51
+},
+"0x001A56": {
+"jp": "「い、いかん……これ以上は危険だ」",
+"en": "「N-no good... Any more is too risky.」",
+"slot": 51
+},
+"0x001A8A": {
+"jp": "「くっ……/　こんなことでやられては、立つ瀬がない！」",
+"en": "「Ngh... /  Going down like this would be shameful!」",
+"slot": 79
+},
+"0x001ADA": {
+"jp": "「まだまだ、/　やられるわけにはいかない！」",
+"en": "「Not yet, /  I can't be taken down here!」",
+"slot": 64
+},
+"0x001B1B": {
+"jp": "「こ、この私が押されるなんて……」",
+"en": "「Me, being pushed back like this...」",
+"slot": 51
+},
+"0x001B4F": {
+"jp": "「やられる！？　そんな！」",
+"en": "「Beaten!? No way!」",
+"slot": 39
+},
+"0x001B77": {
+"jp": "「うぅっ！！/　こ、こうも好き勝手やられるとは……」",
+"en": "「Ugh!!/　T-to be pushed around like this...」",
+"slot": 76
+},
+"0x001BC4": {
+"jp": "「何っ！？　あのボディのどこから、/　これほどのパワーが……」",
+"en": "「What!? Where in that body does/　such power come from...」",
+"slot": 91
+},
+"0x001C20": {
+"jp": "「ええい！/　地上人め、侮り難い！」",
+"en": "「Damn it!/ These surface dwellers are no joke!」",
+"slot": 52
+},
+"0x001C55": {
+"jp": "「くっ、/　地上のメカにここまで押されるとは！」",
+"en": "「Ngh,/　pushed back this far by a surface machine!」",
+"slot": 70
+},
+"0x001C9C": {
+"jp": "「ぐうっ！/　こ、これが魔装機神の力か……！」",
+"en": "「Guh!/　S-so this is the power of a Masou Kishin...!」",
+"slot": 67
+},
+"0x001CE0": {
+"jp": "「くううっ！！/　こ、この化け物め！」",
+"en": "「Guaah!!/　Y-you monster!」",
+"slot": 55
+},
+"0x001D18": {
+"jp": "「くっ、さすがだ。/　だが、こっちも退けん！」",
+"en": "「Ngh, impressive./　But I won't back down either!」",
+"slot": 67
+},
+"0x001D5C": {
+"jp": "「ふん、やるもんだね！」",
+"en": "「Hmph, not bad!」",
+"slot": 36
+},
+"0x001D81": {
+"jp": "「このっ……いい気になるなっ！」",
+"en": "「Why you... don't get cocky!」",
+"slot": 48
+},
+"0x001DB2": {
+"jp": "「やるっ！/　だが、まだこれからが勝負！」",
+"en": "「Nice!/　But the real fight starts now!」",
+"slot": 61
+},
+"0x001DF0": {
+"jp": "「くっ、思ったよりはやる！」",
+"en": "「Ngh, better than I thought!」",
+"slot": 42
+},
+"0x001E1B": {
+"jp": "「ふっ、なかなかいい攻撃だ。しかし！」",
+"en": "「Heh, a fine attack. But!」",
+"slot": 57
+},
+"0x001E55": {
+"jp": "「つっ、思ったよりもパワーがある！」",
+"en": "「Tch, more power than I expected!」",
+"slot": 54
+},
+"0x001E8C": {
+"jp": "「地上人め、なかなかやるな！」",
+"en": "「Surface dweller, not bad at all!」",
+"slot": 45
+},
+"0x001EBA": {
+"jp": "「くっ！/　さすがはグランヴェール、ということか」",
+"en": "「Ngh!/　So this is the Granveil's true worth」",
+"slot": 73
+},
+"0x001F04": {
+"jp": "「ちっ、図体がデカいのは/　伊達ではないということか！」",
+"en": "「Tch, so that hulking frame/　isn't just for show!」",
+"slot": 82
+},
+"0x001F57": {
+"jp": "「手を抜いているのか？　今は戦闘中だぞ！」",
+"en": "「Holding back? We're in a battle here!」",
+"slot": 63
+},
+"0x001F97": {
+"jp": "「まだよっ！！　このくらいっ！」",
+"en": "「Not yet!! Take this!」",
+"slot": 48
+},
+"0x001FC8": {
+"jp": "「効きはしないっ！！」",
+"en": "「That won't work!!」",
+"slot": 33
+},
+"0x001FEA": {
+"jp": "「こんなものっ！」",
+"en": "「Is that all!」",
+"slot": 27
+},
+"0x002006": {
+"jp": "「ふん、そんなものか！」",
+"en": "「Hmph, is that all you've got!」",
+"slot": 36
+},
+"0x00202B": {
+"jp": "「どうした！/　それで精一杯だと言うつもりか！」",
+"en": "「What's wrong!/　Is that the best you can do!」",
+"slot": 70
+},
+"0x002072": {
+"jp": "「大口を叩く割に、大したことはないな！」",
+"en": "「Big talk for so little bite!」",
+"slot": 60
+},
+"0x0020AF": {
+"jp": "「ふっ、地上のメカといえど、/　その程度の力では！」",
+"en": "「Heh, surface machine or not,/　that much won't cut it!」",
+"slot": 76
+},
+"0x0020FC": {
+"jp": "「浅いぞ、地上人！」",
+"en": "「Too shallow!」",
+"slot": 30
+},
+"0x00211B": {
+"jp": "「ふん、ヴォルクルスめ、見かけ倒しか！」",
+"en": "「Hmph, Volkruss, all bark no bite!」",
+"slot": 60
+},
+"0x002158": {
+"jp": "「間合いが甘いっ！」",
+"en": "「Your aim's too loose!」",
+"slot": 30
+},
+"0x002177": {
+"jp": "「そう簡単に当たるものかっ！！」",
+"en": "「You won't land that so easily!!」",
+"slot": 48
+},
+"0x0021A8": {
+"jp": "「当たらないよっ！！」",
+"en": "「You won't hit me!!」",
+"slot": 33
+},
+"0x0021CA": {
+"jp": "「見切った！」",
+"en": "「Saw through it!」",
+"slot": 21
+},
+"0x0021E0": {
+"jp": "「かわした！」",
+"en": "「Dodged it!」",
+"slot": 21
+},
+"0x0021F6": {
+"jp": "「単純な攻撃パターンだ！」",
+"en": "「Such a simple attack pattern!」",
+"slot": 39
+},
+"0x00221E": {
+"jp": "「当たるものか！」",
+"en": "「As if that'd hit!」",
+"slot": 27
+},
+"0x00223A": {
+"jp": "「見くびるからこうなる！」",
+"en": "「That's for scorning me!」",
+"slot": 39
+},
+"0x002262": {
+"jp": "「ヴォルクルス……/　思ったよりは速いが、この程度ならっ！」",
+"en": "「Volkruss.../　Faster than I thought, but this much I can handle!」",
+"slot": 88
+},
+"0x0022BB": {
+"jp": "「狙いが見え見えさ！」",
+"en": "「Your aim's obvious!」",
+"slot": 33
+},
+"0x0022DD": {
+"jp": "「いい反応だ、地上人！/　だが、私の方が一枚上だったな！」",
+"en": "「Good reflexes, surface dweller!/　But I was one step ahead!」",
+"slot": 85
+},
+"0x002333": {
+"jp": "「………」",
+"en": "「........」",
+"slot": 15
+},
+"0x002343": {
+"jp": "「何てこと！　反撃できない！？」",
+"en": "「No way! I can't counter!?」",
+"slot": 48
+},
+"0x002374": {
+"jp": "「卑怯なっ！！/　こちらの射程外から攻撃するなど！！」",
+"en": "「Coward!!/　Striking from beyond my range!!」",
+"slot": 79
+},
+"0x0023C4": {
+"jp": "「戦う以上、全力を尽くす！/　追撃！」",
+"en": "「If we fight, I give my all!/　Pursue!」",
+"slot": 55
+},
+"0x0023FC": {
+"jp": "「隙を見せた、そっちが悪いんだよ！」",
+"en": "「You left an opening. Your own fault!」",
+"slot": 54
+},
+"0x002433": {
+"jp": "「チャンスだ！　もう一撃！」",
+"en": "「Now's my chance! One more hit!」",
+"slot": 42
+},
+"0x00245E": {
+"jp": "「もう一撃、いけるっ！」",
+"en": "「I can land one more!」",
+"slot": 36
+},
+"0x002483": {
+"jp": "「私に任せておけ！」",
+"en": "「Leave it to me!」",
+"slot": 30
+},
+"0x0024A2": {
+"jp": "「これで決めてやる！」",
+"en": "「I'll finish this!」",
+"slot": 33
+},
+"0x0024C4": {
+"jp": "「ロドニー！　手伝います！」",
+"en": "「Rodney! I'll help you!」",
+"slot": 42
+},
+"0x0024EF": {
+"jp": "「私がカバーする！/　今の内に態勢を立て直せ！」",
+"en": "「I'll cover you!/　Regroup while you can!」",
+"slot": 70
+},
+"0x002536": {
+"jp": "「ここは私に任せろ！」",
+"en": "「Leave this to me!」",
+"slot": 33
+},
+"0x002558": {
+"jp": "「そうはさせないっ！」",
+"en": "「I won't let you!」",
+"slot": 33
+},
+"0x00257A": {
+"jp": "「ロドニー、危ないっ！！」",
+"en": "「Rodney, look out!!」",
+"slot": 39
+},
+"0x0025A2": {
+"jp": "「これでどうっ！」",
+"en": "「How's this!」",
+"slot": 27
+},
+"0x0025BE": {
+"jp": "「消えろっ！」",
+"en": "「Disappear!」",
+"slot": 21
+},
+"0x0025D4": {
+"jp": "「くらいなよ！！」",
+"en": "「Take this!!」",
+"slot": 27
+},
+"0x0025F0": {
+"jp": "「手は抜けないっ！」",
+"en": "「I can't hold back!」",
+"slot": 30
+},
+"0x00260F": {
+"jp": "「この一撃、受けてみなさいっ！」",
+"en": "「Take this one strike!」",
+"slot": 48
+},
+"0x002640": {
+"jp": "「ビームキャノン！」",
+"en": "「Beam Cannon!」",
+"slot": 30
+},
+"0x00265F": {
+"jp": "「落ちなっ！！」",
+"en": "「Go down!!」",
+"slot": 24
+},
+"0x002678": {
+"jp": "「プラズマソード！」",
+"en": "「Plasma Sword!」",
+"slot": 30
+},
+"0x002697": {
+"jp": "「はっ！」",
+"en": "「Hah!」",
+"slot": 15
+},
+"0x0026A7": {
+"jp": "「とぅっ！」",
+"en": "「Toh!」",
+"slot": 18
+},
+"0x0026BA": {
+"jp": "「ふっ！」",
+"en": "「Hup!」",
+"slot": 15
+},
+"0x0026CA": {
+"jp": "「このっ！」",
+"en": "「Why you!」",
+"slot": 18
+},
+"0x0026DD": {
+"jp": "「やっ！」",
+"en": "「Yah!」",
+"slot": 15
+},
+"0x0026ED": {
+"jp": "「てぃっ！」",
+"en": "「Tei!」",
+"slot": 18
+}
+}

@@ -1,0 +1,532 @@
+{
+"0x0011A4": {
+"jp": "「総員の奮闘を期待する」",
+"en": "「I expect your best, all hands」",
+"slot": 36
+},
+"0x0011C9": {
+"jp": "「総員、レーツェル様の期待に応えるのだ」",
+"en": "「All hands, live up to Lord Ratsel's hopes」",
+"slot": 60
+},
+"0x001206": {
+"jp": "「攻撃目標、メリオルエッセ！」",
+"en": "「Attack target, Meliolesse!」",
+"slot": 45
+},
+"0x001234": {
+"jp": "「前方のメリオルエッセに仕掛ける！」",
+"en": "「Strike the Meliolesse ahead!」",
+"slot": 54
+},
+"0x00126B": {
+"jp": "「攻撃目標、ゲスト指揮官機！」",
+"en": "「Attack target, Guest command unit!」",
+"slot": 45
+},
+"0x001299": {
+"jp": "「本艦で指揮官機を撃破する！」",
+"en": "「We'll destroy the command unit!」",
+"slot": 45
+},
+"0x0012C7": {
+"jp": "「前方のガイアセイバーズ機に仕掛ける！」",
+"en": "「Strike the Gaia Sabers unit ahead!」",
+"slot": 60
+},
+"0x001304": {
+"jp": "「ガイアセイバーズの横暴を許すな！」",
+"en": "「Don't allow the Gaia Sabers' tyranny!」",
+"slot": 54
+},
+"0x00133B": {
+"jp": "「マイヤー総司令や、/　ビアン総帥のご遺志に従わぬのであれば……！」",
+"en": "「If you won't honor Cmdr Maier or/　Chairman Bian's last wishes...!」",
+"slot": 100
+},
+"0x0013A0": {
+"jp": "「今のお前達に大義はあるのか……？」",
+"en": "「Do you even have a cause now...?」",
+"slot": 54
+},
+"0x0013D7": {
+"jp": "「攻撃目標、エア・クリスマス！」",
+"en": "「Attack target, Air Christmas!」",
+"slot": 48
+},
+"0x001408": {
+"jp": "「攻撃目標、セイバー１！」",
+"en": "「Attack target, Saber 1!」",
+"slot": 39
+},
+"0x001430": {
+"jp": "「総員、対艦戦闘用意！」",
+"en": "「All hands, anti-ship combat!」",
+"slot": 36
+},
+"0x001455": {
+"jp": "「あの黒い特機を近づけるな！」",
+"en": "「Keep that black unit away!」",
+"slot": 45
+},
+"0x001483": {
+"jp": "「攻撃目標、ジンライ！」",
+"en": "「Attack target, Jinrai!」",
+"slot": 36
+},
+"0x0014A8": {
+"jp": "「攻撃目標、量産型ジンライ！」",
+"en": "「Attack target, mass-produced Jinrai!」",
+"slot": 45
+},
+"0x0014D6": {
+"jp": "「前方のルイーナ機を撃破する！」",
+"en": "「Destroy the Ruina unit ahead!」",
+"slot": 48
+},
+"0x001507": {
+"jp": "「攻撃目標、ルイーナ機！」",
+"en": "「Attack target, Ruina unit!」",
+"slot": 39
+},
+"0x00152F": {
+"jp": "「攻撃目標、デモン！」",
+"en": "「Attack target, Demon!」",
+"slot": 33
+},
+"0x001551": {
+"jp": "「本艦でデモンを駆逐する！」",
+"en": "「We'll wipe out the Demon!」",
+"slot": 42
+},
+"0x00157C": {
+"jp": "「前方のデモンを撃破する！」",
+"en": "「Destroy the Demon ahead!」",
+"slot": 42
+},
+"0x0015A7": {
+"jp": "「攻撃目標、超機人！」",
+"en": "「Attack target, Choukijin!」",
+"slot": 33
+},
+"0x0015C9": {
+"jp": "「本艦であの超機人を阻止する！」",
+"en": "「We'll stop that Choukijin!」",
+"slot": 48
+},
+"0x0015FA": {
+"jp": "「攻撃目標、ＡＩ１！」",
+"en": "「Attack target, AI1!」",
+"slot": 33
+},
+"0x00161C": {
+"jp": "「攻撃目標、ガンエデン！」",
+"en": "「Attack target, Gan Eden!」",
+"slot": 39
+},
+"0x001644": {
+"jp": "「前方のゲスト機を撃破する！」",
+"en": "「Destroy the Guest unit ahead!」",
+"slot": 45
+},
+"0x001672": {
+"jp": "「本艦でゲスト機を仕留めるぞ！」",
+"en": "「We'll finish off the Guest unit!」",
+"slot": 48
+},
+"0x0016A3": {
+"jp": "「最終攻撃目標、アダマトロン！」",
+"en": "「Final attack target, Adamatron!」",
+"slot": 48
+},
+"0x0016D4": {
+"jp": "「直ちに反撃を！」",
+"en": "「Counterattack, now!」",
+"slot": 27
+},
+"0x0016F0": {
+"jp": "「目標を逃がすな！」",
+"en": "「Don't lose the target!」",
+"slot": 30
+},
+"0x00170F": {
+"jp": "「目標を追尾せよ！」",
+"en": "「Pursue the target!」",
+"slot": 30
+},
+"0x00172E": {
+"jp": "「くっ……！　総員退艦せよ！」",
+"en": "「Ngh...! All hands, abandon ship!」",
+"slot": 45
+},
+"0x00175C": {
+"jp": "「レーツェル様、申し訳ありません……！！」",
+"en": "「Lord Ratsel, I'm so sorry...!!」",
+"slot": 63
+},
+"0x00179C": {
+"jp": "「被弾箇所、報告！　ダメコンを急げ！」",
+"en": "「Report hit locations! Damage control, fast!」",
+"slot": 57
+},
+"0x0017D6": {
+"jp": "「ここで沈めば、/　レーツェル様に申し訳が立たんぞ！」",
+"en": "「If we sink here, we can't/　face Lord Ratsel!」",
+"slot": 79
+},
+"0x001826": {
+"jp": "「ぐうっ！　直撃か！」",
+"en": "「Guh! A direct hit!」",
+"slot": 33
+},
+"0x001848": {
+"jp": "「弾幕を厚くしろ！　敵を近づけるな！」",
+"en": "「Thicken the barrage! Keep them away!」",
+"slot": 57
+},
+"0x001882": {
+"jp": "「終わるわけにはいかん！/　役目を果たすまでは！」",
+"en": "「We can't end here!/　Not until our duty is done!」",
+"slot": 73
+},
+"0x0018CC": {
+"jp": "「ゲストに後れを取るな！　反撃を！」",
+"en": "「Don't fall behind the Guest! Counter!」",
+"slot": 54
+},
+"0x001903": {
+"jp": "「ルイーナ機の撃破を急げ！」",
+"en": "「Destroy that Ruina unit fast!」",
+"slot": 42
+},
+"0x00192E": {
+"jp": "「デモンをこれ以上近づけるな！」",
+"en": "「Keep the Demon away!」",
+"slot": 48
+},
+"0x00195F": {
+"jp": "「ふん、面妖な連中め……！」",
+"en": "「Hmph, what bizarre foes...!」",
+"slot": 42
+},
+"0x00198A": {
+"jp": "「確実にゲスト機を撃破せよ！」",
+"en": "「Destroy the Guest unit for certain!」",
+"slot": 45
+},
+"0x0019B8": {
+"jp": "「破損箇所を報告せよ！」",
+"en": "「Report the damaged sections!」",
+"slot": 36
+},
+"0x0019DD": {
+"jp": "「その程度で、クロガネは沈まんよ」",
+"en": "「That won't sink the Kurogane」",
+"slot": 51
+},
+"0x001A11": {
+"jp": "「本艦を集中的に狙ってきたか……！」",
+"en": "「Concentrating fire on us, eh...!」",
+"slot": 54
+},
+"0x001A48": {
+"jp": "「こちらは修羅場を/　何度もくぐり抜けてきているのでな」",
+"en": "「We've fought our way through/　many a battlefield」",
+"slot": 82
+},
+"0x001A9B": {
+"jp": "「回避行動を取りつつ、反撃せよ！」",
+"en": "「Take evasive action and counter!」",
+"slot": 51
+},
+"0x001ACF": {
+"jp": "「構わん、攻撃に専念しろ」",
+"en": "「Never mind, focus on attacking」",
+"slot": 39
+},
+"0x001AF7": {
+"jp": "「各砲座、敵機の接近を許すな」",
+"en": "「All guns, don't let the enemy near」",
+"slot": 45
+},
+"0x001B25": {
+"jp": "「抵抗が弱いが、油断してはならん」",
+"en": "「Weak resistance, but stay sharp」",
+"slot": 51
+},
+"0x001B59": {
+"jp": "「ふん、インスペクターと同レベルだな」",
+"en": "「Hmph, same level as the Inspectors」",
+"slot": 57
+},
+"0x001B93": {
+"jp": "「ルイーナを接近させるな！」",
+"en": "「Don't let the Ruina close in!」",
+"slot": 42
+},
+"0x001BBE": {
+"jp": "「デモンに食いつかれるとはな……！」",
+"en": "「Bitten into by the Demon, eh...!」",
+"slot": 54
+},
+"0x001BF5": {
+"jp": "「デモンめ、本艦を狙ってきたか」",
+"en": "「So the Demon targets us, does it」",
+"slot": 48
+},
+"0x001C26": {
+"jp": "「ゲスト機を近づけるな！」",
+"en": "「Don't let the Guest unit near!」",
+"slot": 39
+},
+"0x001C4E": {
+"jp": "「回避運動終了後、反撃に転ずる」",
+"en": "「After evasion, we go on the counter」",
+"slot": 48
+},
+"0x001C7F": {
+"jp": "「ゲストの好きにはやらせん！」",
+"en": "「We won't let the Guest have their way!」",
+"slot": 45
+},
+"0x001CAD": {
+"jp": "「本艦を狙っても無駄だ」",
+"en": "「Targeting us is futile」",
+"slot": 36
+},
+"0x001CD2": {
+"jp": "「レーツェル様から預かった艦を/　傷つけるわけにはいかん」",
+"en": "「I can't let the ship entrusted/　by Lord Ratsel be harmed」",
+"slot": 85
+},
+"0x001D28": {
+"jp": "「エア・クリスマス相手に油断は禁物だぞ」",
+"en": "「Don't drop your guard on Air Christmas」",
+"slot": 60
+},
+"0x001D65": {
+"jp": "「このままルイーナを引き付けよ！」",
+"en": "「Keep drawing in the Ruina like this!」",
+"slot": 51
+},
+"0x001D99": {
+"jp": "「この調子でデモンを近づけるな！」",
+"en": "「Keep the Demon away like this!」",
+"slot": 51
+},
+"0x001DCD": {
+"jp": "「そんなものは通用せん！」",
+"en": "「That won't work on us!」",
+"slot": 39
+},
+"0x001DF5": {
+"jp": "「フィールドの展開が間に合ったか」",
+"en": "「So the field deployed in time」",
+"slot": 51
+},
+"0x001E29": {
+"jp": "「ＥＰ展開！」",
+"en": "「EP deploy!」",
+"slot": 21
+},
+"0x001E3F": {
+"jp": "「打つ手を考えるのだな」",
+"en": "「Think up your next move」",
+"slot": 36
+},
+"0x001E64": {
+"jp": "「………」",
+"en": "「.........」",
+"slot": 15
+},
+"0x001E74": {
+"jp": "「ここは防御に徹するしかないか……！」",
+"en": "「Nothing to do but defend here...!」",
+"slot": 57
+},
+"0x001EAE": {
+"jp": "「弾薬の再装填、急げ！」",
+"en": "「Reload the ammo, hurry!」",
+"slot": 36
+},
+"0x001ED3": {
+"jp": "「やむを得ん、対空警戒を厳となせ！」",
+"en": "「No choice, tighten anti-air alert!」",
+"slot": 54
+},
+"0x001F0A": {
+"jp": "「目標を再度捕捉せよ！」",
+"en": "「Reacquire the target!」",
+"slot": 36
+},
+"0x001F2F": {
+"jp": "「味方機を援護する！」",
+"en": "「Supporting our allies!」",
+"slot": 33
+},
+"0x001F51": {
+"jp": "「続けて攻撃せよ！」",
+"en": "「Keep up the attack!」",
+"slot": 30
+},
+"0x001F70": {
+"jp": "「レーツェル様を援護するのだ！」",
+"en": "「Support Lord Ratsel!」",
+"slot": 48
+},
+"0x001FA1": {
+"jp": "「ゼンガー少佐を援護せよ！」",
+"en": "「Support Major Sanger!」",
+"slot": 42
+},
+"0x001FCC": {
+"jp": "「ハガネに続け！」",
+"en": "「Follow the Hagane!」",
+"slot": 27
+},
+"0x001FE8": {
+"jp": "「ヒリュウ改を援護せよ！」　",
+"en": "「Support the Hiryu Kai!」　",
+"slot": 42
+},
+"0x002013": {
+"jp": "「全速前進！　味方機を守れ！」",
+"en": "「Full speed ahead! Protect our allies!」",
+"slot": 45
+},
+"0x002041": {
+"jp": "「本艦を盾にするのだ！」",
+"en": "「Use this ship as a shield!」",
+"slot": 36
+},
+"0x002066": {
+"jp": "「レーツェル様、お下がりください！」",
+"en": "「Lord Ratsel, please fall back!」",
+"slot": 54
+},
+"0x00209D": {
+"jp": "「ゼンガー少佐、後退を！」",
+"en": "「Major Sanger, pull back!」",
+"slot": 39
+},
+"0x0020C5": {
+"jp": "「ハガネを守れ！」",
+"en": "「Protect the Hagane!」",
+"slot": 27
+},
+"0x0020E1": {
+"jp": "「ヒリュウ改を守れ！」",
+"en": "「Protect the Hiryu Kai!」",
+"slot": 33
+},
+"0x002103": {
+"jp": "「目標を再度攻撃せよ！」",
+"en": "「Attack the target again!」",
+"slot": 36
+},
+"0x002128": {
+"jp": "「対空機銃、撃ち方始め！」",
+"en": "「Anti-air guns, commence fire!」",
+"slot": 39
+},
+"0x002150": {
+"jp": "「ＡＡＷオート、撃ち方始め！」",
+"en": "「AAW auto, commence fire!」",
+"slot": 45
+},
+"0x00217E": {
+"jp": "「ＳＴＦ魚雷、スタンバイ！」",
+"en": "「STF torpedoes, standby!」",
+"slot": 42
+},
+"0x0021A9": {
+"jp": "「１番、３番、撃てーっ！」",
+"en": "「Tubes 1 and 3, fire!」",
+"slot": 39
+},
+"0x0021D1": {
+"jp": "「艦首魚雷、スタンバイ！」",
+"en": "「Bow torpedoes, standby!」",
+"slot": 39
+},
+"0x0021F9": {
+"jp": "「目標へ一斉砲撃！」",
+"en": "「Fire all guns on target!」",
+"slot": 30
+},
+"0x002218": {
+"jp": "「副砲、１番から４番、撃てーっ！」",
+"en": "「Sub-guns one through four, fire!」",
+"slot": 51
+},
+"0x00224C": {
+"jp": "「副砲、１番から４番、攻撃用意！」",
+"en": "「Sub-guns one through four, ready!」",
+"slot": 51
+},
+"0x002280": {
+"jp": "「撃てーっ！」",
+"en": "「Fire!」",
+"slot": 21
+},
+"0x002296": {
+"jp": "「上部衝撃砲、１番、２番！　攻撃用意！」",
+"en": "「Upper impact guns one, two! Ready!」",
+"slot": 60
+},
+"0x0022D3": {
+"jp": "「外すなよ！　撃てーっ！」",
+"en": "「Don't miss! Fire!」",
+"slot": 39
+},
+"0x0022FB": {
+"jp": "「上部衝撃砲、攻撃用意！」",
+"en": "「Upper impact guns, ready!」",
+"slot": 39
+},
+"0x002323": {
+"jp": "「１番、２番！　撃てーっ！」",
+"en": "「Guns one, two! Fire!」",
+"slot": 42
+},
+"0x00234E": {
+"jp": "「艦前方へ一斉砲撃後、/　艦首超大型回転衝角を使用する！」",
+"en": "「Full barrage forward, then/ ram with the bow spinning drill!」",
+"slot": 85
+},
+"0x0023A4": {
+"jp": "「目標との相対距離確認！」",
+"en": "「Confirm range to target!」",
+"slot": 39
+},
+"0x0023CC": {
+"jp": "「仰角誤差修正！　前部各砲、攻撃用意！」",
+"en": "「Correct elevation! Forward guns, ready!」",
+"slot": 60
+},
+"0x002409": {
+"jp": "「超大型回転衝角、始動！！」",
+"en": "「Giant spinning ram, start up!!」",
+"slot": 42
+},
+"0x002434": {
+"jp": "「テスラ・ドライブ出力最大！/　オーバー・ブースト！！」",
+"en": "「Tesla Drive at max output!/ Over Boost!!」",
+"slot": 82
+},
+"0x002487": {
+"jp": "「前部各砲、撃ち方始め！！」",
+"en": "「Forward guns, commence fire!!」",
+"slot": 42
+},
+"0x0024B2": {
+"jp": "「総員、衝撃に備えよ！」",
+"en": "「All hands, brace for impact!」",
+"slot": 36
+},
+"0x0024D7": {
+"jp": "「クロガネ、突撃せよ！！」",
+"en": "「Kurogane, charge!!」",
+"slot": 39
+}
+}

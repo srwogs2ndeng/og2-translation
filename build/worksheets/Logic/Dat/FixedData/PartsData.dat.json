@@ -1,0 +1,587 @@
+{
+ "0x000D4E": {
+  "jp": "－－－－－－",
+  "en": "------",
+  "slot": 18
+ },
+ "0x000D6E": {
+  "jp": "ブースター",
+  "en": "Booster",
+  "slot": 15
+ },
+ "0x000D84": {
+  "jp": "機体の移動力を１だけ上昇させます。",
+  "en": "Raises the unit's Movement by 1.",
+  "slot": 51
+ },
+ "0x000DBE": {
+  "jp": "メガブースター",
+  "en": "Mega Booster",
+  "slot": 21
+ },
+ "0x000DDA": {
+  "jp": "機体の移動力を２だけ上昇させます。",
+  "en": "Raises the unit's Movement by 2.",
+  "slot": 51
+ },
+ "0x000E14": {
+  "jp": "高性能スラスター",
+  "en": "High-Performance Thruster",
+  "slot": 24
+ },
+ "0x000E33": {
+  "jp": "機体の運動性を２５だけ上昇させます。",
+  "en": "Raises the unit's Mobility by 25.",
+  "slot": 54
+ },
+ "0x000E70": {
+  "jp": "バイオセンサー",
+  "en": "Bio Sensor",
+  "slot": 21
+ },
+ "0x000E8C": {
+  "jp": "機体の運動性を１５だけ上昇させます。",
+  "en": "Raises the unit's Mobility by 15.",
+  "slot": 54
+ },
+ "0x000EC9": {
+  "jp": "サーボモーター",
+  "en": "Servo Motor",
+  "slot": 21
+ },
+ "0x000EE5": {
+  "jp": "機体の運動性を５だけ上昇させます。",
+  "en": "Raises the unit's Mobility by 5.",
+  "slot": 51
+ },
+ "0x000F1F": {
+  "jp": "アポジモーター",
+  "en": "Apogee Motor",
+  "slot": 21
+ },
+ "0x000F3E": {
+  "jp": "1機体の移動力を１、運動性を５だけ",
+  "en": "1Raises the unit's Movement by 1 and Mobility by 5",
+  "slot": 49
+ },
+ "0x000F70": {
+  "jp": "上昇させます。",
+  "en": "and raises them.",
+  "slot": 21
+ },
+ "0x000F8C": {
+  "jp": "チョバムアーマー",
+  "en": "Chobham Armor",
+  "slot": 24
+ },
+ "0x000FAE": {
+  "jp": "@機体の最大ＨＰを５００、装甲値を１００だけ",
+  "en": "@Raises the unit's Max HP by 500 and Armor by 100",
+  "slot": 64
+ },
+ "0x000FEF": {
+  "jp": "上昇させます。",
+  "en": "and raises them.",
+  "slot": 21
+ },
+ "0x00100B": {
+  "jp": "ハイブリッドアーマー",
+  "en": "Hybrid Armor",
+  "slot": 30
+ },
+ "0x001033": {
+  "jp": "C機体の最大ＨＰを１０００、装甲値を１５０だけ",
+  "en": "CRaises the unit's Max HP by 1000 and Armor by 150",
+  "slot": 67
+ },
+ "0x001077": {
+  "jp": "上昇させます。",
+  "en": "and raises them.",
+  "slot": 21
+ },
+ "0x001093": {
+  "jp": "オリハルコニウム",
+  "en": "Orichalconium",
+  "slot": 24
+ },
+ "0x0010B5": {
+  "jp": "C機体の最大ＨＰを１０００、装甲値を２００だけ",
+  "en": "CRaises the unit's Max HP by 1000 and Armor by 200",
+  "slot": 67
+ },
+ "0x0010F9": {
+  "jp": "上昇させます。",
+  "en": "and raises them.",
+  "slot": 21
+ },
+ "0x001115": {
+  "jp": "Ｚ・Ｏ・アーマー",
+  "en": "Z.O. Armor",
+  "slot": 24
+ },
+ "0x001137": {
+  "jp": "C機体の最大ＨＰを１５００、装甲値を２５０だけ",
+  "en": "CRaises the unit's Max HP by 1500 and Armor by 250",
+  "slot": 67
+ },
+ "0x00117B": {
+  "jp": "上昇させます。",
+  "en": "and raises them.",
+  "slot": 21
+ },
+ "0x001197": {
+  "jp": "テスラ・ドライブ",
+  "en": "Tesla Drive",
+  "slot": 24
+ },
+ "0x0011B9": {
+  "jp": "7機体に移動タイプ「空」を与え、機体と",
+  "en": "7Gives the unit Air movement type and sets",
+  "slot": 55
+ },
+ "0x0011F1": {
+  "jp": "武器の地形適応「空」をＡにします。",
+  "en": "the Air terrain rating of unit and weapons to A.",
+  "slot": 51
+ },
+ "0x00122B": {
+  "jp": "テスラ・ドライブＳ",
+  "en": "Tesla Drive S",
+  "slot": 27
+ },
+ "0x001254": {
+  "jp": "Y機体に移動タイプ「空」を与え、移動力を",
+  "en": "YGives the unit Air movement type and raises",
+  "slot": 58
+ },
+ "0x00128F": {
+  "jp": "１だけ上昇させます。",
+  "en": "Movement by 1.",
+  "slot": 30
+ },
+ "0x0012AE": {
+  "jp": "機体と武器の地形適応「空」をＳにします。",
+  "en": "Sets the Air terrain rating of unit and weapons to S.",
+  "slot": 60
+ },
+ "0x0012F1": {
+  "jp": "スラスターモジュール",
+  "en": "Thruster Module",
+  "slot": 30
+ },
+ "0x001316": {
+  "jp": "機体と武器の地形適応「宇」をＳにします。",
+  "en": "Sets the Space terrain rating of unit and weapons to S.",
+  "slot": 60
+ },
+ "0x001359": {
+  "jp": "防塵装置",
+  "en": "Dustproofing",
+  "slot": 12
+ },
+ "0x00136F": {
+  "jp": "@機体に移動タイプ「陸」を与え、機体と武器の",
+  "en": "@Gives the unit Land movement type and sets the unit",
+  "slot": 64
+ },
+ "0x0013B0": {
+  "jp": "地形適応「陸」をＳにします。",
+  "en": "and weapon Land terrain rating to S.",
+  "slot": 42
+ },
+ "0x0013E1": {
+  "jp": "スクリューモジュール",
+  "en": "Screw Module",
+  "slot": 30
+ },
+ "0x001409": {
+  "jp": "@機体に移動タイプ「水」を与え、機体と武器の",
+  "en": "@Gives the unit Water movement type and sets the unit",
+  "slot": 64
+ },
+ "0x00144A": {
+  "jp": "地形適応「海」をＳにします。",
+  "en": "and weapon Sea terrain rating to S.",
+  "slot": 42
+ },
+ "0x00147B": {
+  "jp": "Ａ－アダプター",
+  "en": "A-Adapter",
+  "slot": 21
+ },
+ "0x001497": {
+  "jp": "機体と武器の全地形適応をＡにします。",
+  "en": "Sets all terrain ratings of unit and weapons to A.",
+  "slot": 54
+ },
+ "0x0014D4": {
+  "jp": "Ｓ－アダプター",
+  "en": "S-Adapter",
+  "slot": 21
+ },
+ "0x0014F0": {
+  "jp": "機体と武器の全地形適応をＳにします。",
+  "en": "Sets all terrain ratings of unit and weapons to S.",
+  "slot": 54
+ },
+ "0x00152D": {
+  "jp": "ハイパージャマー",
+  "en": "Hyper Jammer",
+  "slot": 24
+ },
+ "0x00154F": {
+  "jp": "@パイロットの気力が１３０以上で、敵の攻撃を",
+  "en": "@When pilot's Will is 130 or higher, evades",
+  "slot": 64
+ },
+ "0x001590": {
+  "jp": "５０％の確率で回避できます。",
+  "en": "enemy attacks with a 50% chance.",
+  "slot": 42
+ },
+ "0x0015C1": {
+  "jp": "マルチセンサー",
+  "en": "Multi Sensor",
+  "slot": 21
+ },
+ "0x0015DD": {
+  "jp": "装備武器の命中率を２０だけ上昇させます。",
+  "en": "Raises equipped weapons' accuracy by 20.",
+  "slot": 60
+ },
+ "0x001620": {
+  "jp": "デュアルセンサー",
+  "en": "Dual Sensor",
+  "slot": 24
+ },
+ "0x00163F": {
+  "jp": "装備武器の命中率を１０だけ上昇させます。",
+  "en": "Raises equipped weapons' accuracy by 10.",
+  "slot": 60
+ },
+ "0x001682": {
+  "jp": "高性能レーダー",
+  "en": "High-Perf. Radar",
+  "slot": 21
+ },
+ "0x0016A1": {
+  "jp": "7マップ兵器、射程１の武器以外の武器の",
+  "en": "7Raises range of all weapons by 1, except",
+  "slot": 55
+ },
+ "0x0016D9": {
+  "jp": "射程を１だけ上昇させます。",
+  "en": "MAP weapons and range-1 weapons.",
+  "slot": 39
+ },
+ "0x001707": {
+  "jp": "Ｔ－ＬＩＮＫセンサー",
+  "en": "T-LINK Sensor",
+  "slot": 30
+ },
+ "0x00172C": {
+  "jp": "装備武器の命中率を４０だけ上昇させます。",
+  "en": "Raises equipped weapons' accuracy by 40.",
+  "slot": 60
+ },
+ "0x00176F": {
+  "jp": "一撃必殺の心得",
+  "en": "One-Shot Kill Art",
+  "slot": 21
+ },
+ "0x00178E": {
+  "jp": "4装備武器のクリティカル率を２０だけ",
+  "en": "4Raises equipped weapons' critical rate",
+  "slot": 52
+ },
+ "0x0017C3": {
+  "jp": "上昇させます。",
+  "en": "by 20.",
+  "slot": 21
+ },
+ "0x0017DF": {
+  "jp": "高性能照準器",
+  "en": "High-Perf. Scope",
+  "slot": 18
+ },
+ "0x0017F8": {
+  "jp": "装備武器の命中率を３０だけ上昇させます。",
+  "en": "Raises equipped weapons' accuracy by 30.",
+  "slot": 60
+ },
+ "0x00183B": {
+  "jp": "リペアキット",
+  "en": "Repair Kit",
+  "slot": 18
+ },
+ "0x001857": {
+  "jp": "+機体のＨＰを全回復させます。",
+  "en": "+Fully restores the unit's HP.",
+  "slot": 43
+ },
+ "0x001883": {
+  "jp": "１マップで、一度だけ使用可能です。",
+  "en": "Usable once per map.",
+  "slot": 51
+ },
+ "0x0018BD": {
+  "jp": "プロペラントタンク",
+  "en": "Propellant Tank",
+  "slot": 27
+ },
+ "0x0018E2": {
+  "jp": "+機体のＥＮを全回復させます。",
+  "en": "+Fully restores the unit's EN.",
+  "slot": 43
+ },
+ "0x00190E": {
+  "jp": "１マップで、一度だけ使用可能です。",
+  "en": "Usable once per map.",
+  "slot": 51
+ },
+ "0x001948": {
+  "jp": "カートリッジ",
+  "en": "Cartridge",
+  "slot": 18
+ },
+ "0x001964": {
+  "jp": "4装備武器の弾数値を全回復させます。",
+  "en": "4Fully restores equipped weapons' ammo.",
+  "slot": 52
+ },
+ "0x001999": {
+  "jp": "１マップで、一度だけ使用可能です。",
+  "en": "Usable once per map.",
+  "slot": 51
+ },
+ "0x0019D3": {
+  "jp": "スーパーリペアキット",
+  "en": "Super Repair Kit",
+  "slot": 30
+ },
+ "0x0019FB": {
+  "jp": "@機体のＨＰ・ＥＮ・弾数値を全回復させます。",
+  "en": "@Fully restores the unit's HP, EN and ammo.",
+  "slot": 64
+ },
+ "0x001A3C": {
+  "jp": "１マップで、一度だけ使用可能です。",
+  "en": "Usable once per map.",
+  "slot": 51
+ },
+ "0x001A76": {
+  "jp": "ＳＰドリンク",
+  "en": "SP Drink",
+  "slot": 18
+ },
+ "0x001A92": {
+  "jp": "Iパイロットの精神ポイントを５０だけ回復させます。",
+  "en": "IRestores 50 of the pilot's SP.",
+  "slot": 73
+ },
+ "0x001ADC": {
+  "jp": "１マップで、一度だけ使用可能です。",
+  "en": "Usable once per map.",
+  "slot": 51
+ },
+ "0x001B16": {
+  "jp": "ＳＳＰドリンク",
+  "en": "SSP Drink",
+  "slot": 21
+ },
+ "0x001B35": {
+  "jp": "@パイロットの精神ポイントを全回復させます。",
+  "en": "@Fully restores the pilot's SP.",
+  "slot": 64
+ },
+ "0x001B76": {
+  "jp": "１マップで、一度だけ使用可能です。",
+  "en": "Usable once per map.",
+  "slot": 51
+ },
+ "0x001BB0": {
+  "jp": "高性能電子頭脳",
+  "en": "High-Perf. CPU",
+  "slot": 21
+ },
+ "0x001BD3": {
+  "jp": "e移動力を２、運動性を２５、武器の",
+  "en": "eRaises Move by 2, Mobility by 25, weapon",
+  "slot": 49
+ },
+ "0x001C05": {
+  "jp": "命中率を２０、マップ兵器、射程１の",
+  "en": "accuracy by 20, and range by 1 for all",
+  "slot": 51
+ },
+ "0x001C39": {
+  "jp": "武器以外の射程を１上昇させます。",
+  "en": "weapons but MAP and range-1 weapons.",
+  "slot": 48
+ },
+ "0x001C70": {
+  "jp": "勇者の印",
+  "en": "Hero's Emblem",
+  "slot": 12
+ },
+ "0x001C86": {
+  "jp": "@機体の装甲値を２００、運動性を２５、武器の",
+  "en": "@Raises unit's Armor by 200, Mobility by 25,",
+  "slot": 64
+ },
+ "0x001CC7": {
+  "jp": "命中率を３０だけ上昇させます。",
+  "en": "and weapon accuracy by 30.",
+  "slot": 45
+ },
+ "0x001CFB": {
+  "jp": "鋼の魂",
+  "en": "Soul of Steel",
+  "slot": 9
+ },
+ "0x001D0E": {
+  "jp": "@機体の装甲値を２５０、運動性を３０、武器の",
+  "en": "@Raises unit's Armor by 250, Mobility by 30,",
+  "slot": 64
+ },
+ "0x001D4F": {
+  "jp": "命中率を３５だけ上昇させます。",
+  "en": "and weapon accuracy by 35.",
+  "slot": 45
+ },
+ "0x001D83": {
+  "jp": "大型ジェネレーター",
+  "en": "Large Generator",
+  "slot": 27
+ },
+ "0x001DA5": {
+  "jp": "機体の最大ＥＮを５０だけ上昇させます。",
+  "en": "Raises the unit's max EN by 50.",
+  "slot": 57
+ },
+ "0x001DE5": {
+  "jp": "メガジェネレーター",
+  "en": "Mega Generator",
+  "slot": 27
+ },
+ "0x001E07": {
+  "jp": "機体の最大ＥＮを１００だけ上昇させます。",
+  "en": "Raises the unit's max EN by 100.",
+  "slot": 60
+ },
+ "0x001E4A": {
+  "jp": "ギガジェネレーター",
+  "en": "Giga Generator",
+  "slot": 27
+ },
+ "0x001E6C": {
+  "jp": "機体の最大ＥＮを２００だけ上昇させます。",
+  "en": "Raises the unit's max EN by 200.",
+  "slot": 60
+ },
+ "0x001EAF": {
+  "jp": "ソーラーパネル",
+  "en": "Solar Panel",
+  "slot": 21
+ },
+ "0x001ECE": {
+  "jp": "7自軍フェイズ開始時に、ＥＮが最大値の",
+  "en": "7At the start of the player phase, restores",
+  "slot": 55
+ },
+ "0x001F06": {
+  "jp": "１０％分だけ回復します。",
+  "en": "EN by 10% of max value.",
+  "slot": 36
+ },
+ "0x001F31": {
+  "jp": "ビームコート",
+  "en": "Beam Coat",
+  "slot": 18
+ },
+ "0x001F4D": {
+  "jp": "Cビーム攻撃のダメージを９００だけ軽減します。",
+  "en": "CReduces beam attack damage by 900.",
+  "slot": 67
+ },
+ "0x001F91": {
+  "jp": "ＥＮを５消費。",
+  "en": "Costs 5 EN.",
+  "slot": 21
+ },
+ "0x001FAD": {
+  "jp": "ＡＢフィールド",
+  "en": "AB Field",
+  "slot": 21
+ },
+ "0x001FCC": {
+  "jp": "Fビーム攻撃のダメージを１２００だけ軽減します。",
+  "en": "FReduces beam attack damage by 1200.",
+  "slot": 70
+ },
+ "0x002013": {
+  "jp": "ＥＮを１０消費。",
+  "en": "Costs 10 EN.",
+  "slot": 24
+ },
+ "0x002032": {
+  "jp": "Ｇ・ウォール",
+  "en": "G-Wall",
+  "slot": 18
+ },
+ "0x00204E": {
+  "jp": "@パイロットの気力が１２０以上で、ダメージを",
+  "en": "@When pilot's Will is 120 or higher, nullifies",
+  "slot": 64
+ },
+ "0x00208F": {
+  "jp": "８００まで無効化します。ＥＮを５消費。",
+  "en": "damage up to 800. Costs 5 EN.",
+  "slot": 57
+ },
+ "0x0020CF": {
+  "jp": "Ｇ・テリトリー",
+  "en": "G-Territory",
+  "slot": 21
+ },
+ "0x0020EE": {
+  "jp": "@パイロットの気力が１２０以上で、ダメージを",
+  "en": "@When pilot's Will is 120 or higher, nullifies",
+  "slot": 64
+ },
+ "0x00212F": {
+  "jp": "１８００まで無効化します。ＥＮを１５消費。",
+  "en": "damage up to 1800. Costs 15 EN.",
+  "slot": 63
+ },
+ "0x002175": {
+  "jp": "ハチマキ",
+  "en": "Headband",
+  "slot": 12
+ },
+ "0x00218B": {
+  "jp": "1出撃時にパイロットの気力を５だけ",
+  "en": "1Raises the pilot's Will by 5 when",
+  "slot": 49
+ },
+ "0x0021BD": {
+  "jp": "上昇させます。",
+  "en": "deployed.",
+  "slot": 21
+ },
+ "0x0021D9": {
+  "jp": "ねじりハチマキ",
+  "en": "Twisted Headband",
+  "slot": 21
+ },
+ "0x0021F8": {
+  "jp": "4出撃時にパイロットの気力を１０だけ",
+  "en": "4Raises the pilot's Will by 10 when",
+  "slot": 52
+ },
+ "0x00222D": {
+  "jp": "上昇させます。",
+  "en": "deployed.",
+  "slot": 21
+ }
+}

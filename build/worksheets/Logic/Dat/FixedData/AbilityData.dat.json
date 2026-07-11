@@ -1,0 +1,482 @@
+{
+"0x000456": {
+"jp": "－－－－－－",
+"en": "------",
+"slot": 18
+},
+"0x00046F": {
+"jp": "ＡＢフィールド",
+"en": "AB Field",
+"slot": 21
+},
+"0x00048B": {
+"jp": "ＥＮが１０以上の場合、ビーム攻撃（バリア貫通系武器を除く）によるダメージを１２００だけ軽減します。",
+"en": "When EN is 10+, reduces damage from beam attacks (except barrier-piercing weapons) by 1200.",
+"slot": 147
+},
+"0x000525": {
+"jp": "Ｅフィールド",
+"en": "E Field",
+"slot": 18
+},
+"0x0005DF": {
+"jp": "軽減します。",
+"en": "reduces it.",
+"slot": 18
+},
+"0x0005F8": {
+"jp": "Ｇ・ウォール",
+"en": "G-Wall",
+"slot": 18
+},
+"0x0006AF": {
+"jp": "無効化します。",
+"en": "nullifies it.",
+"slot": 21
+},
+"0x0006CB": {
+"jp": "Ｇ・テリトリー",
+"en": "G-Territory",
+"slot": 21
+},
+"0x00078B": {
+"jp": "無効化します。",
+"en": "nullifies it.",
+"slot": 21
+},
+"0x0007A7": {
+"jp": "パッシブ・ビット",
+"en": "Passive Bit",
+"slot": 24
+},
+"0x0007C6": {
+"jp": "ＥＮが５以上の場合、ビーム攻撃（バリア貫通系武器を除く）によるダメージを１１００だけ軽減します。",
+"en": "When EN is 5+, reduces damage from beam attacks (except barrier-piercing weapons) by 1100.",
+"slot": 144
+},
+"0x00085D": {
+"jp": "ＴＥスフィア",
+"en": "TE Sphere",
+"slot": 18
+},
+"0x000914": {
+"jp": "軽減します。",
+"en": "reduces it.",
+"slot": 18
+},
+"0x00092D": {
+"jp": "ビームコート",
+"en": "Beam Coat",
+"slot": 18
+},
+"0x000946": {
+"jp": "ＥＮが５以上の場合、ビーム攻撃（バリア貫通系武器を除く）によるダメージを９００だけ軽減します。",
+"en": "When EN is 5+, reduces damage from beam attacks (except barrier-piercing weapons) by 900.",
+"slot": 141
+},
+"0x0009DA": {
+"jp": "ビーム吸収",
+"en": "Beam Absorb",
+"slot": 15
+},
+"0x0009F0": {
+"jp": "ビーム攻撃（バリア貫通系武器を除く）による、本来受けるはずのダメージ分だけ自機の現ＨＰを回復します。",
+"en": "Restores current HP by the damage that would have been taken from beam attacks (except barrier-piercing weapons).",
+"slot": 150
+},
+"0x000A8D": {
+"jp": "念動フィールド",
+"en": "Psycho Field",
+"slot": 21
+},
+"0x000B47": {
+"jp": "「念動力」の「スキルレベル」×２００までのダメージを無効化します。",
+"en": "Nullifies damage up to Psychodriver skill level x200.",
+"slot": 98
+},
+"0x000BB0": {
+"jp": "念動フィールドＳ",
+"en": "Psycho Field S",
+"slot": 24
+},
+"0x000C6D": {
+"jp": "「念動力」の「スキルレベル」×２５０までのダメージを無効化します。",
+"en": "Nullifies damage up to Psychodriver skill level x250.",
+"slot": 98
+},
+"0x000CD6": {
+"jp": "歪曲フィールド",
+"en": "Distortion Field",
+"slot": 21
+},
+"0x000CF2": {
+"jp": "ＥＮが１０以上の場合、全ての攻撃（バリア貫通系武器を除く）によるダメージを半減します。",
+"en": "When EN is 10+, halves damage from all attacks (except barrier-piercing weapons).",
+"slot": 129
+},
+"0x000D7A": {
+"jp": "ＨＰ回復（小）",
+"en": "HP Regen (S)",
+"slot": 21
+},
+"0x000D96": {
+"jp": "ＨＰ回復",
+"en": "HP Regen",
+"slot": 12
+},
+"0x000DA9": {
+"jp": "自軍フェイズ開始時に、ＨＰが回復します。",
+"en": "Restores HP at the start of the self phase.",
+"slot": 60
+},
+"0x000DEC": {
+"jp": "ＨＰ回復（中）",
+"en": "HP Regen (M)",
+"slot": 21
+},
+"0x000E08": {
+"jp": "ＨＰ回復（大）",
+"en": "HP Regen (L)",
+"slot": 21
+},
+"0x000E24": {
+"jp": "ＥＮ回復（小）",
+"en": "EN Regen (S)",
+"slot": 21
+},
+"0x000E40": {
+"jp": "ＥＮ回復",
+"en": "EN Regen",
+"slot": 12
+},
+"0x000E53": {
+"jp": "自軍フェイズ開始時に、ＥＮが回復します。",
+"en": "Restores EN at the start of the self phase.",
+"slot": 60
+},
+"0x000E96": {
+"jp": "ＥＮ回復（中）",
+"en": "EN Regen (M)",
+"slot": 21
+},
+"0x000EB2": {
+"jp": "ＥＮ回復（大）",
+"en": "EN Regen (L)",
+"slot": 21
+},
+"0x000ECE": {
+"jp": "システムＬＩＯＨ",
+"en": "System LIOH",
+"slot": 24
+},
+"0x000EED": {
+"jp": "気力が１３０以上の場合、メインパイロットの格闘・命中・技量が２０だけ上昇します。",
+"en": "When morale is 130+, the main pilot's Melee, Hit, and Skill rise by 20.",
+"slot": 120
+},
+"0x000F6C": {
+"jp": "ＯＤＥシステム",
+"en": "ODE System",
+"slot": 21
+},
+"0x000F88": {
+"jp": "自軍フェイズ開始時に、特殊能力「ＯＤＥシステム」を保有するマップ上の機体の、パイロットの気力がその中で最も高いパイロットの気力と同じになります。また、最終命中率・回避率が「マップ上のＯＤＥシステム搭載機の数」＋「経過ターン数」×２だけ上昇します。",
+"en": "At self phase start, all units on the map with the ODE System ability set their pilot's morale to that of the highest-morale pilot among them. Also, final hit and evade rates rise by (number of ODE System units on map) + (turns elapsed) x2.",
+"slot": 368
+},
+"0x0010FF": {
+"jp": "ジャマー",
+"en": "Jammer",
+"slot": 12
+},
+"0x001112": {
+"jp": "ミサイル系の攻撃を５０％の確率で無効化します。",
+"en": "Nullifies missile-type attacks with a 50% chance.",
+"slot": 69
+},
+"0x00115E": {
+"jp": "分身",
+"en": "Afterimage",
+"slot": 6
+},
+"0x00116B": {
+"jp": "パイロットの気力が１３０以上の場合、５０％の確率で攻撃を回避できます。",
+"en": "When pilot morale is 130+, can evade an attack with a 50% chance.",
+"slot": 105
+},
+"0x0011DB": {
+"jp": "パイロットブロック",
+"en": "Pilot Block",
+"slot": 27
+},
+"0x0011FD": {
+"jp": "Ｐ系全ての特殊効果を無効化します。",
+"en": "Nullifies all P-type special effects.",
+"slot": 51
+},
+"0x001237": {
+"jp": "ロボットブロック",
+"en": "Robot Block",
+"slot": 24
+},
+"0x001256": {
+"jp": "Ｒ系全ての特殊効果を無効化します。",
+"en": "Nullifies all R-type special effects.",
+"slot": 51
+},
+"0x001290": {
+"jp": "フルブロック",
+"en": "Full Block",
+"slot": 18
+},
+"0x0012A9": {
+"jp": "全ての特殊効果を無効化します。",
+"en": "Nullifies all special effects.",
+"slot": 45
+},
+"0x0012DD": {
+"jp": "強化パーツ使用",
+"en": "Use Parts",
+"slot": 21
+},
+"0x0012F9": {
+"jp": "隣接した機体に装備中の強化パーツ（コマンドで使用可能なもの）を使用できます。",
+"en": "Can use the command-usable parts equipped on an adjacent unit.",
+"slot": 114
+},
+"0x001372": {
+"jp": "ガンエデンの守護",
+"en": "Gan Eden's Aegis",
+"slot": 24
+},
+"0x001391": {
+"jp": "攻撃を受けた場合、マップ上に存在する、しもべの機体数×１００だけ、最終ダメージが減少します。",
+"en": "When attacked, final damage is reduced by (number of servant units on map) x100.",
+"slot": 137
+},
+"0x001421": {
+"jp": "パッシーオ",
+"en": "Passio",
+"slot": 15
+},
+"0x001437": {
+"jp": "自軍フェイズ開始時に、マップ上に存在する敵対勢力の全パイロットの気力を２下げます。",
+"en": "At self phase start, lowers the morale of all enemy pilots on the map by 2.",
+"slot": 123
+},
+"0x0014B9": {
+"jp": "ピンポイント爆撃",
+"en": "Pinpoint Bombing",
+"slot": 24
+},
+"0x0014D8": {
+"jp": "自軍フェイズ開始時に、マップ上に存在する敵対勢力の機体の中からランダムで４機に、その機体の現ＨＰの５０％分のダメージを与えます。",
+"en": "At self phase start, deals damage equal to 50% of current HP to 4 random enemy units on the map.",
+"slot": 192
+},
+"0x00159F": {
+"jp": "闇の領域",
+"en": "Realm of Dark",
+"slot": 12
+},
+"0x0015B2": {
+"jp": "自軍フェイズ終了時に、接続する周囲８マスに存在する敵対勢力のＥＮを３０下げます。",
+"en": "At self phase end, lowers EN of enemy units in the 8 adjacent tiles by 30.",
+"slot": 120
+},
+"0x001631": {
+"jp": "逆鱗",
+"en": "Wrath",
+"slot": 6
+},
+"0x00163E": {
+"jp": "自軍フェイズ開始時にＨＰが６０％以下の場合、精神コマンド「覚醒」を使用します。",
+"en": "At self phase start, if HP is 60% or less, uses the spirit command \"Awaken\".",
+"slot": 117
+},
+"0x0016BA": {
+"jp": "エネルギー吸収",
+"en": "Energy Absorb",
+"slot": 21
+},
+"0x0016D6": {
+"jp": "受けたダメージの１％分だけ自機の現ＥＮを回復します。",
+"en": "Restores current EN by 1% of the damage taken.",
+"slot": 78
+},
+"0x00172B": {
+"jp": "ダミー",
+"en": "Dummy",
+"slot": 9
+},
+"0x00173B": {
+"jp": "監視の目",
+"en": "Watchful Eye",
+"slot": 12
+},
+"0x00174E": {
+"jp": "ＨＰが１０％以下になった場合、また自軍フェイズ開始時にＨＰが１０％以下の場合、精神コマンド「必中」を使用します。",
+"en": "When HP drops to 10% or less, or at self phase start if HP is 10% or less, uses the spirit command \"Strike\".",
+"slot": 168
+},
+"0x0017FD": {
+"jp": "味方精神（仮）",
+"en": "Ally Spirit (tmp)",
+"slot": 21
+},
+"0x001819": {
+"jp": "自軍フェイズ開始時に、マップ上に存在する特定の機体（未定）全てに対して、精神コマンド「感応」を使用します。",
+"en": "At self phase start, uses the spirit command \"Sense\" on all specific units (TBD) on the map.",
+"slot": 159
+},
+"0x0018BF": {
+"jp": "味方回復（仮）",
+"en": "Ally Heal (tmp)",
+"slot": 21
+},
+"0x0018DB": {
+"jp": "自軍フェイズ開始時に、マップ上に存在する特定の機体（未定）全てに対して、最大ＨＰの３０％分の現ＨＰを回復させます。",
+"en": "At self phase start, restores current HP by 30% of max HP to all specific units (TBD) on the map.",
+"slot": 171
+},
+"0x00198D": {
+"jp": "いたら精神（仮）",
+"en": "If-Present Spirit (tmp)",
+"slot": 24
+},
+"0x0019AC": {
+"jp": "自軍フェイズ開始時に、マップ上に特定のパイロット（未定）が存在する場合、精神コマンド（未定）を使用します。",
+"en": "At self phase start, if a specific pilot (TBD) is on the map, uses a spirit command (TBD).",
+"slot": 159
+},
+"0x001A52": {
+"jp": "神僕の盾",
+"en": "Servant's Shield",
+"slot": 12
+},
+"0x001A65": {
+"jp": "神の盾",
+"en": "God's Shield",
+"slot": 9
+},
+"0x001A75": {
+"jp": "四凶邪視",
+"en": "Evil Eye",
+"slot": 12
+},
+"0x001A88": {
+"jp": "自軍フェイズ開始時に、周囲１～３マス内に存在する、敵対勢力のパイロットの気力を３下げます。",
+"en": "At self phase start, lowers the morale of enemy pilots within 1-3 tiles by 3.",
+"slot": 135
+},
+"0x001B16": {
+"jp": "神獣盾",
+"en": "Beast Shield",
+"slot": 9
+},
+"0x001B26": {
+"jp": "ＥＮが５以上、気力が１１０以上の場合、全ての攻撃（バリア貫通系武器を除く）によるダメージを半減します。",
+"en": "When EN is 5+ and morale is 110+, halves damage from all attacks (except barrier-piercing weapons).",
+"slot": 153
+},
+"0x001BC6": {
+"jp": "ダミー０３",
+"en": "Dummy 03",
+"slot": 15
+},
+"0x001BDC": {
+"jp": "ダミー０４",
+"en": "Dummy 04",
+"slot": 15
+},
+"0x001BF2": {
+"jp": "ダミー０５",
+"en": "Dummy 05",
+"slot": 15
+},
+"0x001C08": {
+"jp": "ダミー０６",
+"en": "Dummy 06",
+"slot": 15
+},
+"0x001C1E": {
+"jp": "ダミー０７",
+"en": "Dummy 07",
+"slot": 15
+},
+"0x001C34": {
+"jp": "ダミー０８",
+"en": "Dummy 08",
+"slot": 15
+},
+"0x001C4A": {
+"jp": "ダミー０９",
+"en": "Dummy 09",
+"slot": 15
+},
+"0x001C60": {
+"jp": "ダミー１０",
+"en": "Dummy 10",
+"slot": 15
+},
+"0x001C76": {
+"jp": "変形",
+"en": "Transform",
+"slot": 6
+},
+"0x001C83": {
+"jp": "機体を別形態に変化させることができます。",
+"en": "Can change the unit into a different form.",
+"slot": 60
+},
+"0x001CC6": {
+"jp": "合体・分離",
+"en": "Combine/Separate",
+"slot": 15
+},
+"0x001CDC": {
+"jp": "複数の機体を合体させて、別形態の機体へ変化させたり、元の機体へ分離させることができます。",
+"en": "Can combine multiple units into a different form, or separate them back into the original units.",
+"slot": 132
+},
+"0x001D67": {
+"jp": "（単）分離",
+"en": "(Single) Separate",
+"slot": 15
+},
+"0x001D7D": {
+"jp": "換装",
+"en": "Refit",
+"slot": 6
+},
+"0x001D8A": {
+"jp": "修理装置",
+"en": "Repair Kit",
+"slot": 12
+},
+"0x001D9D": {
+"jp": "射程内に位置する部隊のＨＰを回復させることができます。",
+"en": "Can restore the HP of units within range.",
+"slot": 81
+},
+"0x001DF5": {
+"jp": "補給装置",
+"en": "Supply Kit",
+"slot": 12
+},
+"0x001E08": {
+"jp": "射程内に位置する機体のＥＮ、弾数値を最大値まで回復させることができます。",
+"en": "Can restore the EN and ammo of units within range to max.",
+"slot": 108
+},
+"0x001E7B": {
+"jp": "盾装備",
+"en": "Shield",
+"slot": 9
+},
+"0x001E8B": {
+"jp": "反撃時などに「防御」を行うと、受けるダメージを更に１０％減少させることができます。",
+"en": "When defending on counter, etc., reduces damage taken by a further 10%.",
+"slot": 123
+}
+}

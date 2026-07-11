@@ -1,0 +1,2727 @@
+{
+"0x0068D9": {
+"jp": "「目標確認」",
+"en": "「Target found」",
+"slot": 18
+},
+"0x0068EC": {
+"jp": "「攻撃します」",
+"en": "「Attacking」",
+"slot": 21
+},
+"0x006902": {
+"jp": "「エンカウント……！」",
+"en": "「Encounter...!」",
+"slot": 33
+},
+"0x006924": {
+"jp": "「アリエイル・オーグ、攻撃を開始します」",
+"en": "「Ariel Org, commencing attack」",
+"slot": 60
+},
+"0x006961": {
+"jp": "「仕掛けます」",
+"en": "「Making my move」",
+"slot": 21
+},
+"0x006977": {
+"jp": "「敵機パターン、プロスペクト」",
+"en": "「Enemy pattern, Prospect」",
+"slot": 45
+},
+"0x0069A5": {
+"jp": "「あの敵は任せて下さい」",
+"en": "「Leave that enemy to me」",
+"slot": 36
+},
+"0x0069CA": {
+"jp": "「パターン、ロード。アクション」",
+"en": "「Pattern, load. Action」",
+"slot": 48
+},
+"0x0069FB": {
+"jp": "「データ検証……攻撃開始」",
+"en": "「Data verified... commence attack」",
+"slot": 39
+},
+"0x006A23": {
+"jp": "「アリエイル・オーグ、敵機を排除します」",
+"en": "「Ariel Org, eliminating the enemy」",
+"slot": 60
+},
+"0x006A60": {
+"jp": "「このタイミングなら、先手を取れる……！」",
+"en": "「With this timing, I can strike first...!」",
+"slot": 63
+},
+"0x006AA0": {
+"jp": "「ＡＣＳ、アクティブ。攻撃開始」",
+"en": "「ACS, active. Commence attack」",
+"slot": 48
+},
+"0x006AD1": {
+"jp": "「モーション・パターン、セレクト」",
+"en": "「Motion pattern, select」",
+"slot": 51
+},
+"0x006B05": {
+"jp": "「最適パターンを選択」",
+"en": "「Selecting optimal pattern」",
+"slot": 33
+},
+"0x006B27": {
+"jp": "「レンジ内、攻撃可能」",
+"en": "「In range, attack possible」",
+"slot": 33
+},
+"0x006B49": {
+"jp": "「行きましょう、フリッケライ」",
+"en": "「Let's go, Fricke Rai」",
+"slot": 45
+},
+"0x006B77": {
+"jp": "「フリッケライ、お願いね」",
+"en": "「Fricke Rai, if you please」",
+"slot": 39
+},
+"0x006B9F": {
+"jp": "「フリッケライなら、いける」",
+"en": "「With Fricke Rai, I can do this」",
+"slot": 42
+},
+"0x006BCA": {
+"jp": "「行きましょう、アルト」",
+"en": "「Let's go, Alt」",
+"slot": 36
+},
+"0x006BEF": {
+"jp": "「フリッケライと同じ要領で行けるはず」",
+"en": "「Same approach as Fricke Rai should work」",
+"slot": 57
+},
+"0x006C29": {
+"jp": "「お願いね、アルト」",
+"en": "「If you please, Alt」",
+"slot": 30
+},
+"0x006C48": {
+"jp": "「行きましょう、ゲシュペンスト」",
+"en": "「Let's go, Gespenst」",
+"slot": 48
+},
+"0x006C79": {
+"jp": "「ゲシュペンスト、お願いね」",
+"en": "「Gespenst, if you please」",
+"slot": 42
+},
+"0x006CA4": {
+"jp": "「ガンマ・セイバー……好きにはやらせない」",
+"en": "「Gamma Saber... I won't let you run free」",
+"slot": 63
+},
+"0x006CE4": {
+"jp": "「マッド・ドッグス……連係に留意しなければ」",
+"en": "「Mad Dogs... must mind their teamwork」",
+"slot": 66
+},
+"0x006D27": {
+"jp": "「エグレッタ・ウーノ……私は退きません」",
+"en": "「Egretta Uno... I will not retreat」",
+"slot": 60
+},
+"0x006D64": {
+"jp": "「ターゲット、アルファ１。/　データ、アナライズ」",
+"en": "「Target, Alpha 1./ Data, analyze」",
+"slot": 73
+},
+"0x006DAE": {
+"jp": "「エグレッタ、/　あなたは全てを知っているのですか？」",
+"en": "「Egretta,/ do you know everything?」",
+"slot": 79
+},
+"0x006DFE": {
+"jp": "「アルファ・セイバー……油断は出来ない」",
+"en": "「Alpha Saber... I can't drop my guard」",
+"slot": 60
+},
+"0x006E3B": {
+"jp": "「アルテウル・シュタインベック……/　あなたの真意は何なのです？」",
+"en": "「Alteur Steinbeck.../ what is your true aim?」",
+"slot": 97
+},
+"0x006E9D": {
+"jp": "「彼の陰謀は、/　全て明かされたわけではない……！」",
+"en": "「His scheme hasn't been/ fully revealed yet...!」",
+"slot": 76
+},
+"0x006EEA": {
+"jp": "「イグニス、/　あなたが言う破滅を受け入れる気はありません」",
+"en": "「Ignis,/ I won't accept the ruin you speak of」",
+"slot": 88
+},
+"0x006F43": {
+"jp": "「ターゲット、メリオルエッセ。/　データ、アナライズ」",
+"en": "「Target, Meliora Esse./ Data, analyze」",
+"slot": 79
+},
+"0x006F93": {
+"jp": "「メリオルエッセ機、確認。攻撃開始」",
+"en": "「Meliora Esse unit confirmed. Attacking」",
+"slot": 54
+},
+"0x006FCA": {
+"jp": "「メリオルエッセ……アナライズ開始」",
+"en": "「Meliora Esse... commencing analysis」",
+"slot": 54
+},
+"0x007001": {
+"jp": "「コンターギオ、/　あなたの好きにはやらせません」",
+"en": "「Contagio,/ I won't let you do as you please」",
+"slot": 73
+},
+"0x00704B": {
+"jp": "「アクイラ、私が相手をしましょう」",
+"en": "「Aquila, I'll be your opponent」",
+"slot": 51
+},
+"0x00707F": {
+"jp": "「ウンブラ……あなたを止めます」",
+"en": "「Umbra... I'll stop you」",
+"slot": 48
+},
+"0x0070B0": {
+"jp": "「ペルフェクティオ……/　ここであなたを封印します」",
+"en": "「Perfectio.../ I'll seal you away here」",
+"slot": 76
+},
+"0x0070FD": {
+"jp": "「私に残された時、命……燃やしましょう、/　多くの生命が息づく世界のために」",
+"en": "「My time, my life... I'll burn it all,/ for a world where many lives breathe」",
+"slot": 112
+},
+"0x00716E": {
+"jp": "「ターゲット、ゲスト指揮官機。/　データ、アナライズ」",
+"en": "「Target, Guest command unit./ Data, analyze」",
+"slot": 79
+},
+"0x0071BE": {
+"jp": "「優先ターゲット、ゲスト指揮官機」",
+"en": "「Priority target, Guest command unit」",
+"slot": 51
+},
+"0x0071F2": {
+"jp": "「パイロットが人ならば、揺らぎがある……」",
+"en": "「If the pilot is human, there's a waver...」",
+"slot": 63
+},
+"0x007232": {
+"jp": "「ゼゼーナン、/　あなたに地球人を支配することは出来ません」",
+"en": "「Zezernan,/ you cannot rule the people of Earth」",
+"slot": 88
+},
+"0x00728B": {
+"jp": "「異なる星の人間を支配する……/　その考えこそが、/　あなた自身を歪ませているのです」",
+"en": "「Ruling people of another star.../ that very idea/ is what warps you yourself」",
+"slot": 125
+},
+"0x007309": {
+"jp": "「夏喃、あなたの導きは不要です」",
+"en": "「Nan, I don't need your guidance」",
+"slot": 48
+},
+"0x00733A": {
+"jp": "「私に尸解など不要……いえ、不可能でしょう」",
+"en": "「Ascension isn't for me... no, it's impossible」",
+"slot": 66
+},
+"0x00737D": {
+"jp": "「あなた達に運命を委ねる気はありません」",
+"en": "「I won't entrust my fate to you」",
+"slot": 60
+},
+"0x0073BA": {
+"jp": "「孫光龍……あなたに私達の未来を/　支配する権利はありません」",
+"en": "「Sun Guang Long... you've no right/ to rule our future」",
+"slot": 91
+},
+"0x007416": {
+"jp": "「あなた達の手を借りて、/　自分の宿命を変えようとは思いません」",
+"en": "「I won't use your hands/ to try and change my own destiny」",
+"slot": 94
+},
+"0x007475": {
+"jp": "「ターゲット、アレス・ガイスト……」",
+"en": "「Target, Ares Geist...」",
+"slot": 54
+},
+"0x0074AC": {
+"jp": "「ドゥバン、/　私はガイアセイバーズには戻りません」",
+"en": "「Duvan,/ I'm not going back to the Gaia Saviours」",
+"slot": 76
+},
+"0x0074F9": {
+"jp": "「ドゥバン、ガイアセイバーズは/　私達がいるべき場所ではないのです」",
+"en": "「Duvan, the Gaia Saviours/ isn't where we belong」",
+"slot": 100
+},
+"0x00755E": {
+"jp": "「ドゥバン、私も……退くわけにはいきません」",
+"en": "「Duvan, I too... can't afford to back down」",
+"slot": 66
+},
+"0x0075A1": {
+"jp": "「ドゥバン、これが私の選んだ道なのです」",
+"en": "「Duvan, this is the path I chose」",
+"slot": 60
+},
+"0x0075DE": {
+"jp": "「滅び行く者が、/　この世界に干渉してはいけない」",
+"en": "「Those doomed to perish/ must not meddle with this world」",
+"slot": 73
+},
+"0x007628": {
+"jp": "「ドゥバン、私達に人を操る力はありません」",
+"en": "「Duvan, we have no power to control people.」",
+"slot": 63
+},
+"0x007668": {
+"jp": "「ドゥバン、もう終わりにしましょう……！」",
+"en": "「Duvan, let's end this now...!」",
+"slot": 63
+},
+"0x0076A8": {
+"jp": "「私はあなたを止めます。/　あなたと同じ……私が！」",
+"en": "「I will stop you./　Just like you... I will!」",
+"slot": 76
+},
+"0x0076F5": {
+"jp": "「ドゥバン……/　命は、生まれた理由に/　縛られてはいけないのです！」",
+"en": "「Duvan.../　A life must not be bound/　by the reason it was born!」",
+"slot": 101
+},
+"0x00775B": {
+"jp": "「ためらってはいられない……！」",
+"en": "「I can't afford to hesitate...!」",
+"slot": 48
+},
+"0x00778C": {
+"jp": "「ガイアセイバーズを止めなければ……！」",
+"en": "「I have to stop the Gaia Saviours...!」",
+"slot": 60
+},
+"0x0077C9": {
+"jp": "「あなた達は真実を知っているのですか？」",
+"en": "「Do you people know the truth?」",
+"slot": 60
+},
+"0x007806": {
+"jp": "「ガイアセイバーズ……/　私は、あなた達を止めます」",
+"en": "「Gaia Saviours.../　I will stop you.」",
+"slot": 76
+},
+"0x007853": {
+"jp": "「その機体を破壊し、身柄を拘束します」",
+"en": "「I'll destroy that unit and detain you.」",
+"slot": 57
+},
+"0x00788D": {
+"jp": "「ダブルＧ３号機……攻撃開始」",
+"en": "「Double G Unit 3... commencing attack.」",
+"slot": 45
+},
+"0x0078BB": {
+"jp": "「ターゲット、ジンライ」",
+"en": "「Target, Jinrai.」",
+"slot": 36
+},
+"0x0078E0": {
+"jp": "「ジンライ……止めてみせます」",
+"en": "「Jinrai... I will stop you.」",
+"slot": 45
+},
+"0x00790E": {
+"jp": "「ターゲット、メディウス・ロクス」",
+"en": "「Target, Medius Locus.」",
+"slot": 51
+},
+"0x007942": {
+"jp": "「ターゲット、メディウス。/　データ、アナライズ」",
+"en": "「Target, Medius./　Analyzing data.」",
+"slot": 73
+},
+"0x00798C": {
+"jp": "「ターゲット、ガンマ１」",
+"en": "「Target, Gamma 1.」",
+"slot": 36
+},
+"0x0079B1": {
+"jp": "「いかなる成長を遂げようとも……！」",
+"en": "「No matter how much it grows...!」",
+"slot": 54
+},
+"0x0079E8": {
+"jp": "「あの機体も、アルテウルの陰謀の一環……！」",
+"en": "「That unit too is part of Alteur's scheme...!」",
+"slot": 66
+},
+"0x007A2B": {
+"jp": "「あの機体はいったい……」",
+"en": "「What on earth is that unit...」",
+"slot": 39
+},
+"0x007A53": {
+"jp": "「あの機体は、災いを呼ぶ……」",
+"en": "「That unit brings disaster...」",
+"slot": 45
+},
+"0x007A81": {
+"jp": "「黒き災い……好きにはやらせません」",
+"en": "「Black calamity... I won't let it run free.」",
+"slot": 54
+},
+"0x007AB8": {
+"jp": "「あなたは何故、イングを狙うのです？」",
+"en": "「Why do you target Ing?」",
+"slot": 57
+},
+"0x007AF2": {
+"jp": "「ターゲット、オメガ・セイバー」",
+"en": "「Target, Omega Saver.」",
+"slot": 48
+},
+"0x007B23": {
+"jp": "「ガリルナガン……ここで食い止めます」",
+"en": "「Galilnagant... I'll stop it here.」",
+"slot": 57
+},
+"0x007B5D": {
+"jp": "「オメガ・セイバー……アルテウルの懐刀」",
+"en": "「Omega Saver... Alteur's right hand.」",
+"slot": 60
+},
+"0x007B9A": {
+"jp": "「ターゲット、ルイーナ機。/　データ、アナライズ」",
+"en": "「Target, Ruina unit./　Analyzing data.」",
+"slot": 73
+},
+"0x007BE4": {
+"jp": "「ルイーナ機、確認。攻撃します」",
+"en": "「Ruina unit confirmed. Attacking.」",
+"slot": 48
+},
+"0x007C15": {
+"jp": "「ルイーナを速やかに排除します」",
+"en": "「I'll eliminate the Ruina swiftly.」",
+"slot": 48
+},
+"0x007C46": {
+"jp": "「アリエイル・オーグ、/　ルイーナ機を撃破します」",
+"en": "「Ariel Org,/　I'll destroy the Ruina unit.」",
+"slot": 73
+},
+"0x007C90": {
+"jp": "「ターゲット、ガルベルス。攻撃開始」",
+"en": "「Target, Galbers. Commencing attack.」",
+"slot": 54
+},
+"0x007CC7": {
+"jp": "「完全無欠の機動兵器……/　そのような物は存在し得ないのです」",
+"en": "「A flawless war machine.../　Such a thing cannot exist.」",
+"slot": 91
+},
+"0x007D23": {
+"jp": "「ターゲット、クストース……攻撃開始」",
+"en": "「Target, Custos... commencing attack.」",
+"slot": 57
+},
+"0x007D5D": {
+"jp": "「クストースを止めなければ……！」",
+"en": "「I have to stop Custos...!」",
+"slot": 51
+},
+"0x007D91": {
+"jp": "「あなたは人間を庇護するのではなく、/　支配しようとしている……！」",
+"en": "「You aren't protecting humanity,/　you're trying to rule it...!」",
+"slot": 100
+},
+"0x007DF6": {
+"jp": "「ガンエデン……/　あなたのロジックには、瑕疵があります」",
+"en": "「Gan Eden.../　There's a flaw in your logic.」",
+"slot": 85
+},
+"0x007E4C": {
+"jp": "「急速な進化……その行き着く先は、死です」",
+"en": "「Rapid evolution... its end is death.」",
+"slot": 63
+},
+"0x007E8C": {
+"jp": "「エルデ・ミッテ……/　あなたに私達を支配することは出来ません」",
+"en": "「Erde Mitte.../　You cannot rule over us.」",
+"slot": 94
+},
+"0x007EEB": {
+"jp": "「ユーゼス……/　あなたに未来を与えるわけにはいかない……！」",
+"en": "「Euzeth.../　I can't let you have a future...!」",
+"slot": 91
+},
+"0x007F47": {
+"jp": "「至高の存在となり、支配する……/　それが……その考えこそが人を、/　生命を歪ませるのです！」",
+"en": "「Becoming supreme, ruling all.../　That... that very idea is what/　warps people and life!」",
+"slot": 137
+},
+"0x007FD1": {
+"jp": "「ターゲット、ゲスト機」",
+"en": "「Target, Guest unit.」",
+"slot": 36
+},
+"0x007FF6": {
+"jp": "「前方のゲスト機を排除します」",
+"en": "「Eliminating the Guest unit ahead.」",
+"slot": 45
+},
+"0x008024": {
+"jp": "「ゲスト機、確認。攻撃を開始します」",
+"en": "「Guest unit confirmed. Commencing attack.」",
+"slot": 54
+},
+"0x00805B": {
+"jp": "「インスペクターのデータ参照……/　パターン、プロスペクト」",
+"en": "「Referencing Inspector data.../　Pattern, prospect.」",
+"slot": 88
+},
+"0x0080B4": {
+"jp": "「ターゲット、デモン。攻撃開始」",
+"en": "「Target, Daemon. Commencing attack.」",
+"slot": 48
+},
+"0x0080E5": {
+"jp": "「デモンを排除します」",
+"en": "「Eliminating the Daemon.」",
+"slot": 33
+},
+"0x008107": {
+"jp": "「デモン確認。アナライズ開始」",
+"en": "「Daemon confirmed. Analyzing.」",
+"slot": 45
+},
+"0x008135": {
+"jp": "「前方の妖機人を排除します」",
+"en": "「Eliminating the Youkijin ahead.」",
+"slot": 42
+},
+"0x008160": {
+"jp": "「ターゲット、超機人。データ、アナライズ」",
+"en": "「Target, Choukijin. Analyzing data.」",
+"slot": 63
+},
+"0x0081A0": {
+"jp": "「ターゲット、雀武王。/　パターン、プロスペクト」",
+"en": "「Target, JakuBuOh./　Pattern, prospect.」",
+"slot": 73
+},
+"0x0081EA": {
+"jp": "「ターゲット、武雀王。攻撃開始」",
+"en": "「Target, BuJakuOh. Commencing attack.」",
+"slot": 48
+},
+"0x00821B": {
+"jp": "「ターゲット、虎王機。動きを止めます」",
+"en": "「Target, Koo unit. Halting its movement.」",
+"slot": 57
+},
+"0x008255": {
+"jp": "「虎王機を阻止します」",
+"en": "「Stopping the Koo unit.」",
+"slot": 33
+},
+"0x008277": {
+"jp": "「四凶……要警戒ターゲットと認識」",
+"en": "「Four Fiends... flagged as high-alert target.」",
+"slot": 51
+},
+"0x0082AB": {
+"jp": "「ターゲット、饕餮王。アナライズ開始」",
+"en": "「Target, ToTetsuOh. Analyzing.」",
+"slot": 57
+},
+"0x0082E5": {
+"jp": "「ターゲット、窮奇王。攻撃開始」",
+"en": "「Target, KyuKiOh. Commencing attack.」",
+"slot": 48
+},
+"0x008316": {
+"jp": "「システム・ダウン……これまでですね……」",
+"en": "「System down... this is the end...」",
+"slot": 63
+},
+"0x008356": {
+"jp": "「後は頼みます……」",
+"en": "「The rest is up to you...」",
+"slot": 30
+},
+"0x008375": {
+"jp": "「戦闘不能……」",
+"en": "「Combat disabled...」",
+"slot": 24
+},
+"0x00838E": {
+"jp": "「このままでは、/　サーボモーターが焼き切れる……！」",
+"en": "「At this rate, the/　servo motors will burn out...!」",
+"slot": 79
+},
+"0x0083DE": {
+"jp": "「まだ終われません……！」",
+"en": "「I can't be finished yet...!」",
+"slot": 39
+},
+"0x008406": {
+"jp": "「くっ、/　フレーム・コネクターのレスポンスが……！」",
+"en": "「Ngh,/　the frame connector's response is...!」",
+"slot": 79
+},
+"0x008456": {
+"jp": "「オート・バランサー、損傷……！/　ＳＭＣに切り換え！」",
+"en": "「Auto-balancer damaged...!/　Switching to SMC!」",
+"slot": 82
+},
+"0x0084A9": {
+"jp": "「ＡＣＳが生きていれば、戦える……！」",
+"en": "「If the ACS still works, I can fight...!」",
+"slot": 57
+},
+"0x0084E3": {
+"jp": "「メイン・フレーム、損傷……/　このままでは……！」",
+"en": "「Main frame damaged.../　At this rate...!」",
+"slot": 76
+},
+"0x008530": {
+"jp": "「まだリカバー可能……諦めない！」",
+"en": "「Recovery's still possible... I won't give up!」",
+"slot": 51
+},
+"0x008564": {
+"jp": "「ここで倒れるわけにはいかない……！」",
+"en": "「I can't go down here...!」",
+"slot": 57
+},
+"0x00859E": {
+"jp": "「ファウ・ケルンが無事ならば、/　戦闘は続行可能……！」",
+"en": "「If the Fau Kern is intact,/　I can keep fighting...!」",
+"slot": 82
+},
+"0x0085F1": {
+"jp": "「フリッケライ……もたせてみせる！」",
+"en": "「Frickerei... I'll make it hold!」",
+"slot": 54
+},
+"0x008628": {
+"jp": "「アルトでなければ、危なかった……！」",
+"en": "「If not for the Alt, that was close...!」",
+"slot": 57
+},
+"0x008662": {
+"jp": "「くううっ！　ドゥバン、私は！」",
+"en": "「Guhhh! Duvan, I...!」",
+"slot": 48
+},
+"0x008693": {
+"jp": "「私達に託された本当の役目、それは……！」",
+"en": "「The true duty entrusted to us, it's...!」",
+"slot": 63
+},
+"0x0086D3": {
+"jp": "「パワー勝負で勝つのは困難……ならば！」",
+"en": "「Winning on raw power is hard... so then!」",
+"slot": 60
+},
+"0x008710": {
+"jp": "「くうっ！　アレスを止められない！？」",
+"en": "「Guh! I can't stop the Ares!?」",
+"slot": 57
+},
+"0x00874A": {
+"jp": "「ドゥバン……！/　もし、アインストの力を制御できなければ、/　あなたは！」",
+"en": "「Duvan...!/　If you can't control the Einst power,/　you'll...!」",
+"slot": 110
+},
+"0x0087B9": {
+"jp": "「エグレッタ、/　まだ勝敗が決まったわけではありません！」",
+"en": "「Egretta,/　the outcome isn't decided yet!」",
+"slot": 85
+},
+"0x00880F": {
+"jp": "「アルタルフ……やはり、一筋縄では……！」",
+"en": "「Altarf... as I thought, not so easy...!」",
+"slot": 63
+},
+"0x00884F": {
+"jp": "「イグニス、私はまだ！」",
+"en": "「Ignis, I'm not done yet!」",
+"slot": 36
+},
+"0x008874": {
+"jp": "「コンターギオ、まだ決着はついていません！」",
+"en": "「Contagio, this isn't over yet!」",
+"slot": 66
+},
+"0x0088B7": {
+"jp": "「アクイラ、私はまだ戦えます！」",
+"en": "「Aquila, I can still fight!」",
+"slot": 48
+},
+"0x0088E8": {
+"jp": "「夏喃、あなたが何を企もうと……！」",
+"en": "「Kanan, whatever you're plotting...!」",
+"slot": 54
+},
+"0x00891F": {
+"jp": "「ロフ、/　まだ決着がついたわけではありません！」",
+"en": "「Loff,/　the outcome isn't decided yet!」",
+"slot": 73
+},
+"0x008969": {
+"jp": "「口調とは裏腹の、迅速な攻撃……！」",
+"en": "「A swift attack, unlike that tone...!」",
+"slot": 54
+},
+"0x0089A0": {
+"jp": "「応龍皇……最上位の超機人……！」",
+"en": "「Oryuo... the highest Choukijin...!」",
+"slot": 51
+},
+"0x0089D4": {
+"jp": "「くっ！　破滅の力を……/　はねのけてみせます！」",
+"en": "「Guh! I'll fend off/　the power of ruin!」",
+"slot": 73
+},
+"0x008A1E": {
+"jp": "「ジンライとの間合いを/　上手く取らなければ……」",
+"en": "「I have to gauge the range/　against Jinrai well...」",
+"slot": 73
+},
+"0x008A68": {
+"jp": "「メディウスは、/　リアルタイムで成長している……！」",
+"en": "「Medius is growing/　in real time...!」",
+"slot": 79
+},
+"0x008AB8": {
+"jp": "「くうっ！　あの斧を何とかしなければ……！」",
+"en": "「Guh! I have to deal with that axe...!」",
+"slot": 66
+},
+"0x008AFB": {
+"jp": "「これが雀武王の力……！」",
+"en": "「So this is JakuBuOh's power...!」",
+"slot": 39
+},
+"0x008B23": {
+"jp": "「武雀王のレンジから離脱しなければ……！」",
+"en": "「I have to break from BuJakuOh's range...!」",
+"slot": 63
+},
+"0x008B63": {
+"jp": "「四凶の超機人……強敵ですね……！」",
+"en": "「The Four Fiends' Choukijin... tough foes...!」",
+"slot": 54
+},
+"0x008B9A": {
+"jp": "「このままでは、取り込まれてしまう……！」",
+"en": "「At this rate, I'll be absorbed...!」",
+"slot": 63
+},
+"0x008BDA": {
+"jp": "「あなたは神ではない……/　歪められた機械、兵器に過ぎません……！」",
+"en": "「You're no god.../　just a warped machine, a weapon...!」",
+"slot": 100
+},
+"0x008C3F": {
+"jp": "「あなたが新たな世界の祖になるなどと……！」",
+"en": "「You, the father of a new world...!?」",
+"slot": 66
+},
+"0x008C82": {
+"jp": "「くっ、コントロールが！」",
+"en": "「Guh, the controls!」",
+"slot": 39
+},
+"0x008CAA": {
+"jp": "「直撃……！？」",
+"en": "「A direct hit...!?」",
+"slot": 24
+},
+"0x008CC3": {
+"jp": "「損傷部、チェック。ダメージ・コントロール」",
+"en": "「Checking damage. Damage control.」",
+"slot": 66
+},
+"0x008D06": {
+"jp": "「二次装甲まで傷が到達している……！」",
+"en": "「The damage reached the second armor...!」",
+"slot": 57
+},
+"0x008D40": {
+"jp": "「フレーム・コネクターが無事ならば……！」",
+"en": "「If the frame connector is intact...!」",
+"slot": 63
+},
+"0x008D80": {
+"jp": "「くっ、ＡＣＳに異常が……！」",
+"en": "「Guh, the ACS is malfunctioning...!」",
+"slot": 45
+},
+"0x008DAE": {
+"jp": "「４番モーターが空転……/　一時停止、リカバー！」",
+"en": "「No. 4 motor spinning free.../　Pausing, recovering!」",
+"slot": 73
+},
+"0x008DF8": {
+"jp": "「体勢を立て直さなければ……！」",
+"en": "「I have to regain my stance...!」",
+"slot": 48
+},
+"0x008E29": {
+"jp": "「フリッケライ、/　私達は負けるわけにはいきません」",
+"en": "「Frickerei,/　we cannot afford to lose.」",
+"slot": 76
+},
+"0x008E76": {
+"jp": "「フリッケライならば、耐えられる……！」",
+"en": "「The Frickerei can endure this...!」",
+"slot": 60
+},
+"0x008EB3": {
+"jp": "「アルトと言えど、直撃は避けなければ……」",
+"en": "「Even in the Alt, I must avoid direct hits...」",
+"slot": 63
+},
+"0x008EF3": {
+"jp": "「耐久力は特機並なのですね……」",
+"en": "「Its endurance rivals a super robot's...」",
+"slot": 48
+},
+"0x008F24": {
+"jp": "「くっ！/　アレスのスペックはわかっているのに……！」",
+"en": "「Guh!/　I know the Ares' specs, yet...!」",
+"slot": 79
+},
+"0x008F74": {
+"jp": "「アレスのデータを再検証……」",
+"en": "「Re-examining the Ares' data...」",
+"slot": 45
+},
+"0x008FA2": {
+"jp": "「ドゥバン、/　あなたが求める力は危険なのです！」",
+"en": "「Duvan,/　the power you seek is dangerous!」",
+"slot": 73
+},
+"0x008FEC": {
+"jp": "「ドゥバン、あなたを止めるためには……！」",
+"en": "「Duvan, to stop you...!」",
+"slot": 63
+},
+"0x00902C": {
+"jp": "「コンターギオ、私は怯みません」",
+"en": "「Contagio, I won't flinch.」",
+"slot": 48
+},
+"0x00905D": {
+"jp": "「ゼブ、私は退きません」",
+"en": "「Zeb, I won't back down.」",
+"slot": 36
+},
+"0x009082": {
+"jp": "「ゼゼーナン、/　あなたの野望が成就することはない……！」",
+"en": "「Zezenan,/　your ambition will never be fulfilled...!」",
+"slot": 85
+},
+"0x0090D8": {
+"jp": "「まだ支配に拘るのですか、あなたは……」",
+"en": "「Still clinging to rule, are you...」",
+"slot": 60
+},
+"0x009115": {
+"jp": "「あなたに/　この世界を終わらせる権利はない……！」",
+"en": "「You have no right/　to end this world...!」",
+"slot": 76
+},
+"0x009162": {
+"jp": "「裏切り者の汚名を受けようとも……！」",
+"en": "「Even branded a traitor...!」",
+"slot": 57
+},
+"0x00919C": {
+"jp": "「ジンライを振り切れなかった……！」",
+"en": "「I couldn't shake off Jinrai...!」",
+"slot": 54
+},
+"0x0091D3": {
+"jp": "「ジンライ……想定していたよりも速い……」",
+"en": "「Jinrai... faster than I expected...」",
+"slot": 63
+},
+"0x009213": {
+"jp": "「以前より格段にパワーアップしている……！」",
+"en": "「It's powered up far more than before...!」",
+"slot": 66
+},
+"0x009256": {
+"jp": "「機体だけじゃない、/　斧の動きも見切らねば……！」",
+"en": "「Not just the unit,/　I must read the axe too...!」",
+"slot": 76
+},
+"0x0092A3": {
+"jp": "「ガルベルス……揺らぎの隙を突けば……！」",
+"en": "「Galbers... if I strike its wavering gap...!」",
+"slot": 63
+},
+"0x0092E3": {
+"jp": "「超機人……もっと上手く対応しなければ」",
+"en": "「Choukijin... I must respond better.」",
+"slot": 60
+},
+"0x009320": {
+"jp": "「何としても/　ガンエデンの封印を解かなければ……！」",
+"en": "「No matter what,/　I must break Gan Eden's seal...!」",
+"slot": 79
+},
+"0x009370": {
+"jp": "「ユーゼス、/　あなたが目指す世界に興味はありません」",
+"en": "「Euzeth,/　I have no interest in the world you seek」",
+"slot": 79
+},
+"0x0093C0": {
+"jp": "「ここでゲストを食い止めなければ……！」",
+"en": "「I have to hold the Guests back here...!」",
+"slot": 60
+},
+"0x0093FD": {
+"jp": "「その動き……記録します」",
+"en": "「That movement... recording it」",
+"slot": 39
+},
+"0x009425": {
+"jp": "「目標データ、再検証」",
+"en": "「Target data, re-verifying」",
+"slot": 33
+},
+"0x009447": {
+"jp": "「任務遂行に支障なし」",
+"en": "「No hindrance to the mission」",
+"slot": 33
+},
+"0x009469": {
+"jp": "「システムに異常なし」",
+"en": "「No anomalies in the system」",
+"slot": 33
+},
+"0x00948B": {
+"jp": "「各部サーボモーターに異常なし」",
+"en": "「All servo motors nominal」",
+"slot": 48
+},
+"0x0094BC": {
+"jp": "「想定範囲内のダメージです」",
+"en": "「Damage within expected range」",
+"slot": 42
+},
+"0x0094E7": {
+"jp": "「ＡＣＳ、ＡＴＣ、問題なし」",
+"en": "「ACS, ATC, no problems」",
+"slot": 42
+},
+"0x009512": {
+"jp": "「回避パターン、ＲＴアレンジ……」",
+"en": "「Evasion pattern, RT arrange...」",
+"slot": 51
+},
+"0x009546": {
+"jp": "「スラスター噴射時間を再調整」",
+"en": "「Readjusting thruster burn time」",
+"slot": 45
+},
+"0x009574": {
+"jp": "「ファウ・ケルン、異常なし」",
+"en": "「Fay Kern, no anomalies」",
+"slot": 42
+},
+"0x00959F": {
+"jp": "「その程度でフリッケライは止められません」",
+"en": "「That won't stop the Frickerei」",
+"slot": 63
+},
+"0x0095DF": {
+"jp": "「フリッケライならば、受け止められます」",
+"en": "「The Frickerei can withstand it」",
+"slot": 60
+},
+"0x00961C": {
+"jp": "「さすが、アルト……頑丈ですね」",
+"en": "「Just as tough as ever, Alt」",
+"slot": 48
+},
+"0x00964D": {
+"jp": "「それでアルトを止めることは出来ません」",
+"en": "「You can't stop the Alt with that」",
+"slot": 60
+},
+"0x00968A": {
+"jp": "「アルトアイゼンには通用しません」",
+"en": "「That won't work on Alteisen」",
+"slot": 51
+},
+"0x0096BE": {
+"jp": "「手加減をしているのですか、ドゥバン……」",
+"en": "「Are you holding back, Duvan...」",
+"slot": 63
+},
+"0x0096FE": {
+"jp": "「ドゥバン、あなたは……！」",
+"en": "「Duvan, you are...!」",
+"slot": 42
+},
+"0x009729": {
+"jp": "「時間がない……あなたも、私も……！」",
+"en": "「There's no time... for you or me...!」",
+"slot": 57
+},
+"0x009763": {
+"jp": "「ドゥバン、あなたも気づいているはずです！」",
+"en": "「Duvan, you must sense it too!」",
+"slot": 66
+},
+"0x0097A6": {
+"jp": "「エグレッタ……さすがに正確な攻撃ですね」",
+"en": "「Egretta... precise as always」",
+"slot": 63
+},
+"0x0097E6": {
+"jp": "「それで終わりですか、エグレッタ？」",
+"en": "「Is that all, Egretta?」",
+"slot": 54
+},
+"0x00981D": {
+"jp": "「アルファ・セイバーが/　この程度だとは思えない……」",
+"en": "「I can't believe the Alpha Saber/　is only this much...」",
+"slot": 79
+},
+"0x00986D": {
+"jp": "「それで終わりですか、イグニス」",
+"en": "「Is that all, Ignis?」",
+"slot": 48
+},
+"0x00989E": {
+"jp": "「メリオルエッセ……様子見のつもり？」",
+"en": "「Meiolerse... just testing me?」",
+"slot": 57
+},
+"0x0098D8": {
+"jp": "「彼の攻撃は、上手く受け流さねば……！」",
+"en": "「I must deflect his attacks well...!」",
+"slot": 60
+},
+"0x009915": {
+"jp": "「ロフ、それで終わりですか？」",
+"en": "「Is that all, Rof?」",
+"slot": 45
+},
+"0x009943": {
+"jp": "「遠慮は無用です、ガイアセイバーズ」",
+"en": "「No need to hold back, Gaia Savers」",
+"slot": 54
+},
+"0x00997A": {
+"jp": "「ダブルＧ……/　サイズに似合わず俊敏な動きですね」",
+"en": "「Double G.../　agile despite its size」",
+"slot": 76
+},
+"0x0099C7": {
+"jp": "「メディウス……/　動作に奇妙な揺らぎがある……？」",
+"en": "「Medius.../　a strange waver in its motion...?」",
+"slot": 76
+},
+"0x009A14": {
+"jp": "「データを収集しなければ……」",
+"en": "「I have to gather the data...」",
+"slot": 45
+},
+"0x009A42": {
+"jp": "「その斧で、私を砕くことは出来ません」",
+"en": "「That axe cannot shatter me」",
+"slot": 57
+},
+"0x009A7C": {
+"jp": "「アーマラ、効いていません」",
+"en": "「Almara, it's not working」",
+"slot": 42
+},
+"0x009AA7": {
+"jp": "「アーマラ、私を止めることは出来ません」",
+"en": "「Almara, you cannot stop me」",
+"slot": 60
+},
+"0x009AE4": {
+"jp": "「ツェントル・プロジェクトの最終機が、/　この程度だとは……」",
+"en": "「So the Zentr Project's final unit/　is only this much...」",
+"slot": 91
+},
+"0x009B40": {
+"jp": "「ガルベルス……動きに揺らぎがある……？」",
+"en": "「Galvus... a waver in its motion...?」",
+"slot": 63
+},
+"0x009B80": {
+"jp": "「超機人……常識が通用しにくい相手ですね」",
+"en": "「Choukijin... hard to read by any logic」",
+"slot": 63
+},
+"0x009BC0": {
+"jp": "「超機人のデータを更新」",
+"en": "「Updating Choukijin data」",
+"slot": 36
+},
+"0x009BE5": {
+"jp": "「こちらのことをよく研究しているようですね」",
+"en": "「You seem to have studied us well」",
+"slot": 66
+},
+"0x009C28": {
+"jp": "「デモン……独特の攻撃ですね」",
+"en": "「Demon... a unique way of attacking」",
+"slot": 45
+},
+"0x009C56": {
+"jp": "「あれがこのまま暴走し続ければ……！」",
+"en": "「If that keeps rampaging...!」",
+"slot": 57
+},
+"0x009C90": {
+"jp": "「ガンエデン……あなたの慈悲は歪んでいます」",
+"en": "「Gan Eden... your mercy is twisted」",
+"slot": 66
+},
+"0x009CD3": {
+"jp": "「あなたに命を操り、/　支配することは出来ない……！」",
+"en": "「You cannot command/　and rule over life...!」",
+"slot": 79
+},
+"0x009D23": {
+"jp": "「当たりません」",
+"en": "「You won't hit me」",
+"slot": 24
+},
+"0x009D3C": {
+"jp": "「予測通りの動きですね」",
+"en": "「Just as I predicted」",
+"slot": 36
+},
+"0x009D61": {
+"jp": "「その攻撃パターンは、通用しません」",
+"en": "「That attack pattern won't work」",
+"slot": 54
+},
+"0x009D98": {
+"jp": "「読み易い動きです」",
+"en": "「I can read your moves」",
+"slot": 30
+},
+"0x009DB7": {
+"jp": "「攻撃パターン、アナライズ」",
+"en": "「Attack pattern, analyzing」",
+"slot": 42
+},
+"0x009DE2": {
+"jp": "「的になるつもりはありません」",
+"en": "「I won't be your target」",
+"slot": 45
+},
+"0x009E10": {
+"jp": "「あなたの動きは見切っています」",
+"en": "「I've seen through your moves」",
+"slot": 48
+},
+"0x009E41": {
+"jp": "「アルトアイゼン……乗りこなしてみせます」",
+"en": "「Alteisen... I'll master it」",
+"slot": 63
+},
+"0x009E81": {
+"jp": "「無駄です、エグレッタ」",
+"en": "「It's useless, Egretta」",
+"slot": 36
+},
+"0x009EA6": {
+"jp": "「アルファ・セイバーと言えど……！」",
+"en": "「Even the Alpha Saber...!」",
+"slot": 54
+},
+"0x009EDD": {
+"jp": "「回避成功」",
+"en": "「Evaded!」",
+"slot": 18
+},
+"0x009EF0": {
+"jp": "「任務を続行します」",
+"en": "「Continuing the mission」",
+"slot": 30
+},
+"0x009F0F": {
+"jp": "「モーション・パターンに問題なし」",
+"en": "「Motion pattern, no problems」",
+"slot": 51
+},
+"0x009F43": {
+"jp": "「次もかわします」",
+"en": "「I'll dodge the next」",
+"slot": 27
+},
+"0x009F5F": {
+"jp": "「その動きで、私を捕捉することは不可能です」",
+"en": "「You can't catch me with those moves」",
+"slot": 66
+},
+"0x009FA2": {
+"jp": "「少し単調な攻撃でしたね」",
+"en": "「A rather monotonous attack」",
+"slot": 39
+},
+"0x009FCA": {
+"jp": "「それで攻撃終了ですか？」",
+"en": "「Is your attack over already?」",
+"slot": 39
+},
+"0x009FF2": {
+"jp": "「どのような攻撃にも、/　見切るポイントがあるものです」",
+"en": "「Every attack has a point/　where it can be read」",
+"slot": 82
+},
+"0x00A045": {
+"jp": "「よくやったわ、フリッケライ」",
+"en": "「Well done, Frickerei」",
+"slot": 45
+},
+"0x00A073": {
+"jp": "「フリッケライ……いい反応ね」",
+"en": "「Frickerei... good response」",
+"slot": 45
+},
+"0x00A0A1": {
+"jp": "「瞬発力はアルトアイゼン譲りなのです」",
+"en": "「Its burst speed is inherited from Alteisen」",
+"slot": 57
+},
+"0x00A0DB": {
+"jp": "「フリッケライより重いけど、/　問題はありません」",
+"en": "「Heavier than the Frickerei,/　but no problem」",
+"slot": 73
+},
+"0x00A125": {
+"jp": "「操縦感覚は、フリッケライとそう変わらない」",
+"en": "「Handles much like the Frickerei」",
+"slot": 66
+},
+"0x00A168": {
+"jp": "「ドゥバン……私には届きません」",
+"en": "「Duvan... you can't reach me」",
+"slot": 48
+},
+"0x00A199": {
+"jp": "「ドゥバン、あなたの思い通りにはなりません」",
+"en": "「Duvan, it won't go as you planned」",
+"slot": 66
+},
+"0x00A1DC": {
+"jp": "「無駄です、イグニス」",
+"en": "「It's useless, Ignis」",
+"slot": 33
+},
+"0x00A1FE": {
+"jp": "「メリオルエッセのデータを更新」",
+"en": "「Updating Meiolerse data」",
+"slot": 48
+},
+"0x00A22F": {
+"jp": "「それが……恐怖ですか」",
+"en": "「Is that... fear?」",
+"slot": 36
+},
+"0x00A254": {
+"jp": "「コンターギオ、その手には乗りません」",
+"en": "「Contagio, I won't fall for that」",
+"slot": 57
+},
+"0x00A28E": {
+"jp": "「地球をあなた達の好きにはさせない」",
+"en": "「I won't let you do as you please with Earth」",
+"slot": 54
+},
+"0x00A2C5": {
+"jp": "「ゼブ、その手は通用しません」",
+"en": "「Zeb, that trick won't work」",
+"slot": 45
+},
+"0x00A2F3": {
+"jp": "「セティ、あなたの的にはなりません」",
+"en": "「Seti, I won't be your target」",
+"slot": 54
+},
+"0x00A32A": {
+"jp": "「ゼゼーナン、私はここです」",
+"en": "「Zezernan, I'm right here」",
+"slot": 42
+},
+"0x00A355": {
+"jp": "「孫光龍、あなたの戯言を聞く気はありません」",
+"en": "「Sonkouryu, I won't hear your nonsense」",
+"slot": 66
+},
+"0x00A398": {
+"jp": "「大いなる破滅……必ず阻止します」",
+"en": "「The great ruin... I will stop it」",
+"slot": 51
+},
+"0x00A3CC": {
+"jp": "「あなた達は、/　あの男に利用されているだけ……」",
+"en": "「You are all just being used/　by that man...」",
+"slot": 73
+},
+"0x00A416": {
+"jp": "「あなた達とは、袂を分かったのです」",
+"en": "「I have parted ways with you all」",
+"slot": 54
+},
+"0x00A44D": {
+"jp": "「ジンライの攻撃パターン、アナライズ」",
+"en": "「Jinrai's attack pattern, analyzing」",
+"slot": 57
+},
+"0x00A487": {
+"jp": "「メディウスのデータを更新」",
+"en": "「Updating Medius data」",
+"slot": 42
+},
+"0x00A4B2": {
+"jp": "「変わったのは見た目だけ……？」",
+"en": "「Only its looks have changed...?」",
+"slot": 48
+},
+"0x00A4E3": {
+"jp": "「ヒュッケバインを上回る動き……しかし」",
+"en": "「Faster than the Huckebein... but」",
+"slot": 60
+},
+"0x00A520": {
+"jp": "「ガルベルスのデータを更新」",
+"en": "「Updating Galvus data」",
+"slot": 42
+},
+"0x00A54B": {
+"jp": "「ルイーナに足止めを食らうわけには/　いきません」",
+"en": "「I can't let the Ruina/　hold me up here」",
+"slot": 73
+},
+"0x00A595": {
+"jp": "「デモンに足止めを食らうわけにはいきません」",
+"en": "「I can't let the Demon hold me up here」",
+"slot": 66
+},
+"0x00A5D8": {
+"jp": "「超機人の交戦記録は貴重です」",
+"en": "「Combat data on Choukijin is precious」",
+"slot": 45
+},
+"0x00A606": {
+"jp": "「特異なモーションですが、見極めは可能です」",
+"en": "「An unusual motion, but I can read it」",
+"slot": 66
+},
+"0x00A649": {
+"jp": "「エルデ、/　あなたの望みを叶えるわけにはいきません」",
+"en": "「Erde,/　I cannot let your wish come true」",
+"slot": 79
+},
+"0x00A699": {
+"jp": "「インスペクター戦のデータが応用できますね」",
+"en": "「The Inspector battle data applies here」",
+"slot": 66
+},
+"0x00A6DC": {
+"jp": "「ゲスト……地球圏から去りなさい」",
+"en": "「Guests... leave Earth's sphere」",
+"slot": 51
+},
+"0x00A710": {
+"jp": "「アーマラ、私はここです」",
+"en": "「Almara, I'm right here」",
+"slot": 39
+},
+"0x00A738": {
+"jp": "「アーマラ、あなたの手はわかっています」",
+"en": "「Almara, I know your tricks」",
+"slot": 60
+},
+"0x00A775": {
+"jp": "「力場展開！」",
+"en": "「Force field on!」",
+"slot": 21
+},
+"0x00A78B": {
+"jp": "「ガードを！」",
+"en": "「Guard!」",
+"slot": 21
+},
+"0x00A7A1": {
+"jp": "「その攻撃は通用しません！」",
+"en": "「That attack won't work!」",
+"slot": 42
+},
+"0x00A7CC": {
+"jp": "「無駄です！」",
+"en": "「It's useless!」",
+"slot": 21
+},
+"0x00A7E2": {
+"jp": "「………」",
+"en": "「.........」",
+"slot": 15
+},
+"0x00A7F2": {
+"jp": "「反撃不能……間合いを取らなければ」",
+"en": "「Can't counter... I must gain distance」",
+"slot": 54
+},
+"0x00A829": {
+"jp": "「動かなければ、的にされる……」",
+"en": "「If I don't move, I'll be a target...」",
+"slot": 48
+},
+"0x00A85A": {
+"jp": "「弾丸の消費率を抑えなければ……」",
+"en": "「I have to conserve ammo...」",
+"slot": 51
+},
+"0x00A88E": {
+"jp": "「ターゲット、再捕捉」",
+"en": "「Target, reacquiring」",
+"slot": 33
+},
+"0x00A8B0": {
+"jp": "「正確に敵の動きを読まなければ……」",
+"en": "「I must read the enemy exactly...」",
+"slot": 54
+},
+"0x00A8E7": {
+"jp": "「レンジ外……」",
+"en": "「Out of range...」",
+"slot": 24
+},
+"0x00A900": {
+"jp": "「アリエイル・オーグ、/　バックアップに入ります」",
+"en": "「Ariel Org,/　moving in to back you up」",
+"slot": 73
+},
+"0x00A94A": {
+"jp": "「後は任せて下さい」",
+"en": "「Leave the rest to me」",
+"slot": 30
+},
+"0x00A969": {
+"jp": "「こちらからも攻撃可能」",
+"en": "「I can attack from here too」",
+"slot": 36
+},
+"0x00A98E": {
+"jp": "「アリエイル・オーグ、連係します」",
+"en": "「Ariel Org, linking up」",
+"slot": 51
+},
+"0x00A9C2": {
+"jp": "「まだ行ける……！」",
+"en": "「I can keep going...!」",
+"slot": 30
+},
+"0x00A9E1": {
+"jp": "「こちらアリエイル。援護します」",
+"en": "「This is Ariel. Covering you」",
+"slot": 48
+},
+"0x00AA12": {
+"jp": "「キョウスケ中尉、援護します」",
+"en": "「Lt. Kyosuke, covering you」",
+"slot": 45
+},
+"0x00AA40": {
+"jp": "「続きます、キョウスケ中尉」",
+"en": "「Following up, Lt. Kyosuke」",
+"slot": 42
+},
+"0x00AA6B": {
+"jp": "「エクセレン少尉、後は私が」",
+"en": "「2nd Lt. Excellen, I've got the rest」",
+"slot": 42
+},
+"0x00AA96": {
+"jp": "「ブルックリン少尉、援護します」",
+"en": "「2nd Lt. Brooklyn, covering you」",
+"slot": 48
+},
+"0x00AAC7": {
+"jp": "「クスハ少尉、後は任せて下さい」",
+"en": "「2nd Lt. Kusuha, leave the rest to me」",
+"slot": 48
+},
+"0x00AAF8": {
+"jp": "「リュウセイ少尉、援護します」",
+"en": "「2nd Lt. Ryuusei, covering you」",
+"slot": 45
+},
+"0x00AB26": {
+"jp": "「ゼンガー少佐、援護します」",
+"en": "「Maj. Sanger, covering you」",
+"slot": 42
+},
+"0x00AB51": {
+"jp": "「カイ少佐、援護します」",
+"en": "「Major Kai, providing support!」",
+"slot": 36
+},
+"0x00AB76": {
+"jp": "「ラミア少尉、援護します」",
+"en": "「Ensign Lamia, providing support!」",
+"slot": 39
+},
+"0x00AB9E": {
+"jp": "「ラミア少尉の動き……合わせ易いです」",
+"en": "「Ensign Lamia's movements... easy to sync with.」",
+"slot": 57
+},
+"0x00ABD8": {
+"jp": "「ゼオラ、後は私が」",
+"en": "「Seolla, leave it to me.」",
+"slot": 30
+},
+"0x00ABF7": {
+"jp": "「アラド、まだ状況は終わっていませんよ」",
+"en": "「Arado, it isn't over yet.」",
+"slot": 60
+},
+"0x00AC34": {
+"jp": "「ラトゥーニ、後は私が」",
+"en": "「Latooni, I've got the rest.」",
+"slot": 36
+},
+"0x00AC59": {
+"jp": "「王女、援護します」",
+"en": "「Princess, covering you!」",
+"slot": 30
+},
+"0x00AC78": {
+"jp": "「ジョッシュ、後は私が」",
+"en": "「Joshua, I've got the rest.」",
+"slot": 36
+},
+"0x00AC9D": {
+"jp": "「リム、援護します」",
+"en": "「Rim, providing support!」",
+"slot": 30
+},
+"0x00ACBC": {
+"jp": "「イング、後は任せて」",
+"en": "「Ing, leave the rest to me.」",
+"slot": 33
+},
+"0x00ACDE": {
+"jp": "「リョウト少尉、援護します」",
+"en": "「Ensign Ryoto, providing support!」",
+"slot": 42
+},
+"0x00AD09": {
+"jp": "「リオ少尉、後は任せて下さい」",
+"en": "「Ensign Rio, leave the rest to me.」",
+"slot": 45
+},
+"0x00AD37": {
+"jp": "「アルト同士の連係で……！」",
+"en": "「Alt teaming up with Alt...!」",
+"slot": 42
+},
+"0x00AD62": {
+"jp": "「私が受け止めます！」",
+"en": "「I'll take it!」",
+"slot": 33
+},
+"0x00AD84": {
+"jp": "「代わりましょう！」",
+"en": "「Let me take over!」",
+"slot": 30
+},
+"0x00ADA3": {
+"jp": "「止めてみせます！」",
+"en": "「I'll stop it!」",
+"slot": 30
+},
+"0x00ADC2": {
+"jp": "「こちらはまだ保ちます！」",
+"en": "「I can still hold out!」",
+"slot": 39
+},
+"0x00ADEA": {
+"jp": "「その攻撃なら、許容可能……！」",
+"en": "「That attack... within tolerance!」",
+"slot": 48
+},
+"0x00AE1B": {
+"jp": "「キョウスケ中尉、後退を！」",
+"en": "「Lt. Kyosuke, fall back!」",
+"slot": 42
+},
+"0x00AE46": {
+"jp": "「エクセレン少尉、離脱を！」",
+"en": "「Ensign Excellen, withdraw!」",
+"slot": 42
+},
+"0x00AE71": {
+"jp": "「ブルックリン少尉、無理は禁物です！」",
+"en": "「Ensign Bullet, don't push it!」",
+"slot": 57
+},
+"0x00AEAB": {
+"jp": "「危険です、クスハ少尉！」",
+"en": "「It's dangerous, Ensign Kusuha!」",
+"slot": 39
+},
+"0x00AED3": {
+"jp": "「リュウセイ少尉、後退を！」",
+"en": "「Ensign Ryuusei, fall back!」",
+"slot": 42
+},
+"0x00AEFE": {
+"jp": "「ゼンガー少佐、離脱を！」",
+"en": "「Major Sanger, withdraw!」",
+"slot": 39
+},
+"0x00AF26": {
+"jp": "「カイ少佐、後退して下さい！」",
+"en": "「Major Kai, please fall back!」",
+"slot": 45
+},
+"0x00AF54": {
+"jp": "「ラミア少尉、私に任せて下さい！」",
+"en": "「Ensign Lamia, leave it to me!」",
+"slot": 51
+},
+"0x00AF88": {
+"jp": "「あなたと言えど、危険です！」",
+"en": "「Even for you, it's dangerous!」",
+"slot": 45
+},
+"0x00AFB6": {
+"jp": "「アラド、過信はいけません！」",
+"en": "「Arado, don't get overconfident!」",
+"slot": 45
+},
+"0x00AFE4": {
+"jp": "「ゼオラ、すぐに離脱を！」",
+"en": "「Seolla, withdraw now!」",
+"slot": 39
+},
+"0x00B00C": {
+"jp": "「ラトゥーニ、後退するのです！」",
+"en": "「Latooni, you have to fall back!」",
+"slot": 48
+},
+"0x00B03D": {
+"jp": "「王女をお守りしなければ……！」",
+"en": "「I must protect the Princess...!」",
+"slot": 48
+},
+"0x00B06E": {
+"jp": "「危険です、ジョッシュ！」",
+"en": "「It's dangerous, Joshua!」",
+"slot": 39
+},
+"0x00B096": {
+"jp": "「リム、すぐに後退を！」",
+"en": "「Rim, fall back now!」",
+"slot": 36
+},
+"0x00B0BB": {
+"jp": "「イング、下がって！」",
+"en": "「Ing, get back!」",
+"slot": 33
+},
+"0x00B0DD": {
+"jp": "「リョウト少尉、私が代わります！」",
+"en": "「Ensign Ryoto, I'll take over!」",
+"slot": 51
+},
+"0x00B111": {
+"jp": "「リオ少尉、すぐに離脱を！」",
+"en": "「Ensign Rio, withdraw now!」",
+"slot": 42
+},
+"0x00B13C": {
+"jp": "「フリッケライで受け止めます！」",
+"en": "「I'll block it with Fliegerei!」",
+"slot": 48
+},
+"0x00B16D": {
+"jp": "「アルトと言えど、危険です！」",
+"en": "「Even for an Alt, it's dangerous!」",
+"slot": 45
+},
+"0x00B19B": {
+"jp": "「まとめて撃破します」",
+"en": "「Destroying them all at once」",
+"slot": 33
+},
+"0x00B1BD": {
+"jp": "「そのフォーメーションならば……！」",
+"en": "「With that formation...!」",
+"slot": 54
+},
+"0x00B1F4": {
+"jp": "「複数ターゲット……攻撃可能」",
+"en": "「Multiple targets... attack viable.」",
+"slot": 45
+},
+"0x00B222": {
+"jp": "「再攻撃開始」",
+"en": "「Resuming attack」",
+"slot": 21
+},
+"0x00B238": {
+"jp": "「再捕捉完了。アタック」",
+"en": "「Reacquired. Attack.」",
+"slot": 36
+},
+"0x00B25D": {
+"jp": "「パターン、リロード。アクション」",
+"en": "「Pattern reloaded. Action.」",
+"slot": 51
+},
+"0x00B291": {
+"jp": "「直撃を！」",
+"en": "「Direct hit!」",
+"slot": 18
+},
+"0x00B2A4": {
+"jp": "「行けっ！」",
+"en": "「Go!」",
+"slot": 18
+},
+"0x00B2B7": {
+"jp": "「これでとどめ！」",
+"en": "「This ends it!」",
+"slot": 27
+},
+"0x00B2D3": {
+"jp": "「そこ！」",
+"en": "「There!」",
+"slot": 15
+},
+"0x00B2E3": {
+"jp": "「これで！」",
+"en": "「Take this!」",
+"slot": 18
+},
+"0x00B2F6": {
+"jp": "「当てます！」",
+"en": "「I'll hit you!」",
+"slot": 21
+},
+"0x00B30C": {
+"jp": "「外しません！」",
+"en": "「I won't miss!」",
+"slot": 24
+},
+"0x00B325": {
+"jp": "「リボルビング・ステーク！」",
+"en": "「Revolving Stake!」",
+"slot": 42
+},
+"0x00B350": {
+"jp": "「ファイア！」",
+"en": "「Fire!」",
+"slot": 21
+},
+"0x00B366": {
+"jp": "「まだです！」",
+"en": "「Not yet!」",
+"slot": 21
+},
+"0x00B37C": {
+"jp": "「このステークなら！」",
+"en": "「With this stake!」",
+"slot": 33
+},
+"0x00B39E": {
+"jp": "「まだ行ける！」",
+"en": "「I can still go!」",
+"slot": 24
+},
+"0x00B3B7": {
+"jp": "「落ちなさい！」",
+"en": "「Go down!」",
+"slot": 24
+},
+"0x00B3D0": {
+"jp": "「貫きます！」",
+"en": "「Pierce through!」",
+"slot": 21
+},
+"0x00B3E6": {
+"jp": "「追撃します！」",
+"en": "「Pursuing!」",
+"slot": 24
+},
+"0x00B3FF": {
+"jp": "「マシンキャノン！」",
+"en": "「Machine Cannon!」",
+"slot": 30
+},
+"0x00B41E": {
+"jp": "「シーケンス、ＭＳ１！」",
+"en": "「Sequence, MS1!」",
+"slot": 36
+},
+"0x00B443": {
+"jp": "「まずは牽制を！」",
+"en": "「A feint first!」",
+"slot": 27
+},
+"0x00B45F": {
+"jp": "「次はステークで！」",
+"en": "「Now the stake!」",
+"slot": 30
+},
+"0x00B47E": {
+"jp": "「とどめ！」",
+"en": "「Finish it!」",
+"slot": 18
+},
+"0x00B491": {
+"jp": "「貫くっ！」",
+"en": "「Pierce!」",
+"slot": 18
+},
+"0x00B4A4": {
+"jp": "「ステーク！　行けっ！」",
+"en": "「Stake! Go!」",
+"slot": 36
+},
+"0x00B4C9": {
+"jp": "「マグナム・ステーク！」",
+"en": "「Magnum Stake!」",
+"slot": 36
+},
+"0x00B4EE": {
+"jp": "「撃ち抜きます！」",
+"en": "「I'll shoot through!」",
+"slot": 27
+},
+"0x00B50A": {
+"jp": "「コードＵ．Ｕ．Ｎ．、発動！」",
+"en": "「Code U.U.N., activate!」",
+"slot": 45
+},
+"0x00B538": {
+"jp": "「ハンマー、アクティブ！」",
+"en": "「Hammer, active!」",
+"slot": 39
+},
+"0x00B560": {
+"jp": "「アンキャニー・アルティメイタム・ネイルズ！」",
+"en": "「Uncanny Ultimatum Nails!」",
+"slot": 69
+},
+"0x00B5A6": {
+"jp": "「ファイア！！」",
+"en": "「Fire!!」",
+"slot": 24
+},
+"0x00B5BF": {
+"jp": "「追い詰めます！」",
+"en": "「I'll corner you!」",
+"slot": 27
+},
+"0x00B5DB": {
+"jp": "「ステーク！」",
+"en": "「Stake!」",
+"slot": 21
+},
+"0x00B5F1": {
+"jp": "「スプリットミサイル！」",
+"en": "「Split Missile!」",
+"slot": 36
+},
+"0x00B616": {
+"jp": "「ファウ・ケルン……」",
+"en": "「Fau Kern...」",
+"slot": 33
+},
+"0x00B638": {
+"jp": "「エネルギー解放！！」",
+"en": "「Energy release!!」",
+"slot": 33
+},
+"0x00B65A": {
+"jp": "「フォース・レイ、発射！！」",
+"en": "「Force Ray, fire!!」",
+"slot": 42
+},
+"0x00B685": {
+"jp": "「まだここから！」",
+"en": "「It starts here!」",
+"slot": 27
+},
+"0x00B6A1": {
+"jp": "「はああっ！」",
+"en": "「Haaah!」",
+"slot": 21
+},
+"0x00B6B7": {
+"jp": "「フォース・レイ！　バーストッ！！」",
+"en": "「Force Ray! Burst!!」",
+"slot": 54
+},
+"0x00B6EE": {
+"jp": "「仕掛けるぞ、アリエイル」",
+"en": "「Here we go, Ariel!」",
+"slot": 39
+},
+"0x00B716": {
+"jp": "「了解です、キョウスケ中尉。援護します」",
+"en": "「Roger, Lt. Kyosuke. Providing support.」",
+"slot": 60
+},
+"0x00B753": {
+"jp": "「エターナリィ・ダーニング・ネイルズ……」",
+"en": "「Eternally Darning Nails...」",
+"slot": 63
+},
+"0x00B793": {
+"jp": "「コードＥ．Ｄ．Ｎ．、発動！」",
+"en": "「Code E.D.N., activate!」",
+"slot": 45
+},
+"0x00B7C1": {
+"jp": "「バンカー！」",
+"en": "「Bunker!」",
+"slot": 21
+},
+"0x00B7D7": {
+"jp": "「撃ち抜くっ！」",
+"en": "「Shoot through!」",
+"slot": 24
+},
+"0x00B7F0": {
+"jp": "「こちらも！」",
+"en": "「This one too!」",
+"slot": 21
+},
+"0x00B806": {
+"jp": "「いい位置だ！」",
+"en": "「Good position!」",
+"slot": 24
+},
+"0x00B81F": {
+"jp": "「ブースト！！」",
+"en": "「Boost!!」",
+"slot": 24
+},
+"0x00B838": {
+"jp": "「仕上げだ！」",
+"en": "「Time to finish!」",
+"slot": 21
+},
+"0x00B84E": {
+"jp": "「了解！　フォース・レイ！」",
+"en": "「Roger! Force Ray!」",
+"slot": 42
+},
+"0x00B879": {
+"jp": "「ターゲット、撃破」",
+"en": "「Target destroyed.」",
+"slot": 30
+},
+"0x00B898": {
+"jp": "「言わばアルト同士だ、合わせ易い」",
+"en": "「We're both Alts, easy to sync.」",
+"slot": 51
+},
+"0x00B8CC": {
+"jp": "「おれ達の爪は！」",
+"en": "「Our nails are...!」",
+"slot": 27
+},
+"0x00B8E8": {
+"jp": "「鋭いぞ！」",
+"en": "「Sharp!」",
+"slot": 18
+},
+"0x00B8FB": {
+"jp": "「このタイミングなら！」",
+"en": "「With this timing!」",
+"slot": 36
+},
+"0x00B920": {
+"jp": "「送ります！」",
+"en": "「Here it comes!」",
+"slot": 21
+},
+"0x00B936": {
+"jp": "「合わせろ、アリエイル！」",
+"en": "「Sync up, Ariel!」",
+"slot": 39
+},
+"0x00B95E": {
+"jp": "「了解！　ステークでっ！！」",
+"en": "「Roger! With the stake!!」",
+"slot": 42
+},
+"0x00B989": {
+"jp": "「とどめだ！　クレイモア！！」",
+"en": "「Finish it! Claymore!!」",
+"slot": 45
+},
+"0x00B9B7": {
+"jp": "「フォース・レイ、発射！」",
+"en": "「Force Ray, fire!」",
+"slot": 39
+},
+"0x00B9DF": {
+"jp": "「エクセレン少尉のようには/　いきませんでしたが……」",
+"en": "「Not quite like Ensign Excellen,/ but still...」",
+"slot": 79
+},
+"0x00BA2F": {
+"jp": "「いや、いい連係だった」",
+"en": "「No, that was good teamwork.」",
+"slot": 36
+},
+"0x00BA54": {
+"jp": "「ＡＴＳ、セット」",
+"en": "「ATS, set.」",
+"slot": 27
+},
+"0x00BA70": {
+"jp": "「スラッシュ・リッパー！」",
+"en": "「Slash Ripper!」",
+"slot": 39
+},
+"0x00BA98": {
+"jp": "「ターゲット・ロック」",
+"en": "「Target lock.」",
+"slot": 33
+},
+"0x00BABA": {
+"jp": "「スラッシュ・リッパー、発射！」",
+"en": "「Slash Ripper, fire!」",
+"slot": 48
+},
+"0x00BAEB": {
+"jp": "「グラビトン・ランチャー、発射！」",
+"en": "「Graviton Launcher, fire!」",
+"slot": 51
+},
+"0x00BB1F": {
+"jp": "「このグラビトン・ランチャーならば！」",
+"en": "「With this Graviton Launcher!」",
+"slot": 57
+},
+"0x00BB59": {
+"jp": "「リープ・スラッシャー、射出！」",
+"en": "「Leap Slasher, launch!」",
+"slot": 48
+},
+"0x00BB8A": {
+"jp": "「行け、リープ・スラッシャー！」",
+"en": "「Go, Leap Slasher!」",
+"slot": 48
+},
+"0x00BBBB": {
+"jp": "「ディバイン・アーム！」",
+"en": "「Divine Arm!」",
+"slot": 36
+},
+"0x00BBE0": {
+"jp": "「このディバイン・アームで！」",
+"en": "「With this Divine Arm!」",
+"slot": 45
+},
+"0x00BC0E": {
+"jp": "「ネオ・チャクラムシューター！」",
+"en": "「Neo Chakram Shooter!」",
+"slot": 48
+},
+"0x00BC3F": {
+"jp": "「ステルス・ブーメラン！」",
+"en": "「Stealth Boomerang!」",
+"slot": 39
+},
+"0x00BC67": {
+"jp": "「行け、ステルス・ブーメラン！」",
+"en": "「Go, Stealth Boomerang!」",
+"slot": 48
+},
+"0x00BC98": {
+"jp": "「ブーストハンマー！」",
+"en": "「Boost Hammer!」",
+"slot": 33
+},
+"0x00BCBA": {
+"jp": "「打ちます！」",
+"en": "「Striking!」",
+"slot": 21
+},
+"0x00BCD0": {
+"jp": "「Ｇ・インパクトステーク！」",
+"en": "「G-Impact Stake!」",
+"slot": 42
+},
+"0x00BCFB": {
+"jp": "「シシオウブレード、セット」",
+"en": "「Shishioh Blade, set」",
+"slot": 42
+},
+"0x00BD26": {
+"jp": "「はあああっ！」",
+"en": "「Haaaah!」",
+"slot": 24
+},
+"0x00BD3F": {
+"jp": "「ＭＴＤ誘導弾、発射！」",
+"en": "「MTD guided missile, fire!」",
+"slot": 36
+},
+"0x00BD64": {
+"jp": "「ＡＴＳ、セット。ファイア！」",
+"en": "「ATS, set. Fire!」",
+"slot": 45
+},
+"0x00BD92": {
+"jp": "「このミサイルを/　無駄遣いするわけにはいきません」",
+"en": "「I can't afford to/　waste this missile」",
+"slot": 76
+},
+"0x00BDDF": {
+"jp": "「イルミネーター・リンク」",
+"en": "「Illuminator Link」",
+"slot": 39
+},
+"0x00BE07": {
+"jp": "「チャージ完了……ファイア！」",
+"en": "「Charge complete...fire!」",
+"slot": 45
+},
+"0x00BE35": {
+"jp": "「撃ちます！」",
+"en": "「I'll shoot!」",
+"slot": 21
+},
+"0x00BE4B": {
+"jp": "「落とします！」",
+"en": "「Taking you down!」",
+"slot": 24
+},
+"0x00BE64": {
+"jp": "「たあっ！」",
+"en": "「Taah!」",
+"slot": 18
+},
+"0x00BE77": {
+"jp": "「斬ります！」",
+"en": "「I'll cut you!」",
+"slot": 21
+},
+"0x00BE8D": {
+"jp": "「断ちます！」",
+"en": "「I'll sever you!」",
+"slot": 21
+},
+"0x00BEA3": {
+"jp": "「スプリットミサイル、発射！」",
+"en": "「Split Missile, fire!」",
+"slot": 45
+},
+"0x00BED1": {
+"jp": "「スプリットミサイル、ファイア！」",
+"en": "「Split Missile, fire!」",
+"slot": 51
+},
+"0x00BF05": {
+"jp": "「ショートレンジ・モード、ファイア！」",
+"en": "「Short Range Mode, fire!」",
+"slot": 57
+},
+"0x00BF3F": {
+"jp": "「ショートレンジ・モードで！」",
+"en": "「In Short Range Mode!」",
+"slot": 45
+},
+"0x00BF6D": {
+"jp": "「この間合いなら！」",
+"en": "「At this range!」",
+"slot": 30
+},
+"0x00BF8C": {
+"jp": "「プラズマ・ステーク、セット！」",
+"en": "「Plasma Stake, set!」",
+"slot": 48
+},
+"0x00BFBD": {
+"jp": "「ジェット・マグナム！」",
+"en": "「Jet Magnum!」",
+"slot": 36
+},
+"0x00BFE2": {
+"jp": "「打ち込みます！」",
+"en": "「Driving it home!」",
+"slot": 27
+},
+"0x00BFFE": {
+"jp": "「ロングレンジ・モード！」",
+"en": "「Long Range Mode!」",
+"slot": 39
+},
+"0x00C026": {
+"jp": "「プラズマ・ステーク、アクティブ」",
+"en": "「Plasma Stake, active」",
+"slot": 51
+},
+"0x00C05A": {
+"jp": "「シーケンス、ＪＭ３！」",
+"en": "「Sequence, JM3!」",
+"slot": 36
+},
+"0x00C07F": {
+"jp": "「メガ・ブラスターキャノン、ファイア！」",
+"en": "「Mega Blaster Cannon, fire!」",
+"slot": 60
+},
+"0x00C0BC": {
+"jp": "「シーケンス、ＪＰ２！」",
+"en": "「Sequence, JP2!」",
+"slot": 36
+},
+"0x00C0E1": {
+"jp": "「アレンジＦ！」",
+"en": "「Arrange F!」",
+"slot": 24
+},
+"0x00C0FA": {
+"jp": "「ジェット・ファントム！」",
+"en": "「Jet Phantom!」",
+"slot": 39
+},
+"0x00C122": {
+"jp": "「ＭＡＰＷを使用します！」",
+"en": "「Using MAPW!」",
+"slot": 39
+},
+"0x00C14A": {
+"jp": "「各機へ警告！　ＭＡＰＷを使います！」",
+"en": "「Warning to all units! Using MAPW!」",
+"slot": 57
+},
+"0x00C184": {
+"jp": "「これで一網打尽に！」",
+"en": "「I'll wipe them all out!」",
+"slot": 33
+},
+"0x00C1A6": {
+"jp": "「ツイン・ビームカノン、発射！」",
+"en": "「Twin Beam Cannon, fire!」",
+"slot": 48
+},
+"0x00C1D7": {
+"jp": "「ロックオン、ＰＰ、コンプリート」",
+"en": "「Lock on, PP, complete」",
+"slot": 51
+},
+"0x00C20B": {
+"jp": "「ツイン・ビームカノン！」",
+"en": "「Twin Beam Cannon!」",
+"slot": 39
+},
+"0x00C233": {
+"jp": "「ロックオン、出力調整完了」",
+"en": "「Lock on, output adjusted」",
+"slot": 42
+},
+"0x00C25E": {
+"jp": "「ツイン・ビームカノン、ファイア！」",
+"en": "「Twin Beam Cannon, fire!」",
+"slot": 54
+},
+"0x00C295": {
+"jp": "「そこです！」",
+"en": "「Right there!」",
+"slot": 21
+},
+"0x00C2AB": {
+"jp": "「ターゲット・インサイト」",
+"en": "「Target in sight」",
+"slot": 39
+},
+"0x00C2D3": {
+"jp": "「これなら！」",
+"en": "「This'll do it!」",
+"slot": 21
+},
+"0x00C2E9": {
+"jp": "「ブレード・サイ、アクティブ」",
+"en": "「Blade Scythe, active」",
+"slot": 45
+},
+"0x00C317": {
+"jp": "「パターン・セレクト」",
+"en": "「Pattern select」",
+"slot": 33
+},
+"0x00C339": {
+"jp": "「シーケンス、ＲＴアレンジ！」",
+"en": "「Sequence, RT Arrange!」",
+"slot": 45
+},
+"0x00C367": {
+"jp": "「シーケンス、ＲＳ２！」",
+"en": "「Sequence, RS2!」",
+"slot": 36
+},
+"0x00C38C": {
+"jp": "「モード・チェンジ！」",
+"en": "「Mode change!」",
+"slot": 33
+},
+"0x00C3AE": {
+"jp": "「ロック主導。攻撃、続行します！」",
+"en": "「Lock leading. Attack, continuing!」",
+"slot": 51
+},
+"0x00C3E2": {
+"jp": "「プラズマホーン！」",
+"en": "「Plasma Horn!」",
+"slot": 30
+},
+"0x00C401": {
+"jp": "「飾りではないのです、この武器は！」",
+"en": "「This weapon is no mere ornament!」",
+"slot": 54
+},
+"0x00C438": {
+"jp": "「このまま突き刺します！」",
+"en": "「I'll skewer you like this!」",
+"slot": 39
+},
+"0x00C460": {
+"jp": "「ブースト・オン！」",
+"en": "「Boost on!」",
+"slot": 30
+},
+"0x00C47F": {
+"jp": "「この間合いならば！」",
+"en": "「At this range!」",
+"slot": 33
+},
+"0x00C4A1": {
+"jp": "「リボルビング・バンカー！」",
+"en": "「Revolving Bunker!」",
+"slot": 42
+},
+"0x00C4CC": {
+"jp": "「アヴァランチ・クレイモア、発射！」",
+"en": "「Avalanche Claymore, fire!」",
+"slot": 54
+},
+"0x00C503": {
+"jp": "「クレイモア、ファイア！」",
+"en": "「Claymore, fire!」",
+"slot": 39
+},
+"0x00C52B": {
+"jp": "「フロント・チェンバー、全弾発射！」",
+"en": "「Front Chamber, full salvo!」",
+"slot": 54
+},
+"0x00C562": {
+"jp": "「クレイモア、発射！」",
+"en": "「Claymore, fire!」",
+"slot": 33
+},
+"0x00C584": {
+"jp": "「フルオート！」",
+"en": "「Full auto!」",
+"slot": 24
+},
+"0x00C59D": {
+"jp": "「バンカー！　ファイア！」",
+"en": "「Bunker! Fire!」",
+"slot": 39
+},
+"0x00C5C5": {
+"jp": "「コールド・メタル・ソード、アクティブ！」",
+"en": "「Cold Metal Sword, active!」",
+"slot": 63
+},
+"0x00C605": {
+"jp": "「クラッシャー、アクティブ」",
+"en": "「Crusher, active」",
+"slot": 42
+},
+"0x00C630": {
+"jp": "「捕らえた！」",
+"en": "「Got you!」",
+"slot": 21
+},
+"0x00C646": {
+"jp": "「切断します！」",
+"en": "「I'll slice you up!」",
+"slot": 24
+},
+"0x00C65F": {
+"jp": "「ジャケット・アーマー、パージ」",
+"en": "「Jacket Armor, purge」",
+"slot": 48
+},
+"0x00C690": {
+"jp": "「テスラ・ドライブ、展開」",
+"en": "「Tesla Drive, deploy」",
+"slot": 39
+},
+"0x00C6B8": {
+"jp": "「ブースト！」",
+"en": "「Boost!」",
+"slot": 21
+},
+"0x00C6CE": {
+"jp": "「Ｅモード、ファイア！」",
+"en": "「E Mode, fire!」",
+"slot": 36
+},
+"0x00C6F3": {
+"jp": "「Ｂモード、ファイア！」",
+"en": "「B Mode, fire!」",
+"slot": 36
+},
+"0x00C718": {
+"jp": "「Ｗモード！」",
+"en": "「W Mode!」",
+"slot": 21
+},
+"0x00C72E": {
+"jp": "「リープ・ミサイル、発射！」",
+"en": "「Leap Missile, fire!」",
+"slot": 42
+},
+"0x00C759": {
+"jp": "「Ｇインパクト・キャノン、ファイア！」",
+"en": "「G Impact Cannon, fire!」",
+"slot": 57
+},
+"0x00C793": {
+"jp": "「重力衝撃砲、発射！」",
+"en": "「Gravity Shock Cannon, fire!」",
+"slot": 33
+},
+"0x00C7B5": {
+"jp": "「射角、出力調整……発射！」",
+"en": "「Angle, output set...fire!」",
+"slot": 42
+},
+"0x00C7E0": {
+"jp": "「ファング・スラッシャー、アクティブ」",
+"en": "「Fang Slasher, active」",
+"slot": 57
+},
+"0x00C81A": {
+"jp": "「行け！」",
+"en": "「Go!」",
+"slot": 15
+},
+"0x00C82A": {
+"jp": "「ドリル・ブーストナックル、発射！」",
+"en": "「Drill Boost Knuckle, fire!」",
+"slot": 54
+},
+"0x00C861": {
+"jp": "「ドリル・ブーストナックル！」",
+"en": "「Drill Boost Knuckle!」",
+"slot": 45
+},
+"0x00C88F": {
+"jp": "「オメガ・ブラスター、発射！」",
+"en": "「Omega Blaster, fire!」",
+"slot": 45
+},
+"0x00C8BD": {
+"jp": "「オメガ・ブラスター！」",
+"en": "「Omega Blaster!」",
+"slot": 36
+},
+"0x00C8E2": {
+"jp": "「Ｇコンビネーション・アタック」",
+"en": "「G Combination Attack」",
+"slot": 48
+},
+"0x00C913": {
+"jp": "「ドリル・アタッカー！」",
+"en": "「Drill Attacker!」",
+"slot": 36
+},
+"0x00C938": {
+"jp": "「参式、ＦＡモード」",
+"en": "「Type-3, FA Mode」",
+"slot": 30
+},
+"0x00C957": {
+"jp": "「獅子王刀、歳破！」",
+"en": "「Shishioh Blade, Saiha!」",
+"slot": 30
+},
+"0x00C976": {
+"jp": "「フル・ブースト！」",
+"en": "「Full Boost!」",
+"slot": 30
+},
+"0x00C995": {
+"jp": "「はあああっ！！」",
+"en": "「Haaaah!!」",
+"slot": 27
+},
+"0x00C9B1": {
+"jp": "「報告。目標を撃破」",
+"en": "「Report. Target destroyed」",
+"slot": 30
+},
+"0x00C9D0": {
+"jp": "「アリエイル・オーグ、目標を撃破しました」",
+"en": "「Ariel Org, target destroyed」",
+"slot": 63
+},
+"0x00CA10": {
+"jp": "「ドリル・アタック！」",
+"en": "「Drill Attack!」",
+"slot": 33
+},
+"0x00CA32": {
+"jp": "「ダーク・ロック！」",
+"en": "「Dark Lock!」",
+"slot": 30
+},
+"0x00CA51": {
+"jp": "「はあっ！」",
+"en": "「Haah!」",
+"slot": 18
+},
+"0x00CA64": {
+"jp": "「これでっ！」",
+"en": "「Take this!」",
+"slot": 21
+},
+"0x00CA7A": {
+"jp": "「ハイパー・ブーストナックル！」",
+"en": "「Hyper Boost Knuckle!」",
+"slot": 48
+},
+"0x00CAAB": {
+"jp": "「ビーム・キャノン、アクティブ」",
+"en": "「Beam Cannon, active」",
+"slot": 48
+},
+"0x00CADC": {
+"jp": "「アルティメット・ビーム、発射！」",
+"en": "「Ultimate Beam, fire!」",
+"slot": 51
+},
+"0x00CB10": {
+"jp": "「壱式改、ＳＦＡモード」",
+"en": "「Type-1 Kai, SFA Mode」",
+"slot": 36
+},
+"0x00CB35": {
+"jp": "「計都羅¶剣！」",
+"en": "「Keito Ra Ken!」",
+"slot": 23
+},
+"0x00CB4D": {
+"jp": "「暗剣殺！」",
+"en": "「Ankensatsu!」",
+"slot": 18
+},
+"0x00CB60": {
+"jp": "「斬！」",
+"en": "「Slash!」",
+"slot": 12
+},
+"0x00CB6D": {
+"jp": "「シーケンス・エンド」",
+"en": "「Sequence end」",
+"slot": 33
+},
+"0x00CB8F": {
+"jp": "「壱式改、ＦＡモード」",
+"en": "「Type-1 Kai, FA Mode」",
+"slot": 33
+},
+"0x00CBB1": {
+"jp": "「五！」",
+"en": "「Five!」",
+"slot": 12
+},
+"0x00CBBE": {
+"jp": "「黄！」",
+"en": "「Yellow」",
+"slot": 12
+},
+"0x00CBCB": {
+"jp": "「殺！」",
+"en": "「Kill!」",
+"slot": 12
+},
+"0x00CBD8": {
+"jp": "「ダブル・オメガレーザー！」",
+"en": "「Double Omega Laser!」",
+"slot": 42
+},
+"0x00CC03": {
+"jp": "「ビッグ・ミサイル、発射！」",
+"en": "「Big Missile, fire!」",
+"slot": 42
+},
+"0x00CC2E": {
+"jp": "「ツイン・ビームキャノン、発射！」",
+"en": "「Twin Beam Cannon, fire!」",
+"slot": 51
+},
+"0x00CC62": {
+"jp": "「スパイラル・ブレイカー！」",
+"en": "「Spiral Breaker!」",
+"slot": 42
+},
+"0x00CC8D": {
+"jp": "「アタック！」",
+"en": "「Attack!」",
+"slot": 21
+},
+"0x00CCA3": {
+"jp": "「オメガ・キャノン、ファイア！」",
+"en": "「Omega Cannon, fire!」",
+"slot": 48
+},
+"0x00CCD4": {
+"jp": "「一斉攻撃！」",
+"en": "「All-out attack!」",
+"slot": 21
+},
+"0x00CCEA": {
+"jp": "「マトリクス・ミサイル、発射！」",
+"en": "「Matrix Missile, fire!」",
+"slot": 48
+},
+"0x00CD1B": {
+"jp": "「リニア・カノン、発射！」",
+"en": "「Linear Cannon, fire!」",
+"slot": 39
+},
+"0x00CD43": {
+"jp": "「ファランクス・ミサイル、発射！」",
+"en": "「Phalanx Missile, fire!」",
+"slot": 51
+},
+"0x00CD77": {
+"jp": "「ツイン・ソリッドカノン、ファイア！」",
+"en": "「Twin Solid Cannon, fire!」",
+"slot": 57
+},
+"0x00CDB1": {
+"jp": "「エネルギー・チャージ」",
+"en": "「Energy charge」",
+"slot": 36
+},
+"0x00CDD6": {
+"jp": "「バレル展開、Ｅチャンバー、セット」",
+"en": "「Barrel deploy, E Chamber, set」",
+"slot": 54
+},
+"0x00CE0D": {
+"jp": "「スプリット・ビーム、発射！」",
+"en": "「Split Beam, fire!」",
+"slot": 45
+},
+"0x00CE3B": {
+"jp": "「スプリット・ビーム、ファイア！」",
+"en": "「Split Beam, fire!」",
+"slot": 51
+},
+"0x00CE6F": {
+"jp": "「ハード・ヒートホーン、アクティブ」",
+"en": "「Hard Heat Horn, active」",
+"slot": 54
+},
+"0x00CEA6": {
+"jp": "「ヒートホーンなら！」",
+"en": "「With the Heat Horn!」",
+"slot": 33
+},
+"0x00CEC8": {
+"jp": "「スクエア・クラスター、発射！」",
+"en": "「Square Cluster, fire!」",
+"slot": 48
+},
+"0x00CEF9": {
+"jp": "「スクエア・クラスター、ファイア！」",
+"en": "「Square Cluster, fire!」",
+"slot": 54
+},
+"0x00CF30": {
+"jp": "「力場展開」",
+"en": "「Force field.」",
+"slot": 18
+},
+"0x00CF43": {
+"jp": "「ギガント・ナックル！」",
+"en": "「Gigant Knuckle!」",
+"slot": 36
+},
+"0x00CF68": {
+"jp": "「ギガ・ワイドブラスター、発射！」",
+"en": "「Giga Wide Blaster, fire!」",
+"slot": 51
+},
+"0x00CF9C": {
+"jp": "「ギガ・サークルブラスター！」",
+"en": "「Giga Circle Blaster!」",
+"slot": 45
+},
+"0x00CFCA": {
+"jp": "「アンカー・ユニット、アクティブ」",
+"en": "「Anchor unit, active.」",
+"slot": 51
+},
+"0x00CFFE": {
+"jp": "「ターゲット・ロック！」",
+"en": "「Target lock!」",
+"slot": 36
+},
+"0x00D023": {
+"jp": "「粉砕します！」",
+"en": "「I'll crush you!」",
+"slot": 24
+},
+"0x00D03C": {
+"jp": "「ハルバート・ランチャー、ファイア！」",
+"en": "「Halberd Launcher, fire!」",
+"slot": 57
+},
+"0x00D076": {
+"jp": "「ソードブレイカー！」",
+"en": "「Sword Breaker!」",
+"slot": 33
+},
+"0x00D098": {
+"jp": "「突撃します！」",
+"en": "「Charging in!」",
+"slot": 24
+}
+}

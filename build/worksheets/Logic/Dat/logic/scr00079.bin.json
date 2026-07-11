@@ -1,0 +1,789 @@
+{
+"0x012F6E": {
+"jp": "\u000b?[ＤＭ]-？イング",
+"en": "\u000b?[ＤＭ]-?Ing",
+"slot": 23
+},
+"0x012F86": {
+"jp": "[ＤＭ]-アイビス",
+"en": "",
+"slot": 21,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x012F9C": {
+"jp": "[ＤＭ]-アクア",
+"en": "",
+"slot": 18,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x012FAF": {
+"jp": "[ＤＭ]-アクセル",
+"en": "",
+"slot": 21,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x012FC5": {
+"jp": "[ＤＭ]-アヤ",
+"en": "",
+"slot": 15,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x012FD5": {
+"jp": "[ＤＭ]-アラセリ",
+"en": "",
+"slot": 21,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x012FEB": {
+"jp": "[ＤＭ]-アラド",
+"en": "",
+"slot": 18,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x012FFE": {
+"jp": "[ＤＭ]-アリエイル",
+"en": "",
+"slot": 24,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x013017": {
+"jp": "[ＤＭ]-アルフィミィ",
+"en": "",
+"slot": 27,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x013033": {
+"jp": "[ＤＭ]-イルム",
+"en": "",
+"slot": 18,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x013046": {
+"jp": "[ＤＭ]-イング",
+"en": "",
+"slot": 18,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x013059": {
+"jp": "[ＤＭ]-イングＳ",
+"en": "",
+"slot": 21,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x01306F": {
+"jp": "[ＤＭ]-ヴィレッタ",
+"en": "",
+"slot": 24,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x013088": {
+"jp": "[ＤＭ]-ウェントス",
+"en": "",
+"slot": 24,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0130A1": {
+"jp": "[ＤＭ]-エリス",
+"en": "",
+"slot": 18,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0130B4": {
+"jp": "[ＤＭ]-エクセレン",
+"en": "",
+"slot": 24,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0130CD": {
+"jp": "[ＤＭ]-カークスＦＲ",
+"en": "",
+"slot": 27,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0130E9": {
+"jp": "[ＤＭ]-カーラ",
+"en": "",
+"slot": 18,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0130FC": {
+"jp": "[ＤＭ]-カイ",
+"en": "",
+"slot": 15,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x01310C": {
+"jp": "[ＤＭ]-カチーナ",
+"en": "",
+"slot": 21,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x013122": {
+"jp": "[ＤＭ]-キョウスケ",
+"en": "",
+"slot": 24,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x01313B": {
+"jp": "[ＤＭ]-ギリアム",
+"en": "",
+"slot": 21,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x013151": {
+"jp": "[ＤＭ]-ククルＦＲ",
+"en": "",
+"slot": 24,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x01316A": {
+"jp": "[ＤＭ]-クスハ",
+"en": "",
+"slot": 18,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x01317D": {
+"jp": "[ＤＭ]-グラキエース",
+"en": "",
+"slot": 27,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x013199": {
+"jp": "[ＤＭ]-クルト",
+"en": "",
+"slot": 18,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0131AC": {
+"jp": "[ＤＭ]-ゲンナジー",
+"en": "",
+"slot": 24,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0131C5": {
+"jp": "[ＤＭ]-Ｆロア",
+"en": "",
+"slot": 18,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0131D8": {
+"jp": "[ＤＭ]-ゴルド",
+"en": "",
+"slot": 18,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0131EB": {
+"jp": "[ＤＭ]-ザッシュ",
+"en": "",
+"slot": 21,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x013201": {
+"jp": "[ＤＭ]-サフィーネ",
+"en": "",
+"slot": 24,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x01321A": {
+"jp": "[ＤＭ]-シャイン",
+"en": "",
+"slot": 21,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x013230": {
+"jp": "[ＤＭ]-シュウ",
+"en": "",
+"slot": 18,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x013243": {
+"jp": "[ＤＭ]-Ｆエミィ",
+"en": "",
+"slot": 21,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x013259": {
+"jp": "[ＤＭ]-ジョッシュ",
+"en": "",
+"slot": 24,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x013272": {
+"jp": "[ＤＭ]-スレイ",
+"en": "",
+"slot": 18,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x013285": {
+"jp": "[ＤＭ]-ゼオラ",
+"en": "",
+"slot": 18,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x013298": {
+"jp": "[ＤＭ]-セティ",
+"en": "",
+"slot": 18,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0132AB": {
+"jp": "[ＤＭ]-セニア",
+"en": "",
+"slot": 18,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0132BE": {
+"jp": "[ＤＭ]-ゼブ",
+"en": "",
+"slot": 15,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0132CE": {
+"jp": "[ＤＭ]-ゼンガー",
+"en": "",
+"slot": 21,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0132E4": {
+"jp": "[ＤＭ]-タスク",
+"en": "",
+"slot": 18,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0132F7": {
+"jp": "[ＤＭ]-テツヤ",
+"en": "",
+"slot": 18,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x01330A": {
+"jp": "[ＤＭ]-テュッティ",
+"en": "",
+"slot": 24,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x013323": {
+"jp": "[ＤＭ]-トウマ",
+"en": "",
+"slot": 18,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x013336": {
+"jp": "[ＤＭ]-トールス",
+"en": "",
+"slot": 21,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x01334C": {
+"jp": "[ＤＭ]-ヒューゴ",
+"en": "",
+"slot": 21,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x013362": {
+"jp": "[ＤＭ]-フェイルＦＲ",
+"en": "",
+"slot": 27,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x01337E": {
+"jp": "[ＤＭ]-ブリット",
+"en": "",
+"slot": 21,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x013394": {
+"jp": "[ＤＭ]-プレシア",
+"en": "",
+"slot": 21,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0133AA": {
+"jp": "[ＤＭ]-マイ",
+"en": "",
+"slot": 15,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0133BA": {
+"jp": "[ＤＭ]-マサキ",
+"en": "",
+"slot": 18,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0133CD": {
+"jp": "[ＤＭ]-ミオ",
+"en": "",
+"slot": 15,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0133DD": {
+"jp": "[ＤＭ]-ミチル",
+"en": "",
+"slot": 18,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0133F0": {
+"jp": "[ＤＭ]-メキボス",
+"en": "",
+"slot": 21,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x013406": {
+"jp": "[ＤＭ]-モニカ",
+"en": "",
+"slot": 18,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x013419": {
+"jp": "[ＤＭ]-ヤンロン",
+"en": "",
+"slot": 21,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x01342F": {
+"jp": "[ＤＭ]-ユウキ",
+"en": "",
+"slot": 18,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x013442": {
+"jp": "[ＤＭ]-ラーダ",
+"en": "",
+"slot": 18,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x013455": {
+"jp": "[ＤＭ]-ライ",
+"en": "",
+"slot": 15,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x013465": {
+"jp": "[ＤＭ]-ラウル",
+"en": "",
+"slot": 18,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x013478": {
+"jp": "[ＤＭ]-ラッセル",
+"en": "",
+"slot": 21,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x01348E": {
+"jp": "[ＤＭ]-ラトゥーニ",
+"en": "",
+"slot": 24,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0134A7": {
+"jp": "[ＤＭ]-ラミア",
+"en": "",
+"slot": 18,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0134BA": {
+"jp": "[ＤＭ]-リオ",
+"en": "",
+"slot": 15,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0134CA": {
+"jp": "[ＤＭ]-リシュウ",
+"en": "",
+"slot": 21,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0134E0": {
+"jp": "[ＤＭ]-リム",
+"en": "",
+"slot": 15,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0134F0": {
+"jp": "[ＤＭ]-リュウセイ",
+"en": "",
+"slot": 24,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x013509": {
+"jp": "[ＤＭ]-リューネ",
+"en": "",
+"slot": 21,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x01351F": {
+"jp": "[ＤＭ]-リョウト",
+"en": "",
+"slot": 21,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x013535": {
+"jp": "[ＤＭ]-ルザック州軍兵士Ａ",
+"en": "",
+"slot": 36,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x01355A": {
+"jp": "[ＤＭ]-ルザック州軍兵士Ｂ",
+"en": "",
+"slot": 36,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x01357F": {
+"jp": "[ＤＭ]-レーツェル",
+"en": "",
+"slot": 24,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x013598": {
+"jp": "[ＤＭ]-レオナ",
+"en": "",
+"slot": 18,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0135AB": {
+"jp": "[ＤＭ]-レフィーナ",
+"en": "",
+"slot": 24,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0135C4": {
+"jp": "[ＤＭ]-ロドニー",
+"en": "",
+"slot": 21,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0135DA": {
+"jp": "[ＤＭ]-ロフ",
+"en": "",
+"slot": 15,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x0135EA": {
+"jp": "[ＤＭ]-ダミー",
+"en": "",
+"slot": 18,
+"note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+},
+"0x013607": {
+"jp": "[ＳＤ１]-000",
+"en": "",
+"slot": 15
+},
+"0x013617": {
+"jp": "[１]-000",
+"en": "",
+"slot": 9
+},
+"0x013621": {
+"jp": "移動",
+"en": "Move",
+"slot": 6
+},
+"0x013628": {
+"jp": "[１]-001",
+"en": "",
+"slot": 9
+},
+"0x013632": {
+"jp": "[１]-002",
+"en": "",
+"slot": 9
+},
+"0x01363C": {
+"jp": "１．　キャニス・アルタルフ、トライロバイトの撃墜。",
+"en": "1.  Shoot down Canis Altarf and Trilobite.",
+"slot": 75
+},
+"0x013688": {
+"jp": "１．　ハガネの撃墜。",
+"en": "1.  Shoot down Hagane.",
+"slot": 30
+},
+"0x0136A7": {
+"jp": "２．　イング、ヒューゴ、アクアのいずれかの撃墜。",
+"en": "2.  Shoot down Ing, Hugo, or Aqua.",
+"slot": 72
+},
+"0x0136F0": {
+"jp": "・３ターン以内に、キャニス・アルタルフ、トライロバイト以外の敵を３０機以上撃墜する。",
+"en": "- Shoot down 30 or more enemies other than Canis Altarf and Trilobite within 3 turns.",
+"slot": 126
+},
+"0x01376F": {
+"jp": "ゲームオーバー",
+"en": "Game Over",
+"slot": 21
+},
+"0x013785": {
+"jp": "[２]-000",
+"en": "",
+"slot": 9
+},
+"0x01378F": {
+"jp": "[２]-001",
+"en": "",
+"slot": 9
+},
+"0x013799": {
+"jp": "[２]-002",
+"en": "",
+"slot": 9
+},
+"0x0137A3": {
+"jp": "[２]-003",
+"en": "",
+"slot": 9
+},
+"0x0137AD": {
+"jp": "[２]-004",
+"en": "",
+"slot": 9
+},
+"0x0137B7": {
+"jp": "移動",
+"en": "Move",
+"slot": 6
+},
+"0x0137BE": {
+"jp": "１．　キャニス・アルタルフ、トライロバイト、ガルベルスの撃墜。",
+"en": "1.  Shoot down Canis Altarf, Trilobite, and Galvus.",
+"slot": 93
+},
+"0x01381C": {
+"jp": "[３]-000",
+"en": "",
+"slot": 9
+},
+"0x013826": {
+"jp": "[３]-001",
+"en": "",
+"slot": 9
+},
+"0x013830": {
+"jp": "[１８]-000",
+"en": "",
+"slot": 12
+},
+"0x01383D": {
+"jp": "[１８]-001",
+"en": "",
+"slot": 12
+},
+"0x01384A": {
+"jp": "[１８]-002",
+"en": "",
+"slot": 12
+},
+"0x013857": {
+"jp": "[１８]-003",
+"en": "",
+"slot": 12
+},
+"0x013864": {
+"jp": "[２０]-000",
+"en": "",
+"slot": 12
+},
+"0x013871": {
+"jp": "[２０]-001",
+"en": "",
+"slot": 12
+},
+"0x01387E": {
+"jp": "[２０]-002",
+"en": "",
+"slot": 12
+},
+"0x01388B": {
+"jp": "[２０]-003",
+"en": "",
+"slot": 12
+},
+"0x013898": {
+"jp": "[２０]-004",
+"en": "",
+"slot": 12
+},
+"0x0138A5": {
+"jp": "[１９]-000",
+"en": "",
+"slot": 12
+},
+"0x0138B2": {
+"jp": "[１９]-001",
+"en": "",
+"slot": 12
+},
+"0x0138BF": {
+"jp": "[１９]-002",
+"en": "",
+"slot": 12
+},
+"0x0138CC": {
+"jp": "[１９]-003",
+"en": "",
+"slot": 12
+},
+"0x0138D9": {
+"jp": "[２１]-000",
+"en": "",
+"slot": 12
+},
+"0x0138E6": {
+"jp": "[２１]-001",
+"en": "",
+"slot": 12
+},
+"0x0138F3": {
+"jp": "１．　エア・クリスマスの撃墜。",
+"en": "1.  Shoot down Air Christmas.",
+"slot": 45
+},
+"0x013921": {
+"jp": "１．　ハガネの撃墜。",
+"en": "1.  Shoot down Hagane.",
+"slot": 30
+},
+"0x013940": {
+"jp": "２．　イングの撃墜。",
+"en": "2.  Shoot down Ing.",
+"slot": 30
+},
+"0x01395F": {
+"jp": "[２５]-000",
+"en": "",
+"slot": 12
+},
+"0x01396C": {
+"jp": "[２５]-001",
+"en": "",
+"slot": 12
+},
+"0x013979": {
+"jp": "[２６]-000",
+"en": "",
+"slot": 12
+},
+"0x013986": {
+"jp": "[２６]-001",
+"en": "",
+"slot": 12
+},
+"0x013993": {
+"jp": "[２７]-000",
+"en": "",
+"slot": 12
+},
+"0x0139A0": {
+"jp": "[２７]-001",
+"en": "",
+"slot": 12
+},
+"0x0139AD": {
+"jp": "[２７]-002",
+"en": "",
+"slot": 12
+},
+"0x0139BA": {
+"jp": "[ＳＤ２]-000",
+"en": "",
+"slot": 15
+},
+"0x0139CA": {
+"jp": "[４]-000",
+"en": "",
+"slot": 9
+},
+"0x0139D4": {
+"jp": "[５]-000",
+"en": "",
+"slot": 9
+},
+"0x0139DE": {
+"jp": "[６]-000",
+"en": "",
+"slot": 9
+},
+"0x0139E8": {
+"jp": "[７]-000",
+"en": "",
+"slot": 9
+},
+"0x0139F2": {
+"jp": "[８]-000",
+"en": "",
+"slot": 9
+},
+"0x0139FC": {
+"jp": "[９]-000",
+"en": "",
+"slot": 9
+},
+"0x013A06": {
+"jp": "[１０]-000",
+"en": "",
+"slot": 12
+},
+"0x013A13": {
+"jp": "[１１]-000",
+"en": "",
+"slot": 12
+},
+"0x013A20": {
+"jp": "[１２]-000",
+"en": "",
+"slot": 12
+},
+"0x013A2D": {
+"jp": "[１３]-000",
+"en": "",
+"slot": 12
+},
+"0x013A3A": {
+"jp": "[１４]-000",
+"en": "",
+"slot": 12
+},
+"0x013A47": {
+"jp": "[１５]-000",
+"en": "",
+"slot": 12
+},
+"0x013A54": {
+"jp": "[１６]-000",
+"en": "",
+"slot": 12
+},
+"0x013A61": {
+"jp": "[１７]-000",
+"en": "",
+"slot": 12
+},
+"0x013A6E": {
+"jp": "[２２]-000",
+"en": "",
+"slot": 12
+},
+"0x013A7B": {
+"jp": "[２３]-000",
+"en": "",
+"slot": 12
+},
+"0x013A88": {
+"jp": "[２４]-000",
+"en": "",
+"slot": 12
+},
+"0x013A95": {
+"jp": "・無し。",
+"en": "- None.",
+"slot": 12
+},
+"0x013AA2": {
+"jp": "・無し。",
+"en": "- None.",
+"slot": 12
+}
+}

@@ -1,0 +1,634 @@
+[
+ {
+  "segs": [
+   [
+    "jp",
+    "攻撃を行った場合、その攻撃が命中することを表します。クリティカルが発生する場合は「ＣＲＴ」"
+   ],
+   [
+    "en",
+    "is displayed."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "機体がその武器を装備するために必要なウェポンゲージ値を表します。（）内は現在の機体の最大"
+   ],
+   [
+    "en",
+    "Shows the Weapon Gauge value."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "機体に搭乗しているメインパイロットの、特殊スキル「援護攻撃」の「残り援護回数」／「スキル"
+   ],
+   [
+    "en",
+    "Level (support uses per turn).\""
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "機体に搭乗しているメインパイロットが援護攻撃が可能なことを表します。数値は現在のターンに"
+   ],
+   [
+    "en",
+    "the number of possible support attacks."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "機体に搭乗しているメインパイロットの、特殊スキル「援護防御」の「残り援護回数」／「スキル"
+   ],
+   [
+    "en",
+    "Level (support uses per turn).\""
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "機体に搭乗しているメインパイロットが援護防御が可能なことを表します。数値は現在のターンに"
+   ],
+   [
+    "en",
+    "the number of possible support defends."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "パイロットの回避能力を表します。数値が大きいほど、攻撃を回避しやすくなります。ステータス"
+   ],
+   [
+    "en",
+    "If afflicted with a status ailment, the reduced value is shown."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "パイロットの回避能力を表します。レベルアップにより能力値が上昇した場合、スキルの文字色が"
+   ],
+   [
+    "en",
+    "is shown in green, displaying the raised value."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "パイロットの、格闘戦闘の能力を表します。数値が大きいほど、<I=6>格闘武器を使用した場合の与え"
+   ],
+   [
+    "en",
+    "the damage dealt rises."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "パイロットの、格闘戦闘の能力を表します。数値が大きいほど、<I=6>格闘武器を使用した場合の与え"
+   ],
+   [
+    "en",
+    "the damage dealt rises. If afflicted with a status ailment, the reduced value is shown."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "パイロットの戦闘技術力を表します。数値が大きいほど、戦闘でのクリティカル発生率や、特殊ス"
+   ],
+   [
+    "en",
+    "the Counter skill's activation rate rises."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "パイロットの、射撃戦闘の能力を表します。数値が大きいほど、<I=7>射撃武器を使用した場合の与え"
+   ],
+   [
+    "en",
+    "damage dealt rises."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "パイロットの、射撃戦闘の能力を表します。数値が大きいほど、<I=7>射撃武器を使用した場合の与え"
+   ],
+   [
+    "en",
+    "damage dealt rises. If a status ailment applies, the reduced value is shown."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "点灯している場合、機体が盾を保有していることを表します。盾を持つ機体が反撃時などに「防御」"
+   ],
+   [
+    "en",
+    "doing so reduces damage taken by a further 10%."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "武器を使用した場合、消費するエネルギーを表します。（）内は現在のエネルギー値を表します。"
+   ],
+   [
+    "en",
+    "If energy is insufficient, that weapon cannot be used."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "精神コマンドを使用した場合に消費する精神ポイント及び、パイロットの「現在の精神ポイント」／"
+   ],
+   [
+    "en",
+    "Shows the maximum SP."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "パイロットの精神コマンドと使用するために必要なＳＰ（精神ポイント）を表します。パイロット"
+   ],
+   [
+    "en",
+    "the spirit commands learned and their SP cost change."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "パイロットの精神コマンド（ツイン精神コマンド）を表します。パイロットによって覚える精神コ"
+   ],
+   [
+    "en",
+    "the (twin) spirit commands change."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "パイロットの宇宙地形に対しての相性を表します。戦闘での命中率・回避率、受けるダメージに影"
+   ],
+   [
+    "en",
+    "affects it. There are 5 ranks: S, A, B, C, D. S suits the terrain best."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "パイロットの海地形に対しての相性を表します。戦闘での命中率・回避率、受けるダメージに影響"
+   ],
+   [
+    "en",
+    "There are 5 ranks: S, A, B, C, D; S is best suited to that terrain."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "パイロットの空地形に対しての相性を表します。戦闘での命中率・回避率、受けるダメージに影響"
+   ],
+   [
+    "en",
+    "There are 5 ranks: S, A, B, C, D; S is best suited to that terrain."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "パイロットの陸地形に対しての相性を表します。戦闘での命中率・回避率、受けるダメージに影響"
+   ],
+   [
+    "en",
+    "There are 5 ranks: S, A, B, C, D; S is best suited to that terrain."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "ステージ中に撃墜された、プレイヤー属性の機体数を表します。数が１以上の場合、<W=32><H=32><S=-4><Y=-3><I=41></Y><S=-4></H></W>でその内容"
+   ],
+   [
+    "en",
+    "can be checked."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "武器を使用するために必要な特殊スキルを表します。必要な条件を満たしていない場合、その武器"
+   ],
+   [
+    "en",
+    "cannot be used."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "武器を使用するために必要な、メインパイロットの気力を表します。（）内は現在のメインパイロッ"
+   ],
+   [
+    "en",
+    "pilot's Will. If Will is too low, that weapon cannot be used."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "パイロットのダメージを防ぐ能力を表します。数値が大きいほど、戦闘で受けるダメージが少なく"
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "パイロットの攻撃の正確さを表します。数値が大きいほど、攻撃を命中させやすくなります。ステー"
+   ],
+   [
+    "en",
+    "ailment, the reduced value is shown."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "パイロットの攻撃の正確さを表します。レベルアップにより能力値が上昇した場合、スキルの文字"
+   ],
+   [
+    "en",
+    "is shown in green, and the raised value is shown."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "機体に移動タイプ「空」を与え、移動力を１だけ上昇させます。機体と武器の地形適応「空」をＳ"
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "ＥＮが１０以上の場合、ビーム攻撃（バリア貫通系武器を除く）によるダメージを１２００だけ軽"
+   ],
+   [
+    "en",
+    "reduces."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "スキルレベルが高くなるほど、搭乗機体の残りＨＰ％に応じて命中率・回避率・装甲・クリティカ"
+   ],
+   [
+    "en",
+    "critical rate rises."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "スキルレベルが高くなるほど搭乗機体の移動力とマップ兵器以外の、<I=6>格闘武器の攻撃力が上昇し"
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "スキルレベルが高くなるほど搭乗機体のマップ兵器以外の、<I=7>射撃武器の攻撃力と射程が上昇しま"
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "スキルレベルが高くなるほど自機の指揮範囲内に存在する味方機体の命中率・回避率を上昇させま"
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "コンビネーション攻撃可能な武器で攻撃を行った場合に、その機体に「コンビネーション攻撃」を"
+   ],
+   [
+    "en",
+    "Ability to trigger this. The \"level\" of Continuous Attack Lv +1 = number of units attackable."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "ＥＮが５以上、気力が１１０以上の場合、全ての攻撃（バリア貫通系武器を除く）による、パイロッ"
+   ],
+   [
+    "en",
+    "pilot special skill \"Psychodriver\" skill level x200 of damage is nullified."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "ＥＮが５以上、気力が１１０以上の場合、全ての攻撃（バリア貫通系武器を除く）による、パイロッ"
+   ],
+   [
+    "en",
+    "pilot special skill \"Psychodriver\" skill level x250 of damage is nullified."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "パイロットがステータス異常により、精神コマンドを使用できなくなっている場合、表示されます。"
+   ],
+   [
+    "en",
+    "While ailing, spirit commands cannot be used and all lasting spirit effects are cleared."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "効果を受けた場合、機体の現ＥＮ値が３０だけ減少し、その分だけ攻撃機体の現ＥＮ値を上昇させ"
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "効果を受けた場合、機体の現ＥＮ値が５０だけ減少し、その分だけ攻撃機体の現ＥＮ値を上昇させ"
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "効果を受けた場合、機体の現ＥＮ値が１００だけ減少し、その分だけ攻撃機体の現ＥＮ値を上昇さ"
+   ],
+   [
+    "en",
+    "s it."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "効果を受けた場合に１ターンの間、メインパイロットの格闘・射撃・命中・回避・防御・技量の値"
+   ],
+   [
+    "en",
+    "drops."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "効果を受けた場合に１ターンの間、メインパイロットの格闘・射撃・命中・回避・防御・技量の値"
+   ],
+   [
+    "en",
+    "drops by 10."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "効果を受けた場合に１ターンの間、メインパイロットの格闘・射撃・命中・回避・防御・技量の値"
+   ],
+   [
+    "en",
+    "drops by 20."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "効果を受けた場合に１ターンの間、メインパイロットの格闘・射撃・命中・回避・防御・技量の値"
+   ],
+   [
+    "en",
+    "drops by 30."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "効果を受けた場合に１ターンの間、個別コマンドについて、「合流」「解散」「メイン」「能力」"
+   ],
+   [
+    "en",
+    "become unusable, and no command can be chosen when counterattacking."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "効果を受けた場合、メインパイロットの現ＳＰ値が減少し、その分だけ攻撃機体の、メインパイロッ"
+   ],
+   [
+    "en",
+    "raises the pilot's current SP."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "効果を受けた場合、メインパイロットの現ＳＰ値が１０だけ減少し、その分だけ攻撃機体の、メイ"
+   ],
+   [
+    "en",
+    "raises the main pilot's current SP."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "効果を受けた場合、メインパイロットの現ＳＰ値が１５だけ減少し、その分だけ攻撃機体の、メイ"
+   ],
+   [
+    "en",
+    "raises the main pilot's current SP."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "効果を受けた場合、メインパイロットの現ＳＰ値が２０だけ減少し、その分だけ攻撃機体の、メイ"
+   ],
+   [
+    "en",
+    "raises the main pilot's current SP."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "効果を受けた場合に１ターンの間、個別コマンド「精神」が使用不可能になります。継続性のある"
+   ],
+   [
+    "en",
+    "all spirit commands are cleared."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "自軍フェイズ開始時に、マップ上に存在する敵対勢力の機体の中からランダムで４機に、その機体"
+   ],
+   [
+    "en",
+    "Deals damage equal to 50% of its current HP."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "自軍フェイズ開始時に、マップ上に存在する特定の機体（未定）全てに対して、精神コマンド「感"
+   ],
+   [
+    "en",
+    "Uses \"Cheer\"."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "自軍フェイズ開始時に、マップ上に存在する特定の機体（未定）全てに対して、最大ＨＰの３０％"
+   ],
+   [
+    "en",
+    "Recovers your unit's current HP."
+   ]
+  ]
+ },
+ {
+  "segs": [
+   [
+    "jp",
+    "自軍フェイズ開始時に、マップ上に特定のパイロット（未定）が存在する場合、精神コマンド（未"
+   ],
+   [
+    "en",
+    "Uses (Strike)."
+   ]
+  ]
+ }
+]

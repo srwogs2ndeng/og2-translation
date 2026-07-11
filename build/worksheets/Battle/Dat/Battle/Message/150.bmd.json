@@ -1,0 +1,352 @@
+{
+"0x0016F8": {
+"jp": "「ミッション・スタート」",
+"en": "「Mission start」",
+"slot": 36
+},
+"0x00171D": {
+"jp": "「インレンジ」",
+"en": "「In range」",
+"slot": 21
+},
+"0x001733": {
+"jp": "「シーケンス・スタート」",
+"en": "「Sequence start」",
+"slot": 36
+},
+"0x001758": {
+"jp": "「アクション」",
+"en": "「Action」",
+"slot": 21
+},
+"0x00176E": {
+"jp": "「ＡＰＤ、最適化」",
+"en": "「APD, optimizing」",
+"slot": 27
+},
+"0x00178A": {
+"jp": "「ＡＰＤ、セレクト」",
+"en": "「APD, select」",
+"slot": 30
+},
+"0x0017A9": {
+"jp": "「戦闘開始」",
+"en": "「Combat start」",
+"slot": 18
+},
+"0x0017BC": {
+"jp": "「任務遂行」",
+"en": "「On mission」",
+"slot": 18
+},
+"0x0017CF": {
+"jp": "「ＥＡＴを排除する」",
+"en": "「Eliminating EAT」",
+"slot": 30
+},
+"0x0017EE": {
+"jp": "「ターゲット、ＥＡＴ。攻撃開始」",
+"en": "「Target, EAT. Attack start」",
+"slot": 48
+},
+"0x00181F": {
+"jp": "「ＥＡＴを撃破する」",
+"en": "「Destroying EAT」",
+"slot": 30
+},
+"0x00183E": {
+"jp": "「任務確認……ＥＡＴ掃討」",
+"en": "「Mission confirmed... EAT sweep」",
+"slot": 39
+},
+"0x001866": {
+"jp": "「リアクション」",
+"en": "「Reaction」",
+"slot": 24
+},
+"0x00187F": {
+"jp": "「シーケンス・リスタート」",
+"en": "「Sequence restart」",
+"slot": 39
+},
+"0x0018A7": {
+"jp": "「反撃開始」",
+"en": "「Countering.」",
+"slot": 18
+},
+"0x0018BA": {
+"jp": "「目標、再捕捉」",
+"en": "「Target reacquired」",
+"slot": 24
+},
+"0x0018D3": {
+"jp": "「機能停止……」",
+"en": "「Function halt...」",
+"slot": 24
+},
+"0x0018EC": {
+"jp": "「任務遂行、不可能……」",
+"en": "「Mission... impossible...」",
+"slot": 36
+},
+"0x001911": {
+"jp": "「戦闘続行、不可能……」",
+"en": "「Combat... impossible...」",
+"slot": 36
+},
+"0x001936": {
+"jp": "「出力低下……損傷部への動力伝達カット」",
+"en": "「Output down... cutting power to damaged parts」",
+"slot": 60
+},
+"0x001973": {
+"jp": "「ダメージ・コントロール、不可能」",
+"en": "「Damage control, impossible」",
+"slot": 51
+},
+"0x0019A7": {
+"jp": "「稼働可能部分へ優先的に動力伝達」",
+"en": "「Priority power to functional parts」",
+"slot": 51
+},
+"0x0019DB": {
+"jp": "「ＭＰＤ、対応不可能」",
+"en": "「MPD, cannot respond」",
+"slot": 33
+},
+"0x0019FD": {
+"jp": "「警戒レベル、Ａへ移行」",
+"en": "「Alert level, shift to A」",
+"slot": 36
+},
+"0x001A22": {
+"jp": "「任務遂行に支障あり」",
+"en": "「Mission is impeded」",
+"slot": 33
+},
+"0x001A44": {
+"jp": "「要注意ＥＡＴ……」",
+"en": "「Caution, EAT...」",
+"slot": 30
+},
+"0x001A63": {
+"jp": "「戦闘続行に支障あり」",
+"en": "「Combat is impeded」",
+"slot": 33
+},
+"0x001A85": {
+"jp": "「リカバー、困難……」",
+"en": "「Recovery, difficult...」",
+"slot": 33
+},
+"0x001AA7": {
+"jp": "「ダメージ・コントロール」",
+"en": "「Damage control」",
+"slot": 39
+},
+"0x001ACF": {
+"jp": "「バランサー、リカバー」",
+"en": "「Balancer, recovering」",
+"slot": 36
+},
+"0x001AF4": {
+"jp": "「被弾装甲をパージ」",
+"en": "「Purging hit armor」",
+"slot": 30
+},
+"0x001B13": {
+"jp": "「警戒レベル、Ｂへ移行」",
+"en": "「Alert level, shift to B」",
+"slot": 36
+},
+"0x001B38": {
+"jp": "「ＭＰＤ、最適化」",
+"en": "「MPD, optimizing」",
+"slot": 27
+},
+"0x001B54": {
+"jp": "「シーケンス、修正……最適化」",
+"en": "「Sequence, revising... optimizing」",
+"slot": 45
+},
+"0x001B82": {
+"jp": "「任務遂行効率、低下」",
+"en": "「Mission efficiency, down」",
+"slot": 33
+},
+"0x001BA4": {
+"jp": "「戦域よりの一時離脱を検討」",
+"en": "「Considering temporary retreat」",
+"slot": 42
+},
+"0x001BCF": {
+"jp": "「損傷軽微」",
+"en": "「Damage minor」",
+"slot": 18
+},
+"0x001BE2": {
+"jp": "「各部チェック……戦闘続行可能」",
+"en": "「All parts check... combat can continue」",
+"slot": 48
+},
+"0x001C13": {
+"jp": "「警戒レベル、Ｃ」",
+"en": "「Alert level, C」",
+"slot": 27
+},
+"0x001C2F": {
+"jp": "「ＭＰＤ、リセット」",
+"en": "「MPD, reset」",
+"slot": 30
+},
+"0x001C4E": {
+"jp": "「データ・リンク。転送」",
+"en": "「Data link. Transfer」",
+"slot": 36
+},
+"0x001C73": {
+"jp": "「戦闘を続行する」",
+"en": "「Combat continues.」",
+"slot": 27
+},
+"0x001C8F": {
+"jp": "「任務遂行に支障なし」",
+"en": "「No obstacle to the mission.」",
+"slot": 33
+},
+"0x001CB1": {
+"jp": "「任務内容に変更なし」",
+"en": "「Mission unchanged.」",
+"slot": 33
+},
+"0x001CD3": {
+"jp": "「ダメージ、０」",
+"en": "「Damage, zero.」",
+"slot": 24
+},
+"0x001CEC": {
+"jp": "「損傷なし」",
+"en": "「No damage.」",
+"slot": 18
+},
+"0x001CFF": {
+"jp": "「回避完了」",
+"en": "「Evaded.」",
+"slot": 18
+},
+"0x001D12": {
+"jp": "「ネクスト・シーケンス」",
+"en": "「Next sequence.」",
+"slot": 36
+},
+"0x001D37": {
+"jp": "「反撃不可能」",
+"en": "「Can't counter.」",
+"slot": 21
+},
+"0x001D4D": {
+"jp": "「ポジション、リセット」",
+"en": "「Position, reset.」",
+"slot": 36
+},
+"0x001D72": {
+"jp": "「シーケンス、リセット」",
+"en": "「Sequence, reset.」",
+"slot": 36
+},
+"0x001D97": {
+"jp": "「射程範囲外」",
+"en": "「Out of range.」",
+"slot": 21
+},
+"0x001DAD": {
+"jp": "「攻撃不可能」",
+"en": "「Can't attack.」",
+"slot": 21
+},
+"0x001DC3": {
+"jp": "「ターゲット、ロスト」",
+"en": "「Target, lost.」",
+"slot": 33
+},
+"0x001DE5": {
+"jp": "「バックアップ・スタート」",
+"en": "「Backup, start.」",
+"slot": 39
+},
+"0x001E0D": {
+"jp": "「フォロー・アタック」",
+"en": "「Follow attack.」",
+"slot": 33
+},
+"0x001E2F": {
+"jp": "「シーケンス続行」",
+"en": "「Sequence continues.」",
+"slot": 27
+},
+"0x001E4B": {
+"jp": "「攻撃阻止」",
+"en": "「Blocked.」",
+"slot": 18
+},
+"0x001E5E": {
+"jp": "「友軍機をカバー」",
+"en": "「Covering ally unit.」",
+"slot": 27
+},
+"0x001E7A": {
+"jp": "「発射」",
+"en": "「Fire.」",
+"slot": 12
+},
+"0x001E87": {
+"jp": "「ファイア」",
+"en": "「Fire.」",
+"slot": 18
+},
+"0x001E9A": {
+"jp": "「目標捕捉」",
+"en": "「Locked on.」",
+"slot": 18
+},
+"0x001EAD": {
+"jp": "「エネルギー・チャージ」",
+"en": "「Energy charge.」",
+"slot": 36
+},
+"0x001ED2": {
+"jp": "「ターゲット・ロック」",
+"en": "「Target lock.」",
+"slot": 33
+},
+"0x001EF4": {
+"jp": "「ターゲット・インサイト」",
+"en": "「Target in sight.」",
+"slot": 39
+},
+"0x001F1C": {
+"jp": "「バレル、セット」",
+"en": "「Barrel, set.」",
+"slot": 27
+},
+"0x001F38": {
+"jp": "「バレル、アクティブ」",
+"en": "「Barrel, active.」",
+"slot": 33
+},
+"0x001F5A": {
+"jp": "「アタック・シーケンス」",
+"en": "「Attack sequence.」",
+"slot": 36
+},
+"0x001F7F": {
+"jp": "「攻撃開始」",
+"en": "「Attacking.」",
+"slot": 18
+},
+"0x001F92": {
+"jp": "「シーケンス推移」",
+"en": "「Sequence shift.」",
+"slot": 27
+}
+}
