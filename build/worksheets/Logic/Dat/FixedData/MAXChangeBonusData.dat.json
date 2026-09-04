@@ -1,0 +1,830 @@
+{
+ "0x001CC2": {
+  "en": "Max HP +10%",
+  "slot": 27
+ },
+ "0x001CE4": {
+  "en": "Increases max HP by 10%.",
+  "slot": 45
+ },
+ "0x001D18": {
+  "en": "Max EN +10%",
+  "slot": 27
+ },
+ "0x001D3A": {
+  "en": "Increases max EN by 10%.",
+  "slot": 45
+ },
+ "0x001D6E": {
+  "en": "Armor +10%",
+  "slot": 24
+ },
+ "0x001D8D": {
+  "en": "Increases armor by 10%.",
+  "slot": 42
+ },
+ "0x001DBE": {
+  "en": "Mobility +10%",
+  "slot": 24
+ },
+ "0x001DDD": {
+  "en": "Increases mobility by 10%.",
+  "slot": 42
+ },
+ "0x001E0E": {
+  "en": "Accuracy +10%",
+  "slot": 24
+ },
+ "0x001E2D": {
+  "en": "Increases accuracy by 10%.",
+  "slot": 42
+ },
+ "0x001E5E": {
+  "en": "Movement +1",
+  "slot": 18
+ },
+ "0x001E77": {
+  "en": "Increases movement by 1.",
+  "slot": 36
+ },
+ "0x001EA2": {
+  "en": "Set unit's Air terrain to S",
+  "slot": 45
+ },
+ "0x001ED6": {
+  "en": "Sets the unit's \"Air\" terrain rating to \"S.\"",
+  "slot": 60
+ },
+ "0x001F19": {
+  "en": "Set unit's Land terrain to S",
+  "slot": 45
+ },
+ "0x001F4D": {
+  "en": "Sets the unit's \"Land\" terrain rating to \"S.\"",
+  "slot": 60
+ },
+ "0x001F90": {
+  "en": "Set unit's Sea terrain to S",
+  "slot": 45
+ },
+ "0x001FC4": {
+  "en": "Sets the unit's \"Sea\" terrain rating to \"S\".",
+  "slot": 60
+ },
+ "0x002007": {
+  "en": "Set unit's Space terrain to S",
+  "slot": 45
+ },
+ "0x00203B": {
+  "en": "Sets the unit's \"Space\" terrain rating to \"S.\"",
+  "slot": 63
+ },
+ "0x002081": {
+  "en": "Max HP  +2000",
+  "slot": 30
+ },
+ "0x0020A6": {
+  "en": "Increases max HP by 2000.",
+  "slot": 48
+ },
+ "0x0020DD": {
+  "en": "Max HP  +5000",
+  "slot": 30
+ },
+ "0x002102": {
+  "en": "Increases max HP by 5000.",
+  "slot": 48
+ },
+ "0x002139": {
+  "en": "Max EN  +50",
+  "slot": 24
+ },
+ "0x002158": {
+  "en": "Increases max EN by 50.",
+  "slot": 42
+ },
+ "0x002189": {
+  "en": "Max EN  +70",
+  "slot": 24
+ },
+ "0x0021A8": {
+  "en": "Increases max EN by 70.",
+  "slot": 42
+ },
+ "0x0021D9": {
+  "en": "Mobility  +10",
+  "slot": 21
+ },
+ "0x0021F5": {
+  "en": "Increases mobility by 10.",
+  "slot": 39
+ },
+ "0x002223": {
+  "en": "Mobility  +25",
+  "slot": 21
+ },
+ "0x00223F": {
+  "en": "Increases mobility by 25.",
+  "slot": 39
+ },
+ "0x00226D": {
+  "en": "Armor  +200",
+  "slot": 24
+ },
+ "0x00228C": {
+  "en": "Increases armor by 200.",
+  "slot": 42
+ },
+ "0x0022BD": {
+  "en": "Armor  +150, Max HP  +1500",
+  "slot": 57
+ },
+ "0x0022FD": {
+  "en": "Increases armor by 150 and max HP by 1500.",
+  "slot": 72
+ },
+ "0x00234C": {
+  "en": "Mobility  +15, Max EN  +30",
+  "slot": 48
+ },
+ "0x002383": {
+  "en": "Increases mobility by 15 and max EN by 30.",
+  "slot": 63
+ },
+ "0x0023C9": {
+  "en": "Mobility  +10, Max EN  +50",
+  "slot": 48
+ },
+ "0x002400": {
+  "en": "Increases mobility by 10 and max EN by 50.",
+  "slot": 63
+ },
+ "0x002446": {
+  "en": "Armor  +200, Max HP  +2500",
+  "slot": 57
+ },
+ "0x002486": {
+  "en": "Increases armor by 200 and max HP by 2500.",
+  "slot": 72
+ },
+ "0x0024D5": {
+  "en": "Armor  +200, Max EN  +35",
+  "slot": 51
+ },
+ "0x00250F": {
+  "en": "Increases armor by 200 and max EN by 35.",
+  "slot": 66
+ },
+ "0x002558": {
+  "en": "Mobility  +10, Max EN  +25",
+  "slot": 48
+ },
+ "0x00258F": {
+  "en": "Increases mobility by 10 and max EN by 25.",
+  "slot": 63
+ },
+ "0x0025D5": {
+  "en": "Mobility  +15, Armor  +200",
+  "slot": 48
+ },
+ "0x00260C": {
+  "en": "Increases mobility by 15 and armor by 200.",
+  "slot": 63
+ },
+ "0x002652": {
+  "en": "Max HP  +1500, Max EN  +40",
+  "slot": 57
+ },
+ "0x002692": {
+  "en": "Increases max HP by 1500 and max EN by 40.",
+  "slot": 72
+ },
+ "0x0026E1": {
+  "en": "Mobility  +10, Max HP  +3000",
+  "slot": 54
+ },
+ "0x00271E": {
+  "en": "Increases mobility by 10 and max HP by 3000.",
+  "slot": 69
+ },
+ "0x00276A": {
+  "en": "W Gauge  +30",
+  "slot": 24
+ },
+ "0x002789": {
+  "en": "Increases max Weapon Gauge by 30.",
+  "slot": 57
+ },
+ "0x0027C9": {
+  "en": "W Gauge  +30, CT Rating  +20",
+  "slot": 54
+ },
+ "0x002806": {
+  "en": "Increases max Weapon Gauge by 30 and the CT rating of the unit's equipped weapons by 20.",
+  "slot": 123
+ },
+ "0x002888": {
+  "en": "W Gauge  +40, Max EN  +30",
+  "slot": 51
+ },
+ "0x0028C2": {
+  "en": "Increases max Weapon Gauge by 30 and max EN by 30.",
+  "slot": 81
+ },
+ "0x00291A": {
+  "en": "W Gauge  +40, Weapon Accuracy  +15",
+  "slot": 63
+ },
+ "0x002960": {
+  "en": "Increases max Weapon Gauge by 40 and the accuracy of the unit's equipped weapons by 15.",
+  "slot": 123
+ },
+ "0x0029E2": {
+  "en": "Max Parts Slots  +1",
+  "slot": 39
+ },
+ "0x002A10": {
+  "en": "Increases the number of parts the unit can equip by 1.",
+  "slot": 72
+ },
+ "0x002A5F": {
+  "en": "Sets all terrain ratings but Air to S",
+  "slot": 51
+ },
+ "0x002A99": {
+  "en": "Sets the unit's \"Land,\" \"Sea,\" and \"Space\" terrain ratings to \"S\".",
+  "slot": 81
+ },
+ "0x002AF1": {
+  "en": "Grants \"Full Block\" ability",
+  "slot": 42
+ },
+ "0x002B22": {
+  "en": "Grants the ability to nullify all special effects.",
+  "slot": 60
+ },
+ "0x002B65": {
+  "en": "Grants \"HP Regen (S)\" ability",
+  "slot": 45
+ },
+ "0x002B99": {
+  "en": "Grants the ability to recover 10% HP each turn.",
+  "slot": 66
+ },
+ "0x002BE2": {
+  "en": "Grants \"EN Regen (S)\" ability",
+  "slot": 45
+ },
+ "0x002C16": {
+  "en": "Grants the ability to recover 10% EN each turn.",
+  "slot": 66
+ },
+ "0x002C5F": {
+  "en": "Grants \"AB Field\" ability",
+  "slot": 45
+ },
+ "0x002C93": {
+  "en": "Grants the ability to reduce beam damage by 1200 (10 EN required).",
+  "slot": 99
+ },
+ "0x002CFD": {
+  "en": "Grants \"Afterimage\" ability",
+  "slot": 30
+ },
+ "0x002D22": {
+  "en": "Grants a 50% chance to evade attacks (130 Will required).",
+  "slot": 90
+ },
+ "0x002D83": {
+  "en": "Grants \"Beam Absorb\" ability",
+  "slot": 39
+ },
+ "0x002DB1": {
+  "en": "Grants the ability to recover HP equal to the beam damage that would be taken.",
+  "slot": 99
+ },
+ "0x002E1B": {
+  "en": "Psychodriver Field  +300",
+  "slot": 36
+ },
+ "0x002E46": {
+  "en": "Increases the damage nullified by \"Psychodriver Field\" by 300.",
+  "slot": 105
+ },
+ "0x002EB6": {
+  "en": "Afterimage Rate  +20%",
+  "slot": 30
+ },
+ "0x002EDB": {
+  "en": "Increases the trigger rate of \"Afterimage\" by 20%.",
+  "slot": 78
+ },
+ "0x002F30": {
+  "en": "Psychic Weapon Power  +200",
+  "slot": 36
+ },
+ "0x002F5B": {
+  "en": "Increases the power of the unit's psychic weapons by 200.",
+  "slot": 87
+ },
+ "0x002FB9": {
+  "en": "Melee Weapon Power  +200",
+  "slot": 39
+ },
+ "0x002FE7": {
+  "en": "Increases the power of the unit's melee weapons by 200.",
+  "slot": 87
+ },
+ "0x003045": {
+  "en": "Ranged Weapon Power  +200",
+  "slot": 39
+ },
+ "0x003073": {
+  "en": "Increases the power of the unit's ranged weapons by 200.",
+  "slot": 87
+ },
+ "0x0030D1": {
+  "en": "All Weapon Power  +200",
+  "slot": 36
+ },
+ "0x0030FC": {
+  "en": "Increases the power of the unit's weapons by 200.",
+  "slot": 81
+ },
+ "0x003154": {
+  "en": "Fixed Weapon Max Ammo  +2",
+  "slot": 36
+ },
+ "0x00317F": {
+  "en": "Increases the ammo of the unit's fixed weapons by 2.",
+  "slot": 78
+ },
+ "0x0031D4": {
+  "en": "Fixed Weapon Max Ammo  +4",
+  "slot": 36
+ },
+ "0x0031FF": {
+  "en": "Increases the ammo of the unit's fixed weapons by 4.",
+  "slot": 78
+ },
+ "0x003254": {
+  "en": "Weapon Accuracy  +10",
+  "slot": 36
+ },
+ "0x00327F": {
+  "en": "Increases the accuracy of the unit's weapons by 10.",
+  "slot": 84
+ },
+ "0x0032DA": {
+  "en": "Weapon Accuracy  +20",
+  "slot": 36
+ },
+ "0x003305": {
+  "en": "Increases the accuracy of the unit's weapons by 20.",
+  "slot": 84
+ },
+ "0x003360": {
+  "en": "Sets fixed weapon terrain ratings to S",
+  "slot": 42
+ },
+ "0x003391": {
+  "en": "Sets all terrain ratings of the unit's fixed weapons to \"S\".",
+  "slot": 96
+ },
+ "0x0033F8": {
+  "en": "Movement  +1, Max HP  +1500",
+  "slot": 51
+ },
+ "0x003432": {
+  "en": "Increases movement by 1 and max HP by 1500.",
+  "slot": 66
+ },
+ "0x00347B": {
+  "en": "Mobility  +20, Max EN  +20",
+  "slot": 48
+ },
+ "0x0034B2": {
+  "en": "Increases mobility by 20 and max EN by 20.",
+  "slot": 63
+ },
+ "0x0034F8": {
+  "en": "Armor  +200, Max HP  +2000",
+  "slot": 57
+ },
+ "0x003538": {
+  "en": "Increases armor by 200 and max HP by 2000.",
+  "slot": 72
+ },
+ "0x003587": {
+  "en": "Movement  +1, Mobility  +10",
+  "slot": 42
+ },
+ "0x0035B8": {
+  "en": "Increases movement by 1 and mobility by 10.",
+  "slot": 57
+ },
+ "0x0035F8": {
+  "en": "Melee Weapon Power  +100",
+  "slot": 39
+ },
+ "0x003626": {
+  "en": "Increases the power of the unit's melee weapons by 100.",
+  "slot": 87
+ },
+ "0x003684": {
+  "en": "Melee Weapon Power  +300",
+  "slot": 39
+ },
+ "0x0036B2": {
+  "en": "Increases the power of the unit's melee weapons by 300.",
+  "slot": 87
+ },
+ "0x003710": {
+  "en": "All Weapon Power  +100",
+  "slot": 36
+ },
+ "0x00373B": {
+  "en": "Increases the power of the unit's weapons by 100.",
+  "slot": 81
+ },
+ "0x003793": {
+  "en": "Adds \"Underground\" to move terrain",
+  "slot": 42
+ },
+ "0x0037C4": {
+  "en": "Adds \"Underground\" to the unit's move terrain.",
+  "slot": 57
+ },
+ "0x003804": {
+  "en": "All Weapon Power  +300",
+  "slot": 36
+ },
+ "0x00382F": {
+  "en": "Increases the power of the unit's weapons by 300.",
+  "slot": 81
+ },
+ "0x003887": {
+  "en": "Grants \"Pilot Block\" ability",
+  "slot": 51
+ },
+ "0x0038C1": {
+  "en": "Grants the ability to nullify all P-type special effects.",
+  "slot": 66
+ },
+ "0x00390A": {
+  "en": "Movement  +3",
+  "slot": 18
+ },
+ "0x003923": {
+  "en": "Increases movement by 3.",
+  "slot": 36
+ },
+ "0x00394E": {
+  "en": "Max HP  +3000  Max EN  +100",
+  "slot": 60
+ },
+ "0x003991": {
+  "en": "Increases max HP by 3000 and max EN by 100.",
+  "slot": 75
+ },
+ "0x0039E3": {
+  "en": "Psychodriver Field S  +400",
+  "slot": 39
+ },
+ "0x003A11": {
+  "en": "Increases the damage nullified by \"Psychodriver Field S\" by 400",
+  "slot": 105
+ },
+ "0x003A81": {
+  "en": "Dummy 00",
+  "slot": 15
+ },
+ "0x003A97": {
+  "en": "Dummy 01",
+  "slot": 15
+ },
+ "0x003AAD": {
+  "en": "Dummy 02",
+  "slot": 15
+ },
+ "0x003AC3": {
+  "en": "Dummy 03",
+  "slot": 15
+ },
+ "0x003AD9": {
+  "en": "Dummy 04",
+  "slot": 15
+ },
+ "0x003AEF": {
+  "en": "Dummy 05",
+  "slot": 15
+ },
+ "0x003B05": {
+  "en": "Dummy 06",
+  "slot": 15
+ },
+ "0x003B1B": {
+  "en": "Dummy 07",
+  "slot": 15
+ },
+ "0x003B31": {
+  "en": "Swap Weapon Power  +200",
+  "slot": 39
+ },
+ "0x003B5F": {
+  "en": "Increases the power of the unit's swap weapons by 200.",
+  "slot": 87
+ },
+ "0x003BBD": {
+  "en": "Weapon Accuracy  +30",
+  "slot": 36
+ },
+ "0x003BE8": {
+  "en": "Increases the accuracy of the unit's weapons by 30.",
+  "slot": 84
+ },
+ "0x003C43": {
+  "en": "Weapon Accuracy, CT Rating  +20",
+  "slot": 45
+ },
+ "0x003C77": {
+  "en": "Raises the hit correction and CT correction of the unit's weapons by 20.",
+  "slot": 102
+ },
+ "0x003CE4": {
+  "en": "Weapon CT Correction +30",
+  "slot": 36
+ },
+ "0x003D0F": {
+  "en": "Raises the CT correction of the unit's weapons by 30.",
+  "slot": 84
+ },
+ "0x003D6A": {
+  "en": "Mobility, Accuracy +15",
+  "slot": 33
+ },
+ "0x003D92": {
+  "en": "Raises Mobility and Accuracy by 15.",
+  "slot": 51
+ },
+ "0x003DCC": {
+  "en": "Movement +1, Weapon CT Correction +20",
+  "slot": 57
+ },
+ "0x003E0C": {
+  "en": "Raises Movement by 1 and the CT correction of the unit's weapons by 20.",
+  "slot": 102
+ },
+ "0x003E79": {
+  "en": "Armor +200, Weapon Hit Correction +20",
+  "slot": 63
+ },
+ "0x003EBF": {
+  "en": "Raises Armor by 200 and the hit correction of the unit's weapons by 20.",
+  "slot": 105
+ },
+ "0x003F2F": {
+  "en": "Dummy 08",
+  "slot": 15
+ },
+ "0x003F45": {
+  "en": "Armor +150, Max EN +50",
+  "slot": 51
+ },
+ "0x003F7F": {
+  "en": "Raises Armor by 150 and Max EN by 50.",
+  "slot": 66
+ },
+ "0x003FC8": {
+  "en": "Weapon \"Giant Rotating Ram\" EN Cost -15",
+  "slot": 60
+ },
+ "0x00400B": {
+  "en": "Reduces the EN cost of the fixed weapon \"Giant Rotating Ram\" by 15.",
+  "slot": 84
+ },
+ "0x004066": {
+  "en": "Movement +1, Max EN +15%",
+  "slot": 48
+ },
+ "0x00409D": {
+  "en": "Raises Movement by 1 and Max EN by 15%.",
+  "slot": 63
+ },
+ "0x0040E3": {
+  "en": "Weapon \"Type 8710 Ryuuko Sharen\" Attack +200, terrain rating S",
+  "slot": 99
+ },
+ "0x00414D": {
+  "en": "Raises the attack of fixed weapon \"Type 8710 Ryuuko Sharen\" by 200 and sets all terrain ratings to \"S\".",
+  "slot": 135
+ },
+ "0x0041DB": {
+  "en": "Grants \"EN Regen (M)\" ability",
+  "slot": 45
+ },
+ "0x00420F": {
+  "en": "Grants an ability that regenerates 20% EN each turn.",
+  "slot": 66
+ },
+ "0x004258": {
+  "en": "Mobility +15, Max EN +60",
+  "slot": 48
+ },
+ "0x00428F": {
+  "en": "Raises Mobility by 15 and Max EN by 60.",
+  "slot": 63
+ },
+ "0x0042D5": {
+  "en": "Mobility +10, Weapon \"Cosmo Nova\" Ammo +1",
+  "slot": 72
+ },
+ "0x004324": {
+  "en": "Raises Mobility by 10 and the ammo of fixed weapon \"Cosmo Nova\" by 1.",
+  "slot": 93
+ },
+ "0x004388": {
+  "en": "Grants \"HP Regen (L)\" ability",
+  "slot": 45
+ },
+ "0x0043BC": {
+  "en": "Grants an ability that regenerates 30% HP each turn.",
+  "slot": 66
+ },
+ "0x004405": {
+  "en": "Armor +200, Max EN +50",
+  "slot": 51
+ },
+ "0x00443F": {
+  "en": "Raises Armor by 200 and Max EN by 50.",
+  "slot": 66
+ },
+ "0x004488": {
+  "en": "Movement +1, Max HP +1000",
+  "slot": 51
+ },
+ "0x0044C2": {
+  "en": "Raises Movement by 1 and Max HP by 1000.",
+  "slot": 66
+ },
+ "0x00450B": {
+  "en": "Grants \"HP Regen (M)\" ability",
+  "slot": 45
+ },
+ "0x00453F": {
+  "en": "Grants an ability that regenerates 20% HP each turn.",
+  "slot": 66
+ },
+ "0x004588": {
+  "en": "Sets all unit and weapon terrain ratings to S",
+  "slot": 51
+ },
+ "0x0045C2": {
+  "en": "Sets all terrain ratings of the unit and its weapons to \"S\".",
+  "slot": 99
+ },
+ "0x00462C": {
+  "en": "Sets all unit terrain ratings to S",
+  "slot": 42
+ },
+ "0x00465D": {
+  "en": "Sets all terrain ratings of the unit to \"S\".",
+  "slot": 60
+ },
+ "0x0046A0": {
+  "en": "Movement +2",
+  "slot": 18
+ },
+ "0x0046B9": {
+  "en": "Raises Movement by 2.",
+  "slot": 36
+ },
+ "0x0046E4": {
+  "en": "Sets unit and weapon Air terrain rating to S",
+  "slot": 54
+ },
+ "0x004721": {
+  "en": "Sets the Air terrain rating of the unit and its weapons to \"S\".",
+  "slot": 102
+ },
+ "0x00478E": {
+  "en": "Sets unit and weapon Sea and Space terrain to S",
+  "slot": 66
+ },
+ "0x0047D7": {
+  "en": "Sets the Sea and Space terrain ratings of the unit and its weapons to \"S\".",
+  "slot": 117
+ },
+ "0x004853": {
+  "en": "Sets unit and weapon Land terrain rating to S",
+  "slot": 54
+ },
+ "0x004890": {
+  "en": "Sets the Land terrain rating of the unit and its weapons to \"S\".",
+  "slot": 102
+ },
+ "0x0048FD": {
+  "en": "Armor +400",
+  "slot": 24
+ },
+ "0x00491C": {
+  "en": "Raises Armor by 400.",
+  "slot": 42
+ },
+ "0x00494D": {
+  "en": "MAP Weapon Immunity",
+  "slot": 21
+ },
+ "0x004969": {
+  "en": "Grants an ability that nullifies MAP weapon attacks.",
+  "slot": 69
+ },
+ "0x0049B5": {
+  "en": "Long-Range Immunity",
+  "slot": 21
+ },
+ "0x0049D1": {
+  "en": "Grants an ability that nullifies ranged weapon attacks.",
+  "slot": 66
+ },
+ "0x004A1A": {
+  "en": "Ranged Weapon Attack +300",
+  "slot": 39
+ },
+ "0x004A48": {
+  "en": "Raises the attack of the unit's ranged weapons by 300.",
+  "slot": 87
+ },
+ "0x004AA6": {
+  "en": "Adds P attribute to weapon \"Neo Thunder Crush\"",
+  "slot": 66
+ },
+ "0x004AEF": {
+  "en": "Lets fixed weapon \"Neo Thunder Crush\" attack after moving.",
+  "slot": 105
+ },
+ "0x004B5F": {
+  "en": "Weapon \"Calidum Sagitta\" Attack +300",
+  "slot": 69
+ },
+ "0x004BAB": {
+  "en": "Raises the attack of fixed weapon \"Calidum Sagitta\" by 300.",
+  "slot": 93
+ },
+ "0x004C0F": {
+  "en": "Range +1 to weapons except MAP and range 1",
+  "slot": 54
+ },
+ "0x004C4C": {
+  "en": "Raises the range of the unit's weapons by 1, except MAP weapons and range 1 weapons.",
+  "slot": 117
+ },
+ "0x004CC8": {
+  "en": "Weapon ID 2 Ammo +2",
+  "slot": 33
+ },
+ "0x004CF0": {
+  "en": "Raises the ammo of fixed weapon \"ID 2\" by 2.",
+  "slot": 63
+ },
+ "0x004D36": {
+  "en": "Armor +500",
+  "slot": 24
+ },
+ "0x004D55": {
+  "en": "Raises Armor by 500.",
+  "slot": 42
+ },
+ "0x004D86": {
+  "en": "Mobility +30  Armor +400",
+  "slot": 48
+ },
+ "0x004DBD": {
+  "en": "Raises Mobility by 30 and Armor by 400.",
+  "slot": 63
+ },
+ "0x004E03": {
+  "en": "Weapon \"Sonic Acceleration\" Will req. and EN cost -10",
+  "slot": 96
+ },
+ "0x004E6A": {
+  "en": "Reduces the Will requirement and EN cost of fixed weapon \"Sonic Acceleration\" by 10.",
+  "slot": 120
+ },
+ "0x004EE9": {
+  "en": "Weapon Hit, CT Correction +99",
+  "slot": 45
+ },
+ "0x004F1D": {
+  "en": "Raises the weapon hit correction and CT correction by 99.",
+  "slot": 72
+ },
+ "0x004F6C": {
+  "en": "Weapon ID 4 EN Cost -15",
+  "slot": 42
+ },
+ "0x004F9D": {
+  "en": "Reduces the EN cost of fixed weapon \"ID 4\" by 15.",
+  "slot": 72
+ }
+}
