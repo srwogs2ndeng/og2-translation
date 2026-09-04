@@ -1,0 +1,402 @@
+{
+ "0x0003A6": {
+  "en": "----",
+  "slot": 12
+ },
+ "0x0003B9": {
+  "en": "None",
+  "slot": 6
+ },
+ "0x0003C6": {
+  "en": "????",
+  "slot": 12
+ },
+ "0x0003D9": {
+  "en": "???",
+  "slot": 9
+ },
+ "0x0003E9": {
+  "en": "Scan",
+  "slot": 6
+ },
+ "0x0003F6": {
+  "en": "View a target's status.",
+  "slot": 81
+ },
+ "0x00044E": {
+  "en": "Focus",
+  "slot": 6
+ },
+ "0x00045B": {
+  "en": "Hit & evade +30 for 1 turn.",
+  "slot": 75
+ },
+ "0x0004AD": {
+  "en": "Strike",
+  "slot": 6
+ },
+ "0x0004BD": {
+  "en": "FHit rate 100% for 1 turn.",
+  "slot": 70
+ },
+ "0x000504": {
+  "en": "(Alert takes priority).",
+  "slot": 36
+ },
+ "0x00052F": {
+  "en": "Sense",
+  "slot": 6
+ },
+ "0x00053C": {
+  "en": "Grants Strike to a unit.",
+  "slot": 78
+ },
+ "0x000591": {
+  "en": "Alert",
+  "slot": 12
+ },
+ "0x0005A4": {
+  "en": "Fully evades 1 enemy attack.",
+  "slot": 66
+ },
+ "0x0005ED": {
+  "en": "Intuition",
+  "slot": 6
+ },
+ "0x0005FA": {
+  "en": "Grants Alert & Strike.",
+  "slot": 81
+ },
+ "0x000652": {
+  "en": "Disrupt",
+  "slot": 9
+ },
+ "0x000665": {
+  "en": "LHalves all enemy hit 1 turn;",
+  "slot": 76
+ },
+ "0x0006B2": {
+  "en": "Strike takes priority.",
+  "slot": 36
+ },
+ "0x0006DD": {
+  "en": "Accel",
+  "slot": 6
+ },
+ "0x0006EA": {
+  "en": "Movement +3 once.",
+  "slot": 48
+ },
+ "0x000721": {
+  "en": "Snipe",
+  "slot": 6
+ },
+ "0x000731": {
+  "en": "F+2 range once (except",
+  "slot": 70
+ },
+ "0x000778": {
+  "en": "range-1 & map weapons).",
+  "slot": 39
+ },
+ "0x0007A6": {
+  "en": "Charge",
+  "slot": 6
+ },
+ "0x0007B6": {
+  "en": "LAll weapons (except map) can",
+  "slot": 76
+ },
+ "0x000803": {
+  "en": "fire after moving, 1 turn.",
+  "slot": 39
+ },
+ "0x000831": {
+  "en": "Attune",
+  "slot": 6
+ },
+ "0x000841": {
+  "en": "[Twin pilots' stats each set",
+  "slot": 91
+ },
+ "0x00089D": {
+  "en": "to the higher of the two.",
+  "slot": 90
+ },
+ "0x0008FE": {
+  "en": "Valor",
+  "slot": 6
+ },
+ "0x00090B": {
+  "en": "Doubles damage dealt (once).",
+  "slot": 78
+ },
+ "0x000960": {
+  "en": "Soul",
+  "slot": 3
+ },
+ "0x00096D": {
+  "en": "UDamage dealt x2.5 (once).",
+  "slot": 85
+ },
+ "0x0009C3": {
+  "en": "Cannot combine with Valor.",
+  "slot": 45
+ },
+ "0x0009F7": {
+  "en": "Drive",
+  "slot": 6
+ },
+ "0x000A04": {
+  "en": "All hits critical, 1 turn.",
+  "slot": 72
+ },
+ "0x000A53": {
+  "en": "Luck",
+  "slot": 6
+ },
+ "0x000A60": {
+  "en": "Doubles money next battle.",
+  "slot": 60
+ },
+ "0x000AA3": {
+  "en": "Bless",
+  "slot": 6
+ },
+ "0x000AB0": {
+  "en": "Grants Luck to a unit.",
+  "slot": 78
+ },
+ "0x000B05": {
+  "en": "Gain",
+  "slot": 6
+ },
+ "0x000B12": {
+  "en": "Doubles EXP next battle.",
+  "slot": 63
+ },
+ "0x000B58": {
+  "en": "Cheer",
+  "slot": 6
+ },
+ "0x000B65": {
+  "en": "Grants Gain to a unit.",
+  "slot": 78
+ },
+ "0x000BBA": {
+  "en": "Train",
+  "slot": 6
+ },
+ "0x000BC7": {
+  "en": "Doubles PP next battle.",
+  "slot": 81
+ },
+ "0x000C1F": {
+  "en": "Assault",
+  "slot": 6
+ },
+ "0x000C2F": {
+  "en": "IGains Accel, Charge &",
+  "slot": 73
+ },
+ "0x000C79": {
+  "en": "Direct Hit at once.",
+  "slot": 15
+ },
+ "0x000C8F": {
+  "en": "Love",
+  "slot": 3
+ },
+ "0x000C9C": {
+  "en": "LGains Accel, Valor, Alert,",
+  "slot": 76
+ },
+ "0x000CE9": {
+  "en": "Strike, Spirit, Gain & Luck.",
+  "slot": 66
+ },
+ "0x000D32": {
+  "en": "Direct Hit",
+  "slot": 6
+ },
+ "0x000D42": {
+  "en": "COnce, blocks enemy support",
+  "slot": 67
+ },
+ "0x000D86": {
+  "en": "defense & special defenses.",
+  "slot": 18
+ },
+ "0x000D9F": {
+  "en": "Iron Wall",
+  "slot": 6
+ },
+ "0x000DAC": {
+  "en": "Damage taken 1/4 for 1 turn.",
+  "slot": 78
+ },
+ "0x000E01": {
+  "en": "Faith",
+  "slot": 6
+ },
+ "0x000E11": {
+  "en": "OBlocks ailments taken and",
+  "slot": 79
+ },
+ "0x000E61": {
+  "en": "cuts damage 1/4, 1 turn.",
+  "slot": 39
+ },
+ "0x000E8F": {
+  "en": "Endure",
+  "slot": 6
+ },
+ "0x000E9C": {
+  "en": "All damage taken to 10 once.",
+  "slot": 78
+ },
+ "0x000EF1": {
+  "en": "Assail",
+  "slot": 6
+ },
+ "0x000F01": {
+  "en": "FIf next attack destroys the",
+  "slot": 70
+ },
+ "0x000F48": {
+  "en": "enemy, act again for free.",
+  "slot": 54
+ },
+ "0x000F85": {
+  "en": "Awaken",
+  "slot": 6
+ },
+ "0x000F92": {
+  "en": "Grants one extra action.",
+  "slot": 42
+ },
+ "0x000FC3": {
+  "en": "Encore",
+  "slot": 6
+ },
+ "0x000FD0": {
+  "en": "Lets a unit act again.",
+  "slot": 75
+ },
+ "0x001022": {
+  "en": "Support",
+  "slot": 6
+ },
+ "0x00102F": {
+  "en": "Restores 2000 HP to a unit.",
+  "slot": 60
+ },
+ "0x001072": {
+  "en": "Friendship",
+  "slot": 6
+ },
+ "0x00107F": {
+  "en": "Fully restores a unit's HP.",
+  "slot": 51
+ },
+ "0x0010B9": {
+  "en": "Bond",
+  "slot": 3
+ },
+ "0x0010C3": {
+  "en": "Restores 50% HP to allies.",
+  "slot": 81
+ },
+ "0x00111B": {
+  "en": "Guts",
+  "slot": 6
+ },
+ "0x001128": {
+  "en": "Restores 30% of your max HP.",
+  "slot": 69
+ },
+ "0x001174": {
+  "en": "True Guts",
+  "slot": 9
+ },
+ "0x001184": {
+  "en": "Fully restores your own HP.",
+  "slot": 54
+ },
+ "0x0011C1": {
+  "en": "Prayer",
+  "slot": 6
+ },
+ "0x0011CE": {
+  "en": "Cures ailments on a squad.",
+  "slot": 63
+ },
+ "0x001214": {
+  "en": "Mercy",
+  "slot": 12
+ },
+ "0x00122A": {
+  "en": "@Leaves enemy at 10 HP next",
+  "slot": 64
+ },
+ "0x00126B": {
+  "en": "battle (needs higher skill).",
+  "slot": 75
+ },
+ "0x0012BD": {
+  "en": "Spirit",
+  "slot": 6
+ },
+ "0x0012CA": {
+  "en": "Your Will +10.",
+  "slot": 39
+ },
+ "0x0012F8": {
+  "en": "Vigor",
+  "slot": 6
+ },
+ "0x001305": {
+  "en": "Your Will +30.",
+  "slot": 39
+ },
+ "0x001333": {
+  "en": "Rouse",
+  "slot": 6
+ },
+ "0x001340": {
+  "en": "A unit's Will +10.",
+  "slot": 51
+ },
+ "0x00137A": {
+  "en": "Great Rouse",
+  "slot": 9
+ },
+ "0x00138A": {
+  "en": "All allies' Will +5.",
+  "slot": 54
+ },
+ "0x0013C7": {
+  "en": "Drain",
+  "slot": 6
+ },
+ "0x0013D4": {
+  "en": "A unit's Will -10.",
+  "slot": 51
+ },
+ "0x00140E": {
+  "en": "Trust",
+  "slot": 6
+ },
+ "0x00141B": {
+  "en": "Restores 50 SP to a pilot.",
+  "slot": 75
+ },
+ "0x00146D": {
+  "en": "Supply",
+  "slot": 6
+ },
+ "0x00147A": {
+  "en": "Restores a unit's EN & ammo.",
+  "slot": 78
+ }
+}

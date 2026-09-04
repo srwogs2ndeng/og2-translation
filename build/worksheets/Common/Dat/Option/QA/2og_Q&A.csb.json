@@ -1,0 +1,1602 @@
+{
+ "0x000025": {
+  "en": "7 chars at 28dot",
+  "slot": 27
+ },
+ "0x000041": {
+  "en": "18 chars at 28dot\n??????????????????",
+  "slot": 85
+ },
+ "0x000097": {
+  "en": "<KeyWords>\n?What you type here is displayed as-is.\n?Up to 3 lines can be shown, space-wise.\n?Enter all shown text full-width; for line breaks, write \"half-width \\n\"\n　or use \"Alt+Enter\", which is reflected as-is.",
+  "slot": 331
+ },
+ "0x0001E3": {
+  "en": "40 chars at 24dot, 34 chars at 28dot\n????????????????????????????????????????",
+  "slot": 184
+ },
+ "0x00029C": {
+  "en": "Sort ID",
+  "slot": 14
+ },
+ "0x0002AB": {
+  "en": "ID\nUsed for linking; no need to pack or sort as long as there are no duplicates.",
+  "slot": 96
+ },
+ "0x00032B": {
+  "en": "Answer\nSize up to 2048",
+  "slot": 29
+ },
+ "0x000349": {
+  "en": "Image\nAddress of image starting with Dat, image X, image Y, image width, image height\nImage coords are from the top-left of the text display area.\nIf the same image appears 2+ times, only one is loaded on the\nreal console, so memory use barely increases.",
+  "slot": 357
+ },
+ "0x0004AF": {
+  "en": "Link info\nLink number in this cell (0-29), target Q&A ID, scroll height\nLink numbers need not be packed or reordered.\nThe number set in the Answer column's Link tag (<LINK=0>link here</LINK>) is the link number.\nScroll height is the top-of-screen height (0-).\nIf an unscrollable position is given, it is auto-adjusted to fit on screen.\n",
+  "slot": 436
+ },
+ "0x000668": {
+  "en": "Combat",
+  "slot": 18
+ },
+ "0x00067B": {
+  "en": "Tips for gaining the upper hand in battle.",
+  "slot": 63
+ },
+ "0x0006DA": {
+  "en": "About Movement",
+  "slot": 18
+ },
+ "0x0006ED": {
+  "en": "Q&A about movement.",
+  "slot": 45
+ },
+ "0x00071F": {
+  "en": "<W=24>Q</W><W=32>1</W>. What is Movement?",
+  "slot": 59
+ },
+ "0x00075B": {
+  "en": "A. It shows a unit's (machine's) movement range.",
+  "slot": 63
+ },
+ "0x00079B": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>It shows a unit's (machine's) movement range.</C></H></W>\n\n　?By using the individual command \"Move,\" a unit can move from its current spot\n　　to a different one.\n\n　?Each map tile has a cost required for a unit to enter it (1 to 2.5). Each time a\n　　unit moves one tile, that cost is subtracted from its Movement, and it can move\n　　until Movement reaches 0.\n\n　?The cost to move changes with terrain type and the machine's move type; the\n　　better the <LINK=0>move type</LINK> suits the terrain, the lower the cost.\n\n　?A Twin unit's Movement is the average of its 2 machines' Movement (rounded down).\n　　As an exception, move cost is always 1 when a unit moves through air or\n　　underground.\n\n　<S=8><Y=-3><W=32><H=32><I=156></H></W></Y><S=3>Moving through air costs 1 EN per tile. Also, units cannot join combat\n　　　while underground.\n",
+  "slot": 1250
+ },
+ "0x000C88": {
+  "en": "<W=24>Q</W><W=32>2</W>. What is Move Type?",
+  "slot": 65
+ },
+ "0x000CCA": {
+  "en": "A. It shows the terrain a unit (machine) can move through.",
+  "slot": 72
+ },
+ "0x000D13": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>It shows the terrain a unit (machine) can move through.</C></H></W>\n\n　?It shows whether a machine or squad has the ability to move over each terrain:\n　　\"Air,\" \"Land,\" \"Water,\" \"Underground.\" Terrain it cannot move over is hard or\n　　impossible to enter.\n\n　?With all move abilities, the move type shows as \"Air Land Water Grd\"; if an\n　　ability is lacking, \"<C=808080FF>-</C>\" is shown instead.\n\n　<S=8><Y=-3><W=32><H=32><C=00C0FFFF><I=157></C></H></W></Y><S=3>Without \"Air\" and \"Underground\" ability, it shows \"<C=808080FF>-</C>Land Water<C=808080FF>-</C>.\"\n\n　?For a <LINK=0>Twin unit</LINK>, move type is set by the 2 machines forming the squad.\n　　Move types are ranked by whether the text is normal or gray. Normal color\n　　means a lower cost to enter that terrain. However, if \"Air\" is gray, the unit\n　　cannot move into the air.\n\n　<S=8><Y=-3><W=32><H=32><I=155></H></W></Y><S=3>By changing move type with upgrade parts and lowering the cost to enter\n　　　terrain, you can extend movement distance.\n",
+  "slot": 1487
+ },
+ "0x0012EF": {
+  "en": "<W=24>Q</W><W=32>3</W>. Increasing move range?",
+  "slot": 83
+ },
+ "0x001343": {
+  "en": "A. Use spirit commands, upgrade parts, special abilities, ability effects, etc.",
+  "slot": 108
+ },
+ "0x0013B0": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>There are the following methods.</C></H></W>\n\n　?Use a <LINK=0>spirit command</LINK> such as \"Accel.\"\n\n　?Equip an <LINK=1>upgrade part</LINK> that raises Movement, such as \"Booster.\"\n\n　?Equip an <LINK=1>upgrade part</LINK> that changes move type, such as \"Tesla Drive.\"\n\n　?Use a <LINK=2>special ability</LINK> such as \"Transform.\"\n\n　?Use the <LINK=3>ability effect</LINK> \"Movement Up.\"\n",
+  "slot": 554
+ },
+ "0x0015FC": {
+  "en": "About Combat",
+  "slot": 18
+ },
+ "0x00160F": {
+  "en": "Q&A about combat.",
+  "slot": 45
+ },
+ "0x001641": {
+  "en": "<W=24>Q</W><W=32>1</W>. What happens in battle?",
+  "slot": 71
+ },
+ "0x001689": {
+  "en": "A. On a hit, the target's HP drops based on attack power.",
+  "slot": 93
+ },
+ "0x0016E7": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>On a hit, the target's HP drops based on attack power.</C></H></W>\n\n　?In combat, a machine uses its equipped weapons to deal damage to the target.\n　　Higher attack power means more damage, but no damage is dealt unless the\n　　attack hits. Attack via the individual command \"Attack.\"\n\n　?When a machine takes damage and its HP (Hit Points) reaches 0, it is shot down\n　　and removed from the map. Shooting down an enemy earns <LINK=0>EXP</LINK>, <LINK=1>funds</LINK>, and more.\n　　Conversely, if a player machine is shot down, repair costs are deducted from\n　　funds at the end of the stage.\n\n　?When attacked, if the conditions are met, you can <LINK=2>counter</LINK>.\n\n　<S=8><Y=-3><W=32><H=32><I=156></H></W></Y><S=3>In each stage, you generally must attack and shoot down enemies to meet\n　　　the victory conditions.\n",
+  "slot": 1217
+ },
+ "0x001BC1": {
+  "en": "<W=24>Q</W><W=32>2</W>. Countering enemy attacks?",
+  "slot": 83
+ },
+ "0x001C15": {
+  "en": "A. When attacked, you can choose Counter, Defend, or Evade.",
+  "slot": 96
+ },
+ "0x001C76": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>When attacked, you can choose Counter, Defend, or Evade.</C></H></W>\n\n　<T=30>\"Counter\"</T>\n　-Counterattack with a usable weapon the machine has equipped.\n\n　<T=30>\"Defend\"</T>\n　-Halves the damage you take.\n\n　<T=30>\"Evade\"</T>\n　-Halves the enemy attack's <LINK=0>hit rate</LINK>.\n\n　<S=8><Y=-3><W=32><H=32><I=156></H></W></Y><S=3>When countering, attack methods like <LINK=1>MAP weapons</LINK>, <LINK=2>Double Attack</LINK>, <LINK=3>Combination attacks</LINK>, and <LINK=4>Maximum\n　　?Break</LINK> cannot be used.\n",
+  "slot": 738
+ },
+ "0x001F80": {
+  "en": "<W=24>Q</W><W=32>3</W>. Dealing more damage?",
+  "slot": 77
+ },
+ "0x001FCE": {
+  "en": "A. Use weapon upgrades, pilot training, Will, spirit commands, ability effects, and more.",
+  "slot": 126
+ },
+ "0x00204D": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>There are the following methods.</C></H></W>\n\n  ?Perform <LINK=0>weapon upgrades</LINK>.\n\n  ?Raise melee/ranged stats via <LINK=1>pilot training</LINK>.\n\n  ?Raise the <LINK=2>Will</LINK> of the attacking pilot.\n\n  ?Lower the <LINK=2>Will</LINK> of the target pilot.\n\n  ?Use spirit commands like \"Valor\" via <LINK=3>spirit commands</LINK>.\n\n  ?Use \"Melee Up\" or \"Ranged Up\" via <LINK=4>ability effects</LINK>.\n\n  <S=8><Y=-3><W=32><H=32><I=156></H></W></Y><S=3>When a Main unit attacks a Sub unit, or a Sub attacks a Main, damage is\n     reduced to 65% compared to Main-vs-Main or Sub-vs-Sub combat.\n",
+  "slot": 874
+ },
+ "0x0023E1": {
+  "en": "<W=24>Q</W><W=32>4</W>. Taking less damage?",
+  "slot": 80
+ },
+ "0x002432": {
+  "en": "A. Use unit upgrades, pilot training, Will, spirit commands, parts, ability effects, and more.",
+  "slot": 144
+ },
+ "0x0024C3": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>There are the following methods.</C></H></W>\n\n  ?Upgrade \"Armor\" via <LINK=0>unit upgrades</LINK>.\n\n  ?Raise defense stats via <LINK=1>pilot training</LINK>.\n\n  ?Lower the <LINK=2>Will</LINK> of the attacking pilot.\n\n  ?Raise the <LINK=2>Will</LINK> of the target pilot.\n\n  ?Use <LINK=3>spirit commands</LINK> like \"Iron Wall\".\n\n  ?Equip <LINK=4>parts</LINK> like \"Chobham Armor\".\n\n  ?Use <LINK=5>ability effects</LINK> like \"Armor Up\".\n\n",
+  "slot": 670
+ },
+ "0x002793": {
+  "en": "<W=24>Q</W><W=32>5</W>. What is hit rate?",
+  "slot": 59
+ },
+ "0x0027CF": {
+  "en": "A. It is the probability of an attack landing on the target.",
+  "slot": 78
+ },
+ "0x00281E": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>It is the probability of an attack landing on the target.</C></H></W>\n\n  ?Just before combat, the hit rate against each target is shown as a\n    percentage.\n\n  <S=8><Y=-3><W=32><H=32><I=154></H></W></Y><S=3><LINK=0>Evasion rate</LINK>.\n\n",
+  "slot": 342
+ },
+ "0x002980": {
+  "en": "<W=24>Q</W><W=32>6</W>. What is evasion rate?",
+  "slot": 59
+ },
+ "0x0029BC": {
+  "en": "A. The probability of dodging an attack.",
+  "slot": 42
+ },
+ "0x0029E7": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>It is the probability of dodging an attack.</C></H></W>\n\n  ?Unlike <LINK=0>hit rate</LINK>, evasion rate is not shown directly as a percentage, but for\n    convenience the chance of dodging an attack is called the evasion rate.\n",
+  "slot": 286
+ },
+ "0x002B11": {
+  "en": "<W=24>Q</W><W=32>7</W>. Raising hit rate?",
+  "slot": 65
+ },
+ "0x002B53": {
+  "en": "A. Use unit upgrades, pilot training, spirit commands, parts, ability effects, and more.",
+  "slot": 135
+ },
+ "0x002BDB": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>There are the following methods.</C></H></W>\n\n  ?Upgrade \"Accuracy\" via <LINK=0>unit upgrades</LINK>.\n\n  ?Raise accuracy stats via <LINK=1>pilot training</LINK>.\n\n  ?Use <LINK=2>spirit commands</LINK> like \"Strike\".\n\n  ?Equip <LINK=3>parts</LINK> like \"Dual Sensor\".\n\n  ?Use <LINK=4>ability effects</LINK> like \"Accuracy Up\".\n",
+  "slot": 506
+ },
+ "0x002E00": {
+  "en": "<W=24>Q</W><W=32>8</W>. Raising evasion rate?",
+  "slot": 65
+ },
+ "0x002E42": {
+  "en": "A. Use unit upgrades, pilot training, spirit commands, parts, ability effects, terrain effects, and more.",
+  "slot": 150
+ },
+ "0x002ED9": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>There are the following methods.</C></H></W>\\n\\n  ?Upgrade \"Mobility\" via <LINK=0>unit upgrades</LINK>.\\n\\n  ?Raise evasion stats via <LINK=1>pilot training</LINK>.\\n\\n  ?Use <LINK=2>spirit commands</LINK> like \"Flash\".\\n\\n  ?Equip <LINK=3>parts</LINK> like \"Servomotor\".\\n\\n  ?Use <LINK=4>ability effects</LINK> like \"Evasion Up\".\\n\\n  ?Use <LINK=5>terrain effects</LINK>.\\n",
+  "slot": 562
+ },
+ "0x00313D": {
+  "en": "<W=24>Q</W><W=32>9</W>. What combat gives you?",
+  "slot": 86
+ },
+ "0x003194": {
+  "en": "A. Experience, funds, PP, parts, and more.",
+  "slot": 75
+ },
+ "0x0031E0": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>There are the following.</C></H></W>\n\n  ?<LINK=0>Experience</LINK> based on level difference.\n\n  ?<LINK=1>Funds</LINK>.\n\n  ?<LINK=2>PP</LINK>.\n\n  ?<LINK=3>Parts</LINK>.\n",
+  "slot": 240
+ },
+ "0x0032F2": {
+  "en": "About Weapons and Attacks",
+  "slot": 33
+ },
+ "0x003314": {
+  "en": "A Q&A about weapons and attack methods.",
+  "slot": 54
+ },
+ "0x00334F": {
+  "en": "<W=24>Q</W><W=32>1</W>. What is weapon type?",
+  "slot": 68
+ },
+ "0x003394": {
+  "en": "A. It shows whether the pilot's melee or ranged stat affects it.",
+  "slot": 102
+ },
+ "0x0033FB": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>It shows whether the pilot's melee or ranged stat affects it.</C></H></W>\n\n  ?In combat, a melee weapon is affected by the pilot's melee stat, and a ranged\n    weapon by the ranged stat. A pilot with high melee dealing melee attacks, or\n    high ranged dealing ranged attacks, will inflict greater damage on the enemy.\n",
+  "slot": 540
+ },
+ "0x00361C": {
+  "en": "<W=24>Q</W><W=32>2</W>. What is weapon category?",
+  "slot": 68
+ },
+ "0x003661": {
+  "en": "A. It shows the attack methods available with that weapon.",
+  "slot": 75
+ },
+ "0x0036AD": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>It shows the attack methods available with that weapon.</C></H></W>\n\n  ?The weapon category is shown by what appears in <I=30>. The left side is the\n    main category, the right side the sub category.\n\n  ?There are 3 main categories:\n\n  <T=30>\"<LINK=0>Normal Attack Weapon</LINK>\"</T>\n  - The main category is blank (<I=30>).\n\n  <T=30>\"<LINK=1>All-Attack Weapon</LINK>\"</T>\n  - Shows <I=32> in the main category (<I=30><S=-79><I=32><S=39>).\n\n  <T=30>\"<LINK=2>Map Weapon</LINK>\"</T>\n  - Shows <I=31> in the main category (<I=30><S=-81><I=31><S=33>).\n\n  ?There are 3 sub categories:\n\n  <T=30>\"<LINK=3>Double Attack</LINK>-capable Weapon\"</T>\n  - Shows <I=33> in the sub category (<I=30><S=-30><I=33><S=6>).\n\n  <T=30>\"<LINK=4>Combination Attack</LINK>-capable Weapon\"</T>\n  - Shows <I=34> in the sub category (<I=30><S=-31><I=34><S=7>).\n\n  <T=30>\"<LINK=5>Maximum Break</LINK> Support Weapon\"</T>\n  - Shows <I=185> in the sub category (<I=30><S=-31><I=185><S=7>).\n\n  <S=8><Y=-3><W=32><H=32><I=156></H></W></Y><S=3>Apart from the above, a weapon showing <I=40> is a <LINK=6>combination attack weapon</LINK>.\n",
+  "slot": 1462
+ },
+ "0x003C99": {
+  "en": "<W=24>Q</W><W=32>3</W>. What is weapon element?",
+  "slot": 65
+ },
+ "0x003CDB": {
+  "en": "A. Shows the weapon's traits.",
+  "slot": 39
+ },
+ "0x003D03": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Shows the weapon's traits.</C></H></W>\n\n　<I=37><S=-76><I=36><S=52>\n　- A weapon that inflicts special effects, such as status ailments or barrier penetration.\n\n　<I=37><S=-53><I=39><S=29>\n　- A weapon usable after the individual command \"Move\" is executed.\n\n　<I=37><S=-30><I=38><S=6>\n　- A beam weapon whose damage is reduced by certain barrier-type abilities like Beam Coat.\n\n　<I=37><S=-30><I=106><S=6>\n　- A missile-type weapon nullified by the special ability \"Jammer\".\n",
+  "slot": 586
+ },
+ "0x003F52": {
+  "en": "<W=24>Q</W><W=32>4</W>. What is Special Effect 1?",
+  "slot": 65
+ },
+ "0x003F94": {
+  "en": "A. Shows whether a weapon can cause a status ailment on its target.",
+  "slot": 99
+ },
+ "0x003FF8": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Shows whether a weapon can cause a status ailment on its target.</C></H></W>\n\n　<T=30>'Mobility Down L (R type)'</T>\n　- Lowers the unit's mobility for 1 turn.\n\n　<T=30>'Armor Down L (R type)'</T>\n　- Lowers the unit's armor for 1 turn.\n\n　<T=30>'Movement Down (R type)'</T>\n　- Lowers the unit's movement by 4 for 1 turn.\n\n　<T=30>'Attack Down L (R type)'</T>\n　- Lowers the unit's final damage for 1 turn.\n\n　<T=30>'Range Down (R type)'</T>\n　- Lowers the max range of all the unit's weapons by 2 for 1 turn.\n\n　<T=30>'Accuracy Down L (R type)'</T>\n　- Lowers the unit's targeting value for 1 turn.\n\n　<T=30>'EN Down L (R type)'</T>\n　- Lowers the unit's current EN.\n\n　<T=30>'EN Drain L (R type)'</T>\n　- Lowers the unit's current EN and raises the attacker's EN by that much.\n\n　<T=30>'Ability Down L (P type)'</T>\n　- Lowers the main pilot's Melee, Ranged, Hit, Evade, Defense and Skill for 1 turn.\n\n　<T=30>'Disabled (P type)'</T>\n　- For 1 turn, disables individual commands other than \"Join\", \"Split\", \"Main\" and \"Ability\", and prevents command choice on counter.\n\n　<T=30>'Will Down L (P type)'</T>\n　- Lowers the main pilot's Will.\n\n　<T=30>'SP Drain L (P type)'</T>\n　- Lowers the main pilot's current SP and raises the attacking pilot's SP by that much.\n\n　<T=30>'Spirit Seal (P type)'</T>\n　- Disables the \"Spirit\" command for 1 turn. All ongoing spirit commands are also canceled.\n\n　<S=8><Y=-3><W=32><H=32><I=156></H></W></Y><S=3>Using the <LINK=0>spirit command</LINK> \"Faith\" or a Block-type <LINK=1>special ability</LINK> can prevent status ailments.\n",
+  "slot": 2429
+ },
+ "0x004988": {
+  "en": "<W=24>Q</W><W=32>5</W>. What is Special Effect 2?",
+  "slot": 65
+ },
+ "0x0049CA": {
+  "en": "A. Shows whether a weapon can nullify barrier-type abilities.",
+  "slot": 93
+ },
+ "0x004A28": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Shows whether a weapon can nullify barrier-type abilities.</C></H></W>\n\n　<T=30>'Barrier Nullify'</T>\n　- Prevents the target's barrier-type ability from activating.\n\n　<T=30>'Barrier Pierce'</T>\n　- Pierces through a barrier active on the target.\n",
+  "slot": 339
+ },
+ "0x004B80": {
+  "en": "<W=24>Q</W><W=32>6</W>. Kinds of attacks?",
+  "slot": 74
+ },
+ "0x004BCB": {
+  "en": "A. Normal Attack, All Attack, Map Weapon, Double Attack, Combination Attack, Maximum Break, and more.",
+  "slot": 162
+ },
+ "0x004C6E": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>The following attack methods exist.</C></H></W>\n\n　<T=30>'<LINK=0>Normal Attack</LINK>'</T>\n　- An attack using a normal attack weapon.\n　- Uses weapons whose <LINK=1>weapon type</LINK> shows as <I=30>.\n\n　<T=30>'<LINK=2>All Attack</LINK>'</T>\n　- An attack using an all-attack weapon.\n　- Uses weapons whose type shows as <I=30><S=-79><I=32><S=39>.\n\n　<T=30>'<LINK=3>Map Weapon</LINK>'</T>\n　- An attack that damages all units in its range.\n　- Uses weapons whose type shows as <I=30><S=-81><I=31><S=33>.\n\n　<T=30>'<LINK=4>Double Attack</LINK>'</T>\n　- Attacks the target and units adjacent to it.\n　- Uses weapons whose type shows as <I=30><S=-30><I=33><S=6>.\n\n　<T=30>'<LINK=5>Combination Attack</LINK>'</T>\n　- Attacks the target and units linked to it.\n　- Uses weapons whose type shows as <I=30><S=-31><I=34><S=7>.\n\n　<T=30>'<LINK=6>Maximum Break</LINK>'</T>\n　- An attack by 2 adjacent Twin Units.\n　- Needs a support weapon whose type shows as <I=30><S=-31><I=185><S=7>.\n",
+  "slot": 1489
+ },
+ "0x005275": {
+  "en": "<W=24>Q</W><W=32>7</W>. Normal attack weapon?",
+  "slot": 68
+ },
+ "0x0052BA": {
+  "en": "A. A weapon that damages 1 target unit.",
+  "slot": 69
+ },
+ "0x005300": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>A weapon that damages 1 target unit.</C></H></W>\n\n　- Mainly used in <LINK=0>Normal Attack</LINK>. A normal attack weapon <I=30> can deal damage to 1 unit within the target squad.\n",
+  "slot": 310
+ },
+ "0x005442": {
+  "en": "<W=24>Q</W><W=32>8</W>. What is a normal attack?",
+  "slot": 62
+ },
+ "0x005481": {
+  "en": "A. An attack method using a normal attack weapon.",
+  "slot": 60
+ },
+ "0x0054BE": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>An attack method using a normal attack weapon.</C></H></W>\n\n　- A Normal Attack uses a <LINK=0>normal attack weapon</LINK> <I=30> and has two methods: Focused Attack and Individual Attack.\n\n　<T=30>'Focused Attack'</T>\n　- Focuses the attack on 1 unit in the target squad.\n\n　<T=30>'Individual Attack'</T>\n　- The 2 units of the attacking <LINK=1>Twin Unit</LINK> each attack separate units in the target squad.\n\n　<S=8><Y=-3><W=32><H=32><I=156></H></W></Y><S=3>If the attacking squad is not a <LINK=1>Twin Unit</LINK>, the method becomes Focused Attack.\n\n　- Against a Normal Attack, <LINK=2>Support Attack</LINK> (re-attack) and <LINK=3>Support Defense</LINK> can be performed.\n",
+  "slot": 858
+ },
+ "0x00583A": {
+  "en": "<W=24>Q</W><W=32>9</W>. All-attack weapon?",
+  "slot": 68
+ },
+ "0x00587F": {
+  "en": "A. A weapon that damages 1 target squad.",
+  "slot": 72
+ },
+ "0x0058C8": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>A weapon that damages 1 target squad.</C></H></W>\n\n　- Mainly used in <LINK=0>All Attack</LINK>. An all-attack weapon <I=30><S=-79><I=32><S=39> can deal damage to 1 target squad. If the target is a <LINK=1>Twin Unit</LINK>, it can damage both units at once.\n",
+  "slot": 462
+ },
+ "0x005AAA": {
+  "en": "<W=24>Q</W><W=16>10</W>. What is an all attack?",
+  "slot": 65
+ },
+ "0x005AEC": {
+  "en": "A. An attack method using an all-attack weapon.",
+  "slot": 60
+ },
+ "0x005B29": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>An attack method using an all-attack weapon.</C></H></W>\n\n　- An All Attack uses an <LINK=0>all-attack weapon</LINK> <I=30><S=-79><I=32><S=39>. When a <LINK=1>Twin Unit</LINK> makes an all attack and the sub unit can also use an all-attack weapon, both units can attack with all-attack weapons.\n\n　- Against an All Attack, <LINK=2>Support Attack</LINK> (re-attack) and <LINK=3>Support Defense</LINK> cannot be performed.\n\n　<S=8><Y=-3><W=32><H=32><I=156></H></W></Y><S=3>An all-attack weapon shown as <I=30><S=-30><I=33><S=6> can perform a <LINK=4>Double Attack</LINK>, hitting squads adjacent to the target as well.\n",
+  "slot": 853
+ },
+ "0x005EA7": {
+  "en": "<W=24>Q</W><W=16>11</W>. What is a map weapon?",
+  "slot": 68
+ },
+ "0x005EEC": {
+  "en": "A. A weapon that damages all squads within its range.",
+  "slot": 78
+ },
+ "0x005F3B": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>A weapon that damages all squads within its range.</C></H></W>\n\n　- A Map Weapon <I=30><S=-81><I=31><S=33> can damage every valid target squad within its range. Even if the attacking squad is a <LINK=0>Twin Unit</LINK>, only 1 unit performs the attack.\n\n　- Against a Map Weapon attack, <LINK=1>counter</LINK>, <LINK=2>Support Attack</LINK> (re-attack) and <LINK=3>Support Defense</LINK> cannot be performed.\n\n　- Map Weapons come in the following forms.\n\n　<T=30>'Self-Centered'</T>\n　- The area within range is the attack range.\n\n　<T=30>'Directional'</T>\n　- Choose the range from 4 directions around your unit.\n\n　<T=30>'Impact Point'</T>\n　- Choose the range from any spot within range.\n\n　<T=30>'Trajectory'</T>\n　- The line from your unit to any spot in range is the attack range.\n\n　<S=8><Y=-3><W=32><H=32><I=152></H></W></Y><S=3>Map Weapons hit units in range regardless of side. As an exception, if IFF is \"Active\", only enemy squads are hit.\n",
+  "slot": 1385
+ },
+ "0x0064C5": {
+  "en": "<W=24>Q</W><W=16>12</W>. What is a Double Attack?",
+  "slot": 74
+ },
+ "0x006510": {
+  "en": "A. An attack method that hits the target and squads adjacent to it.",
+  "slot": 87
+ },
+ "0x006568": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>An attack method that hits the target and squads adjacent to it.</C></H></W>\n\n　- A type of <LINK=0>All Attack</LINK> using weapons shown as <I=30><S=-30><I=33><S=6>. It can damage the target squad and adjacent squads, 2 squads total (up to 4 units). However, it costs double the normal EN/ammo. Even if the attacking squad is a <LINK=1>Twin Unit</LINK>, only 1 unit attacks.\n\n　- Against a Double Attack, <LINK=2>Support Attack</LINK> (re-attack) and <LINK=3>Support Defense</LINK> cannot be performed.\n",
+  "slot": 749
+ },
+ "0x006877": {
+  "en": "<W=24>Q</W><W=16>13</W>. What is Maximum Break?",
+  "slot": 80
+ },
+ "0x0068C8": {
+  "en": "A. An attack method performed by two adjacent Twin Units.",
+  "slot": 78
+ },
+ "0x006917": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>An attack method performed by two adjacent Twin Units.</C></H></W>\n\n　?Two adjacent squads attack the target. Both attacking squads must be <LINK=0>Twin Units</LINK>.\n　　First, all four units attack with the support weapon shown as <I=7><S=-8><Y=-6><I=158></Y>, then\n　　each unit attacks in turn.\n\n　?Only <LINK=1>normal attack weapons</LINK><I=30> can be used for a Maximum Break.\n\n　?The conditions to trigger a Maximum Break are as follows.\n\n　・The main pilot of the attacking unit has the <LINK=2>special skill</LINK> \"Command.\"\n　・All main pilots in the battle have 140 or more Will.\n　・All units in the battle have a support weapon that can hit the target.\n\n　?Against a Maximum Break, <LINK=3>support attacks</LINK> (counterattacks) and <LINK=4>support defenses</LINK> cannot\n　　be performed.\n\n　<S=8><Y=-3><W=32><H=32><I=155></H></W></Y><S=3>In the weapon stats/selection window, you can freely set the support weapon from\n　　　those shown as <I=30><S=-31><I=185><S=7>.\n\n　<S=8><Y=-3><W=32><H=32><I=152></H></W></Y><S=3>After a Maximum Break, the Will of both main pilots (main and sub side) of the\n　　　attacking unit drops by 10.\n",
+  "slot": 1657
+ },
+ "0x006FB9": {
+  "en": "<W=24>Q</W><W=16>14</W>. What is Combination Atk?",
+  "slot": 83
+ },
+ "0x00700D": {
+  "en": "A. An attack that hits the target and the squads linked to it.",
+  "slot": 84
+ },
+ "0x007062": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>An attack that hits the target and the squads linked to it.</C></H></W>\n\n　?Uses the weapon shown as <I=30><S=-31><I=34><S=7>. It deals damage to the target squad and\n　　several squads linked to it. Even if the attacking squad is a <LINK=0>Twin Unit</LINK>, only\n　　one unit attacks.\n\n　?The conditions to trigger a Combination Attack are as follows.\n\n　・The attacking unit is adjacent to the target.\n　・The main pilot has the <LINK=1>special skill</LINK> \"Continuous Attack.\"\n\n　?The number of units that can be hit is as follows.\n\n　・<LINK=1>Special skill</LINK> \"Continuous Attack\" level + 1 = number of units that can be hit.\n　・If the target is a <LINK=0>Twin Unit</LINK>, it counts as 2. Also, you cannot attack only one\n　　side of a <LINK=0>Twin Unit</LINK>.\n\n　?Damage to the target decreases from the 2nd unit on: 70%, 65%, 60%, 55%,\n　　gradually dropping.\n\n　?Against a Combination Attack, <LINK=2>support attacks</LINK> (counterattacks) and <LINK=3>support defenses</LINK>\n　　cannot be performed.\n\n　<S=8><Y=-3><W=32><H=32><I=156></H></W></Y><S=3>Even when hitting several units, EN/ammo cost is the same as attacking one unit.\n",
+  "slot": 1620
+ },
+ "0x0076DD": {
+  "en": "<W=24>Q</W><W=16>15</W>. Combo Attack weapon?",
+  "slot": 71
+ },
+ "0x007725": {
+  "en": "A. A weapon usable when certain conditions are met.",
+  "slot": 81
+ },
+ "0x007777": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>A weapon usable when certain conditions are met.</C></H></W>\n\n　?Normally, Combo Attack weapons do not appear in the weapon list. They show only\n　　when the units needed for that combo are connected within the surrounding 8 tiles\n　　on the map and the required pilots are aboard. To use it, all participating units\n　　must meet the weapon's EN cost, Will, and skill requirements.\n\n　<S=8><Y=-3><W=32><H=32><I=156></H></W></Y><S=3>Combo Attack weapons show <I=40> in the weapon type field.\n\n　<S=8><Y=-3><W=32><H=32><I=155></H></W></Y><S=3>If the unit executing the combo and the other units joining it belong to the same\n　　?<LINK=0>Twin Unit</LINK>, damage is 1.2x. Also, combo attacks do not trigger the target's\n　　　<LINK=1>special skill</LINK> \"Counter,\" <LINK=2>support defense</LINK>, or barrier-type <LINK=3>special abilities</LINK>.\n",
+  "slot": 1150
+ },
+ "0x007C17": {
+  "en": "About Will",
+  "slot": 18
+ },
+ "0x007C2A": {
+  "en": "Q&A about pilot Will.",
+  "slot": 57
+ },
+ "0x007C68": {
+  "en": "<W=24>Q</W><W=32>1</W>. What is Will?",
+  "slot": 56
+ },
+ "0x007CA1": {
+  "en": "A. It represents a pilot's fighting spirit.",
+  "slot": 48
+ },
+ "0x007CD2": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>It represents a pilot's fighting spirit.</C></H></W>\n\n　?Will is basically a value from 50 to 150. At stage start, when each unit is\n　　placed on the map, its Will basically begins at 100.\n\n　?When joining <LINK=0>battle</LINK>, or when an enemy or ally unit is shot down, Will rises or\n　　falls. The amount varies by pilot.\n\n　?Some weapons cannot be used unless Will reaches a certain level. Stronger\n　　weapons tend to require higher Will.\n\n　?Some unit <LINK=1>special abilities</LINK> and pilot <LINK=2>special skills</LINK> do not take effect unless Will\n　　reaches a certain level.\n\n　?The higher the Will, the more damage dealt in battle and the less taken.\n\n　<S=8><Y=-3><W=32><H=32><I=156></H></W></Y><S=3>A pilot who has the skill \"Will Limit Break\" has a Will cap of 170.\n",
+  "slot": 1217
+ },
+ "0x0081AC": {
+  "en": "<W=24>Q</W><W=32>2</W>. Raising Will?",
+  "slot": 62
+ },
+ "0x0081EB": {
+  "en": "A. Use pilot training, spirit commands, upgrade parts, etc.",
+  "slot": 93
+ },
+ "0x008249": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>There are the following methods.</C></H></W>\n\n　?Shoot down enemies. Will rises even more when you shoot them down yourself.\n　　Will may also rise when an ally is shot down, but for some pilots it drops\n　　instead, so be careful.\n\n　?Join battle. Will may rise when you deal damage, dodge an attack, or take\n　　damage. The rise amount varies by pilot. Will may also rise when your attack\n　　fails to damage the target, but for some pilots it drops instead, so be careful.\n\n　?Learn \"Will + (Hit)\" and the like through <LINK=0>pilot training</LINK>.\n\n　?Use the <LINK=1>spirit command</LINK> \"Fury\" and the like.\n\n　?Equip <LINK=2>upgrade parts</LINK> like the \"Headband.\"\n\n　<S=8><Y=-3><W=32><H=32><I=156></H></W></Y><S=3>When targeted by the \"Resupply\" command, Will drops by 10. When loaded onto\n　　　a battleship, Will drops by 5. However, loading will not drop Will below 100.\n",
+  "slot": 1511
+ },
+ "0x00884C": {
+  "en": "<W=24>Q</W><W=32>3</W>. Lowering enemy Will?",
+  "slot": 68
+ },
+ "0x008891": {
+  "en": "A. Use spirit commands, special effect 1, etc.",
+  "slot": 69
+ },
+ "0x0088D7": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>There are the following methods.</C></H></W>\n\n　?Use the <LINK=0>spirit command</LINK> \"Daunt\" and the like.\n\n　?Attack with a weapon that has <LINK=1>special effect 1</LINK> \"Will Down L (P-type).\"\n\n　<S=8><Y=-3><W=32><H=32><I=155></H></W></Y><S=3>For boss-class enemies, you can't count on allied units being shot down or on\n　　　battle lowering their Will. Their Will also maxes out fast, so lower it just\n　　　before you attack. Pilots with Will-lowering spirit commands are limited, so\n　　　tactics that keep the enemy from raising Will are also important.\n",
+  "slot": 732
+ },
+ "0x008BC6": {
+  "en": "About Terrain Effects",
+  "slot": 24
+ },
+ "0x008BDF": {
+  "en": "Q&A about map terrain effects.",
+  "slot": 57
+ },
+ "0x008C1D": {
+  "en": "<W=24>Q</W><W=32>1</W>. What are terrain effects?",
+  "slot": 62
+ },
+ "0x008C5C": {
+  "en": "A. Defense, evasion, and HP/EN recovery effects set on map tiles.",
+  "slot": 102
+ },
+ "0x008CC3": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Defense, evasion, and HP/EN recovery effects set on map tiles.</C></H></W>\n\n　?Each map tile has a terrain effect that differs by terrain type. Terrain effects\n　　give the following effects to the unit on that tile.\n\n　<T=30>'Defense Rate'</T>\n　・The percentage by which defense increases when a unit on that terrain is attacked.\n\n　<T=30>'Evasion Rate'</T>\n　・The value by which the enemy's hit rate is reduced when a unit on that terrain\n　　is attacked.\n\n　<T=30>'HP Recovery Rate'</T>\n　・The percentage of max HP a unit on that terrain recovers at the start of your\n　　phase.\n\n　<T=30>'EN Recovery Rate'</T>\n　・The percentage of max EN a unit on that terrain recovers at the start of your\n　　phase.\n\n　<S=8><Y=-3><W=32><H=32><I=156></H></W></Y><S=3>Press <S=-4><Y=-3><W=32><H=32><I=116></H></W></Y><S=-4> on the tile you want to check to display its terrain effect.\n",
+  "slot": 1240
+ },
+ "0x0091A0": {
+  "en": "<W=24>Q</W><W=32>2</W>. Taking less damage?",
+  "slot": 80
+ },
+ "0x0091F1": {
+  "en": "A. Move the unit to a tile with a high defense rate.",
+  "slot": 90
+ },
+ "0x00924C": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Move the unit to a tile with a high defense rate.</C></H></W>\n\n　?The defense rate effect cannot be gained while a unit is in the air.\n\n　<S=8><Y=-3><W=32><H=32><I=155></H></W></Y><S=3>Terrain with little cover, like roads or plains, gives no effect. Terrain with lots\n　　　of cover, like buildings or forests, gives a high effect.\n",
+  "slot": 473
+ },
+ "0x00942A": {
+  "en": "<W=24>Q</W><W=32>3</W>. Raising evasion rate?",
+  "slot": 65
+ },
+ "0x00946C": {
+  "en": "A. Move the unit to a tile with a high evasion rate.",
+  "slot": 90
+ },
+ "0x0094C7": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Move the unit to a tile with a high evasion rate.</C></H></W>\n\n　?The evasion rate effect cannot be gained while a unit is in the air.\n\n　<S=8><Y=-3><W=32><H=32><I=155></H></W></Y><S=3>Terrain with little cover, like roads or plains, gives no effect. Terrain with lots\n　　　of cover, like buildings or forests, gives a high effect.\n",
+  "slot": 473
+ },
+ "0x0096A5": {
+  "en": "<W=24>Q</W><W=32>4</W>. Recovering HP and EN?",
+  "slot": 77
+ },
+ "0x0096F3": {
+  "en": "A. Move a unit onto a tile with a set HP/EN recovery rate.",
+  "slot": 99
+ },
+ "0x009757": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Move a unit onto a tile with a set HP/EN recovery rate.</C></H></W>\n\n  -HP/EN recovery from terrain effects occurs at the start of your phase.\n\n  <S=8><Y=-3><W=32><H=32><I=155></H></W></Y><S=3>Main terrain with a set HP/EN recovery rate includes bases, buildings and\n     other facilities, plus energy tanks.\n\n",
+  "slot": 456
+ },
+ "0x009924": {
+  "en": "About combat-related systems",
+  "slot": 45
+ },
+ "0x009952": {
+  "en": "Q&A about combat-related systems.",
+  "slot": 66
+ },
+ "0x009999": {
+  "en": "<W=24>Q</W><W=32>1</W>. What is Support Attack?",
+  "slot": 65
+ },
+ "0x0099DB": {
+  "en": "A. An extra attack another ally makes after a normal attack.",
+  "slot": 90
+ },
+ "0x009A36": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>An extra attack another ally makes after a normal attack.</C></H></W>\n\n  -When the attacking unit makes a <LINK=0>normal attack</LINK>, an ally follows up with an\n    attack. The conditions for a unit to make a Support Attack are as follows.\n\n  -Adjacent to the attacking unit.\n  -Has not ended its action.\n  -Has a <LINK=1>movement type</LINK> able to enter the terrain the attacker is on.\n  -Main pilot has the <LINK=2>special skill</LINK> \"Support Attack\" with support uses\n    remaining.\n  -Has a weapon able to attack the target.\n  -Not part of the attacker's <LINK=3>combination attack</LINK>.\n\n  <S=8><Y=-3><W=32><H=32><I=156></H></W></Y><S=3>Support Attacks get +20 hit rate and deal 75% damage compared to normal.\n     The number of supports possible per phase equals the skill level.\n",
+  "slot": 1175
+ },
+ "0x009EED": {
+  "en": "<W=24>Q</W><W=32>2</W>. What is Support Defend?",
+  "slot": 65
+ },
+ "0x009F2F": {
+  "en": "A. An action where another ally takes damage in your place.",
+  "slot": 90
+ },
+ "0x009F8A": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>An action where another ally takes damage in your place.</C></H></W>\n\n  -An ally takes damage in place of a unit hit by a <LINK=0>normal attack</LINK>. The\n    conditions for a unit to make a Support Defend are as follows.\n\n  -Adjacent to the attacked unit.\n  -Has a <LINK=1>movement type</LINK> able to enter the terrain the target is on.\n  -Main pilot has the <LINK=2>special skill</LINK> \"Support Defend\" with support uses\n    remaining.\n  -Not part of the attacked unit's <LINK=3>combination attack</LINK>.\n\n  <S=8><Y=-3><W=32><H=32><I=156></H></W></Y><S=3>In a Support Defend, damage is taken while defending, so damage taken is\n     50% of normal. The number of supports possible per phase equals the\n     skill level.\n",
+  "slot": 1075
+ },
+ "0x00A3C2": {
+  "en": "<W=24>Q</W><W=32>3</W>. What is Placement?",
+  "slot": 71
+ },
+ "0x00A40A": {
+  "en": "A. An effect triggered by surrounding a target with player units.",
+  "slot": 99
+ },
+ "0x00A46E": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>An effect triggered by surrounding a target with player units.</C></H></W>\n\n  -Damage dealt changes based on the number of your units adjacent to the\n    target, not counting the unit that used the \"Attack\" command.\n\n  <T=30>\"2-3 units\"</T>\n  -Damage +5%\n\n  <T=30>\"4 units\"</T>\n  -Damage +10%\n",
+  "slot": 468
+ },
+ "0x00A647": {
+  "en": "<W=24>Q</W><W=32>4</W>. Consecutive Target Bonus?",
+  "slot": 77
+ },
+ "0x00A695": {
+  "en": "A. An effect making it harder to keep dodging within one phase.",
+  "slot": 99
+ },
+ "0x00A6F9": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>An effect making it harder to keep dodging within one phase.</C></H></W>\n\n  -Each time a unit dodges an attack (including taking no damage via a barrier,\n    etc.), its dodge count rises, up to a max of 40. The next battle is harder\n    to dodge by \"count\" x 5 (%). The count resets when a dodge fails or at the\n    end of each phase.\n\n  <S=8><Y=-3><W=32><H=32><I=156></H></W></Y><S=3>Dodging via the <LINK=0>spirit command</LINK> \"Flash\" is not counted.\n",
+  "slot": 714
+ },
+ "0x00A9CF": {
+  "en": "About unit special abilities",
+  "slot": 33
+ },
+ "0x00A9F1": {
+  "en": "Q&A about unit special abilities.",
+  "slot": 54
+ },
+ "0x00AA2C": {
+  "en": "<W=24>Q</W><W=32>1</W>. Special abilities?",
+  "slot": 62
+ },
+ "0x00AA6B": {
+  "en": "A. Special abilities a unit possesses.",
+  "slot": 48
+ },
+ "0x00AA9C": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Special abilities a unit possesses.</C></H></W>\n\n  -Special abilities are powers some units have, such as transforming into\n    another form, recovering HP/EN, dodge-type abilities that fully nullify\n    attacks, block-type abilities that negate weapon effects, and barrier-type\n    abilities that reduce damage.\n\n  <S=8><Y=-3><W=32><H=32><I=156></H></W></Y><S=3><LINK=0>Upgrade parts</LINK> can sometimes grant effects equal to a special ability.\n",
+  "slot": 619
+ },
+ "0x00AD14": {
+  "en": "<W=24>Q</W><W=32>2</W>. Increasing move range?",
+  "slot": 83
+ },
+ "0x00AD68": {
+  "en": "A. Use the special abilities \"Transform,\" \"Combine\" and \"Separate.\"",
+  "slot": 75
+ },
+ "0x00ADB4": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Use the special abilities \"Transform,\" \"Combine\" and \"Separate.\"</C></H></W>\n\n  -Units with the Transform, Combine or Separate ability can use the individual\n    commands \"Transform,\" \"Combine\" and \"Separate\" to change into another form.\n    This can alter the unit's <LINK=0>movement</LINK> or <LINK=1>movement type</LINK>. By transforming to\n    match the terrain type, you can increase a unit's move range.\n",
+  "slot": 609
+ },
+ "0x00B026": {
+  "en": "<W=24>Q</W><W=32>3</W>. Taking less damage?",
+  "slot": 80
+ },
+ "0x00B077": {
+  "en": "A. Use the special abilities \"AB Field,\" \"E Field,\" \"Passive Bit,\" \"TE Sphere,\" \"Beam Coat,\" \"G Wall,\"\n    \"G Territory\" or \"Psychic Field.\"",
+  "slot": 253
+ },
+ "0x00B175": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Use the following special abilities.</C></H></W>\n\n  -Use barrier-type abilities. Barrier abilities spend EN to reduce or nullify\n    a set amount of damage. If the required EN is lacking, the barrier will not\n    form. Some also require a pilot to reach a set Will level or have a\n    certain ability.\n\n  <T=30>\"AB Field\"</T>\n  -Reduces 1200 damage, costs 10 EN. Effective only vs beam weapons.\n\n  <T=30>\"E Field\"</T>\n  -Reduces 1500 damage, costs 15 EN, needs 120 Will.\n\n  <T=30>\"Passive Bit\"</T>\n  -Reduces 1100 damage, costs 5 EN. Effective only vs beam weapons.\n\n  <T=30>\"TE Sphere\"</T>\n  -Reduces 1500 damage, costs 5 EN, needs 120 Will.\n\n  <T=30>\"Beam Coat\"</T>\n  -Reduces 900 damage, costs 5 EN. Effective only vs beam weapons.\n\n  <T=30>\"G Wall\"</T>\n  -Nullifies 800 damage, costs 5 EN, needs 120 Will.\n\n  <T=30>\"G Territory\"</T>\n  -Nullifies 1800 damage, costs 15 EN, needs 120 Will.\n\n  <T=30>\"Psychic Field\"</T>\n  -Nullifies the <LINK=0>special skill</LINK> \"Psychic\" \"level\" x 200 damage, costs 5 EN,\n    needs 110 Will.\n\n  <S=8><Y=-3><W=32><H=32><I=156></H></W></Y><S=3>Reduction-type barriers cut incoming damage by the barrier's effect.\n     Nullify-type barriers set damage to 0 if it is at or below the barrier's\n     effect. Otherwise damage is taken as normal.\n\n  -Use the Transform, Combine or Separate abilities. Units with these abilities\n    can use the individual commands \"Transform,\" \"Combine\" and \"Separate\" to\n    change into another form. This can alter the unit's armor value.\n\n",
+  "slot": 2312
+ },
+ "0x00BA89": {
+  "en": "<W=24>Q</W><W=32>4</W>. Avoiding status ailments?",
+  "slot": 80
+ },
+ "0x00BADA": {
+  "en": "A. Use the special abilities \"Pilot Block,\" \"Robot Block\" and \"Full Block.\"",
+  "slot": 126
+ },
+ "0x00BB59": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Use Block-type special abilities.</C></H></W>\n\n　?Some weapons carry a <LINK=0>Special Effect 1</LINK> that inflicts a status ailment on\n　　the target. Special effects come in R-type and P-type: R-type afflicts the\n　　unit, P-type afflicts the pilot. Block-type special abilities can nullify\n　　these special effects.\n\n　<T=30>'Pilot Block'</T>\n　- Nullifies all P-type special effects.\n\n　<T=30>'Robot Block'</T>\n　- Nullifies all R-type special effects.\n\n　<T=30>'Full Block'</T>\n　- Nullifies all special effects.\n",
+  "slot": 792
+ },
+ "0x00BE7D": {
+  "en": "<W=24>Q</W><W=32>5</W>. Raising evasion rate?",
+  "slot": 65
+ },
+ "0x00BEBF": {
+  "en": "A. Use the special abilities 'Afterimage' and 'Jammer'.",
+  "slot": 69
+ },
+ "0x00BF05": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Use the following special abilities.</C></H></W>\n\n　?Use evasion-type special abilities.\n\n　<T=30>'Afterimage'</T>\n　- When the pilot's Will is 130 or higher, attacks are evaded 50% of the time.\n\n　<T=30>'Jammer'</T>\n　- Nullifies missile-type attacks 50% of the time.\n\n　?Use transform, combine and separate special abilities. Units with transform,\n　　combine or separate abilities can each use the 'Transform', 'Combine' or\n　　'Separate' command to change into another form. Doing so can alter the\n　　unit's mobility.\n\n",
+  "slot": 755
+ },
+ "0x00C1FD": {
+  "en": "About pilot special skills",
+  "slot": 45
+ },
+ "0x00C22B": {
+  "en": "A Q&A about the special skills pilots possess.",
+  "slot": 66
+ },
+ "0x00C272": {
+  "en": "<W=24>Q</W><W=32>1</W>. What are special skills?",
+  "slot": 65
+ },
+ "0x00C2B4": {
+  "en": "A. Special techniques that a pilot possesses.",
+  "slot": 57
+ },
+ "0x00C2EE": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Special techniques that a pilot possesses.</C></H></W>\n\n　?Special skills are a pilot's special techniques. Some are leveled and some are\n　　not; when a pilot's level rises, a special skill's level may rise as well.\n\n　?Some special skills can be learned with the intermission's <LINK=0>Pilot Training</LINK>\n　　command, while others are learned only by specific pilots and cannot be acquired.\n",
+  "slot": 602
+ },
+ "0x00C555": {
+  "en": "A. Use the special skill 'Infight'.",
+  "slot": 66
+ },
+ "0x00C598": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Use the special skill 'Infight'.</C></H></W>\n\n　<T=30>'Infight'</T>\n　- The higher the skill level, the more the unit's <LINK=0>movement</LINK> and the attack\n　　power of melee weapons (except map weapons) rise. It cannot be learned via\n　　Pilot Training.\n",
+  "slot": 375
+ },
+ "0x00C71A": {
+  "en": "A. Use the special skills 'Support Attack', 'Re-attack', 'Attacker', 'Revenge', 'Infight', 'Gunfight', 'Command',\n　　'Continuous Attack', 'Cooperative Attack', 'Focused Attack' and 'Will Limit Break'.",
+  "slot": 259
+ },
+ "0x00C81E": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Use the following special skills.</C></H></W>\n\n　<T=30>'Support Attack'</T>\n　- Joins the <LINK=0>support attack</LINK> of an adjacent ally unit. The higher the skill\n　　level, the more times support is possible.\n\n　<T=30>'Re-attack'</T>\n　- If skill is 20 or more above the target's main pilot, the unit performs a\n　　support attack on itself after the target counters.\n\n　<T=30>'Attacker'</T>\n　- When Will is 130 or higher, damage is multiplied by 1.2. It cannot be\n　　learned via Pilot Training.\n\n　<T=30>'Revenge'</T>\n　- Damage dealt when countering is multiplied by 1.2.\n\n　<T=30>'Infight'</T>\n　- The higher the skill level, the more the unit's <LINK=1>movement</LINK> and the attack\n　　power of melee weapons (except map weapons) rise. It cannot be learned via\n　　Pilot Training.\n\n　<T=30>'Gunfight'</T>\n　- The higher the skill level, the more the attack power and range of the unit's\n　　ranged weapons (except map weapons) rise. It cannot be learned via Pilot Training.\n\n　<T=30>'Command'</T>\n　- The ability to trigger a <LINK=2>Maximum Break</LINK>. It cannot be learned via Pilot\n　　Training.\n\n　<T=30>'Continuous Attack'</T>\n　- When attacking with a combination-capable weapon, triggers a <LINK=3>Combination\n　?Attack</LINK> for that unit. Continuous Attack 'level' + 1 = 'number of units\n　　that can be attacked'.\n\n　<T=30>'Cooperative Attack'</T>\n　- Damage dealt via <LINK=0>support attack</LINK> rises from 75% to 100% of normal.\n\n　<T=30>'Focused Attack'</T>\n　- When the main (sub) unit attacks the sub (main) unit, damage rises from 65%\n　　to 85% of normal.\n\n　<T=30>'Will Limit Break'</T>\n　- Raises the <LINK=4>Will</LINK> cap to 170.\n",
+  "slot": 2277
+ },
+ "0x00D12A": {
+  "en": "A. Use the special skills 'Support Defend', 'Guard' and 'Potential'.",
+  "slot": 87
+ },
+ "0x00D182": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Use the following special skills.</C></H></W>\n\n　<T=30>'Support Defend'</T>\n　- Joins the <LINK=0>support defense</LINK> of an adjacent ally unit. The higher the skill\n　　level, the more times support is possible.\n\n　<T=30>'Guard'</T>\n　- When Will is 130 or higher, damage taken in battle is reduced to 80%.\n\n　<T=30>'Potential'</T>\n　- The higher the skill level, the more hit rate, evasion, armor and critical\n　　rate rise based on the unit's remaining HP%.\n",
+  "slot": 618
+ },
+ "0x00D3F8": {
+  "en": "<W=24>Q</W><W=32>5</W>. Raising hit rate?",
+  "slot": 65
+ },
+ "0x00D43A": {
+  "en": "A. Use the skills 'Commander', 'Prescience', 'Genius', 'Guts', 'Psychic', 'ESP' and 'Lucky'.",
+  "slot": 144
+ },
+ "0x00D4CB": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Use the following special skills.</C></H></W>\n\n　<T=30>'Commander'</T>\n　- The higher the skill level, the more the hit rate and evasion of ally units\n　　within the unit's command range rise. It cannot be learned via Pilot Training.\n\n　<T=30>'Prescience'</T>\n　- When Will is 130 or higher, hit rate and evasion rise by 10.\n\n　<T=30>'Genius'</T>\n　- Hit rate, evasion and critical rate rise by 20. It cannot be learned via\n　　Pilot Training.\n\n　<T=30>'Guts'</T>\n　- The higher the skill level, the more hit rate, evasion, armor and critical\n　　rate rise based on the unit's remaining HP%.\n\n　<T=30>'Psychic'</T>\n　- The higher the skill level, the more hit rate and evasion in battle rise. It\n　　cannot be learned via Pilot Training.\n\n　<T=30>'ESP'</T>\n　- The higher the skill level, the more hit rate, evasion and critical rate in\n　　battle rise. It cannot be learned via Pilot Training.\n\n　<T=30>'Lucky'</T>\n　- When it triggers, hit rate, evasion and critical rate for that battle become\n　　100%. The higher the skill level, the higher the trigger chance. It cannot be\n　　learned via Pilot Training.\n",
+  "slot": 1608
+ },
+ "0x00DB18": {
+  "en": "<W=24>Q</W><W=32>6</W>. Raising evasion rate?",
+  "slot": 65
+ },
+ "0x00DB5A": {
+  "en": "A. Use the skills 'Commander', 'Prescience', 'Genius', 'Sense', 'Guts', 'Psychic', 'ESP' and 'Lucky'.",
+  "slot": 156
+ },
+ "0x00DBF7": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Use the following special skills.</C></H></W>\n\n　<T=30>'Commander'</T>\n　- The higher the skill level, the more the hit rate and evasion of ally units\n　　within the unit's command range rise. It cannot be learned via Pilot Training.\n\n　<T=30>'Prescience'</T>\n　- When Will is 130 or higher, hit rate and evasion rise by 10.\n\n　<T=30>'Genius'</T>\n　- Hit rate, evasion and critical rate rise by 20. It cannot be learned via\n　　Pilot Training.\n\n　<T=30>'Sense'</T>\n　- When Will is 130 or higher, during enemy phases only, final evasion rises\n　　by 30. It cannot be learned via Pilot Training.\n\n　<T=30>'Guts'</T>\n　- The higher the skill level, the more hit rate, evasion, armor and critical\n　　rate rise based on the unit's remaining HP%.\n\n　<T=30>'Psychic'</T>\n　- The higher the skill level, the more hit rate and evasion in battle rise. It\n　　cannot be learned via Pilot Training.\n\n　<T=30>'ESP'</T>\n　- The higher the skill level, the more hit rate, evasion and critical rate in\n　　battle rise. It cannot be learned via Pilot Training.\n\n　<T=30>'Lucky'</T>\n　- When it triggers, hit rate, evasion and critical rate for that battle become\n　　100%. The higher the skill level, the higher the trigger chance. It cannot be\n　　learned via Pilot Training.\n",
+  "slot": 1841
+ },
+ "0x00E32D": {
+  "en": "<W=24>Q</W><W=32>7</W>. Raising Will?",
+  "slot": 62
+ },
+ "0x00E36C": {
+  "en": "A. Use the skills 'Fighting Spirit', 'Will Boost', 'Will+ (Evade)', 'Will+ (Hit)', 'Will+ (Damage)'\n　　and 'Will+ (Defeat)'.",
+  "slot": 196
+ },
+ "0x00E431": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Use the following special skills.</C></H></W>\n\n　<T=30>'Fighting Spirit'</T>\n　- Will at sortie rises by 5.\n\n　<T=30>'Will Boost'</T>\n　- Will rises by 2 at the start of your army's phase.\n\n　<T=30>'Will+ (Evade)'</T>\n　- When an attack is evaded, Will rises by 1 more on top of the normal change.\n\n　<T=30>'Will+ (Hit)'</T>\n　- When an attack on an enemy hits, Will rises by 1 more on top of the normal change.\n\n　<T=30>'Will+ (Damage)'</T>\n　- When taking damage from an attack, Will rises by 2 more on top of the normal change.\n\n　<T=30>'Will+ (Defeat)'</T>\n　- When an enemy is shot down, Will rises by 1 more on top of the normal change.\n\n",
+  "slot": 872
+ },
+ "0x00E79E": {
+  "en": "<W=24>Q</W><W=32>8</W>. Earning more funds?",
+  "slot": 71
+ },
+ "0x00E7E6": {
+  "en": "A. Use the special skill 'Chance'.",
+  "slot": 54
+ },
+ "0x00E81D": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Use the special skill 'Chance'.</C></H></W>\n\n　<T=30>'Chance'</T>\n　- Funds gained when shooting down an enemy unit are multiplied by 1.2. Even when\n　　stacked with effects like Luck, the maximum funds gained is capped at 2x. It\n　　cannot be learned via Pilot Training.\n",
+  "slot": 373
+ },
+ "0x00E997": {
+  "en": "<W=24>Q</W><W=32>9</W>. Earning more EXP?",
+  "slot": 74
+ },
+ "0x00E9E2": {
+  "en": "A. Use the special skills 'EXP Up' and 'Learning'.",
+  "slot": 87
+ },
+ "0x00EA3A": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>The following special skills apply.</C></H></W>\n\n　<T=30>'EXP Up'</T>\n　- Experience gained in battle is multiplied by 1.2.\n\n　<T=30>'Learning'</T>\n　- When fighting as the sub unit, gains the same experience and PP as the main unit.\n",
+  "slot": 339
+ },
+ "0x00EB92": {
+  "en": "<W=24>Q</W><W=16>10</W>. Anything else useful?",
+  "slot": 80
+ },
+ "0x00EBE3": {
+  "en": "A. Special skills such as \"SP Regen,\" \"Focus,\" \"SP Up,\" \"Counter,\" \"E Save,\" \"B Save,\" \"Hit & Away,\"\n　　\"Repair,\" \"Resupply,\" \"Continuous Action,\" and more.",
+  "slot": 247
+ },
+ "0x00ECDB": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>The following special skills exist.</C></H></W>\n\n　<T=30>'SP Regen'</T>\n　- SP recovers by 10 at the start of your phase. Cannot be learned\n　　through pilot training.\n\n　<T=30>'Focus'</T>\n　- The point cost of Spirit and Twin Spirit Commands becomes 80%.\n\n　<T=30>'SP Up'</T>\n　- The higher the skill level, the more max SP rises.\n\n　<T=30>'Counter'</T>\n　- When it triggers, you can strike before the enemy attacks. A higher\n　　skill level raises the trigger rate.\n\n　<T=30>'E Save'</T>\n　- A weapon's EN cost becomes 70% of normal.\n\n　<T=30>'B Save'</T>\n　- A weapon's max ammo becomes 1.5 times normal.\n\n　<T=30>'Hit & Away'</T>\n　- If you attack without moving, you can move afterward.\n\n　<T=30>'Repair'</T>\n　- HP recovery from the \"Repair\" command becomes 1.2 times.\n\n　<T=30>'Resupply'</T>\n　- You can use the \"Resupply\" command after moving.\n\n　<T=30>'Continuous Action'</T>\n　- At 120+ Will, if you wipe out an attacked enemy unit, you can act\n　　once more without ending your turn.\n",
+  "slot": 1499
+ },
+ "0x00F2BB": {
+  "en": "About Abilities",
+  "slot": 27
+ },
+ "0x00F2D7": {
+  "en": "A Q&A about Abilities.",
+  "slot": 48
+ },
+ "0x00F30C": {
+  "en": "<W=24>Q</W><W=32>1</W>. What are Abilities?",
+  "slot": 65
+ },
+ "0x00F34E": {
+  "en": "A. Equipping three of the same item on a unit grants an Ability effect.",
+  "slot": 99
+ },
+ "0x00F3B2": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Equipping three of the same item on a unit grants an Ability effect.</C></H></W>\n\n　?Abilities can be equipped by a mech or pilot, three each. You change\n　　equipped Abilities with the \"Ability\" command in the Intermission.\n\n　?Out of the 6 total slots on a mech and its main pilot, if 3 or more of\n　　the same Ability are gathered, you gain Ability effects such as higher\n　　damage or accuracy.\n\n　?For a <LINK=0>Twin Unit</LINK>, the 12 slots of both mechs and their two main\n　　pilots count, and both mechs gain the Ability effects.\n\n　<S=8><Y=-3><W=32><H=32><I=155></H></W></Y><S=3>If an Ability totals fewer than 3, it is wasted.\n　　　Conversely, if it totals 4 or more, any beyond 3 are wasted.\n",
+  "slot": 1224
+ },
+ "0x00F87F": {
+  "en": "A. Equip three \"Mobility+\" on a mech and pilot.",
+  "slot": 81
+ },
+ "0x00F8D1": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Equip three \"Mobility+\" on a mech and pilot.</C></H></W>\n\n　<T=30>'Mobility+'</T>\n　- Raises your unit's movement by 1.\n",
+  "slot": 215
+ },
+ "0x00F9AD": {
+  "en": "A. Equip three \"Melee↑\" \"Ranged↑\" \"Counter↑\" \"Beam↑\" \"Ammo↑\" \"Psychic↑\" or \"Support Atk↑\" on a mech and pilot.",
+  "slot": 171
+ },
+ "0x00FA59": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Equip three of the same Ability below on a mech and pilot.</C></H></W>\n\n　<T=30>'Melee↑'</T>\n　- Melee weapon damage rises by 5%.\n\n　<T=30>'Ranged↑'</T>\n　- Ranged weapon damage rises by 5%.\n\n　<T=30>'Counter↑'</T>\n　- Damage on counterattack rises by 5%.\n\n　<T=30>'Beam↑'</T>\n　- Beam weapon damage rises by 5%.\n\n　<T=30>'Ammo↑'</T>\n　- Ammo weapon damage rises by 5%.\n\n　<T=30>'Psychic↑'</T>\n　- Psychic weapon damage rises by 5%.\n\n　<T=30>'Support Atk↑'</T>\n　- Support attack damage rises by 5%.\n",
+  "slot": 974
+ },
+ "0x00FE2C": {
+  "en": "A. Equip three \"Armor↑\" or \"Support Def↑\" on a mech and pilot.",
+  "slot": 93
+ },
+ "0x00FE8A": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Equip three of the same Ability below on a mech and pilot.</C></H></W>\n\n　<T=30>'Armor↑'</T>\n　- Damage taken by your unit drops by 5%.\n\n　<T=30>'Support Def↑'</T>\n　- Damage taken on support defense drops by 5%.\n",
+  "slot": 357
+ },
+ "0x00FFF4": {
+  "en": "A. Equip three \"Accuracy↑\" on a mech and pilot.",
+  "slot": 78
+ },
+ "0x010043": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Equip three \"Accuracy↑\" on a mech and pilot.</C></H></W>\n\n　<T=30>'Accuracy↑'</T>\n　- Raises your unit's accuracy by 5.\n",
+  "slot": 209
+ },
+ "0x010119": {
+  "en": "A. Equip three \"Evade↑\" on a mech and pilot.",
+  "slot": 78
+ },
+ "0x010168": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Equip three \"Evade↑\" on a mech and pilot.</C></H></W>\n\n　<T=30>'Evade↑'</T>\n　- Raises your unit's evasion by 5.\n",
+  "slot": 209
+ },
+ "0x01023E": {
+  "en": "<W=24>Q</W><W=32>7</W>. Anything else useful?",
+  "slot": 77
+ },
+ "0x01028C": {
+  "en": "A. There are \"CRT↑\" \"EXP+\" \"Cash+\" \"Repair+\" \"HP+\" \"EN+\" \"Block\" \"Barrier+\" \"Range+\" and more.",
+  "slot": 177
+ },
+ "0x01033E": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>The following Abilities exist.</C></H></W>\n\n　<T=30>'CRT↑'</T>\n　- Raises your unit's critical rate by 10.\n\n　<T=30>'EXP+'</T>\n　- EXP gained in battle rises by 10%.\n\n　<T=30>'Cash+'</T>\n　- Cash gained in battle rises by 10%.\n\n　<T=30>'Repair+'</T>\n　- Recovery rate when repairing rises by 10%.\n\n　<T=30>'HP+'</T>\n　- Your unit's max HP rises by 5%.\n\n　<T=30>'EN+'</T>\n　- Your unit's max EN rises by 5%.\n\n　<T=30>'Block'</T>\n　- Grants your unit the \"Full Block\" special ability.\n\n　<T=30>'Barrier+'</T>\n　- Raises your unit's barrier abilities by 200 (no effect without a barrier).\n\n　<T=30>'Range+'</T>\n　- Raises weapon range by 1, except map weapons and range-1 weapons.\n",
+  "slot": 1138
+ },
+ "0x0107B5": {
+  "en": "About Recovering HP, EN, etc.",
+  "slot": 39
+ },
+ "0x0107DD": {
+  "en": "A Q&A about support and recovering HP, EN, etc.",
+  "slot": 75
+ },
+ "0x01082D": {
+  "en": "<W=24>Q</W><W=32>1</W>. What is a Support Unit?",
+  "slot": 74
+ },
+ "0x010878": {
+  "en": "A. A unit that aids frontline units with special abilities or Spirit Commands.",
+  "slot": 99
+ },
+ "0x0108DC": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>A unit that aids frontline units with special abilities or Spirit Commands.</C></H></W>\n\n　?It restores frontline units' HP and EN with special abilities, or backs\n　　them up with <LINK=0>Spirit Commands</LINK>. If you keep it safe from enemy attacks,\n　　a support unit needs no high combat power. But to raise its pilot's\n　　level, it must gain EXP through battle or the \"Repair\" and \"Resupply\"\n　　commands.\n",
+  "slot": 609
+ },
+ "0x010B42": {
+  "en": "<W=24>Q</W><W=32>2</W>. What is Repair?",
+  "slot": 56
+ },
+ "0x010B7B": {
+  "en": "A. A special ability that restores lost HP.",
+  "slot": 63
+ },
+ "0x010BBB": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>A special ability that restores lost HP.</C></H></W>\n\n　?A mech with the \"Repair Unit\" special ability can use the \"Repair\"\n　　command to restore HP of units within range. The amount recovered\n　　rises in proportion to the pilot's Lv.\n\n　<S=8><Y=-3><W=32><H=32><I=155></H></W></Y><S=3>Equipping a repair unit to a mech via the \"Swap Weapons\" command in\n　　　the Intermission grants the repair unit's special ability.\n\n　<S=8><Y=-3><W=32><H=32><I=156></H></W></Y><S=3>Using the \"Repair\" command grants EXP.\n",
+  "slot": 752
+ },
+ "0x010EB0": {
+  "en": "<W=24>Q</W><W=32>3</W>. What is Resupply?",
+  "slot": 56
+ },
+ "0x010EE9": {
+  "en": "A. A special ability that restores reduced EN and ammo.",
+  "slot": 72
+ },
+ "0x010F32": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>A special ability that restores reduced EN and ammo.</C></H></W>\\n\\n ?A unit with the \"Resupply Unit\" special ability can use the individual command \"Resupply\" to\\n  fully restore the EN and ammo of a unit within range. The target's Will drops by 10.\\n\\n <S=8><Y=-3><W=32><H=32><I=155></H></W></Y><S=3>If you equip a Resupply Unit via the \"Weapon Refit\" command in the intermission,\\n   the unit gains the Resupply Unit special ability.\\n\\n <S=8><Y=-3><W=32><H=32><I=156></H></W></Y><S=3>Using the individual command \"Resupply\" also earns you EXP.\\n",
+  "slot": 733
+ },
+ "0x011214": {
+  "en": "<W=24>Q</W><W=32>4</W>. Restoring HP?",
+  "slot": 68
+ },
+ "0x011259": {
+  "en": "A. Use repair, special abilities, terrain effects, parts, etc.",
+  "slot": 87
+ },
+ "0x0112B1": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>There are the following methods.</C></H></W>\n\n　?Use the individual command \"<LINK=0>Repair</LINK>\".\n\n　?Use <LINK=1>spirit commands</LINK> like \"Guts\".\n\n　?Load onto a battleship. While aboard, HP and EN recover 15% and ammo fully\n　　restores at the start of your phase. The loaded unit's <LINK=2>Will</LINK> drops by 5. However,\n　　loading will not lower Will below 100.\n\n　?Use the <LINK=3>special ability</LINK> \"HP Regen\".\n\n　<T=30>\"HP Regen (S)\"</T>\n　- At the start of your phase, HP recovers by 10% of its max.\n\n　<T=30>\"HP Regen (M)\"</T>\n　- At the start of your phase, HP recovers by 20% of its max.\n\n　<T=30>\"HP Regen (L)\"</T>\n　- At the start of your phase, HP recovers by 30% of its max.\n\n　?Use <LINK=4>terrain effects</LINK>.\n\n　?Use parts like the <LINK=5>Repair Kit</LINK>.\n",
+  "slot": 1179
+ },
+ "0x01177C": {
+  "en": "<W=24>Q</W><W=32>5</W>. Restoring EN and ammo?",
+  "slot": 77
+ },
+ "0x0117CA": {
+  "en": "A. Use supply, special abilities, terrain effects, parts, etc.",
+  "slot": 87
+ },
+ "0x011822": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>There are the following methods.</C></H></W>\\n\\n ?Use natural EN recovery. Every unit recovers 5 EN at the start of\\n  your phase.\\n\\n ?Use the individual command \"<LINK=0>Supply</LINK>\".\\n\\n ?Use the <LINK=1>spirit command</LINK> \"Resupply\".\\n\\n ?Load onto a battleship. While aboard, HP and EN recover 15% and ammo fully\\n  restores at the start of your phase. The loaded unit's <LINK=2>Will</LINK> drops by 5. However,\\n  loading will not lower Will below 100.\\n\\n ?Use the <LINK=3>special ability</LINK> \"EN Regen\".\\n\\n <T=30>\"EN Regen (S)\"</T>\\n - At the start of your phase, EN recovers by 10% of its max.\\n\\n <T=30>\"EN Regen (M)\"</T>\\n - At the start of your phase, EN recovers by 20% of its max.\\n\\n <T=30>\"EN Regen (L)\"</T>\\n - At the start of your phase, EN recovers by 30% of its max.\\n\\n ?Use <LINK=4>terrain effects</LINK>.\\n\\n ?Use parts like the <LINK=5>Propellant Tank</LINK>.\\n\\n",
+  "slot": 1327
+ },
+ "0x011D81": {
+  "en": "About Spirit Commands",
+  "slot": 30
+ },
+ "0x011DA0": {
+  "en": "A Q&A about spirit commands.",
+  "slot": 51
+ },
+ "0x011DD8": {
+  "en": "<W=24>Q</W><W=32>1</W>. What are spirit commands?",
+  "slot": 68
+ },
+ "0x011E1D": {
+  "en": "A. Pilot abilities that grant a variety of effects.",
+  "slot": 90
+ },
+ "0x011E78": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Pilot abilities that grant a variety of effects.</C></H></W>\n\n　?Spirit commands are used from the individual command \"Spirit\". By spending <LINK=0>SP</LINK> (Spirit\n　　Points), you gain effects such as raising hit/evade rates, restoring HP/EN, boosting\n　　damage dealt in battle, reducing damage taken, raising movement, raising Will,\n　　and more.\n\n　?A pilot holds up to 5 out of 42 types, learning each spirit command upon reaching a\n　　set level. Even the same spirit command differs in learn level and SP cost\n　　from pilot to pilot.\n",
+  "slot": 832
+ },
+ "0x0121C4": {
+  "en": "<W=24>Q</W><W=32>2</W>. Twin Spirit Commands?",
+  "slot": 77
+ },
+ "0x012212": {
+  "en": "A. Spirit commands usable only while in a twin unit.",
+  "slot": 90
+ },
+ "0x01226D": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Spirit commands usable only while in a twin unit.</C></H></W>\n\n　?When a unit is a <LINK=0>twin unit</LINK> made of 2 machines, only the main pilot can\n　　use these spirit commands. Twin spirit commands are used from the individual command\n　　\"Spirit\". They are shown with the <W=32><H=32><I=97></H></W> icon.\n\n　?Even a command that only affects your own unit when used as a normal spirit will\n　　affect both machines in your squad when used as a twin spirit.\n\n　?Like spirit commands, using them requires <LINK=1>SP</LINK> (Spirit Points), but a twin\n　　spirit command uses the SP of both main pilots in the twin unit.\n　　A pilot holds 1 out of 42 types. Even the same spirit command\n　　differs in SP cost from pilot to pilot.\n",
+  "slot": 1167
+ },
+ "0x012710": {
+  "en": "<W=24>Q</W><W=32>3</W>. What is SP?",
+  "slot": 56
+ },
+ "0x012749": {
+  "en": "A. Spending it lets you use spirit and twin spirit commands.",
+  "slot": 102
+ },
+ "0x0127B0": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Spending it lets you use spirit and twin spirit commands.</C></H></W>\n\n　?By spending SP (Spirit Points), you can use <LINK=0>spirit commands</LINK> and <LINK=1>twin spirit commands</LINK>.\n\n　?When using a twin spirit command, it spends the SP of both main pilots in the\n　　<LINK=2>twin unit</LINK>.\n\n",
+  "slot": 503
+ },
+ "0x0129C2": {
+  "en": "<W=24>Q</W><W=32>4</W>. Increasing move range?",
+  "slot": 83
+ },
+ "0x012A16": {
+  "en": "A. Use the spirit commands \"Accel\", \"Assault\", and \"Love\".",
+  "slot": 78
+ },
+ "0x012A65": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Use the spirit commands \"Accel\", \"Assault\", and \"Love\".</C></H></W>\\n\\n <T=30>\"Accel\"</T>\\n - One time, movement is increased by +3.\\n\\n <T=30>\"Assault\"</T>\\n - Grants the effects of \"Accel\", \"Charge\", and \"Direct Hit\" at once.\\n\\n <T=30>\"Love\"</T>\\n - Grants the effects of \"Accel\", \"Valor\", \"Flash\", \"Strike\", \"Spirit\", \"Effort\", and\\n  \"Luck\" at once.\\n",
+  "slot": 497
+ },
+ "0x012C5B": {
+  "en": "<W=24>Q</W><W=32>5</W>. Dealing more damage?",
+  "slot": 77
+ },
+ "0x012CA9": {
+  "en": "A. Use the spirit commands \"Valor\", \"Soul\", \"Fury\", and \"Love\".",
+  "slot": 87
+ },
+ "0x012D01": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Use the spirit commands \"Valor\", \"Soul\", \"Fury\", and \"Love\".</C></H></W>\\n\\n <T=30>\"Valor\"</T>\\n - One time, damage dealt in battle is doubled.\\n\\n <T=30>\"Soul\"</T>\\n - One time, damage dealt in battle is multiplied by 2.5. Cannot be used\\n  together with \"Valor\".\\n\\n <T=30>\"Fury\"</T>\\n - For 1 turn, attacks always land as critical hits.\\n\\n <T=30>\"Love\"</T>\\n - Grants the effects of \"Accel\", \"Valor\", \"Flash\", \"Strike\", \"Spirit\", \"Effort\", and\\n  \"Luck\" at once.\\n",
+  "slot": 676
+ },
+ "0x012FAA": {
+  "en": "<W=24>Q</W><W=32>6</W>. Taking less damage?",
+  "slot": 80
+ },
+ "0x012FFB": {
+  "en": "A. Use the spirit commands \"Iron Wall\", \"Faith\", and \"Guard\".",
+  "slot": 81
+ },
+ "0x01304D": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Use the spirit commands \"Iron Wall\", \"Faith\", and \"Guard\".</C></H></W>\n\n　<T=30>\"Iron Wall\"</T>\n　- For 1 turn, damage taken in battle is cut to 1/4.\n\n　<T=30>\"Faith\"</T>\n　- For 1 turn, status ailments from battle are nullified and damage is cut to\n　　1/4.\n\n　<T=30>\"Guard\"</T>\n　- One time, all damage taken in battle is reduced to 10.\n",
+  "slot": 500
+ },
+ "0x013246": {
+  "en": "A. Use the spirit commands \"Focus\", \"Strike\", \"Empathy\", \"Intuition\", and \"Love\".",
+  "slot": 102
+ },
+ "0x0132AD": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Use the following spirit commands.</C></H></W>\\n\\n <T=30>\"Focus\"</T>\\n - For 1 turn, hit and evade rates rise by 30%.\\n\\n <T=30>\"Strike\"</T>\\n - For 1 turn, attack hit rate becomes 100% (if the target used\\n  \"Flash\", \"Flash\" takes priority).\\n\\n <T=30>\"Empathy\"</T>\\n - Grants the effect of \"Strike\" to a designated unit.\\n\\n <T=30>\"Intuition\"</T>\\n - Grants the effects of \"Flash\" and \"Strike\" at once.\\n\\n <T=30>\"Love\"</T>\\n - Grants the effects of \"Accel\", \"Valor\", \"Flash\", \"Strike\", \"Spirit\", \"Effort\", and\\n  \"Luck\" at once.\\n",
+  "slot": 806
+ },
+ "0x0135D8": {
+  "en": "A. Uses the spirit commands \"Focus,\" \"Flash,\" \"Intuition,\" \"Disrupt,\" and \"Love.\"",
+  "slot": 111
+ },
+ "0x013648": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Uses the following spirit commands.</C></H></W>\n\n　<T=30>\"Focus\"</T>\n　- For 1 turn, hit and evade rates rise by 30%.\n\n　<T=30>\"Flash\"</T>\n　- Fully evades one enemy attack in battle, one time.\n\n　<T=30>\"Intuition\"</T>\n　- Grants the effects of \"Flash\" and \"Strike\" at once.\n\n　<T=30>\"Disrupt\"</T>\n　- For 1 turn, all enemy hit rates are halved. \"Strike\" still takes priority, though.\n\n　<T=30>\"Love\"</T>\n　- Grants \"Accel,\" \"Valor,\" \"Flash,\" \"Strike,\" \"Spirit,\" \"Effort,\" and \"Luck\" at once.\n",
+  "slot": 748
+ },
+ "0x013939": {
+  "en": "<W=24>Q</W><W=32>9</W>. Raising Will?",
+  "slot": 62
+ },
+ "0x013978": {
+  "en": "A. Uses the spirit commands \"Spirit,\" \"Drive,\" \"Cheer,\" \"Rouse,\" and \"Love.\"",
+  "slot": 105
+ },
+ "0x0139E2": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Uses the following spirit commands.</C></H></W>\n\n　<T=30>\"Spirit\"</T>\n　- Raises your own Will by 10.\n\n　<T=30>\"Drive\"</T>\n　- Raises your own Will by 30.\n\n　<T=30>\"Cheer\"</T>\n　- Raises the target unit's Will by 10.\n\n　<T=30>\"Rouse\"</T>\n　- Raises all allied pilots' Will by 5.\n\n　<T=30>\"Love\"</T>\n　- Grants \"Accel,\" \"Valor,\" \"Flash,\" \"Strike,\" \"Spirit,\" \"Effort,\" and \"Luck\" at once.\n",
+  "slot": 610
+ },
+ "0x013C49": {
+  "en": "<W=24>Q</W><W=16>10</W>. Lowering enemy Will?",
+  "slot": 71
+ },
+ "0x013C91": {
+  "en": "A. Uses the spirit command \"Fatigue.\"",
+  "slot": 57
+ },
+ "0x013CCB": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Uses the spirit command \"Fatigue.\"</C></H></W>\n\n　<T=30>\"Fatigue\"</T>\n　- Lowers the target unit's Will by 10.\n",
+  "slot": 179
+ },
+ "0x013D83": {
+  "en": "<W=24>Q</W><W=16>11</W>. Restoring HP?",
+  "slot": 71
+ },
+ "0x013DCB": {
+  "en": "A. Uses the spirit commands \"Guts,\" \"Gutsy,\" \"Trust,\" \"Friendship,\" and \"Bonds.\"",
+  "slot": 105
+ },
+ "0x013E35": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Uses the following spirit commands.</C></H></W>\n\n　<T=30>\"Guts\"</T>\n　- Restores 30% of your own max HP.\n\n　<T=30>\"Gutsy\"</T>\n　- Restores your own HP to max.\n\n　<T=30>\"Trust\"</T>\n　- Restores 2000 HP to the target unit.\n\n　<T=30>\"Friendship\"</T>\n　- Fully restores the target unit's HP.\n\n　<T=30>\"Bonds\"</T>\n　- Restores 50% of max HP to all allied units.\n",
+  "slot": 576
+ },
+ "0x01407A": {
+  "en": "<W=24>Q</W><W=16>12</W>. Restoring EN and ammo?",
+  "slot": 80
+ },
+ "0x0140CB": {
+  "en": "A. Uses the spirit command \"Resupply.\"",
+  "slot": 57
+ },
+ "0x014105": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Uses the spirit command \"Resupply.\"</C></H></W>\n\n　<T=30>\"Resupply\"</T>\n　- Restores the target unit's EN and ammo to max.\n",
+  "slot": 206
+ },
+ "0x0141D8": {
+  "en": "<W=24>Q</W><W=16>13</W>. Earning more funds?",
+  "slot": 74
+ },
+ "0x014223": {
+  "en": "A. Uses the spirit commands \"Luck,\" \"Bless,\" and \"Love.\"",
+  "slot": 78
+ },
+ "0x014272": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Uses the spirit commands \"Luck,\" \"Bless,\" and \"Love.\"</C></H></W>\n\n　<T=30>\"Luck\"</T>\n　- Doubles the funds earned in the next battle.\n\n　<T=30>\"Bless\"</T>\n　- Grants the \"Luck\" effect to the target unit.\n\n　<T=30>\"Love\"</T>\n　- Grants \"Accel,\" \"Valor,\" \"Flash,\" \"Strike,\" \"Spirit,\" \"Effort,\" and \"Luck\" at once.\n",
+  "slot": 500
+ },
+ "0x01446B": {
+  "en": "<W=24>Q</W><W=16>14</W>. Earning more EXP?",
+  "slot": 77
+ },
+ "0x0144B9": {
+  "en": "A. Uses the spirit commands \"Effort,\" \"Support,\" and \"Love.\"",
+  "slot": 78
+ },
+ "0x014508": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Uses the spirit commands \"Effort,\" \"Support,\" and \"Love.\"</C></H></W>\n\n　<T=30>\"Effort\"</T>\n　- Doubles the EXP earned in the next battle.\n\n　<T=30>\"Support\"</T>\n　- Grants the \"Effort\" effect to the target unit.\n\n　<T=30>\"Love\"</T>\n　- Grants \"Accel,\" \"Valor,\" \"Flash,\" \"Strike,\" \"Spirit,\" \"Effort,\" and \"Luck\" at once.\n",
+  "slot": 503
+ },
+ "0x014704": {
+  "en": "<W=24>Q</W><W=16>15</W>. Any others that help?",
+  "slot": 80
+ },
+ "0x014755": {
+  "en": "A. There are \"Scan,\" \"Snipe,\" \"Assault,\" \"Sync,\" \"Train,\" \"Direct Hit,\" \"Chain Attack,\" \"Awaken,\" \"Reboot,\" \"Prayer,\" \"Mercy,\"\n　　\"Hope,\" and more.",
+  "slot": 205
+ },
+ "0x014823": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>There are the following spirit commands.</C></H></W>\n\n　<T=30>\"Scan\"</T>\n　- Lets you check the status of a target enemy unit.\n\n　<T=30>\"Snipe\"</T>\n　- Adds +2 range to all weapons except range-1 and MAP weapons, one time.\n\n　<T=30>\"Assault\"</T>\n　- For 1 turn, all weapons except MAP weapons can be used after moving.\n\n　<T=30>\"Sync\"</T>\n　- Matches a twin unit's pilot stats (Melee, Ranged, Evade, Hit, Skill, Defense)\n　　to the higher of the two main pilots' values.\n\n　<T=30>\"Train\"</T>\n　- Doubles the pilot points earned in the next battle.\n\n　<T=30>\"Direct Hit\"</T>\n　- Ignores enemy support defense and special defense abilities, one time.\n\n　<T=30>\"Chain Attack\"</T>\n　- If the enemy unit attacked in the next battle is wiped out, you can act again without ending your turn.\n\n　<T=30>\"Awaken\"</T>\n　- Grants one extra action.\n\n　<T=30>\"Reboot\"</T>\n　- Lets a unit that has already acted act again.\n\n　<T=30>\"Prayer\"</T>\n　- Cures the target unit's status ailments.\n\n　<T=30>\"Mercy\"</T>\n　- Leaves an enemy unit at 10 HP instead of destroying it in the next battle. Fails unless\n　　your skill exceeds the enemy's, though.\n\n　<T=30>\"Hope\"</T>\n　- Restores 50 SP to the target pilot.\n",
+  "slot": 1683
+ },
+ "0x014EBB": {
+  "en": "About Funds and EXP",
+  "slot": 30
+ },
+ "0x014EDA": {
+  "en": "Q&A about what you can gain in battle.",
+  "slot": 63
+ },
+ "0x014F1E": {
+  "en": "<W=24>Q</W><W=32>1</W>. What are funds?",
+  "slot": 56
+ },
+ "0x014F57": {
+  "en": "A. The money needed to upgrade units and weapons.",
+  "slot": 57
+ },
+ "0x014F91": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>The money needed to upgrade units and weapons.</C></H></W>\n\n　- Gained by shooting down enemy units or selling parts. If your own unit\n　　is shot down, you must pay funds as a repair cost. Funds are spent when you\n　　strengthen units or weapons via the intermission's \"<LINK=0>Unit/Weapon Upgrade</LINK>\" command.\n",
+  "slot": 461
+ },
+ "0x01516B": {
+  "en": "<W=24>Q</W><W=32>2</W>. What is EXP?",
+  "slot": 59
+ },
+ "0x0151A7": {
+  "en": "A. A value that shows a pilot's growth level.",
+  "slot": 57
+ },
+ "0x0151E1": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>A value showing a pilot's degree of growth.</C></H></W>\n\n　?As EXP increases, the pilot's level rises. When a pilot's level goes up, their\n　　stats increase, they learn new <LINK=0>Spirit Commands</LINK>, and the skill levels of\n　?their <LINK=1>Special Skills</LINK> rise.\n\n　?When you damage an enemy unit in combat, EXP is added based on the enemy's\n　　level. You can also gain EXP by using the individual commands \"Repair\" and\n　　\"Resupply.\"\n\n　<S=8><Y=-3><W=32><H=32><I=156></H></W></Y><S=3>EXP gained from attacking with a MAP weapon is 1/3 of what you would\n　　　otherwise get.\n",
+  "slot": 857
+ },
+ "0x01554D": {
+  "en": "<W=24>Q</W><W=32>3</W>. What is PP?",
+  "slot": 56
+ },
+ "0x015586": {
+  "en": "A. The funds needed to train pilots.",
+  "slot": 57
+ },
+ "0x0155C0": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>The funds needed to train pilots.</C></H></W>\n\n　?Earned by shooting down enemy units. Spent when raising <LINK=1>stats</LINK> or learning\n　　<LINK=2>skills</LINK> via the intermission's \"<LINK=0>Pilot Training</LINK>\" command.\n\n　<S=8><Y=-3><W=32><H=32><I=156></H></W></Y><S=3>PP gained from attacking with a MAP weapon is 1/2 of what you would\n　　　otherwise get.\n",
+  "slot": 528
+ },
+ "0x0157ED": {
+  "en": "<W=24>Q</W><W=32>4</W>. Earning more funds?",
+  "slot": 71
+ },
+ "0x015835": {
+  "en": "A. Use the Spirit Command \"Luck,\" the Special Skill \"Chance,\" ace pilots, difficulty, and so on.",
+  "slot": 132
+ },
+ "0x0158BA": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>There are the following methods.</C></H></W>\n\n　?Use <LINK=0>Spirit Commands</LINK> like \"Luck.\"\n\n　?Use the <LINK=1>Special Skill</LINK> \"Chance.\"\n\n　?Use ace pilots. A pilot who has shot down 50 or more enemies becomes an ace.\n　　When they do, their <LINK=2>Will</LINK> at sortie gets +5, and <LINK=3>funds</LINK> earned on a kill\n　　are multiplied by 1.2.\n\n　?Use <LINK=4>difficulty</LINK>. If <LINK=5>SR Points</LINK> earned are under 80%, difficulty becomes\n　　\"NORMAL\"; at 80% or more it becomes \"HARD.\" Compared to HARD, NORMAL gives\n　　1.2 times the funds.\n",
+  "slot": 883
+ },
+ "0x015C5E": {
+  "en": "<W=24>Q</W><W=32>5</W>. Earning more EXP?",
+  "slot": 74
+ },
+ "0x015CA9": {
+  "en": "A. Use the Spirit Command \"Effort,\" the Special Skill \"EXP Up,\" and so on.",
+  "slot": 105
+ },
+ "0x015D13": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>There are the following methods.</C></H></W>\n\n　?Use <LINK=0>Spirit Commands</LINK> like \"Effort.\"\n\n　?Use the <LINK=1>Special Skill</LINK> \"EXP Up.\"\n\n　<S=8><Y=-3><W=32><H=32><I=155></H></W></Y><S=3>The higher the level of the target pilot, the more <LINK=2>EXP</LINK> you gain.\n",
+  "slot": 411
+ },
+ "0x015EC8": {
+  "en": "Battling Tough Enemies",
+  "slot": 30
+ },
+ "0x015EE7": {
+  "en": "A Q&A on how to defeat tough enemies.",
+  "slot": 60
+ },
+ "0x015F28": {
+  "en": "<W=24>Q</W><W=32>1</W>. Fighting tough enemies?",
+  "slot": 77
+ },
+ "0x015F76": {
+  "en": "A. Use forces you've kept in reserve to defeat them quickly.",
+  "slot": 69
+ },
+ "0x015FBC": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Watch for the following points.</C></H></W>\n\n　?Keep the forces and <LINK=0>Spirit Commands</LINK> you'll need in reserve.\n\n　?Raise <LINK=1>Will</LINK> to the level your attack weapon requires. If you can't raise it\n　　with <LINK=0>Spirit Commands</LINK> or <LINK=2>Special Skills</LINK>, defeat weak enemies to build it up.\n\n　?If the enemy has a barrier-type <LINK=3>ability</LINK>, <LINK=4>negate the barrier</LINK>.\n\n　?Attack with weapons that have <LINK=5>Special Effect 1</LINK> like \"Armor Down L (R-type)\" to\n　　weaken the enemy unit and pilot.\n\n　?Practice ways to <LINK=6>increase damage dealt</LINK>, <LINK=7>reduce damage taken</LINK>, <LINK=8>raise accuracy</LINK>,\n　?and <LINK=9>raise evasion</LINK>.\n\n　?Since tough enemies give high <LINK=10>funds</LINK> and <LINK=11>EXP</LINK> when defeated, use <LINK=12>Spirit Commands</LINK>\n　　and <LINK=13>Special Skills</LINK> to defeat them.\n\n　<S=8><Y=-3><W=32><H=32><I=155></H></W></Y><S=3>Units with the <LINK=14>ability</LINK> \"HP Regen\" recover 10-30% of max HP at the start\n　　　of the enemy phase. An enemy with 100,000 max HP recovers 10,000-30,000,\n　　　so you must focus your attacks into as few turns as possible.\n",
+  "slot": 1642
+ },
+ "0x016698": {
+  "en": "<W=24>Q</W><W=32>2</W>. Enemy barrier blocking me?",
+  "slot": 89
+ },
+ "0x0166F2": {
+  "en": "A. Block the barrier's trigger conditions, or use the Spirit Command \"Direct Hit\" or weapons with \"Special Effect 2.\"",
+  "slot": 138
+ },
+ "0x01677D": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>To negate barrier-type abilities, there are the following methods.</C></H></W>\n\n　?If the barrier requires Will or EN to trigger, block its trigger by lowering the\n　　enemy's <LINK=0>Will</LINK> or by draining EN with a weapon that has <LINK=1>Special Effect 1</LINK>.\n\n　?Using the <LINK=2>Spirit Command</LINK> \"Direct Hit\" prevents barrier-type <LINK=3>abilities</LINK> from\n　　triggering.\n\n　?Attack with a weapon that has <LINK=4>Special Effect 2</LINK>.\n",
+  "slot": 618
+ },
+ "0x016A0F": {
+  "en": "Formation",
+  "slot": 9
+ },
+ "0x016A19": {
+  "en": "Tips on organizing your squads.",
+  "slot": 42
+ },
+ "0x016A48": {
+  "en": "About Squad Formation",
+  "slot": 24
+ },
+ "0x016A61": {
+  "en": "A Q&A about squad formation.",
+  "slot": 45
+ },
+ "0x016A93": {
+  "en": "<W=24>Q</W><W=32>1</W>. What is a Twin Unit?",
+  "slot": 71
+ },
+ "0x016ADB": {
+  "en": "A. A squad made up of two units.",
+  "slot": 60
+ },
+ "0x016B18": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>A squad made up of two units.</C></H></W>\n\n　?One squad (unit) is made up of 1 or 2 mechs. A squad of 2 is called a Twin\n　　Unit; a squad of 1 is called a Single Unit.\n\n　?In the intermission, you can switch between Twin and Single Units by arranging\n　　mechs via the \"Squad Formation\" command.\n\n　?On the map, use the individual command \"Merge\" to form a Twin Unit and \"Split\"\n　　to make Single Units. To merge, the squads must be adjacent within 8 tiles.\n\n　?Battleships cannot be made into Twin Units.\n\n　?The benefits of a Twin Unit are as follows:\n　・Both mechs gain the combined <LINK=0>ability</LINK> effects of the two mechs' equipped\n　　abilities.\n　・You can use <LINK=1>Twin Spirit Commands</LINK>.\n　・The total <LINK=2>EXP</LINK> and <LINK=3>PP</LINK> earned in combat increases.\n　・Since both mechs attack, you can deal more damage to an enemy in one battle.\n\n　?If you split a Twin Unit on the map, the effect of that unit's <LINK=1>Twin Spirit\n　?Commands</LINK> is lost. Also, squad-wide <LINK=4>Spirit Commands</LINK> like \"Accel\" carry over\n　?only to the mech of the pilot who used the command.\n",
+  "slot": 1873
+ },
+ "0x017291": {
+  "en": "<W=24>Q</W><W=32>2</W>. Formation by move type?",
+  "slot": 80
+ },
+ "0x0172E2": {
+  "en": "A. Form squads from mechs with similar movement types.",
+  "slot": 78
+ },
+ "0x017331": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Form squads from mechs with similar movement types.</C></H></W>\n\n　?For a Twin Unit, the <LINK=0>movement type</LINK> is determined by the two mechs. For each\n　　type - \"Air,\" \"Land,\" \"Water,\" \"Underground\" - it shows in normal color if both\n　　mechs have it, and gray if only one does. Normal color means lower cost to\n　　enter that terrain than gray, so consider both mechs' types when forming a unit.\n\n　<S=8><Y=-3><W=32><H=32><C=00C0FFFF><I=157></C></H></W></Y><S=3>If a mech with type [Air Land<C=808080FF>--</C>] and one with [<C=808080FF>-</C>Land<C=808080FF>-</C>Und] form a Twin\n　　　Unit, the unit's type becomes [<C=808080FF>Air</C>Land<C=808080FF>-Und</C>].\n\n　<S=8><Y=-3><W=32><H=32><I=156></H></W></Y><S=3>When \"<C=808080FF>Air</C>,\" it can no longer move into the air.\n",
+  "slot": 1187
+ },
+ "0x0177D9": {
+  "en": "<W=24>Q</W><W=32>3</W>. Formation by Spirit Cmds?",
+  "slot": 83
+ },
+ "0x01782D": {
+  "en": "A. Distribute Spirit Commands useful to a squad across each of your squads.",
+  "slot": 90
+ },
+ "0x017888": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Distributes spirit commands that affect your own units across your squads.</C></H></W>\n\n　?When used, <LINK=0>spirit commands</LINK> that affect your own units are spread across\n　　as many squads as possible, avoiding duplicates on the same squad. Below are the\n　　representative spirit commands.\n\n　<T=30>'Accel'</T>\n　・Movement is increased by +3, one time only.\n\n　<T=30>'Awaken'</T>\n　・Grants one extra action.\n\n　<T=30>'Luck'</T>\n　・Doubles the money earned in the next battle.\n\n　<T=30>'Gain'</T>\n　・Doubles the EXP earned in the next battle.\n\n",
+  "slot": 757
+ },
+ "0x017B82": {
+  "en": "<W=24>Q</W><W=32>4</W>. Squad setup by abilities?",
+  "slot": 80
+ },
+ "0x017BD3": {
+  "en": "A. Build squads so three of the same ability are present.",
+  "slot": 90
+ },
+ "0x017C2E": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Build squads so three of the same ability are present.</C></H></W>\n\n　?For twin units, the 12 slots of the two units and their two main pilots\n　　are counted, and you can gain the <LINK=0>ability effect</LINK> on both units.\n",
+  "slot": 395
+ },
+ "0x017DC5": {
+  "en": "<W=24>Q</W><W=32>5</W>. Squad setup by weapons?",
+  "slot": 71
+ },
+ "0x017E0D": {
+  "en": "A. Form squads from units with similar equipped weapons.",
+  "slot": 87
+ },
+ "0x017E65": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Form squads from units with similar equipped weapons.</C></H></W>\n\n　?To avoid cases where the sub unit cannot attack due to insufficient range,\n　　you must build squads so both units can attack at the same time, considering\n　　each weapon's max range, whether it can fire after moving, and whether it has\n　　all-target attacks.\n\n　<S=8><Y=-3><W=32><H=32><I=155></H></W></Y><S=3>Units that can swap weapons can adjust their arsenal by equipping\n　　　<LINK=0>swap weapons</LINK>.\n",
+  "slot": 743
+ },
+ "0x018159": {
+  "en": "<W=24>Q</W><W=32>6</W>. Squad setup by pilots?",
+  "slot": 80
+ },
+ "0x0181AA": {
+  "en": "A. Build squads considering the story's personal relationships.",
+  "slot": 75
+ },
+ "0x0181F6": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Build squads considering the story's personal relationships.</C></H></W>\n\n　?When pilots with a special relationship in the story are near each other on\n　　the map, it may have a good effect in battle.\n\n　?For pilots on the same team or close friends bound by friendship and trust,\n　　it affects <LINK=0>hit rate</LINK> and <LINK=1>evasion rate</LINK> in battle.\n\n　?When there are romantic feelings, it affects the damage dealt in battle.\n\n　?For rivals who acknowledge each other, it affects the critical hit rate\n　　in battle.\n",
+  "slot": 759
+ },
+ "0x018500": {
+  "en": "About Reassigning Pilots",
+  "slot": 24
+ },
+ "0x018519": {
+  "en": "Q&A about reassigning pilots to units.",
+  "slot": 63
+ },
+ "0x01855D": {
+  "en": "<W=24>Q</W><W=32>1</W>. What is reassigning?",
+  "slot": 62
+ },
+ "0x01859C": {
+  "en": "A. Changing the unit a pilot is riding in.",
+  "slot": 72
+ },
+ "0x0185E5": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Changing the unit a pilot is riding in.</C></H></W>\n\n　?Pilots have relatively good compatibility with their starting unit, so there is\n　　little need to reassign them, but when you obtain a new unit, or when a certain\n　　pilot's defeat is a loss condition, reassigning to a unit with high armor and\n　　such can make the game easier to progress. Reassigning is done with the\n　　\"Reassign\" command in the Intermission.\n\n　<S=8><Y=-3><W=32><H=32><I=156></H></W></Y><S=3>Some pilots cannot be reassigned, and some units limit which pilots\n　　　can board them.\n",
+  "slot": 840
+ },
+ "0x018932": {
+  "en": "<W=24>Q</W><W=32>2</W>. Tips for reassigning?",
+  "slot": 56
+ },
+ "0x01896B": {
+  "en": "A. Cover weaknesses and enhance strengths.",
+  "slot": 63
+ },
+ "0x0189AB": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Cover weaknesses and enhance strengths. Below are examples.</C></H></W>\n\n　<S=8><Y=-3><W=32><H=32><C=00C0FFFF><I=157></C></H></W></Y><S=3>Put pilots with high melee skill into units with strong melee weapons,\n　　　and pilots with high ranged skill into units with strong ranged weapons.\n\n　<S=8><Y=-3><W=32><H=32><C=00C0FFFF><I=157></C></H></W></Y><S=3>Put pilots with the <LINK=0>spirit command</LINK> 'Strike' into units with low aim.\n\n　<S=8><Y=-3><W=32><H=32><C=00C0FFFF><I=157></C></H></W></Y><S=3>Put pilots with the <LINK=1>special skill</LINK> 'Continuous Attack' into units with\n　　　weapons capable of combination attacks.\n\n　<S=8><Y=-3><W=32><H=32><I=155></H></W></Y><S=3>Battle demo lines may change depending on the unit a pilot boards.\n　　　Some lines can only be heard with specific combinations.\n",
+  "slot": 1058
+ },
+ "0x018DD2": {
+  "en": "About Unit Swapping",
+  "slot": 24
+ },
+ "0x018DEB": {
+  "en": "Q&A about unit swap parts.",
+  "slot": 57
+ },
+ "0x018E29": {
+  "en": "<W=24>Q</W><W=32>1</W>. What is unit swapping?",
+  "slot": 62
+ },
+ "0x018E68": {
+  "en": "A. Attaching and removing unit-specific optional parts.",
+  "slot": 84
+ },
+ "0x018EBD": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Attaching and removing unit-specific optional parts.</C></H></W>\n\n　?Some units have dedicated swap parts. By equipping or changing swap parts,\n　　you can alter stats like mobility and armor. In many cases, equipping swap\n　　parts adds strong weapons and other benefits. Unit swapping is done with the\n　　\"Swap Parts\" command in the Intermission.\n",
+  "slot": 558
+ },
+ "0x0190F0": {
+  "en": "About Weapon Swapping",
+  "slot": 24
+ },
+ "0x019109": {
+  "en": "Q&A about unit weapon swapping.",
+  "slot": 54
+ },
+ "0x019144": {
+  "en": "<W=24>Q</W><W=32>1</W>. What is weapon swapping?",
+  "slot": 62
+ },
+ "0x019183": {
+  "en": "A. Changing a unit's weapons.",
+  "slot": 54
+ },
+ "0x0191BA": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Changing a unit's weapons.</C></H></W>\n\n　?Weapons include fixed weapons dedicated to the unit, and swap weapons that\n　　can be freely equipped or removed and used across units. Swap weapons have a\n　　weapon gauge showing the amount needed to equip them, and a unit can freely\n　　change weapons within its equippable weapon gauge limit. Weapon swapping is\n　　done with the \"Weapon Swap\" command in the Intermission.\n\n　<S=8><Y=-3><W=32><H=32><I=156></H></W></Y><S=3>Some units cannot perform weapon swapping.\n",
+  "slot": 740
+ },
+ "0x0194A3": {
+  "en": "<W=24>Q</W><W=32>2</W>. Weapon swapping tips?",
+  "slot": 56
+ },
+ "0x0194DC": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Cover weaknesses and enhance strengths. Below are examples.</C></H></W>\n\n　<S=8><Y=-3><W=32><H=32><C=00C0FFFF><I=157></C></H></W></Y><S=3>Give units with melee fixed weapons melee-type swap weapons, and ranged\n　　　units ranged-type swap weapons.\n\n　<S=8><Y=-3><W=32><H=32><C=00C0FFFF><I=157></C></H></W></Y><S=3>Give support units repair or supply devices. Using <LINK=0>repair</LINK> or <LINK=1>supply</LINK>\n　　　lets even combat-unfit units earn EXP.\n\n　<S=8><Y=-3><W=32><H=32><C=00C0FFFF><I=157></C></H></W></Y><S=3>For units with heavy EN use, like those with many EN-based fixed weapons,\n　　　give ammo-based swap weapons; in the reverse case give EN-based weapons.\n\n　<S=8><Y=-3><W=32><H=32><C=00C0FFFF><I=157></C></H></W></Y><S=3>Give units with only short-range fixed weapons long-range swap weapons;\n　　　in the reverse case give close-combat weapons.\n",
+  "slot": 1147
+ },
+ "0x01996A": {
+  "en": "Upgrades",
+  "slot": 9
+ },
+ "0x019974": {
+  "en": "Tips on strengthening pilots and units.",
+  "slot": 60
+ },
+ "0x0199B5": {
+  "en": "About Pilot Training",
+  "slot": 33
+ },
+ "0x0199D7": {
+  "en": "Q&A about pilot training.",
+  "slot": 54
+ },
+ "0x019A12": {
+  "en": "<W=24>Q</W><W=32>1</W>. What is pilot training?",
+  "slot": 71
+ },
+ "0x019A5A": {
+  "en": "A. Raising pilot stats and learning special skills.",
+  "slot": 87
+ },
+ "0x019AB2": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Raising pilot stats and learning special skills.</C></H></W>\n\n  -By spending <LINK=0>PP</LINK> (Pilot Points) earned in battle, you can raise a pilot's\n    stats or have them learn available <LINK=1>special skills</LINK>. Pilot\n    training is done via the \"Pilot Training\" command in the Intermission.\n\n  -A pilot can learn up to 6 slots of special skills. Even a slot that already\n    holds a special skill can be overwritten to swap skills when you decide it is\n    no longer needed. However, skills that would have no effect cannot be learned.\n\n  -Some special skills can be learned, while others are innate to certain pilots\n    and cannot be learned. Skills that cannot be learned cannot be overwritten by\n    other special skills.\n",
+  "slot": 1114
+ },
+ "0x019F1F": {
+  "en": "<W=24>Q</W><W=32>2</W>. Tips for raising stats?",
+  "slot": 56
+ },
+ "0x019F58": {
+  "en": "A. Play to a pilot's strengths.",
+  "slot": 45
+ },
+ "0x019F86": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Play to a pilot's strengths.</C></H></W>\\n\\n  <T=30>'Melee'</T>\\n  -Raise to increase the damage of melee weapons.\\n\\n  <T=30>'Ranged'</T>\\n  -Raise to increase the damage of ranged weapons.\\n\\n  <T=30>'Skill'</T>\\n  -Raise to meet conditions for critical rate, the \"Counter\" skill rate, the\\n    \"Re-attack\" skill, the \"Mercy\" spirit command, and so on.\\n\\n  <T=30>'Defense'</T>\\n  -Raise to reduce damage taken.\\n\\n  <T=30>'Evade'</T>\\n  -Raise to increase evasion rate.\\n\\n  <T=30>'Hit'</T>\\n  -Raise to increase accuracy rate.\\n\\n  <T=30>'Terrain'</T>\\n  -The combination of pilot and unit terrain ratings sets the overall terrain\\n    rating, which affects evasion and damage taken in battle. Raise it when a\\n    pilot lowers the rating of terrain the unit is good at.\\n\\n              <T=30><C=FF8000FF>Pilot</C></T>\\n          <C=0080FFFF>S  A  B  C  D</C>\\n        <C=0080FFFF>S</C>  S  S  A  B  B\\n       <T=30><C=FF8000FF>U</C></T><C=0080FFFF>A</C>  S  A  B  B  C\\n        <C=0080FFFF>B</C>  A  B  B  C  C\\n       <T=30><C=FF8000FF>n</C></T><C=0080FFFF>C</C>  B  B  C  C  D\\n        <C=0080FFFF>D</C>  B  C  C  D  D\\n\\n  <S=8><Y=-3><W=32><H=32><I=156></H></W></Y><S=3>A one-rank change in terrain rating can shift evasion and damage\\n     taken by roughly 10 percent.\\n",
+  "slot": 1899
+ },
+ "0x01A6F6": {
+  "en": "<W=24>Q</W><W=32>3</W>. Tips for learning skills?",
+  "slot": 59
+ },
+ "0x01A732": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Use the Q&A below to play to your strengths.</C></H></W>\n\n  -<LINK=0>How to increase damage to enemies?</LINK>\n\n  -<LINK=1>How to reduce damage from enemies?</LINK>\n\n  -<LINK=2>How to raise accuracy rate?</LINK>\n\n  -<LINK=3>How to raise evasion rate?</LINK>\n\n  -<LINK=4>How to raise Will?</LINK>\n\n  -<LINK=5>How to gain more experience?</LINK>\n\n  -<LINK=6>Any other helpful things?</LINK>\n\n  <S=8><Y=-3><W=32><H=32><I=154></H></W></Y><S=3><LINK=7>Special skills</LINK>.\n",
+  "slot": 664
+ },
+ "0x01AA07": {
+  "en": "About Unit/Weapon Upgrades",
+  "slot": 33
+ },
+ "0x01AA29": {
+  "en": "Q&A about unit and weapon upgrades.",
+  "slot": 54
+ },
+ "0x01AA64": {
+  "en": "<W=24>Q</W><W=32>1</W>. Unit/weapon upgrades?",
+  "slot": 71
+ },
+ "0x01AAAC": {
+  "en": "A. Raising unit stats and weapon attack power.",
+  "slot": 78
+ },
+ "0x01AAFB": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Raising unit stats and weapon attack power.</C></H></W>\n\n  -By spending <LINK=0>funds</LINK> earned in battle, you can raise a unit's HP, EN,\n    armor, mobility, and accuracy, as well as weapon attack power. Swappable\n    weapons must be upgraded individually, but fixed weapons are all upgraded\n    together per unit. Unit/weapon upgrades are done via the \"Unit/Weapon\n    Upgrade\" command in the Intermission.\n",
+  "slot": 594
+ },
+ "0x01AD59": {
+  "en": "<W=24>Q</W><W=32>2</W>. Tips for upgrading units?",
+  "slot": 56
+ },
+ "0x01AD92": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Play to a unit's strengths.</C></H></W>\n\n  <T=30>'HP'</T>\n  -Best for units with high armor and low mobility. Units that can evade enemy\n    attacks well take no damage, so upgrading has little effect on them.\n\n  <T=30>'EN'</T>\n  -Best for units equipped with weapons that consume a lot of EN.\n\n  <T=30>'Armor'</T>\n  -Best for units with high armor and low mobility. Units that can evade enemy\n    attacks take no damage, so upgrading has little effect on them.\n\n  <T=30>'Mobility'</T>\n  -Best for units with high mobility and low armor. Units with enough armor or\n    HP to withstand enemy attacks do not need to evade, so upgrading has little\n    effect on them.\n\n  <T=30>'Accuracy'</T>\n  -Best for units that cannot make up accuracy with spirit commands and such.\n\n  <S=8><Y=-3><W=32><H=32><I=155></H></W></Y><S=3>Fully upgrade HP, EN, armor, mobility, and accuracy to level 10, and...\n",
+  "slot": 1292
+ },
+ "0x01B2A3": {
+  "en": "<W=24>Q</W><W=32>3</W>. Upgrading weapons tips?",
+  "slot": 56
+ },
+ "0x01B2DC": {
+  "en": "A. Upgrade fixed and swappable weapons as needed.",
+  "slot": 81
+ },
+ "0x01B32E": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Upgrade fixed and swappable weapons as needed.</C></H></W>\n\n  <T=30>'Fixed Weapons'</T>\n  -Since all of a unit's weapons are upgraded together, the cost is high, but\n    because high-power weapons are included, you can expect higher damage than\n    swappable weapons. To reliably shoot down <LINK=0>tough foes</LINK>, you must\n    upgrade the fixed weapons of your main units.\n\n  <T=30>'Swappable Weapons'</T>\n  -Their attack power is not as high as fixed weapons, so they are poor against\n    strong foes, but unlike fixed weapons they can be removed from units that\n    leave in a scenario or are no longer used and kept in use on other units,\n    wasting fewer funds.\n",
+  "slot": 874
+ },
+ "0x01B6A5": {
+  "en": "About Upgrade Parts",
+  "slot": 27
+ },
+ "0x01B6C1": {
+  "en": "Q&A about upgrade parts.",
+  "slot": 48
+ },
+ "0x01B6F6": {
+  "en": "<W=24>Q</W><W=32>1</W>. What are upgrade parts?",
+  "slot": 65
+ },
+ "0x01B738": {
+  "en": "A. Equipment that boosts a unit's abilities.",
+  "slot": 81
+ },
+ "0x01B78A": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Equipment that boosts a unit's abilities.</C></H></W>\n\n  -Each unit can equip 1 to 4 upgrade parts. Changing equipped parts is done via\n    the \"Equip Upgrade Parts\" command in the Intermission. Upgrade parts fall\n    into the following categories.\n\n  <T=30>'Unit Type'</T>\n  -When equipped, raises unit abilities like <LINK=0>movement</LINK> and mobility.\n\n  <T=30>'Weapon Type'</T>\n  -When equipped, raises weapon abilities like accuracy bonus and range.\n\n  <T=30>'Consumable Type'</T>\n  -When equipped, can be used on the map via the \"Parts\" unit command to restore\n    HP, EN, and so on. Usable only once per map. Only battleship units can use a\n    consumable upgrade part on units within 3 spaces.\n\n  <T=30>'Special Type'</T>\n  -When equipped, can raise the effects of multiple categories at once, or grant\n    effects such as raising a pilot's <LINK=1>Will</LINK> at the start of a stage.\n\n  <S=8><Y=-3><W=32><H=32><I=155></H></W></Y><S=3>Unneeded upgrade parts can be sold for <LINK=2>funds</LINK>. Selling parts is\n     done via the \"Sell Upgrade Parts\" command in the Intermission.\n",
+  "slot": 1644
+ },
+ "0x01BE0F": {
+  "en": "A. Equip the \"Booster,\" \"Mega Booster,\" or \"Apogee Motor\" upgrade parts.",
+  "slot": 120
+ },
+ "0x01BE88": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Below are typical upgrade parts that raise movement.</C></H></W>\n\n  <T=30>'Booster'</T>\n  -Raises the unit's movement by 1.\n\n  <T=30>'Mega Booster'</T>\n  -Raises the unit's movement by 2.\n\n  <T=30>'Apogee Motor'</T>\n  -Raises the unit's movement by 1 and mobility by 5.\n",
+  "slot": 430
+ },
+ "0x01C03B": {
+  "en": "<W=24>Q</W><W=32>3</W>. Changing movement type?",
+  "slot": 74
+ },
+ "0x01C086": {
+  "en": "A. Equip parts like \"Tesla Drive,\" \"Thruster Module,\" \"Dustproofing,\" or \"Screw Module.\"",
+  "slot": 165
+ },
+ "0x01C12C": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>The following are typical parts that change movement type.</C></H></W>\n\n　<T=30>'Tesla Drive'</T>\n　- Grants the \"Air\" movement type, and sets unit/weapon \"Air\" terrain rating to A.\n\n　<T=30>'Thruster Module'</T>\n　- Sets unit/weapon \"Space\" terrain rating to S.\n\n　<T=30>'Dustproofing'</T>\n　- Grants the \"Land\" movement type, and sets unit/weapon \"Land\" terrain rating to S.\n\n　<T=30>'Screw Module'</T>\n　- Grants the \"Water\" movement type, and sets unit/weapon \"Sea\" terrain rating to S.\n",
+  "slot": 707
+ },
+ "0x01C3F4": {
+  "en": "A. Equip parts like \"Chobham Armor,\" \"Hybrid Armor,\" \"Orichalconium,\" or \"Z.O. Armor.\"",
+  "slot": 171
+ },
+ "0x01C4A0": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>These parts raise armor value. The following are typical examples.</C></H></W>\n\n　<T=30>'Chobham Armor'</T>\n　- Raises max HP by 500 and armor value by 100.\n\n　<T=30>'Hybrid Armor'</T>\n　- Raises max HP by 1000 and armor value by 150.\n\n　<T=30>'Orichalconium'</T>\n　- Raises max HP by 1000 and armor value by 200.\n\n　<T=30>'Z.O. Armor'</T>\n　- Raises max HP by 1500 and armor value by 250.\n\n",
+  "slot": 696
+ },
+ "0x01C75D": {
+  "en": "A. Equip parts like \"Dual Sensor,\" \"Multi Sensor,\" \"High-Perf. Sight,\" or \"T-LINK Sensor.\"",
+  "slot": 162
+ },
+ "0x01C800": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>The following are typical parts that raise accuracy.</C></H></W>\n\n　<T=30>'Dual Sensor'</T>\n　- Raises equipped weapon accuracy by 10.\n\n　<T=30>'Multi Sensor'</T>\n　- Raises equipped weapon accuracy by 20.\n\n　<T=30>'High-Perf. Sight'</T>\n　- Raises equipped weapon accuracy by 30.\n\n　<T=30>'T-LINK Sensor'</T>\n　- Raises equipped weapon accuracy by 40.\n",
+  "slot": 563
+ },
+ "0x01CA38": {
+  "en": "A. Equip parts like \"Servo Motor,\" \"Apogee Motor,\" \"Bio Sensor,\" or \"High-Perf. Thruster.\"",
+  "slot": 156
+ },
+ "0x01CAD5": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>These parts raise mobility. The following are typical examples.</C></H></W>\n\n　<T=30>'Servo Motor'</T>\n　- Raises unit mobility by 5.\n\n　<T=30>'Apogee Motor'</T>\n　- Raises unit movement by 1 and mobility by 5.\n\n　<T=30>'Bio Sensor'</T>\n　- Raises unit mobility by 15.\n\n　<T=30>'High-Perf. Thruster'</T>\n　- Raises unit mobility by 25.\n",
+  "slot": 563
+ },
+ "0x01CD0D": {
+  "en": "A. Equip parts like \"Headband\" or \"Twisted Headband.\"",
+  "slot": 90
+ },
+ "0x01CD68": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>The following are typical parts that raise Will.</C></H></W>\n\n　<T=30>'Headband'</T>\n　- Raises the pilot's Will by 5 at sortie.\n\n　<T=30>'Twisted Headband'</T>\n　- Raises the pilot's Will by 10 at sortie.\n",
+  "slot": 345
+ },
+ "0x01CEC6": {
+  "en": "<W=24>Q</W><W=32>8</W>. Restoring HP/EN/SP?",
+  "slot": 89
+ },
+ "0x01CF20": {
+  "en": "A. Equip parts like \"Repair Kit,\" \"Propellant Tank,\" \"Cartridge,\" \"Super Repair Kit,\" \"SP Drink,\"\n　　or \"SSP Drink.\"",
+  "slot": 220
+ },
+ "0x01CFFD": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Use the individual command \"Parts.\" The following are typical examples.</C></H></W>\n\n　<T=30>'Repair Kit'</T>\n　- Fully restores unit HP. Usable once per map.\n\n　<T=30>'Propellant Tank'</T>\n　- Fully restores unit EN. Usable once per map.\n\n　<T=30>'Cartridge'</T>\n　- Fully restores equipped weapon ammo. Usable once per map.\n\n　<T=30>'Super Repair Kit'</T>\n　- Fully restores unit HP, EN, and ammo. Usable once per map.\n\n　<T=30>'SP Drink'</T>\n　- Restores 50 of the pilot's Spirit Points. Usable once per\n　　map.\n\n　<T=30>'SSP Drink'</T>\n　- Fully restores the pilot's Spirit Points. Usable once per map.\n\n",
+  "slot": 1080
+ },
+ "0x01D43A": {
+  "en": "<W=24>Q</W><W=32>9</W>. Any other useful items?",
+  "slot": 77
+ },
+ "0x01D488": {
+  "en": "A. There are parts like \"A-Adapter,\" \"Hyper Jammer,\" \"High-Perf. Radar,\" \"One-Hit Kill Know-How,\" \"Large Generator,\"\n　　\"Mega Generator,\" \"Solar Panel,\" \"Beam Coat (Part),\" \"G-Wall (Part),\" and more.",
+  "slot": 334
+ },
+ "0x01D5D7": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>The following are typical examples.</C></H></W>\n\n　<T=30>'A-Adapter'</T>\n　- Sets all terrain ratings of unit and weapons to A.\n\n　<T=30>'Hyper Jammer'</T>\n　- If pilot Will is 130 or more, evades enemy attacks at a 50% chance.\n\n　<T=30>'High-Perf. Radar'</T>\n　- Raises the range of weapons by 1, except map weapons and range-1 weapons.\n\n　<T=30>'One-Hit Kill Know-How'</T>\n　- Raises equipped weapon critical rate by 20.\n\n　<T=30>'Large Generator'</T>\n　- Raises unit max EN by 50.\n\n　<T=30>'Mega Generator'</T>\n　- Raises unit max EN by 100.\n\n　<T=30>'Solar Panel'</T>\n　- At the start of your phase, restores EN by 10% of its max.\n\n　<T=30>'Beam Coat (Part)'</T>\n　- If EN is 5 or more, reduces damage from beam attacks (except barrier-piercing\n　　weapons) by 900.\n\n　<T=30>'G-Wall (Part)'</T>\n　- If EN is 5 or more and Will 120 or more, nullifies up to 800 damage from all\n　　attacks (except barrier-piercing weapons).\n",
+  "slot": 1425
+ },
+ "0x01DB6D": {
+  "en": "Other",
+  "slot": 9
+ },
+ "0x01DB77": {
+  "en": "Here we introduce other things that are useful to know.",
+  "slot": 69
+ },
+ "0x01DBC1": {
+  "en": "About SR Points and Difficulty",
+  "slot": 42
+ },
+ "0x01DBEC": {
+  "en": "A Q&A about SR Points and difficulty.",
+  "slot": 63
+ },
+ "0x01DC30": {
+  "en": "<W=24>Q</W><W=32>1</W>. What are SR Points?",
+  "slot": 68
+ },
+ "0x01DC75": {
+  "en": "A. A value that forms the basis of the game's difficulty.",
+  "slot": 57
+ },
+ "0x01DCAF": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>A value that forms the basis of the game's difficulty.</C></H></W>\n\n　- When you meet the SR Point (Super Robot Wars Point) condition set for\n　　each stage, +1 is added to your SR Points.\n\n　- When you earn an SR Point, +10 is added to the <LINK=0>PP</LINK> of all allied pilots on\n　　the map.\n\n　- SR Point conditions can be checked via the overall command \"Objective.\" Your\n　　SR Point rate determines the <LINK=1>difficulty</LINK> of the next stage.\n\n　- Basically, if your SR Point rate is under 80%, difficulty is \"NORMAL\"; if\n　　80% or more, it is \"HARD.\"\n\n　<S=8><Y=-3><W=32><H=32><I=156></H></W></Y><S=3>If you replay a stage where you got a Game Over, you cannot earn the SR\n　　　Point for that stage.\n",
+  "slot": 1068
+ },
+ "0x01E0EF": {
+  "en": "<W=24>Q</W><W=32>2</W>. What is difficulty?",
+  "slot": 59
+ },
+ "0x01E12B": {
+  "en": "A. The rank of how hard or easy the game is, set by your SR Points.",
+  "slot": 102
+ },
+ "0x01E192": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>The rank of how hard or easy the game is, set by your SR Points.</C></H></W>\n\n　- The difficulty changed by your <LINK=0>SR Point</LINK> rate has two ranks, HARD and\n　　NORMAL, and the current difficulty is shown in the overall command.\n\n　<T=30>'HARD (80% or more)'</T>　\n　- Compared to NORMAL, there may be more enemies or stronger enemies appear.\n　- For enemies, +3 is added to unit and weapon <LINK=1>upgrade levels</LINK>.\n\n　<T=30>'NORMAL (under 80%)'</T>\n　- Combat <LINK=2>funds</LINK> earned are 1.2x that of HARD.\n",
+  "slot": 796
+ },
+ "0x01E4CA": {
+  "en": "Trivia",
+  "slot": 12
+ },
+ "0x01E4D7": {
+  "en": "A Q&A about things that are useful to know.",
+  "slot": 69
+ },
+ "0x01E521": {
+  "en": "<W=24>Q</W><W=32>1</W>. Stage too hard to clear?",
+  "slot": 71
+ },
+ "0x01E569": {
+  "en": "A. After a Game Over, you can continue and replay.",
+  "slot": 66
+ },
+ "0x01E5AC": {
+  "en": "",
+  "slot": 1172
+ },
+ "0x01EA6B": {
+  "en": "<W=24>Q</W><W=32>2</W>. Moving quickly?",
+  "slot": 65
+ },
+ "0x01EAAD": {
+  "en": "A. Use the shortcut buttons.",
+  "slot": 57
+ },
+ "0x01EAE7": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Use the shortcut buttons.</C></H></W>\\n\\n  -When a movement range is shown, pressing <S=-4><Y=-3><W=32><H=32><I=122></H></W></Y><S=-4> jumps the cursor to the edge\\n  of the movement range as a shortcut.\\n\\n  -When choosing where to move, hold <S=-4><Y=-3><W=32><H=32><I=122></H></W></Y><S=-4> and press <S=-4><Y=-3><W=32><H=32><I=115></H></W></Y><S=-4> to cancel the movement\\n  animation.\\n",
+  "slot": 589
+ },
+ "0x01ED39": {
+  "en": "<W=24>Q</W><W=32>3</W>. Restarting quickly?",
+  "slot": 74
+ },
+ "0x01ED84": {
+  "en": "A. Use the soft reset function.",
+  "slot": 54
+ },
+ "0x01EDBB": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Use the soft reset function.</C></H></W>\\n\\n  -Press <Y=-3><W=32><H=32><I=125></H></W></Y><S=-4><Y=-3><W=32><H=32><I=126></H></W></Y><S=-4><Y=-3><W=32><H=32><I=121></H></W></Y><S=-4><Y=-3><W=32><H=32><I=122></H></W></Y><S=-4><Y=-3><W=32><H=32><I=123></H></W></Y><S=-4><Y=-3><W=32><H=32><I=124></H></W></Y><S=-4> at once to trigger a soft reset.\\n\\n  -If you keep holding <S=-4><Y=-3><W=32><H=32><I=126></H></W></Y><S=-4> during a soft reset, the title screen is skipped\\n  and the title's \"CONTINUE\" command runs automatically, giving you a quick\\n  continue.\\n\\n  <S=8><Y=-3><W=32><H=32><I=156></H></W></Y><S=3>Running the title screen's \"CONTINUE\" command returns you to the state saved by the\\n  overall \"Quick Save\" command.\\n",
+  "slot": 970
+ },
+ "0x01F18A": {
+  "en": "<W=24>Q</W><W=32>4</W>. Enjoying post-game?",
+  "slot": 77
+ },
+ "0x01F1D8": {
+  "en": "A. Using clear data grants you bonuses.",
+  "slot": 84
+ },
+ "0x01F22D": {
+  "en": "<W=28><H=28>A. <C=FF8000FF>Using clear data grants you bonuses.</C></H></W>\\n\\n  -After clearing the final chapter, you can save your play progress up to that point as\\n  game clear data. Loading game clear data lets you play from the start while carrying over some of the <LINK=0>funds</LINK> and <LINK=1>PP</LINK>\\n  you earned. You will also be able to select new play\\n  modes.\\n",
+  "slot": 576
+ }
+}
