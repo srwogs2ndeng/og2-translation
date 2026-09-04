@@ -1,0 +1,3742 @@
+{
+ "0x002411": {
+  "en": "Indicates that no attack can be made.",
+  "slot": 45
+ },
+ "0x002445": {
+  "en": "Shows the stats changed by the full upgrade bonus.",
+  "slot": 84
+ },
+ "0x0024A0": {
+  "en": "Shown when this spirit command has been marked.",
+  "slot": 96
+ },
+ "0x002507": {
+  "en": "When the sort cursor is here, sorts by pilot name reading.",
+  "slot": 117
+ },
+ "0x002583": {
+  "en": "When the sort cursor is here, sorts by unit name reading.",
+  "slot": 108
+ },
+ "0x0025F6": {
+  "en": "Shows the pilot's BGM. It plays during battle demos.",
+  "slot": 123
+ },
+ "0x002678": {
+  "en": "Shows the unit's BGM. It plays during battle demos.",
+  "slot": 114
+ },
+ "0x00277A": {
+  "en": "consumed in such cases.",
+  "slot": 36
+ },
+ "0x0027A5": {
+  "en": "Shows the unit's max EN before and after the bonus.",
+  "slot": 78
+ },
+ "0x0027FA": {
+  "en": "Shows the unit's max EN before and after upgrading.",
+  "slot": 66
+ },
+ "0x002843": {
+  "en": "Shows the unit's max EN before and after swap parts.",
+  "slot": 81
+ },
+ "0x00289B": {
+  "en": "Shows the unit's max EN before and after part change.",
+  "slot": 81
+ },
+ "0x0028F3": {
+  "en": "Shows current max EN. ( ) is the value without the selected upgrade part.",
+  "slot": 135
+ },
+ "0x002981": {
+  "en": "Shows the unit's max EN and EN upgrade level.",
+  "slot": 63
+ },
+ "0x0029C7": {
+  "en": "Shows what % of max EN the unit recovers on this terrain at your phase start.",
+  "slot": 126
+ },
+ "0x002A4C": {
+  "en": "Shows the unit's max EN upgrade level.",
+  "slot": 54
+ },
+ "0x002A89": {
+  "en": "<I=4> is shown if the pilot deploys by event next stage.",
+  "slot": 101
+ },
+ "0x002AF5": {
+  "en": "<I=4> is shown if the unit deploys by event next stage.",
+  "slot": 92
+ },
+ "0x002B58": {
+  "en": "<I=4> is shown if the unit or pilot deploys by event next stage.",
+  "slot": 122
+ },
+ "0x002C65": {
+  "en": "is displayed.",
+  "slot": 24
+ },
+ "0x002C84": {
+  "en": "The unit's hit points. If HP reaches 0 the unit is destroyed and shot down.",
+  "slot": 132
+ },
+ "0x002D0F": {
+  "en": "Shows the unit's max HP before and after the bonus.",
+  "slot": 78
+ },
+ "0x002D64": {
+  "en": "Shows the unit's max HP before and after upgrading.",
+  "slot": 66
+ },
+ "0x002DAD": {
+  "en": "Shows the unit's max HP before and after swap parts.",
+  "slot": 81
+ },
+ "0x002E05": {
+  "en": "Shows the unit's max HP before and after part change.",
+  "slot": 81
+ },
+ "0x002E5D": {
+  "en": "Shows current max HP. ( ) is the value without the selected upgrade part.",
+  "slot": 135
+ },
+ "0x002EEB": {
+  "en": "Shows the unit's max HP and HP upgrade level.",
+  "slot": 63
+ },
+ "0x002F31": {
+  "en": "Shows what % of max HP the unit recovers on this terrain at your phase start.",
+  "slot": 126
+ },
+ "0x002FB6": {
+  "en": "Shows the unit's max HP upgrade level.",
+  "slot": 54
+ },
+ "0x00307C": {
+  "en": "new spirit commands may be learned, or special skill levels may rise too.",
+  "slot": 111
+ },
+ "0x0030F2": {
+  "en": "Shows the pilot's level after leveling up.",
+  "slot": 78
+ },
+ "0x003147": {
+  "en": "Shows the pilot's level before leveling up.",
+  "slot": 78
+ },
+ "0x00319C": {
+  "en": "Indicates that the attack, if made, will be evaded.",
+  "slot": 81
+ },
+ "0x0031F4": {
+  "en": "Shows commands that other pilots can use on this unit.",
+  "slot": 81
+ },
+ "0x003251": {
+  "en": "&\u0001\nShows the Pilot Points a pilot has earned. In the intermission 'Pilot Training'",
+  "slot": 135
+ },
+ "0x0032D9": {
+  "en": "command, spend PP to raise a pilot's stats or learn special skills.",
+  "slot": 132
+ },
+ "0x00335E": {
+  "en": "PP is earned by shooting down enemies in battle.",
+  "slot": 114
+ },
+ "0x0033D7": {
+  "en": "Shows the PP earned during this stage.",
+  "slot": 54
+ },
+ "0x00349D": {
+  "en": "Earned PP is used in the intermission 'Pilot Training' command.",
+  "slot": 129
+ },
+ "0x003525": {
+  "en": "Shows current PP minus the required amount.",
+  "slot": 72
+ },
+ "0x003574": {
+  "en": "Shows the PP needed for training.",
+  "slot": 42
+ },
+ "0x0035A5": {
+  "en": "Shows the PP needed for the item being entered.",
+  "slot": 66
+ },
+ "0x0035F3": {
+  "en": "\"\u0001\nShows the pilot's current/max Spirit Points. Spend SP to",
+  "slot": 135
+ },
+ "0x00367B": {
+  "en": "use spirit and twin spirit commands. Using a twin spirit command",
+  "slot": 132
+ },
+ "0x003700": {
+  "en": "consumes the SP of both main pilots in the twin unit.",
+  "slot": 102
+ },
+ "0x0037F6": {
+  "en": "Text turns green, showing the raised value.",
+  "slot": 75
+ },
+ "0x00384D": {
+  "en": "\u0015\u0001\nShows the pilot's current Spirit Points. Spend SP to use spirit and twin",
+  "slot": 135
+ },
+ "0x0038D5": {
+  "en": "spirit commands. Using a twin spirit command consumes the SP of the",
+  "slot": 132
+ },
+ "0x00395A": {
+  "en": "twin unit's two main pilots.",
+  "slot": 63
+ },
+ "0x0039A5": {
+  "en": "\u0014\u0001\nShows the pilot's max Spirit Points. Spend SP to use spirit and twin spirit",
+  "slot": 135
+ },
+ "0x003A2D": {
+  "en": "commands. Using a twin spirit command consumes the SP of the twin unit's",
+  "slot": 132
+ },
+ "0x003AB2": {
+  "en": "two main pilots.",
+  "slot": 60
+ },
+ "0x003B7E": {
+  "en": "difficulty is NORMAL; at 80% or more it becomes HARD.",
+  "slot": 102
+ },
+ "0x003BF8": {
+  "en": "%\u0002\u0014Shows the conditions to earn the SR Point on this stage. Earning it gives",
+  "slot": 135
+ },
+ "0x003C80": {
+  "en": "+10 PP to all allied pilots on the map. SR Point conditions",
+  "slot": 132
+ },
+ "0x003D05": {
+  "en": "may change due to events. Replaying a stage after a game over",
+  "slot": 132
+ },
+ "0x003D8A": {
+  "en": "means the SR Point cannot be earned. If SR Points earned are below 80%,",
+  "slot": 132
+ },
+ "0x003E0F": {
+  "en": "difficulty is NORMAL; at 80% or more it becomes HARD.",
+  "slot": 111
+ },
+ "0x003E8A": {
+  "en": "$\u0001\nShows the pilot's twin spirit command. Usable when the squad is a two-unit",
+  "slot": 135
+ },
+ "0x003F12": {
+  "en": "'twin unit'. To form a twin unit, use the 'Merge' command,",
+  "slot": 132
+ },
+ "0x003F97": {
+  "en": "or the intermission 'Squad Formation' command.",
+  "slot": 108
+ },
+ "0x00400A": {
+  "en": "Shows the unit's max Weapon Gauge value.",
+  "slot": 57
+ },
+ "0x00404A": {
+  "en": "Shows the unit's max Weapon Gauge minus the amount currently in use.",
+  "slot": 126
+ },
+ "0x0040CF": {
+  "en": "Shows the amount of Weapon Gauge the unit is currently using.",
+  "slot": 81
+ },
+ "0x004127": {
+  "en": "Shows 'Weapon Gauge in use'/'unit's max Weapon Gauge'.",
+  "slot": 114
+ },
+ "0x004229": {
+  "en": "Weapon Gauge value.",
+  "slot": 33
+ },
+ "0x004251": {
+  "en": "Shows the Weapon Gauge the unit needs to equip that weapon.",
+  "slot": 96
+ },
+ "0x004341": {
+  "en": "Shows the Weapon Gauge value.",
+  "slot": 42
+ },
+ "0x0043FB": {
+  "en": "is shown.",
+  "slot": 15
+ },
+ "0x004411": {
+  "en": "For the searched ability, shows 'unit equipped' + 'pilot equipped'.",
+  "slot": 120
+ },
+ "0x004490": {
+  "en": "Shows the ability effects active on the unit.",
+  "slot": 66
+ },
+ "0x0044D9": {
+  "en": "Shows ability effects before and after the change.",
+  "slot": 78
+ },
+ "0x00452E": {
+  "en": "Shows the ability effects active on the squad.",
+  "slot": 66
+ },
+ "0x004577": {
+  "en": "Shows the squad's ability effects before and after the change.",
+  "slot": 90
+ },
+ "0x0045D8": {
+  "en": "Shows the squad's current number of ability effects.",
+  "slot": 63
+ },
+ "0x00461E": {
+  "en": "Shows the pilot's current number of equipped abilities.",
+  "slot": 72
+ },
+ "0x00466D": {
+  "en": "Shows the unit's current number of equipped abilities.",
+  "slot": 63
+ },
+ "0x0046B8": {
+  "en": " \u0001\nWhen lit, the pilot is an Ace. Shooting down 50+ enemies makes an",
+  "slot": 135
+ },
+ "0x004740": {
+  "en": "Ace. Then Will gets +5 on deployment, and funds from shot-down enemies become 1.2x.",
+  "slot": 132
+ },
+ "0x0047C5": {
+  "en": "An Ace Bonus also appears on the pilot stats screen.",
+  "slot": 96
+ },
+ "0x0048B8": {
+  "en": "to become an Ace, 50 or more enemies must be shot down.",
+  "slot": 90
+ },
+ "0x004919": {
+  "en": "Sets the key shortcut for when the cursor is on a unit.",
+  "slot": 126
+ },
+ "0x00499E": {
+  "en": "Sets the key shortcut for when the cursor is not on a unit.",
+  "slot": 129
+ },
+ "0x004A26": {
+  "en": "Sets whether the attack lands a critical hit when it connects.",
+  "slot": 102
+ },
+ "0x004B1C": {
+  "en": "becomes higher.",
+  "slot": 21
+ },
+ "0x004BC1": {
+  "en": "es.",
+  "slot": 6
+ },
+ "0x004BCE": {
+  "en": "Shows the unit's size before and after swap parts.",
+  "slot": 78
+ },
+ "0x004CAC": {
+  "en": "rises by doing so.",
+  "slot": 33
+ },
+ "0x004CD4": {
+  "en": "When under a status ailment, the text is shown in red.",
+  "slot": 90
+ },
+ "0x004D35": {
+  "en": "Shown when the pilot is under a status ailment.",
+  "slot": 87
+ },
+ "0x004D93": {
+  "en": "Shown when the unit is under a status ailment.",
+  "slot": 78
+ },
+ "0x004DE8": {
+  "en": "Shows the number of turns from stage start to now.",
+  "slot": 75
+ },
+ "0x004E3A": {
+  "en": "Shows the number of turns from game start to now.",
+  "slot": 72
+ },
+ "0x004E89": {
+  "en": "Sets the damage dealt when the attack connects with its target.",
+  "slot": 84
+ },
+ "0x004EE9": {
+  "en": "$\u0001\nShows the SP needed to use the pilot's twin spirit command. The",
+  "slot": 135
+ },
+ "0x004F71": {
+  "en": "twin spirit command and SP cost vary by pilot. When the squad is two",
+  "slot": 132
+ },
+ "0x004FF6": {
+  "en": "units, a 'twin unit', the twin spirit command can be used.",
+  "slot": 108
+ },
+ "0x005069": {
+  "en": "Shows the ability status of squad units and their onboard pilots.",
+  "slot": 129
+ },
+ "0x0050F1": {
+  "en": "Shows the pilot's name.",
+  "slot": 42
+ },
+ "0x0051AE": {
+  "en": "the pilot's name is shown.",
+  "slot": 36
+ },
+ "0x0051D9": {
+  "en": "Shows the name of a pilot who has the searched special skill.",
+  "slot": 99
+ },
+ "0x005243": {
+  "en": "Shows the name of a pilot who has the searched spirit or twin spirit command.",
+  "slot": 132
+ },
+ "0x0052CE": {
+  "en": "Sets the barrier that occurs when the attack connects.",
+  "slot": 84
+ },
+ "0x00532E": {
+  "en": "\u0014\u0001\nWhen lit, the unit has a barrier-type special ability like 'Beam Coat' or",
+  "slot": 135
+ },
+ "0x0053B6": {
+  "en": "'Psycho Field'. Under set conditions, such abilities reduce damage",
+  "slot": 132
+ },
+ "0x00543B": {
+  "en": "taken in battle.",
+  "slot": 60
+ },
+ "0x005507": {
+  "en": "team bonus.",
+  "slot": 33
+ },
+ "0x00552F": {
+  "en": "Sets the block that occurs when the attack connects.",
+  "slot": 87
+ },
+ "0x00558D": {
+  "en": "Shows the character's nickname.",
+  "slot": 57
+ },
+ "0x005656": {
+  "en": "whether or not.",
+  "slot": 24
+ },
+ "0x005675": {
+  "en": "Shows the unit's movement and move type before/after swap parts.",
+  "slot": 96
+ },
+ "0x0056DC": {
+  "en": "Shows the squad's movement and move type before/after swap parts.",
+  "slot": 96
+ },
+ "0x005743": {
+  "en": "Shows the unit's movement and move type before/after part change.",
+  "slot": 96
+ },
+ "0x005833": {
+  "en": "value.",
+  "slot": 21
+ },
+ "0x0058D8": {
+  "en": "value.",
+  "slot": 21
+ },
+ "0x0058F4": {
+  "en": "Shows the squad's movement and move type before/after part change.",
+  "slot": 96
+ },
+ "0x0059EC": {
+  "en": "suited it is. Terrain display has 3 ranks: white, gray, none. For twin units,",
+  "slot": 132
+ },
+ "0x005A71": {
+  "en": "it is set by the movement types of the 2 units in the squad. White is best suited to that terrain.",
+  "slot": 132
+ },
+ "0x005AF6": {
+  "en": ".",
+  "slot": 6
+ },
+ "0x005B03": {
+  "en": "Shows the squad's movement and move type after forming.",
+  "slot": 69
+ },
+ "0x005B4F": {
+  "en": "Shows the squad's movement and move type before forming.",
+  "slot": 69
+ },
+ "0x005B9B": {
+  "en": "Shows if the unit can move over Air, Land, Sea, and Underground terrain.",
+  "slot": 132
+ },
+ "0x005C2B": {
+  "en": "\u001f\u0001\nShows if the squad can move over Air, Land, Sea, and Underground terrain.",
+  "slot": 135
+ },
+ "0x005CB3": {
+  "en": "Display has 3 ranks: white, gray, none. For twin units it is set by the 2 units'",
+  "slot": 132
+ },
+ "0x005D38": {
+  "en": "move types. White is best suited to that terrain.",
+  "slot": 93
+ },
+ "0x005D9C": {
+  "en": "Shows if the unit can move over Air terrain.",
+  "slot": 99
+ },
+ "0x005E0B": {
+  "en": "\u0014\u0001\nShows if the squad can move over Air terrain. Display has 3 ranks: white, gray,",
+  "slot": 135
+ },
+ "0x005E93": {
+  "en": "and none. For twin units it is set by the move types of the 2 units in the squad.",
+  "slot": 132
+ },
+ "0x005F18": {
+  "en": "White is best suited to that terrain.",
+  "slot": 60
+ },
+ "0x005F5B": {
+  "en": "Shows if the unit can move over Sea terrain.",
+  "slot": 99
+ },
+ "0x005FCA": {
+  "en": "\u0014\u0001\nShows if the squad can move over Sea terrain. Display has 3 ranks: white, gray,",
+  "slot": 135
+ },
+ "0x006052": {
+  "en": "and none. For twin units it is set by the move types of the 2 units in the squad.",
+  "slot": 132
+ },
+ "0x0060D7": {
+  "en": "White is best suited to that terrain.",
+  "slot": 60
+ },
+ "0x00611A": {
+  "en": "Shows if the unit can move over Underground terrain.",
+  "slot": 102
+ },
+ "0x00618C": {
+  "en": "\u0014\u0001\rShows if the squad can move underground. Display has 3 ranks: white, gray,",
+  "slot": 138
+ },
+ "0x006217": {
+  "en": "and none. For twin units it is set by the move types of the 2 units in the squad.",
+  "slot": 132
+ },
+ "0x00629C": {
+  "en": "White is best suited to that terrain.",
+  "slot": 60
+ },
+ "0x0062DF": {
+  "en": "Shows if the unit can move over Land terrain.",
+  "slot": 99
+ },
+ "0x00634E": {
+  "en": "\u0014\u0001\nShows if the squad can move over Land terrain. Display has 3 ranks: white, gray,",
+  "slot": 135
+ },
+ "0x0063D6": {
+  "en": "and none. For twin units it is set by the move types of the 2 units in the squad.",
+  "slot": 132
+ },
+ "0x00645B": {
+  "en": "White is best suited to that terrain.",
+  "slot": 60
+ },
+ "0x006527": {
+  "en": "it varies by the unit's move type.",
+  "slot": 48
+ },
+ "0x00655E": {
+  "en": "Shows the unit's movement before and after gaining the bonus.",
+  "slot": 75
+ },
+ "0x0065B5": {
+  "en": "\u0007\u0001\nShows the squad's movement. For a twin unit it is the average of the 2 units'",
+  "slot": 135
+ },
+ "0x00663D": {
+  "en": "movement. The move cost to enter each terrain varies by the squad's",
+  "slot": 132
+ },
+ "0x0066C2": {
+  "en": "move type.",
+  "slot": 21
+ },
+ "0x0066DE": {
+  "en": "Shows the unit's evasion. The higher the value, the easier it dodges attacks.",
+  "slot": 108
+ },
+ "0x006751": {
+  "en": "Shows the unit's Mobility before and after gaining the bonus.",
+  "slot": 75
+ },
+ "0x0067A3": {
+  "en": "Shows the unit's Mobility before and after upgrading.",
+  "slot": 63
+ },
+ "0x0067E9": {
+  "en": "Shows the unit's Mobility before and after changing swap parts.",
+  "slot": 78
+ },
+ "0x00683E": {
+  "en": "Shows the unit's Mobility before and after changing parts.",
+  "slot": 78
+ },
+ "0x006893": {
+  "en": "Shows the unit's current Mobility. The ( ) value is with the selected part removed.",
+  "slot": 132
+ },
+ "0x00691E": {
+  "en": "Shows the unit's Mobility and its upgrade level.",
+  "slot": 57
+ },
+ "0x00695E": {
+  "en": "Shows the unit's Mobility upgrade level.",
+  "slot": 51
+ },
+ "0x006A21": {
+  "en": "Level (support uses per turn).\"",
+  "slot": 69
+ },
+ "0x006A72": {
+  "en": "\u0011\u0001\nShows if the pilot has the Support Attack skill. The value is the current skill level.",
+  "slot": 135
+ },
+ "0x006AFA": {
+  "en": "A pilot with this skill joins in support attacks for adjacent allies. Higher",
+  "slot": 132
+ },
+ "0x006B7F": {
+  "en": "levels raise the number of support uses.",
+  "slot": 51
+ },
+ "0x006C42": {
+  "en": "the number of possible support attacks.",
+  "slot": 51
+ },
+ "0x006D05": {
+  "en": "Level (support uses per turn).\"",
+  "slot": 69
+ },
+ "0x006D56": {
+  "en": "\u0011\u0001\nShows if the pilot has the Support Defend skill. The value is the current skill level.",
+  "slot": 135
+ },
+ "0x006DDE": {
+  "en": "A pilot with this skill joins in support defends for adjacent allies. Higher",
+  "slot": 132
+ },
+ "0x006E63": {
+  "en": "levels raise the number of support uses.",
+  "slot": 51
+ },
+ "0x006F26": {
+  "en": "the number of possible support defends.",
+  "slot": 51
+ },
+ "0x006F60": {
+  "en": "Shows the pilot's evasion. The higher the value, the easier it dodges attacks.",
+  "slot": 117
+ },
+ "0x007065": {
+  "en": "If afflicted with a status ailment, the reduced value is shown.",
+  "slot": 78
+ },
+ "0x007143": {
+  "en": "is shown in green, displaying the raised value.",
+  "slot": 63
+ },
+ "0x007189": {
+  "en": "Shows the value that reduces the enemy's hit rate when a unit on this terrain is attacked.",
+  "slot": 126
+ },
+ "0x00720E": {
+  "en": "The value and gauge show the unit's current stat and upgrade level.",
+  "slot": 87
+ },
+ "0x0072F7": {
+  "en": "the damage dealt rises.",
+  "slot": 36
+ },
+ "0x0073AD": {
+  "en": "the damage dealt rises. If afflicted with a status ailment, the reduced value is shown.",
+  "slot": 129
+ },
+ "0x0074BE": {
+  "en": "text is shown in green, displaying the raised value.",
+  "slot": 72
+ },
+ "0x00750D": {
+  "en": "Shows the type and count of bonuses gained from enemies during the stage.",
+  "slot": 96
+ },
+ "0x007574": {
+  "en": "Shows the content of bonuses gained in battle.",
+  "slot": 66
+ },
+ "0x0075BD": {
+  "en": "Shows the swap parts the unit currently has equipped.",
+  "slot": 69
+ },
+ "0x007609": {
+  "en": "Shows a list of swap parts the unit currently holds.",
+  "slot": 81
+ },
+ "0x007661": {
+  "en": "Shows the number of swap parts the unit can equip.",
+  "slot": 63
+ },
+ "0x0076A7": {
+  "en": "Shows the number of swap weapons the unit has equipped.",
+  "slot": 63
+ },
+ "0x00775D": {
+  "en": "　<C=800000FF><I=98><I=98></C>...will be shot down.",
+  "slot": 52
+ },
+ "0x007792": {
+  "en": "　<C=800000FF><I=98></C><I=98>...may be shot down.",
+  "slot": 67
+ },
+ "0x0077D6": {
+  "en": "　<I=98><I=98>...will not be shot down.",
+  "slot": 51
+ },
+ "0x007810": {
+  "en": "Shows the weapon's attack power when not upgraded.",
+  "slot": 63
+ },
+ "0x007856": {
+  "en": "Shows the unit's name.",
+  "slot": 33
+ },
+ "0x007907": {
+  "en": "The name is shown.",
+  "slot": 30
+ },
+ "0x00792C": {
+  "en": "Shows the name of the unit shot down during the stage.",
+  "slot": 72
+ },
+ "0x00797B": {
+  "en": "Shows the name of a unit that has the searched special ability.",
+  "slot": 87
+ },
+ "0x0079D9": {
+  "en": "Shows the upgrade rate of the unit's HP, EN, Armor, Mobility, and Accuracy.",
+  "slot": 87
+ },
+ "0x007AC0": {
+  "en": "it affects the damage.",
+  "slot": 36
+ },
+ "0x007B74": {
+  "en": "the Counter skill's activation rate rises.",
+  "slot": 60
+ },
+ "0x007BBC": {
+  "en": "\u0007\u0001\nShows the pilot's Skill. The higher the value, the more critical hits and",
+  "slot": 135
+ },
+ "0x007C44": {
+  "en": "the higher the Counter skill's rate. If afflicted with a status ailment, the reduced value",
+  "slot": 132
+ },
+ "0x007CC9": {
+  "en": "is shown.",
+  "slot": 21
+ },
+ "0x007D6E": {
+  "en": "is shown in green, displaying the raised value.",
+  "slot": 66
+ },
+ "0x007E40": {
+  "en": "HP and other stats can be recovered on the map.",
+  "slot": 66
+ },
+ "0x007E89": {
+  "en": "Shows the parts currently held.",
+  "slot": 57
+ },
+ "0x007EC9": {
+  "en": "Shows the unit's max equippable parts and current equipped count.",
+  "slot": 99
+ },
+ "0x007F40": {
+  "en": "%\u0001*Shows the attack range type.",
+  "slot": 45
+ },
+ "0x007F6E": {
+  "en": "\"Self-Centered\"...the whole range in range is the attack area.",
+  "slot": 69
+ },
+ "0x007FB4": {
+  "en": "\"Directional\"...pick the attack area from 4 directions around your unit.",
+  "slot": 90
+ },
+ "0x00800F": {
+  "en": "\"Impact Point\"...pick the attack area from any spot within range.",
+  "slot": 93
+ },
+ "0x00806D": {
+  "en": "\"Trajectory\"...a line from your unit to any spot in range is the attack area.",
+  "slot": 111
+ },
+ "0x0080E8": {
+  "en": "\t\u0001\nShows the EXP the pilot has gained so far. Building up EXP raises the pilot's",
+  "slot": 135
+ },
+ "0x008170": {
+  "en": "level. You gain EXP by fighting, or by using the Repair or Resupply commands.",
+  "slot": 132
+ },
+ "0x0081F5": {
+  "en": "You can do this.",
+  "slot": 27
+ },
+ "0x008217": {
+  "en": "Shows the EXP needed for the pilot's level to rise by 1 from its current value.",
+  "slot": 117
+ },
+ "0x008293": {
+  "en": "Shows the EXP gained in battle.",
+  "slot": 48
+ },
+ "0x0082CA": {
+  "en": "Shows the number of enemies that pilot shot down in battle during the stage.",
+  "slot": 93
+ },
+ "0x0083B7": {
+  "en": "pilot, and <I=5> lights up.",
+  "slot": 53
+ },
+ "0x0083F3": {
+  "en": "If the sort cursor is on it, it sorts by the set search item.",
+  "slot": 117
+ },
+ "0x00846F": {
+  "en": "Shown if that unit or pilot matches the searched item.",
+  "slot": 111
+ },
+ "0x0084EA": {
+  "en": "\u0007\u0001\nWhen ON, in the assign window a search icon shows on units matching at least one",
+  "slot": 135
+ },
+ "0x008572": {
+  "en": "search item. Units with the search icon get the highest sort priority in the",
+  "slot": 132
+ },
+ "0x0085F7": {
+  "en": "window.",
+  "slot": 21
+ },
+ "0x008613": {
+  "en": "Shows the searched item (Spirit Command, Skill, Special Ability, Ability).",
+  "slot": 132
+ },
+ "0x00869E": {
+  "en": "Shows the description of the selected ability.",
+  "slot": 81
+ },
+ "0x0086F6": {
+  "en": "Shows the description of the selected skill.",
+  "slot": 81
+ },
+ "0x00874E": {
+  "en": "For HP Regen or EN Regen search, one of Large, Medium, or Small is shown.",
+  "slot": 135
+ },
+ "0x0087DC": {
+  "en": "Shows the description of the selected Spirit or Twin Spirit Command.",
+  "slot": 117
+ },
+ "0x008858": {
+  "en": "Shows the description of the selected special ability.",
+  "slot": 78
+ },
+ "0x0088AD": {
+  "en": "Sets which side, left or right, attacks.",
+  "slot": 66
+ },
+ "0x0088F6": {
+  "en": "Sets the attacker's attack type.",
+  "slot": 51
+ },
+ "0x0089B9": {
+  "en": "not occur",
+  "slot": 9
+ },
+ "0x008A52": {
+  "en": "Counters do not occur against area attacks.",
+  "slot": 66
+ },
+ "0x008B24": {
+  "en": "The counterattacker's Luck does not occur.",
+  "slot": 48
+ },
+ "0x008B5B": {
+  "en": "Sets the support attack for Maximum Break.",
+  "slot": 72
+ },
+ "0x008BAA": {
+  "en": "Shows the weapon's attack power. The higher the value, the more damage in battle.",
+  "slot": 129
+ },
+ "0x008C32": {
+  "en": "Shows the weapon's attack power after upgrading.",
+  "slot": 48
+ },
+ "0x008C69": {
+  "en": "Sets the background.",
+  "slot": 27
+ },
+ "0x008C8B": {
+  "en": "Shows this is the attacking side.",
+  "slot": 57
+ },
+ "0x008CCB": {
+  "en": "Shows this is the side being attacked.",
+  "slot": 63
+ },
+ "0x008D11": {
+  "en": "Refers to an area attack weapon, excluding Double Attack.",
+  "slot": 93
+ },
+ "0x008D75": {
+  "en": "Shows a Combination Attack is being performed.",
+  "slot": 72
+ },
+ "0x008DC4": {
+  "en": "Shows a Double Attack is being performed.",
+  "slot": 63
+ },
+ "0x008E0A": {
+  "en": "Shows a Maximum Break is being performed.",
+  "slot": 69
+ },
+ "0x008E56": {
+  "en": "Shows a Support Attack (re-attack) is being performed.",
+  "slot": 69
+ },
+ "0x008EA2": {
+  "en": "Shows a Support Defend is being performed.",
+  "slot": 54
+ },
+ "0x008EDF": {
+  "en": "Indicates \"Evade\" is set as the counter action.",
+  "slot": 93
+ },
+ "0x008F43": {
+  "en": "Indicates an attack with a normal weapon.",
+  "slot": 54
+ },
+ "0x008F80": {
+  "en": "Indicates a unit able to attack but not joining battle.",
+  "slot": 81
+ },
+ "0x008FD8": {
+  "en": "Indicates doing nothing.",
+  "slot": 39
+ },
+ "0x009006": {
+  "en": "Dummy",
+  "slot": 9
+ },
+ "0x009016": {
+  "en": "Indicates \"Defend\" is set as the counter action.",
+  "slot": 93
+ },
+ "0x00907A": {
+  "en": "Shows the sale value of all entered parts if sold.",
+  "slot": 90
+ },
+ "0x0090DB": {
+  "en": "When lit, several units can combine to change form.",
+  "slot": 114
+ },
+ "0x009154": {
+  "en": "For combo weapons, shows the units joining the attack.",
+  "slot": 81
+ },
+ "0x0091AC": {
+  "en": "Indicates the main pilot can attack again.",
+  "slot": 99
+ },
+ "0x00929F": {
+  "en": "weapons show <I=30><S=-79><I=32><S=39>.",
+  "slot": 76
+ },
+ "0x00937B": {
+  "en": "Shows the weapon's total added attack power.",
+  "slot": 63
+ },
+ "0x00944A": {
+  "en": "weapons show <I=30><S=-81><I=31><S=33>.",
+  "slot": 70
+ },
+ "0x009497": {
+  "en": "Shows the attack power of the unit's strongest swap weapon.",
+  "slot": 117
+ },
+ "0x009513": {
+  "en": "Shows the attack power of the unit's strongest fixed weapon.",
+  "slot": 117
+ },
+ "0x009618": {
+  "en": "is displayed.",
+  "slot": 24
+ },
+ "0x0096C0": {
+  "en": "Shows the summed attack power of both strongest weapons.",
+  "slot": 96
+ },
+ "0x0097B3": {
+  "en": "Special-effect weapons show <I=37><S=-76><I=36><S=52>.",
+  "slot": 85
+ },
+ "0x00980F": {
+  "en": "Indicates a fault in the settings.",
+  "slot": 48
+ },
+ "0x009846": {
+  "en": "Shows the number of unequipped abilities.",
+  "slot": 60
+ },
+ "0x009889": {
+  "en": "Shows the number of unequipped swap weapons.",
+  "slot": 57
+ },
+ "0x0098C9": {
+  "en": "Shows the number of parts the unit has not equipped.",
+  "slot": 69
+ },
+ "0x009915": {
+  "en": "Shows the funds remaining after upgrading.",
+  "slot": 48
+ },
+ "0x00994C": {
+  "en": "Shows a special skill's uses left / skill level.",
+  "slot": 87
+ },
+ "0x0099AA": {
+  "en": "Shows the spirit / twin spirit commands active on the pilot.",
+  "slot": 123
+ },
+ "0x009A2C": {
+  "en": "Indicates not joining the battle.",
+  "slot": 45
+ },
+ "0x009A60": {
+  "en": "Shows the current funds.",
+  "slot": 39
+ },
+ "0x009A8E": {
+  "en": "Shows the funds gained during the stage.",
+  "slot": 54
+ },
+ "0x009ACB": {
+  "en": "Shows funds gained in battle. Funds are earned only by destroying an enemy unit.",
+  "slot": 126
+ },
+ "0x009B50": {
+  "en": "Shows current funds and the repair cost of all units shot down this stage.",
+  "slot": 102
+ },
+ "0x009C48": {
+  "en": "damage dealt rises.",
+  "slot": 36
+ },
+ "0x009CFE": {
+  "en": "damage dealt rises. If a status ailment applies, the reduced value is shown.",
+  "slot": 129
+ },
+ "0x009E0F": {
+  "en": "Shown in green, with the increased value.",
+  "slot": 63
+ },
+ "0x009E55": {
+  "en": "Shows the weapon's usable range.",
+  "slot": 45
+ },
+ "0x009E96": {
+  "en": "E\u0002SShows the weapon's attack method.",
+  "slot": 42
+ },
+ "0x009EC1": {
+  "en": "<W=18>\"Combine\"　　　　　...Performs a combo attack.　　　　　　　　　\"Normal Attack\"　　...Attacks one target unit.</W>",
+  "slot": 175
+ },
+ "0x009F71": {
+  "en": "<W=18>\"All Attack\"　　　...Attacks all target units.　　　\"Map Weapon\"　　　...Attacks several squads in range.</W>",
+  "slot": 187
+ },
+ "0x00A02D": {
+  "en": "<W=18>\"Double Attack\"...Also hits squads adjacent to the target.　　\"Combination\"...Hits several squads adjacent to the target.</W>",
+  "slot": 190
+ },
+ "0x00A0EC": {
+  "en": "<W=18>\"Support Weapon\"　...Needed for Maximum Break.　　　　\"Repair/Supply Unit\"　...Enables the Repair/Supply command.</W>",
+  "slot": 187
+ },
+ "0x00A1B7": {
+  "en": "W\u0001tShows the weapon's attack method.",
+  "slot": 42
+ },
+ "0x00A1E2": {
+  "en": "<I=30><S=-81><I=40><S=33>...Performs a combo attack.　　　　　　　　　　<I=30><S=-79><I=32><S=39>...Attacks all target units.",
+  "slot": 164
+ },
+ "0x00A287": {
+  "en": "<I=30><S=-81><I=31><S=33>...Attacks several squads in range.　<I=30><S=-30><I=33><S=6>...Also hits squads adjacent to the target.",
+  "slot": 166
+ },
+ "0x00A32E": {
+  "en": "<I=30><S=-31><I=34><S=7>...Hits several squads next to the target.<I=30><S=-31><I=185><S=7>...Used in Maximum Break.",
+  "slot": 163
+ },
+ "0x00A3DD": {
+  "en": "?\u0001\nWhen lit, the unit can use the Repair command. When Repair is used,",
+  "slot": 135
+ },
+ "0x00A465": {
+  "en": "it restores the HP of squads in range. In the intermission, via the Weapon",
+  "slot": 132
+ },
+ "0x00A4EA": {
+  "en": "Swap command, equip <I=8><S=-16><Y=5><I=16></Y>a repair device to enable Repair.",
+  "slot": 135
+ },
+ "0x00A57D": {
+  "en": "?\u0001\nWhen lit, the squad can use the Repair command. When Repair is used,",
+  "slot": 135
+ },
+ "0x00A605": {
+  "en": "it restores the HP of squads in range. In the intermission, via the Weapon",
+  "slot": 132
+ },
+ "0x00A68A": {
+  "en": "Swap command, equip <I=8><S=-16><Y=5><I=16></Y>a repair device to enable Repair.",
+  "slot": 135
+ },
+ "0x00A718": {
+  "en": "Shows whether the formed squad can use the Repair command.",
+  "slot": 111
+ },
+ "0x00A78E": {
+  "en": "Shows whether the pre-form squad can use the Repair command.",
+  "slot": 111
+ },
+ "0x00A804": {
+  "en": "Shows the funds needed to repair units shot down this stage.",
+  "slot": 87
+ },
+ "0x00A862": {
+  "en": "Shows the unit's weight.",
+  "slot": 33
+ },
+ "0x00A88A": {
+  "en": "Shows the number of squads that can deploy.",
+  "slot": 45
+ },
+ "0x00A8BE": {
+  "en": "Shows the number of squads that can deploy next stage.",
+  "slot": 66
+ },
+ "0x00A993": {
+  "en": "doing so reduces damage taken by a further 10%.",
+  "slot": 93
+ },
+ "0x00A9F7": {
+  "en": "Shows the damage dealt if you attack.",
+  "slot": 66
+ },
+ "0x00AAC9": {
+  "en": "in some cases.",
+  "slot": 24
+ },
+ "0x00AAE8": {
+  "en": "Shows the sale value of the entered number of parts.",
+  "slot": 87
+ },
+ "0x00ABCF": {
+  "en": "If energy is insufficient, that weapon cannot be used.",
+  "slot": 81
+ },
+ "0x00AC27": {
+  "en": "Shows the SP used when a spirit command is cast.",
+  "slot": 90
+ },
+ "0x00AD14": {
+  "en": "Shows the maximum SP.",
+  "slot": 48
+ },
+ "0x00AD4B": {
+  "en": "Shows the unit's targeting. Higher values land attacks more easily.",
+  "slot": 111
+ },
+ "0x00ADC1": {
+  "en": "Shows the unit's accuracy before and after the bonus.",
+  "slot": 75
+ },
+ "0x00AE13": {
+  "en": "Shows the unit's accuracy before and after upgrading.",
+  "slot": 63
+ },
+ "0x00AE59": {
+  "en": "Shows the unit's accuracy before and after swapping parts.",
+  "slot": 78
+ },
+ "0x00AEAE": {
+  "en": "Shows the unit's accuracy before and after changing parts.",
+  "slot": 78
+ },
+ "0x00AF03": {
+  "en": "Shows the unit's current accuracy. ( ) is the value without the selected part.",
+  "slot": 132
+ },
+ "0x00AF8E": {
+  "en": "Shows the unit's accuracy and its upgrade level.",
+  "slot": 57
+ },
+ "0x00AFCE": {
+  "en": "Shows the upgrade level of the unit's accuracy.",
+  "slot": 51
+ },
+ "0x00B008": {
+  "en": "Shows the stats after training. ( ) is the value added.",
+  "slot": 93
+ },
+ "0x00B0F5": {
+  "en": "the spirit commands learned and their SP cost change.",
+  "slot": 75
+ },
+ "0x00B147": {
+  "en": "Shows the pilot's spirit commands. These vary by pilot.",
+  "slot": 129
+ },
+ "0x00B258": {
+  "en": "the (twin) spirit commands change.",
+  "slot": 63
+ },
+ "0x00B327": {
+  "en": "Spirit commands newly learned on level-up are shown in green text.",
+  "slot": 135
+ },
+ "0x00B3B5": {
+  "en": "Shows the VA's name.",
+  "slot": 27
+ },
+ "0x00B3D7": {
+  "en": "Shows the background shown in battle.",
+  "slot": 48
+ },
+ "0x00B40E": {
+  "en": "Shows the player units / enemy units placed on the map.",
+  "slot": 123
+ },
+ "0x00B490": {
+  "en": "Shows the unit's length.",
+  "slot": 33
+ },
+ "0x00B4B8": {
+  "en": "Shows the number of abilities held.",
+  "slot": 57
+ },
+ "0x00B4F8": {
+  "en": "Shows the number of swap weapons held.",
+  "slot": 54
+ },
+ "0x00B535": {
+  "en": "Shows the number of parts held.",
+  "slot": 57
+ },
+ "0x00B575": {
+  "en": "Shows the funds from selling all entered parts.",
+  "slot": 90
+ },
+ "0x00B68C": {
+  "en": "is possible.",
+  "slot": 24
+ },
+ "0x00B6B0": {
+  "en": "\u0002\u0001\nShows the unit's and pilot's terrain rating. It affects hit and evade rates and damage",
+  "slot": 135
+ },
+ "0x00B738": {
+  "en": "taken. There are 5 ranks: S, A, B, C, D. S suits the terrain best.",
+  "slot": 132
+ },
+ "0x00B7BD": {
+  "en": ".",
+  "slot": 6
+ },
+ "0x00B853": {
+  "en": "damage. There are 5 ranks: S, A, B, C, D. S suits the terrain best.",
+  "slot": 126
+ },
+ "0x00B961": {
+  "en": "There are 5 ranks: S, A, B, C, D. S suits the terrain best.",
+  "slot": 123
+ },
+ "0x00BA6C": {
+  "en": "There are 5 ranks: S, A, B, C, D. S suits the terrain best.",
+  "slot": 123
+ },
+ "0x00BB77": {
+  "en": "There are 5 ranks: S, A, B, C, D. S suits the terrain best.",
+  "slot": 123
+ },
+ "0x00BBF9": {
+  "en": "Shows the unit's defense. Higher values reduce damage taken in battle.",
+  "slot": 120
+ },
+ "0x00BC78": {
+  "en": "Shows the unit's armor before and after the bonus.",
+  "slot": 75
+ },
+ "0x00BCCA": {
+  "en": "Shows the unit's armor before and after upgrading.",
+  "slot": 63
+ },
+ "0x00BD10": {
+  "en": "Shows the unit's armor before and after swapping parts.",
+  "slot": 78
+ },
+ "0x00BD65": {
+  "en": "Shows the unit's armor before and after changing parts.",
+  "slot": 78
+ },
+ "0x00BDBA": {
+  "en": "Shows the unit's current armor. ( ) is the value without the selected part.",
+  "slot": 132
+ },
+ "0x00BE45": {
+  "en": "Shows the unit's armor and its upgrade level.",
+  "slot": 57
+ },
+ "0x00BE85": {
+  "en": "Shows the upgrade level of the unit's armor.",
+  "slot": 51
+ },
+ "0x00BECC": {
+  "en": "\u0019\u0001WShows the weapon's attribute.",
+  "slot": 36
+ },
+ "0x00BEF1": {
+  "en": "\"S\"...A weapon with special effects like status ailments or barrier piercing.",
+  "slot": 105
+ },
+ "0x00BF5B": {
+  "en": "\"P\"...A weapon usable after the Move command.",
+  "slot": 78
+ },
+ "0x00BFAA": {
+  "en": "\"B\"...A beam weapon reduced by barriers like Beam Coat.",
+  "slot": 123
+ },
+ "0x00C026": {
+  "en": "\"M\"...A missile weapon nullified by Jammer.",
+  "slot": 75
+ },
+ "0x00C081": {
+  "en": "/\u0001'Shows the weapon's attribute.",
+  "slot": 36
+ },
+ "0x00C0A6": {
+  "en": "<I=37><S=-52><I=36><S=28>...A weapon with special effects like ailments or barrier piercing.",
+  "slot": 121
+ },
+ "0x00C120": {
+  "en": "<I=37><S=-30><I=38><S=6>...A beam weapon reduced by barriers like Beam Coat.",
+  "slot": 138
+ },
+ "0x00C1AB": {
+  "en": "<I=37><S=-29><I=106><S=5>...A missile weapon nullified by Jammer.",
+  "slot": 91
+ },
+ "0x00C23F": {
+  "en": "<I=37><S=-76><I=36><S=52>...A weapon with special effects like ailments or barrier piercing.",
+  "slot": 121
+ },
+ "0x00C2B9": {
+  "en": "<I=37><S=-53><I=39><S=29>...A weapon usable after the Move command.",
+  "slot": 94
+ },
+ "0x00C318": {
+  "en": "<I=37><S=-30><I=38><S=6>...A beam weapon reduced by barriers like Beam Coat.",
+  "slot": 138
+ },
+ "0x00C3A3": {
+  "en": "<I=37><S=-29><I=106><S=5>...A missile weapon nullified by Jammer.",
+  "slot": 91
+ },
+ "0x00C405": {
+  "en": "Shows the spirit command's target.",
+  "slot": 42
+ },
+ "0x00C4BF": {
+  "en": "cannot.",
+  "slot": 12
+ },
+ "0x00C55B": {
+  "en": "There are 5 ranks: S, A, B, C, D. S suits the terrain best.",
+  "slot": 108
+ },
+ "0x00C657": {
+  "en": "There are 5 ranks: S, A, B, C, D. S suits the terrain best.",
+  "slot": 108
+ },
+ "0x00C753": {
+  "en": "affects it. There are 5 ranks: S, A, B, C, D. S suits the terrain best.",
+  "slot": 117
+ },
+ "0x00C7CF": {
+  "en": "Shows the unit's space terrain rating before and after the bonus.",
+  "slot": 105
+ },
+ "0x00C83F": {
+  "en": "Shows the unit's space terrain rating after swapping parts.",
+  "slot": 96
+ },
+ "0x00C8A6": {
+  "en": "Shows the unit's space terrain rating before swapping parts.",
+  "slot": 96
+ },
+ "0x00C90D": {
+  "en": "Shows the unit's space terrain rating if the selected part is removed.",
+  "slot": 117
+ },
+ "0x00C989": {
+  "en": "Shows the unit's current space terrain rating.",
+  "slot": 78
+ },
+ "0x00C9DE": {
+  "en": "Shows the unit's space terrain rating after the part change.",
+  "slot": 96
+ },
+ "0x00CA45": {
+  "en": "Shows the unit's space terrain rating before the part change.",
+  "slot": 96
+ },
+ "0x00CB38": {
+  "en": "There are 5 ranks: A, B, C, D; S is best suited to that terrain.",
+  "slot": 96
+ },
+ "0x00CC2B": {
+  "en": "There are 5 ranks: S, A, B, C, D; S is best suited to that terrain.",
+  "slot": 102
+ },
+ "0x00CD21": {
+  "en": "There are 5 ranks: S, A, B, C, D; S is best suited to that terrain.",
+  "slot": 114
+ },
+ "0x00CD9A": {
+  "en": "Shows the unit's sea terrain rating before and after the bonus.",
+  "slot": 102
+ },
+ "0x00CE07": {
+  "en": "Shows the unit's sea terrain rating after the swap part change.",
+  "slot": 93
+ },
+ "0x00CE6B": {
+  "en": "Shows the unit's sea terrain rating before the swap part change.",
+  "slot": 93
+ },
+ "0x00CECF": {
+  "en": "Shows the unit's sea terrain rating if the selected part is removed.",
+  "slot": 114
+ },
+ "0x00CF48": {
+  "en": "Shows the unit's current sea terrain rating.",
+  "slot": 75
+ },
+ "0x00CF9A": {
+  "en": "Shows the unit's sea terrain rating after the part change.",
+  "slot": 93
+ },
+ "0x00CFFE": {
+  "en": "Shows the unit's sea terrain rating before the part change.",
+  "slot": 93
+ },
+ "0x00D0EB": {
+  "en": "There are 5 ranks: A, B, C, D; S is best suited to that terrain.",
+  "slot": 96
+ },
+ "0x00D1DE": {
+  "en": "There are 5 ranks: S, A, B, C, D; S is best suited to that terrain.",
+  "slot": 102
+ },
+ "0x00D2D4": {
+  "en": "There are 5 ranks: S, A, B, C, D; S is best suited to that terrain.",
+  "slot": 114
+ },
+ "0x00D34D": {
+  "en": "Shows the unit's air terrain rating before and after the bonus.",
+  "slot": 102
+ },
+ "0x00D3BA": {
+  "en": "Shows the unit's air terrain rating after the swap part change.",
+  "slot": 93
+ },
+ "0x00D41E": {
+  "en": "Shows the unit's air terrain rating before the swap part change.",
+  "slot": 93
+ },
+ "0x00D482": {
+  "en": "Shows the unit's air terrain rating if the selected part is removed.",
+  "slot": 114
+ },
+ "0x00D4FB": {
+  "en": "Shows the unit's current air terrain rating.",
+  "slot": 75
+ },
+ "0x00D54D": {
+  "en": "Shows the unit's air terrain rating after the part change.",
+  "slot": 93
+ },
+ "0x00D5B1": {
+  "en": "Shows the unit's air terrain rating before the part change.",
+  "slot": 93
+ },
+ "0x00D69E": {
+  "en": "There are 5 ranks: A, B, C, D; S is best suited to that terrain.",
+  "slot": 96
+ },
+ "0x00D791": {
+  "en": "There are 5 ranks: S, A, B, C, D; S is best suited to that terrain.",
+  "slot": 102
+ },
+ "0x00D887": {
+  "en": "There are 5 ranks: S, A, B, C, D; S is best suited to that terrain.",
+  "slot": 114
+ },
+ "0x00D900": {
+  "en": "Shows the unit's land terrain rating before and after the bonus.",
+  "slot": 102
+ },
+ "0x00D96D": {
+  "en": "Shows the unit's land terrain rating after the swap part change.",
+  "slot": 93
+ },
+ "0x00D9D1": {
+  "en": "Shows the unit's land terrain rating before the swap part change.",
+  "slot": 93
+ },
+ "0x00DA35": {
+  "en": "Shows the unit's land terrain rating if the selected part is removed.",
+  "slot": 114
+ },
+ "0x00DAAE": {
+  "en": "Shows the unit's current land terrain rating.",
+  "slot": 75
+ },
+ "0x00DB00": {
+  "en": "Shows the unit's land terrain rating after the part change.",
+  "slot": 93
+ },
+ "0x00DB64": {
+  "en": "Shows the unit's land terrain rating before the part change.",
+  "slot": 93
+ },
+ "0x00DC51": {
+  "en": "There are 5 ranks: A, B, C, D; S is best suited to that terrain.",
+  "slot": 96
+ },
+ "0x00DD00": {
+  "en": "\"Active\"...attacks hit only enemy-type units.",
+  "slot": 69
+ },
+ "0x00DD46": {
+  "en": "\"Inactive\"...attacks hit friend and foe alike.",
+  "slot": 63
+ },
+ "0x00DD91": {
+  "en": "#\u0001\u0010Shows the special skills the pilot has learned. Special skills are gained when a pilot levels up, or",
+  "slot": 138
+ },
+ "0x00DE1C": {
+  "en": "can be learned by spending PP via the \"Pilot Training\" command in the Intermission.",
+  "slot": 135
+ },
+ "0x00DEA4": {
+  "en": "On the map, special skills whose conditions are met are shown in blue text.",
+  "slot": 105
+ },
+ "0x00DF9D": {
+  "en": "the skill's text is shown in green.",
+  "slot": 51
+ },
+ "0x00DFD7": {
+  "en": "Shows the special skills the training pilot can learn.",
+  "slot": 84
+ },
+ "0x00E032": {
+  "en": "Sets the special evasion that occurs when the target dodges an attack.",
+  "slot": 87
+ },
+ "0x00E119": {
+  "en": "applies special effects such as status ailments.",
+  "slot": 42
+ },
+ "0x00E14A": {
+  "en": "Shows the weapon's effect against the target's barrier-type abilities.",
+  "slot": 87
+ },
+ "0x00E231": {
+  "en": "is shown.",
+  "slot": 18
+ },
+ "0x00E24A": {
+  "en": "Shows whether the unit has special abilities before and after the swap.",
+  "slot": 90
+ },
+ "0x00E2AB": {
+  "en": "Shows the change in the unit's special abilities before and after the part change.",
+  "slot": 93
+ },
+ "0x00E30F": {
+  "en": "Shows the special ability of the currently selected part.",
+  "slot": 75
+ },
+ "0x00E361": {
+  "en": "Shows whether the pilot has the special skill \"Psychic.\"",
+  "slot": 84
+ },
+ "0x00E3BC": {
+  "en": "Shows the pilot's combat ability. The higher the value, the greater the ability.",
+  "slot": 105
+ },
+ "0x00E42C": {
+  "en": "Shows the stat value before training.",
+  "slot": 39
+ },
+ "0x00E4E3": {
+  "en": "conditions may change due to events and the like.",
+  "slot": 69
+ },
+ "0x00E52F": {
+  "en": "Shows the name of the background.",
+  "slot": 33
+ },
+ "0x00E557": {
+  "en": "Shows the number of parts to be sold.",
+  "slot": 51
+ },
+ "0x00E61A": {
+  "en": "depends on the main unit's settings.",
+  "slot": 63
+ },
+ "0x00E716": {
+  "en": "can be checked.",
+  "slot": 39
+ },
+ "0x00E744": {
+  "en": "Shows the funds needed for the upgrade.",
+  "slot": 42
+ },
+ "0x00E7FE": {
+  "en": "cannot be used.",
+  "slot": 27
+ },
+ "0x00E8AC": {
+  "en": "pilot's Will. If Will is too low, that weapon cannot be used.",
+  "slot": 99
+ },
+ "0x00E916": {
+  "en": "Shows the upgrade level of the unit's fixed weapons.",
+  "slot": 54
+ },
+ "0x00E953": {
+  "en": "Shows the upgrade level of the unit's fixed weapons before and after upgrading.",
+  "slot": 81
+ },
+ "0x00E9AB": {
+  "en": "Shows the weapon's upgrade level.",
+  "slot": 39
+ },
+ "0x00EA92": {
+  "en": "command changes gear. Support weapons used in Maximum Break show <I=7><S=-8><Y=-6><I=158></Y> and such, with <C=FF0000FF>F</C>",
+  "slot": 173
+ },
+ "0x00EB40": {
+  "en": "is shown.",
+  "slot": 18
+ },
+ "0x00EB53": {
+  "en": "\"Melee\"...affected by pilot's Melee. \"Ranged\"...affected by pilot's Ranged.",
+  "slot": 132
+ },
+ "0x00EBD8": {
+  "en": "\"Repair Kit\"...enables \"Repair\" command. \"Supply Kit\"...enables \"Resupply\" command.",
+  "slot": 135
+ },
+ "0x00EC66": {
+  "en": "Shows the weapon's name.",
+  "slot": 33
+ },
+ "0x00ED13": {
+  "en": "<I=0> shows; transformable units show <I=2>; subpilots show <I=3>.",
+  "slot": 105
+ },
+ "0x00ED83": {
+  "en": "Shows the number of outfits the pilot can use in battle.",
+  "slot": 81
+ },
+ "0x00EDDB": {
+  "en": "Shows the category shown in the list.",
+  "slot": 66
+ },
+ "0x00EE24": {
+  "en": "Only non-ally pilots are shown.",
+  "slot": 63
+ },
+ "0x00EE6A": {
+  "en": "Only ally pilots are shown.",
+  "slot": 57
+ },
+ "0x00EEAA": {
+  "en": "Only non-ally units are shown.",
+  "slot": 54
+ },
+ "0x00EEE7": {
+  "en": "Only ally units are shown.",
+  "slot": 48
+ },
+ "0x00EF1E": {
+  "en": "Only non-ground backgrounds are shown.",
+  "slot": 54
+ },
+ "0x00EF5B": {
+  "en": "Only ground backgrounds are shown.",
+  "slot": 48
+ },
+ "0x00EF92": {
+  "en": "Only weapons other than fixed and swap weapons are shown.",
+  "slot": 75
+ },
+ "0x00EFE4": {
+  "en": "Only swap weapons are shown.",
+  "slot": 42
+ },
+ "0x00F015": {
+  "en": "Only fixed weapons are shown.",
+  "slot": 42
+ },
+ "0x00F046": {
+  "en": "Only abilities that raise funds or EXP gained in battle are shown.",
+  "slot": 111
+ },
+ "0x00F0BC": {
+  "en": "Only abilities that raise attack power are shown.",
+  "slot": 72
+ },
+ "0x00F10B": {
+  "en": "All abilities are shown.",
+  "slot": 48
+ },
+ "0x00F142": {
+  "en": "Only abilities that improve unit performance are shown.",
+  "slot": 78
+ },
+ "0x00F197": {
+  "en": "Only abilities that raise defense are shown.",
+  "slot": 72
+ },
+ "0x00F1E6": {
+  "en": "Only abilities that raise hit rate, evasion, or critical rate are shown.",
+  "slot": 120
+ },
+ "0x00F265": {
+  "en": "Only pilots equipped with the ability are shown.",
+  "slot": 81
+ },
+ "0x00F2BD": {
+  "en": "Only units equipped with the ability are shown.",
+  "slot": 72
+ },
+ "0x00F30C": {
+  "en": "Only weapons categorized as melee are shown.",
+  "slot": 54
+ },
+ "0x00F349": {
+  "en": "Only weapons categorized as ranged are shown.",
+  "slot": 54
+ },
+ "0x00F386": {
+  "en": "All swap weapons are shown.",
+  "slot": 45
+ },
+ "0x00F443": {
+  "en": "Only special items such as kits are shown.",
+  "slot": 60
+ },
+ "0x00F486": {
+  "en": "Only parts that improve unit performance are shown.",
+  "slot": 78
+ },
+ "0x00F4DB": {
+  "en": "Only parts usable via the map \"Parts\" command are shown.",
+  "slot": 111
+ },
+ "0x00F551": {
+  "en": "All parts are shown.",
+  "slot": 48
+ },
+ "0x00F588": {
+  "en": "Only parts that improve weapon performance are shown.",
+  "slot": 78
+ },
+ "0x00F5DD": {
+  "en": "Only parts with special effects, such as combining multiple types, are shown.",
+  "slot": 117
+ },
+ "0x00F659": {
+  "en": "When lit, the unit can transform into another form.",
+  "slot": 87
+ },
+ "0x00F6BC": {
+  "en": "@\u0001\nShows whether the unit can use the \"Resupply\" command. When used, the range",
+  "slot": 135
+ },
+ "0x00F744": {
+  "en": "restores the EN and ammo of units within range. In the Intermission's",
+  "slot": 132
+ },
+ "0x00F7C9": {
+  "en": "weapon swap command, equipping a <I=9><S=-16><Y=5><I=16></Y> Supply Kit enables \"Resupply.\"",
+  "slot": 138
+ },
+ "0x00F8EB": {
+  "en": "if used, restores the EN and ammo of units within range to their max. In the",
+  "slot": 132
+ },
+ "0x00F970": {
+  "en": "Intermission's weapon swap command, equipping a <I=9><S=-16><Y=5><I=16></Y> Supply Kit enables \"Resupply\"",
+  "slot": 156
+ },
+ "0x00FA0D": {
+  "en": ".",
+  "slot": 15
+ },
+ "0x00FAB4": {
+  "en": "if used, restores the EN and ammo of units within range to their max. In the",
+  "slot": 132
+ },
+ "0x00FB39": {
+  "en": "Intermission's weapon swap command, equipping a <I=9><S=-16><Y=5><I=16></Y> Supply Kit enables \"Resupply\"",
+  "slot": 156
+ },
+ "0x00FBD6": {
+  "en": ".",
+  "slot": 15
+ },
+ "0x00FBEC": {
+  "en": "Shows whether the squad after forming can use the \"Resupply\" command.",
+  "slot": 111
+ },
+ "0x00FC62": {
+  "en": "Shows whether the squad before forming can use the \"Resupply\" command.",
+  "slot": 111
+ },
+ "0x00FD61": {
+  "en": ".",
+  "slot": 15
+ },
+ "0x00FE00": {
+  "en": ". If afflicted by a status ailment, the reduced value is shown.",
+  "slot": 108
+ },
+ "0x00FEFC": {
+  "en": "is shown in green text, and the raised value is shown.",
+  "slot": 78
+ },
+ "0x00FF51": {
+  "en": "Shows the defense bonus percentage gained when a unit on that terrain is attacked.",
+  "slot": 108
+ },
+ "0x00FFC4": {
+  "en": "Shows the pilot's attack accuracy. The higher the value, the easier attacks hit.",
+  "slot": 126
+ },
+ "0x0100D5": {
+  "en": "ailment, the reduced value is shown.",
+  "slot": 84
+ },
+ "0x0101B9": {
+  "en": "is shown in green, and the raised value is shown.",
+  "slot": 69
+ },
+ "0x010205": {
+  "en": "Sets whether the attack hits the target.",
+  "slot": 69
+ },
+ "0x010251": {
+  "en": "Shows the weapon's accuracy. The higher the value, the higher the hit rate on enemies.",
+  "slot": 117
+ },
+ "0x0102CD": {
+  "en": "Shows the probability the attack hits the target.",
+  "slot": 54
+ },
+ "0x01030F": {
+  "en": "+\u0001\nShows whether the pilot has the special skill \"Continuous Attack.\" The value is the current skill level",
+  "slot": 135
+ },
+ "0x010397": {
+  "en": ". Pilots with this skill can perform a \"Combination Attack\" against multiple enemy units in a ",
+  "slot": 132
+ },
+ "0x01041C": {
+  "en": "single battle. The higher the skill level, the more units can be attacked.",
+  "slot": 129
+ },
+ "0x0104A4": {
+  "en": "Raises the unit's Movement by 1.",
+  "slot": 51
+ },
+ "0x0104DE": {
+  "en": "Raises the unit's Movement by 2.",
+  "slot": 51
+ },
+ "0x010518": {
+  "en": "Raises the unit's Mobility by 25.",
+  "slot": 54
+ },
+ "0x010555": {
+  "en": "Raises the unit's Mobility by 15.",
+  "slot": 54
+ },
+ "0x010592": {
+  "en": "Raises the unit's Mobility by 5.",
+  "slot": 51
+ },
+ "0x0105CC": {
+  "en": "Raises the unit's Movement by 1 and Mobility by 5.",
+  "slot": 69
+ },
+ "0x010618": {
+  "en": "Raises the unit's max HP by 500 and Armor by 100.",
+  "slot": 84
+ },
+ "0x010673": {
+  "en": "Raises the unit's max HP by 1000 and Armor by 150.",
+  "slot": 87
+ },
+ "0x0106D1": {
+  "en": "Raises the unit's max HP by 1000 and Armor by 200.",
+  "slot": 87
+ },
+ "0x01072F": {
+  "en": "Raises the unit's max HP by 1500 and Armor by 250.",
+  "slot": 87
+ },
+ "0x01078D": {
+  "en": "Grants the unit the \"Air\" movement type and sets unit and weapon \"Air\" terrain to A.",
+  "slot": 105
+ },
+ "0x010886": {
+  "en": ".",
+  "slot": 15
+ },
+ "0x01089C": {
+  "en": "Sets unit and weapon \"Space\" terrain rating to S.",
+  "slot": 60
+ },
+ "0x0108DF": {
+  "en": "Grants the unit the \"Land\" movement type and sets unit and weapon \"Land\" terrain to S.",
+  "slot": 105
+ },
+ "0x01094F": {
+  "en": "Grants the unit the \"Sea\" movement type and sets unit and weapon \"Sea\" terrain to S.",
+  "slot": 105
+ },
+ "0x0109BF": {
+  "en": "Sets all unit and weapon terrain ratings to A.",
+  "slot": 54
+ },
+ "0x0109FC": {
+  "en": "Sets all unit and weapon terrain ratings to S.",
+  "slot": 54
+ },
+ "0x010A39": {
+  "en": "When the pilot's Will is 130 or higher, evades enemy attacks with a 50% chance.",
+  "slot": 111
+ },
+ "0x010AAF": {
+  "en": "Raises equipped weapon accuracy by 20.",
+  "slot": 60
+ },
+ "0x010AF2": {
+  "en": "Raises equipped weapon accuracy by 10.",
+  "slot": 60
+ },
+ "0x010B35": {
+  "en": "Raises range by 1 for all weapons except MAP weapons and range-1 weapons.",
+  "slot": 93
+ },
+ "0x010B99": {
+  "en": "Raises equipped weapon accuracy by 40.",
+  "slot": 60
+ },
+ "0x010BDC": {
+  "en": "Raises equipped weapon critical rate by 20.",
+  "slot": 78
+ },
+ "0x010C31": {
+  "en": "Raises equipped weapon accuracy by 30.",
+  "slot": 60
+ },
+ "0x010C74": {
+  "en": "Fully restores the unit's HP. Usable only once per map.",
+  "slot": 93
+ },
+ "0x010CD8": {
+  "en": "Fully restores the unit's EN. Usable only once per map.",
+  "slot": 93
+ },
+ "0x010D3C": {
+  "en": "Fully restores equipped weapon ammo. Usable only once per map.",
+  "slot": 102
+ },
+ "0x010DA9": {
+  "en": "Fully restores the unit's HP, EN, and ammo. Usable only once per map.",
+  "slot": 114
+ },
+ "0x010E22": {
+  "en": "Restores 50 of the pilot's SP. Usable only once per map.",
+  "slot": 123
+ },
+ "0x010EA4": {
+  "en": "Fully restores the pilot's SP. Usable only once per map.",
+  "slot": 114
+ },
+ "0x010FA6": {
+  "en": "Raises range by 1.",
+  "slot": 39
+ },
+ "0x010FD4": {
+  "en": "Raises the unit's Armor by 200, Mobility by 25, and weapon accuracy by 30.",
+  "slot": 108
+ },
+ "0x011047": {
+  "en": "Raises the unit's Armor by 250, Mobility by 30, and weapon accuracy by 35.",
+  "slot": 108
+ },
+ "0x0110BA": {
+  "en": "Raises the unit's max EN by 50.",
+  "slot": 57
+ },
+ "0x0110FA": {
+  "en": "Raises the unit's max EN by 100.",
+  "slot": 60
+ },
+ "0x01113D": {
+  "en": "Raises the unit's max EN by 200.",
+  "slot": 60
+ },
+ "0x011180": {
+  "en": "At the start of the player phase, EN recovers by 10% of its max value.",
+  "slot": 90
+ },
+ "0x01126A": {
+  "en": "s.",
+  "slot": 9
+ },
+ "0x011303": {
+  "en": "reduces.",
+  "slot": 15
+ },
+ "0x0113A2": {
+  "en": "Nullifies damage taken.",
+  "slot": 42
+ },
+ "0x0113D6": {
+  "en": "|When EN is 15+ and Will is 120+, all attacks (except barrier-piercing weapons) dealing",
+  "slot": 124
+ },
+ "0x011453": {
+  "en": "damage up to 1800 are nullified.",
+  "slot": 57
+ },
+ "0x011493": {
+  "en": "Raises the pilot's Will by 5 upon deployment.",
+  "slot": 69
+ },
+ "0x0114DF": {
+  "en": "Raises the pilot's Will by 10 upon deployment.",
+  "slot": 72
+ },
+ "0x01152E": {
+  "en": "The higher the skill level, the higher accuracy and evasion in battle.",
+  "slot": 96
+ },
+ "0x01161E": {
+  "en": "The higher the level, the higher the activation rate.",
+  "slot": 60
+ },
+ "0x0116EA": {
+  "en": "critical rate rises.",
+  "slot": 33
+ },
+ "0x011712": {
+  "en": "Provides support attack for adjacent allies. The higher the skill level, the more support attacks possible.",
+  "slot": 135
+ },
+ "0x0117A0": {
+  "en": "Provides support defense for adjacent allies. The higher the skill level, the more support defenses possible.",
+  "slot": 135
+ },
+ "0x0118B7": {
+  "en": "rises.",
+  "slot": 15
+ },
+ "0x011958": {
+  "en": "s.",
+  "slot": 9
+ },
+ "0x0119F3": {
+  "en": ".",
+  "slot": 6
+ },
+ "0x011A00": {
+  "en": "The higher the skill level, the higher the max SP.",
+  "slot": 84
+ },
+ "0x011AE4": {
+  "en": ".",
+  "slot": 6
+ },
+ "0x011B7A": {
+  "en": "Ability to trigger this. The \"level\" of Continuous Attack Lv +1 = number of units attackable.",
+  "slot": 126
+ },
+ "0x011BFF": {
+  "en": "At the start of the player phase, SP recovers by 10.",
+  "slot": 72
+ },
+ "0x011C4E": {
+  "en": "SP cost for Spirit Commands and Twin Spirit Commands becomes 80%.",
+  "slot": 108
+ },
+ "0x011CC1": {
+  "en": "If the unit attacks without moving, it can move afterward.",
+  "slot": 72
+ },
+ "0x011D10": {
+  "en": "Raises accuracy, evasion, and critical rate by 20.",
+  "slot": 84
+ },
+ "0x011D6B": {
+  "en": "When Will is 130 or higher, damage dealt becomes 1.2x.",
+  "slot": 81
+ },
+ "0x011DC3": {
+  "en": "Damage dealt on counterattack becomes 1.2x.",
+  "slot": 66
+ },
+ "0x011E0C": {
+  "en": "When Will is 130+, final evasion rises by 30 during enemy phases only.",
+  "slot": 126
+ },
+ "0x011F1A": {
+  "en": "the max value is up to 2x.",
+  "slot": 36
+ },
+ "0x011F45": {
+  "en": "When Will is 130 or higher, accuracy and evasion rise by 10.",
+  "slot": 90
+ },
+ "0x011FA6": {
+  "en": "Weapon EN cost becomes 70% of normal.",
+  "slot": 60
+ },
+ "0x011FE9": {
+  "en": "Weapon max ammo becomes 1.5x normal.",
+  "slot": 63
+ },
+ "0x01202F": {
+  "en": "When fighting in a sub-unit, gains the same EXP and PP as the main unit.",
+  "slot": 99
+ },
+ "0x012099": {
+  "en": "Raises Will by 5 upon deployment.",
+  "slot": 48
+ },
+ "0x0120D0": {
+  "en": "At the start of the player phase, Will rises by 2.",
+  "slot": 63
+ },
+ "0x012116": {
+  "en": "When an attack is evaded, Will rises by 1 more beyond the normal change.",
+  "slot": 93
+ },
+ "0x01217A": {
+  "en": "When an attack hits an enemy, Will rises by 1 more beyond the normal change.",
+  "slot": 102
+ },
+ "0x0121E7": {
+  "en": "When damaged by an attack, Will rises by 2 more beyond the normal change.",
+  "slot": 105
+ },
+ "0x012257": {
+  "en": "When an enemy is shot down, Will rises by 1 more beyond the normal change.",
+  "slot": 93
+ },
+ "0x0122BB": {
+  "en": "Makes damage dealt in support attacks 100%.",
+  "slot": 69
+ },
+ "0x012307": {
+  "en": "Reduces the damage drop by 20% when a main (sub) unit attacks a sub (main) unit.",
+  "slot": 132
+ },
+ "0x012392": {
+  "en": "When Will is 130 or higher, damage taken in battle becomes 80%.",
+  "slot": 96
+ },
+ "0x0123F9": {
+  "en": "The Will cap becomes 170.",
+  "slot": 51
+ },
+ "0x012433": {
+  "en": "When using the \"Repair\" command, HP recovery becomes 1.2x.",
+  "slot": 96
+ },
+ "0x01249A": {
+  "en": "The \"Resupply\" command becomes usable after moving.",
+  "slot": 75
+ },
+ "0x0124EC": {
+  "en": "Increases actions per turn by 1.",
+  "slot": 51
+ },
+ "0x012526": {
+  "en": "EXP gained in battle becomes 1.2x.",
+  "slot": 60
+ },
+ "0x0125F2": {
+  "en": "performs an attack.",
+  "slot": 21
+ },
+ "0x012697": {
+  "en": "reduces damage by 1500.",
+  "slot": 42
+ },
+ "0x012751": {
+  "en": ".",
+  "slot": 12
+ },
+ "0x0127ED": {
+  "en": "reduces by 1500.",
+  "slot": 39
+ },
+ "0x0128A4": {
+  "en": "recovers.",
+  "slot": 18
+ },
+ "0x012949": {
+  "en": "pilot special skill \"Psychic\" skill level x200 of damage is nullified.",
+  "slot": 116
+ },
+ "0x012A50": {
+  "en": "pilot special skill \"Psychic\" skill level x250 of damage is nullified.",
+  "slot": 116
+ },
+ "0x012ACB": {
+  "en": "When EN is 10 or higher, halves damage from all attacks (except barrier-piercing weapons).",
+  "slot": 129
+ },
+ "0x012B53": {
+  "en": "At the start of the player phase, HP recovers.",
+  "slot": 60
+ },
+ "0x012B96": {
+  "en": "At the start of the player phase, HP recovers by 10% of its max value.",
+  "slot": 90
+ },
+ "0x012BF7": {
+  "en": "At the start of the player phase, HP recovers by 20% of its max value.",
+  "slot": 90
+ },
+ "0x012C58": {
+  "en": "At the start of the player phase, HP recovers by 30% of its max value.",
+  "slot": 90
+ },
+ "0x012CB9": {
+  "en": "At the start of the player phase, EN recovers.",
+  "slot": 60
+ },
+ "0x012CFC": {
+  "en": "At the start of the player phase, EN recovers by 20% of its max value.",
+  "slot": 90
+ },
+ "0x012D5D": {
+  "en": "At the start of the player phase, EN recovers by 30% of its max value.",
+  "slot": 90
+ },
+ "0x012DBE": {
+  "en": "When Will is 130+, the main pilot's Melee, Hit, and Skill rise by 20.",
+  "slot": 120
+ },
+ "0x012E42": {
+  "en": "#\u0001\nAt the start of the player phase, for units on the map with the \"ODE System\" ability, the pilot's",
+  "slot": 135
+ },
+ "0x012ECA": {
+  "en": "Will becomes equal to the highest pilot Will among them. Also, final accuracy and evasion rise by the \"num",
+  "slot": 132
+ },
+ "0x012F4F": {
+  "en": "ber of ODE System units on the map\" + \"turns elapsed\" x2.",
+  "slot": 104
+ },
+ "0x012FBE": {
+  "en": "Nullifies missile-type attacks with a 50% chance.",
+  "slot": 69
+ },
+ "0x01300A": {
+  "en": "When the pilot's Will is 130 or higher, evades attacks with a 50% chance.",
+  "slot": 105
+ },
+ "0x01307A": {
+  "en": "Sets the BGM.",
+  "slot": 30
+ },
+ "0x013128": {
+  "en": "indicates.",
+  "slot": 18
+ },
+ "0x013141": {
+  "en": "A setting that is active only when the attack hits.",
+  "slot": 66
+ },
+ "0x01318A": {
+  "en": "A setting that is active only when the attack misses.",
+  "slot": 69
+ },
+ "0x0131D6": {
+  "en": "Nullifies all P-type special effects.",
+  "slot": 51
+ },
+ "0x013210": {
+  "en": "Nullifies all R-type special effects.",
+  "slot": 51
+ },
+ "0x01324A": {
+  "en": "Nullifies all special effects.",
+  "slot": 45
+ },
+ "0x01327E": {
+  "en": "Can use commandable parts equipped on adjacent units.",
+  "slot": 114
+ },
+ "0x0132F7": {
+  "en": "Can transform the unit into a different form.",
+  "slot": 60
+ },
+ "0x01333A": {
+  "en": "Can combine multiple units into a different form, or separate back into the original units.",
+  "slot": 132
+ },
+ "0x0133C5": {
+  "en": "Can restore EN and ammo of units within range to max.",
+  "slot": 108
+ },
+ "0x013438": {
+  "en": "Can restore HP of units within range.",
+  "slot": 81
+ },
+ "0x013490": {
+  "en": "???",
+  "slot": 9
+ },
+ "0x0134A0": {
+  "en": "Once only, damage dealt in battle becomes 2x.",
+  "slot": 72
+ },
+ "0x0134EF": {
+  "en": "Once only, completely evades the enemy's attack in battle.",
+  "slot": 66
+ },
+ "0x013538": {
+  "en": "Once only, makes all damage taken in battle 10.",
+  "slot": 78
+ },
+ "0x01358D": {
+  "en": "For 1 turn, reduces damage taken in battle to 1/4.",
+  "slot": 78
+ },
+ "0x0135E2": {
+  "en": "For 1 turn, raises hit and evasion rates by 30.",
+  "slot": 75
+ },
+ "0x0136BD": {
+  "en": "(Alert takes priority).",
+  "slot": 27
+ },
+ "0x0136DF": {
+  "en": "Grants the Strike effect to the selected unit.",
+  "slot": 78
+ },
+ "0x013734": {
+  "en": "Adds +3 to movement one time.",
+  "slot": 48
+ },
+ "0x01376B": {
+  "en": "Grants one extra action this turn.",
+  "slot": 42
+ },
+ "0x01379C": {
+  "en": "Restores 30% of your max HP.",
+  "slot": 69
+ },
+ "0x0137E8": {
+  "en": "Restores your HP to maximum.",
+  "slot": 54
+ },
+ "0x013825": {
+  "en": "Restores 2000 HP to the selected unit.",
+  "slot": 60
+ },
+ "0x013868": {
+  "en": "Fully restores the selected unit's HP.",
+  "slot": 51
+ },
+ "0x0138A2": {
+  "en": "Restores the selected unit's EN and ammo to max.",
+  "slot": 78
+ },
+ "0x0138F7": {
+  "en": "Raises your Will by 10.",
+  "slot": 45
+ },
+ "0x01392B": {
+  "en": "Raises your Will by 30.",
+  "slot": 45
+ },
+ "0x01395F": {
+  "en": "Raises the selected unit's Will by 10.",
+  "slot": 57
+ },
+ "0x013A28": {
+  "en": "it is nullified.",
+  "slot": 30
+ },
+ "0x013A4D": {
+  "en": "One time, adds +2 range to all weapons except range-1 and map weapons.",
+  "slot": 108
+ },
+ "0x013AC0": {
+  "en": "One time, prevents the enemy's support defense and special defenses.",
+  "slot": 84
+ },
+ "0x013B1B": {
+  "en": "Lets you view the status of the selected enemy unit.",
+  "slot": 75
+ },
+ "0x013B6D": {
+  "en": "Lowers the selected unit's Will by 10.",
+  "slot": 51
+ },
+ "0x013C30": {
+  "en": ".",
+  "slot": 9
+ },
+ "0x013C40": {
+  "en": "Doubles the funds earned in the next battle.",
+  "slot": 60
+ },
+ "0x013C83": {
+  "en": "Grants the Luck effect to the selected unit.",
+  "slot": 78
+ },
+ "0x013CD8": {
+  "en": "Doubles the EXP earned in the next battle.",
+  "slot": 63
+ },
+ "0x013D1E": {
+  "en": "Grants the Gain effect to the selected unit.",
+  "slot": 78
+ },
+ "0x013D73": {
+  "en": "Gains the Alert and Strike effects at once.",
+  "slot": 81
+ },
+ "0x013DCB": {
+  "en": "Lets a unit that has already acted act again.",
+  "slot": 69
+ },
+ "0x013E17": {
+  "en": "For 1 turn, all weapons except map weapons can be used after moving.",
+  "slot": 114
+ },
+ "0x013E90": {
+  "en": "Restores 50% of max HP to all allied units.",
+  "slot": 81
+ },
+ "0x013EE8": {
+  "en": "Raises the Will of all allied pilots by 5.",
+  "slot": 54
+ },
+ "0x013F25": {
+  "en": "Doubles the PP earned in the next battle.",
+  "slot": 81
+ },
+ "0x013F7D": {
+  "en": "For 1 turn, nullifies status ailments in battle and cuts damage to 1/4.",
+  "slot": 117
+ },
+ "0x013FF9": {
+  "en": "For 1 turn, halves all enemy hit rates. Strike still takes priority.",
+  "slot": 111
+ },
+ "0x01406F": {
+  "en": "One time, deals 2.5x damage in battle. Cannot be used with Valor.",
+  "slot": 123
+ },
+ "0x0140F1": {
+  "en": "If you destroy the attacked enemy unit next battle, you may act again.",
+  "slot": 114
+ },
+ "0x0141F6": {
+  "en": "to match the higher pilot's value.",
+  "slot": 45
+ },
+ "0x01422A": {
+  "en": "For 1 turn, all attacks are guaranteed critical hits.",
+  "slot": 72
+ },
+ "0x014279": {
+  "en": "Restores 50 SP to the selected pilot.",
+  "slot": 75
+ },
+ "0x0142CB": {
+  "en": "Cures the status ailments of the selected unit.",
+  "slot": 63
+ },
+ "0x014311": {
+  "en": "Gains the Accel, Charge, and Direct Hit effects at once.",
+  "slot": 87
+ },
+ "0x01436F": {
+  "en": "Shown when the unit's mobility is reduced by a status ailment.",
+  "slot": 114
+ },
+ "0x0143E8": {
+  "en": "Shown when the unit's armor is reduced by a status ailment.",
+  "slot": 114
+ },
+ "0x014461": {
+  "en": "Shown when the unit's movement is reduced by a status ailment.",
+  "slot": 114
+ },
+ "0x0144DA": {
+  "en": "Shown when the unit's attack is reduced by a status ailment.",
+  "slot": 114
+ },
+ "0x014553": {
+  "en": "Shown when the unit's range is reduced by a status ailment.",
+  "slot": 114
+ },
+ "0x0145CC": {
+  "en": "Shown when the unit's accuracy is reduced by a status ailment.",
+  "slot": 114
+ },
+ "0x0146CE": {
+  "en": "case, it is shown.",
+  "slot": 39
+ },
+ "0x014701": {
+  "en": "\u0017\u0001\nShown when a status ailment prevents the unit from using individual commands. When",
+  "slot": 135
+ },
+ "0x014789": {
+  "en": "ailing, individual commands other than Merge, Split, Main, and Ability become",
+  "slot": 132
+ },
+ "0x01480E": {
+  "en": "unusable, and no command can be chosen when counterattacking.",
+  "slot": 69
+ },
+ "0x0148E6": {
+  "en": "While ailing, spirit commands cannot be used and all lasting spirit effects are cleared.",
+  "slot": 126
+ },
+ "0x01496B": {
+  "en": "When hit, the unit's mobility drops for 1 turn.",
+  "slot": 87
+ },
+ "0x0149C9": {
+  "en": "When hit, the unit's mobility drops by 10 for 1 turn.",
+  "slot": 99
+ },
+ "0x014A33": {
+  "en": "When hit, the unit's mobility drops by 20 for 1 turn.",
+  "slot": 99
+ },
+ "0x014A9D": {
+  "en": "When hit, the unit's mobility drops by 30 for 1 turn.",
+  "slot": 99
+ },
+ "0x014B07": {
+  "en": "When hit, the unit's armor drops for 1 turn.",
+  "slot": 87
+ },
+ "0x014B65": {
+  "en": "When hit, the unit's armor drops by 250 for 1 turn.",
+  "slot": 102
+ },
+ "0x014BD2": {
+  "en": "When hit, the unit's armor drops by 500 for 1 turn.",
+  "slot": 102
+ },
+ "0x014C3F": {
+  "en": "When hit, the unit's armor drops by 750 for 1 turn.",
+  "slot": 102
+ },
+ "0x014CAC": {
+  "en": "When hit, the unit's movement drops by 4 for 1 turn.",
+  "slot": 90
+ },
+ "0x014D0D": {
+  "en": "When hit, the unit's final damage drops for 1 turn.",
+  "slot": 96
+ },
+ "0x014D74": {
+  "en": "When hit, the unit's final damage drops by 10% for 1 turn.",
+  "slot": 114
+ },
+ "0x014DED": {
+  "en": "When hit, the unit's final damage drops by 20% for 1 turn.",
+  "slot": 114
+ },
+ "0x014E66": {
+  "en": "When hit, the unit's final damage drops by 30% for 1 turn.",
+  "slot": 114
+ },
+ "0x014EDF": {
+  "en": "When hit, the max range of all the unit's weapons drops by 2 for 1 turn.",
+  "slot": 108
+ },
+ "0x014F52": {
+  "en": "When hit, the unit's accuracy drops for 1 turn.",
+  "slot": 87
+ },
+ "0x014FB0": {
+  "en": "When hit, the unit's accuracy drops by 10 for 1 turn.",
+  "slot": 99
+ },
+ "0x01501A": {
+  "en": "When hit, the unit's accuracy drops by 20 for 1 turn.",
+  "slot": 99
+ },
+ "0x015084": {
+  "en": "When hit, the unit's accuracy drops by 30 for 1 turn.",
+  "slot": 99
+ },
+ "0x0150EE": {
+  "en": "When hit, the unit's current EN drops.",
+  "slot": 69
+ },
+ "0x01513A": {
+  "en": "When hit, the unit's current EN drops by 30.",
+  "slot": 81
+ },
+ "0x015192": {
+  "en": "When hit, the unit's current EN drops by 50.",
+  "slot": 81
+ },
+ "0x0151EA": {
+  "en": "When hit, the unit's current EN drops by 100.",
+  "slot": 84
+ },
+ "0x015245": {
+  "en": "When hit, the unit's current EN drops and the attacker's EN rises by that amount.",
+  "slot": 129
+ },
+ "0x015356": {
+  "en": ".",
+  "slot": 9
+ },
+ "0x0153EF": {
+  "en": ".",
+  "slot": 9
+ },
+ "0x015488": {
+  "en": "s it.",
+  "slot": 12
+ },
+ "0x015524": {
+  "en": "drops.",
+  "slot": 21
+ },
+ "0x0155C9": {
+  "en": "drops by 10.",
+  "slot": 33
+ },
+ "0x01567A": {
+  "en": "drops by 20.",
+  "slot": 33
+ },
+ "0x01572B": {
+  "en": "drops by 30.",
+  "slot": 33
+ },
+ "0x0157DC": {
+  "en": "become unusable, and no command can be chosen when counterattacking.",
+  "slot": 111
+ },
+ "0x015852": {
+  "en": "When hit, the main pilot's Will drops.",
+  "slot": 81
+ },
+ "0x0158AA": {
+  "en": "When hit, the main pilot's Will drops by 5.",
+  "slot": 90
+ },
+ "0x01590B": {
+  "en": "When hit, the main pilot's Will drops by 10.",
+  "slot": 93
+ },
+ "0x01596F": {
+  "en": "When hit, the main pilot's Will drops by 15.",
+  "slot": 93
+ },
+ "0x015A5F": {
+  "en": "raises the pilot's current SP.",
+  "slot": 42
+ },
+ "0x015B19": {
+  "en": "raises the main pilot's current SP.",
+  "slot": 57
+ },
+ "0x015BE2": {
+  "en": "raises the main pilot's current SP.",
+  "slot": 57
+ },
+ "0x015CAB": {
+  "en": "raises the main pilot's current SP.",
+  "slot": 57
+ },
+ "0x015D74": {
+  "en": "all spirit commands are cleared.",
+  "slot": 48
+ },
+ "0x015DAB": {
+  "en": "Stops the target's barrier-type abilities from activating.",
+  "slot": 66
+ },
+ "0x015DF4": {
+  "en": "Pierces any barrier the target has generated.",
+  "slot": 57
+ },
+ "0x015E34": {
+  "en": "Halves the target's barrier-type special abilities.",
+  "slot": 63
+ },
+ "0x015E7F": {
+  "en": "If the unit or its main pilot in the squad has 3 or more Melee Up abilities equipped in total,",
+  "slot": 135
+ },
+ "0x015F07": {
+  "en": "the unit's melee weapon damage rises by 5%. Abilities are equipped from the",
+  "slot": 132
+ },
+ "0x015F8C": {
+  "en": "Ability command on the intermission screen.",
+  "slot": 75
+ },
+ "0x015FE3": {
+  "en": "If the unit or its main pilot in the squad has 3 or more Ranged Up abilities equipped in total,",
+  "slot": 135
+ },
+ "0x01606B": {
+  "en": "the unit's ranged weapon damage rises by 5%. Abilities are equipped from the",
+  "slot": 132
+ },
+ "0x0160F0": {
+  "en": "Ability command on the intermission screen.",
+  "slot": 75
+ },
+ "0x016147": {
+  "en": "If the unit or its main pilot in the squad has 3 or more Counter Up abilities equipped in total,",
+  "slot": 135
+ },
+ "0x0161CF": {
+  "en": "the unit's counter damage rises by 5%. Abilities are equipped from the",
+  "slot": 135
+ },
+ "0x016257": {
+  "en": "Ability command on the intermission screen.",
+  "slot": 69
+ },
+ "0x0162A8": {
+  "en": "If the unit or its main pilot in the squad has 3 or more Beam Up abilities equipped in total,",
+  "slot": 135
+ },
+ "0x016330": {
+  "en": "the unit's beam weapon damage rises by 5%. Abilities are",
+  "slot": 132
+ },
+ "0x0163B5": {
+  "en": "equipped from the Ability command on the intermission screen.",
+  "slot": 84
+ },
+ "0x016415": {
+  "en": "If the unit or its main pilot in the squad has 3 or more Ammo Up abilities equipped in total,",
+  "slot": 135
+ },
+ "0x01649D": {
+  "en": "the unit's ammo weapon damage rises by 5%. Abilities are equipped from",
+  "slot": 132
+ },
+ "0x016522": {
+  "en": "the Ability command on the intermission screen.",
+  "slot": 78
+ },
+ "0x01657C": {
+  "en": "If the unit or its main pilot in the squad has 3 or more Psychic Up abilities equipped in total,",
+  "slot": 135
+ },
+ "0x016604": {
+  "en": "the unit's psychic weapon damage rises by 5%. Abilities are equipped from",
+  "slot": 132
+ },
+ "0x016689": {
+  "en": "the Ability command on the intermission screen.",
+  "slot": 78
+ },
+ "0x0166E3": {
+  "en": "If the unit or its main pilot in the squad has 3 or more Support Atk Up abilities equipped in total,",
+  "slot": 135
+ },
+ "0x01676B": {
+  "en": "the unit's support attack damage rises by 5%. Abilities are equipped from",
+  "slot": 132
+ },
+ "0x0167F0": {
+  "en": "the Ability command on the intermission screen.",
+  "slot": 78
+ },
+ "0x01684A": {
+  "en": "If the unit or its main pilot in the squad has 3 or more Armor Up abilities equipped in total,",
+  "slot": 135
+ },
+ "0x0168D2": {
+  "en": "the unit takes 5% less damage. Abilities are equipped from the intermission",
+  "slot": 135
+ },
+ "0x01695A": {
+  "en": "screen's Ability command.",
+  "slot": 57
+ },
+ "0x01699F": {
+  "en": "If the unit or its main pilot in the squad has 3 or more Support Def Up abilities equipped in total,",
+  "slot": 135
+ },
+ "0x016A27": {
+  "en": "the unit takes 5% less damage on support defense. Abilities are equipped from",
+  "slot": 132
+ },
+ "0x016AAC": {
+  "en": "the Ability command on the intermission screen.",
+  "slot": 78
+ },
+ "0x016B06": {
+  "en": "\u0011\u0001\nWhen units and/or main pilots in the squad have 3 or more \"Hit Up\" abilities",
+  "slot": 135
+ },
+ "0x016B8E": {
+  "en": "equipped in total, this unit's accuracy rises by 5. Equip abilities via the Intermission's",
+  "slot": 132
+ },
+ "0x016C13": {
+  "en": "\"Ability\" command.",
+  "slot": 51
+ },
+ "0x016C52": {
+  "en": "\u0011\u0001\nWhen units and/or main pilots in the squad have 3 or more \"Evade Up\" abilities equipped",
+  "slot": 135
+ },
+ "0x016CDA": {
+  "en": "in total, this unit's evasion rises by 5. Equip abilities via the Intermission's",
+  "slot": 132
+ },
+ "0x016D5F": {
+  "en": "\"Ability\" command.",
+  "slot": 51
+ },
+ "0x016D9E": {
+  "en": "\u0019\u0001\nWhen units and/or main pilots in the squad have 3 or more \"CRT Up\" abilities equipped",
+  "slot": 135
+ },
+ "0x016E26": {
+  "en": "in total, this unit's critical rate rises by 10. Equip abilities in the",
+  "slot": 132
+ },
+ "0x016EAB": {
+  "en": "Intermission's \"Ability\" command.",
+  "slot": 75
+ },
+ "0x016F02": {
+  "en": "\u0019\u0001\nWhen units and/or main pilots in the squad have 3 or more \"EXP+\" abilities equipped",
+  "slot": 135
+ },
+ "0x016F8A": {
+  "en": "in total, EXP gained in battle by this unit rises by 10%. Equip abilities in the",
+  "slot": 132
+ },
+ "0x01700F": {
+  "en": "Intermission's \"Ability\" command.",
+  "slot": 75
+ },
+ "0x017066": {
+  "en": "\u0017\u0001\nWhen units and/or main pilots in the squad have 3 or more \"Cash+\" abilities equipped",
+  "slot": 135
+ },
+ "0x0170EE": {
+  "en": "in total, cash gained in battle by this unit rises by 10%. Equip abilities via the",
+  "slot": 132
+ },
+ "0x017173": {
+  "en": "Intermission's \"Ability\" command.",
+  "slot": 69
+ },
+ "0x0171C4": {
+  "en": "\u0015\u0001\nWhen units and/or main pilots in the squad have 3 or more \"Repair+\" abilities equipped",
+  "slot": 135
+ },
+ "0x01724C": {
+  "en": "in total, this unit's repair recovery rate rises by 10%. Equip abilities in the",
+  "slot": 132
+ },
+ "0x0172D1": {
+  "en": "Intermission's \"Ability\" command.",
+  "slot": 63
+ },
+ "0x01731C": {
+  "en": "\u0011\u0001\nWhen units and/or main pilots in the squad have 3 or more \"HP+\" abilities equipped",
+  "slot": 135
+ },
+ "0x0173A4": {
+  "en": "in total, this unit's max HP rises by 5%. Equip abilities via the Intermission's",
+  "slot": 132
+ },
+ "0x017429": {
+  "en": "\"Ability\" command.",
+  "slot": 51
+ },
+ "0x017468": {
+  "en": "\u0011\u0001\nWhen units and/or main pilots in the squad have 3 or more \"EN+\" abilities equipped",
+  "slot": 135
+ },
+ "0x0174F0": {
+  "en": "in total, this unit's max EN rises by 5%. Equip abilities via the Intermission's",
+  "slot": 132
+ },
+ "0x017575": {
+  "en": "\"Ability\" command.",
+  "slot": 51
+ },
+ "0x0175B4": {
+  "en": "\u0012\u0001\nWhen units and/or main pilots in the squad have 3 or more \"Move+\" abilities equipped",
+  "slot": 135
+ },
+ "0x01763C": {
+  "en": "in total, this unit's movement rises by 1. Equip abilities in the Intermission's",
+  "slot": 132
+ },
+ "0x0176C1": {
+  "en": "\"Ability\" command.",
+  "slot": 54
+ },
+ "0x017703": {
+  "en": "\u0017\u0001\rWhen units and/or main pilots in the squad have 3 or more \"Block\" abilities equipped",
+  "slot": 135
+ },
+ "0x01778B": {
+  "en": "in total, this unit gains the \"Full Block\" special ability. Equip abilities via the",
+  "slot": 135
+ },
+ "0x017813": {
+  "en": "Intermission's \"Ability\" command.",
+  "slot": 69
+ },
+ "0x017864": {
+  "en": "$\u0001\nWhen units and/or main pilots in the squad have 3 or more \"Barrier+\" abilities equipped",
+  "slot": 135
+ },
+ "0x0178EC": {
+  "en": "in total, this unit's barrier abilities rise by 200 (no effect if no barrier).",
+  "slot": 132
+ },
+ "0x017971": {
+  "en": "Equip abilities via the Intermission's \"Ability\" command.",
+  "slot": 108
+ },
+ "0x0179E9": {
+  "en": "\u001f\u0001\nWhen units and/or main pilots in the squad have 3 or more \"Range+\" abilities equipped",
+  "slot": 135
+ },
+ "0x017A71": {
+  "en": "in total, this unit's weapon range rises by 1 (except MAP and range-1 weapons). Abilities",
+  "slot": 132
+ },
+ "0x017AF6": {
+  "en": "are equipped via the Intermission's \"Ability\" command.",
+  "slot": 93
+ },
+ "0x017B5F": {
+  "en": "!\u0001\rDamage dealt by this unit's melee weapons rises by 5%. When units and/or main pilots",
+  "slot": 138
+ },
+ "0x017BEA": {
+  "en": "in the squad have 3 or more \"Melee Up\" abilities equipped in total, the effect activates. Equip",
+  "slot": 132
+ },
+ "0x017C6F": {
+  "en": "abilities via the Intermission's \"Ability\" command.",
+  "slot": 99
+ },
+ "0x017CDE": {
+  "en": "!\u0001\rDamage dealt by this unit's ranged weapons rises by 5%. When units and/or main pilots",
+  "slot": 138
+ },
+ "0x017D69": {
+  "en": "in the squad have 3 or more \"Ranged Up\" abilities equipped in total, the effect activates. Equip",
+  "slot": 132
+ },
+ "0x017DEE": {
+  "en": "abilities via the Intermission's \"Ability\" command.",
+  "slot": 99
+ },
+ "0x017E5D": {
+  "en": "!\u0001\nDamage dealt by this unit on counter rises by 5%. When units and/or main pilots",
+  "slot": 135
+ },
+ "0x017EE5": {
+  "en": "in the squad have 3 or more \"Counter Up\" abilities equipped in total, the effect activates. Equip",
+  "slot": 132
+ },
+ "0x017F6A": {
+  "en": "abilities via the Intermission's \"Ability\" command.",
+  "slot": 99
+ },
+ "0x017FD9": {
+  "en": "$\u0001\rDamage dealt by this unit's beam weapons rises by 5%. When units and/or main pilots",
+  "slot": 135
+ },
+ "0x018061": {
+  "en": "in the squad have 3 or more \"Beam Up\" abilities equipped in total, the effect activates.",
+  "slot": 135
+ },
+ "0x0180E9": {
+  "en": "Equip abilities via the Intermission's \"Ability\" command.",
+  "slot": 108
+ },
+ "0x018161": {
+  "en": "#\u0001\nDamage dealt by this unit's ammo-based weapons rises by 5%. When units and/or main",
+  "slot": 135
+ },
+ "0x0181E9": {
+  "en": "pilots have 3 or more \"Ammo Up\" abilities equipped in total, the effect activates. Equip",
+  "slot": 132
+ },
+ "0x01826E": {
+  "en": "abilities via the Intermission's \"Ability\" command.",
+  "slot": 105
+ },
+ "0x0182E3": {
+  "en": "#\nDamage dealt by this unit's psychic weapons rises by 5%. When units and/or main",
+  "slot": 135
+ },
+ "0x01836B": {
+  "en": "pilots have 3 or more \"Psychic Up\" abilities equipped in total, the effect activates. Equip",
+  "slot": 132
+ },
+ "0x0183F0": {
+  "en": "abilities via the Intermission's \"Ability\" command.",
+  "slot": 105
+ },
+ "0x018465": {
+  "en": "#\u0001\nDamage dealt by this unit on support attack rises by 5%. When units and/or main",
+  "slot": 135
+ },
+ "0x0184ED": {
+  "en": "pilots have 3 or more \"Supp Atk Up\" abilities equipped in total, the effect activates. Equip",
+  "slot": 132
+ },
+ "0x018572": {
+  "en": "abilities via the Intermission's \"Ability\" command.",
+  "slot": 105
+ },
+ "0x0185E7": {
+  "en": "\u001d\u0001\nDamage taken by this unit drops by 5%. When units and/or main pilots in the squad have \"Armor",
+  "slot": 135
+ },
+ "0x01866F": {
+  "en": "Up\" abilities equipped, 3 or more in total, the effect activates. Ability",
+  "slot": 132
+ },
+ "0x0186F4": {
+  "en": "equipping is done via the Intermission's \"Ability\" command.",
+  "slot": 87
+ },
+ "0x018757": {
+  "en": "#\u0001\nDamage taken by this unit on support defend drops by 5%. When units and/or main",
+  "slot": 135
+ },
+ "0x0187DF": {
+  "en": "pilots have 3 or more \"Supp Def Up\" abilities equipped in total, the effect activates. Equip",
+  "slot": 132
+ },
+ "0x018864": {
+  "en": "abilities via the Intermission's \"Ability\" command.",
+  "slot": 105
+ },
+ "0x0188D9": {
+  "en": "\u001a\u0001\nThis unit's accuracy rises by 5. When units and/or main pilots in the squad have \"Hit Up\"",
+  "slot": 135
+ },
+ "0x018961": {
+  "en": "abilities equipped, 3 or more in total, the effect activates. Equipping abilities is done",
+  "slot": 132
+ },
+ "0x0189E6": {
+  "en": "in the Intermission's \"Ability\" command.",
+  "slot": 78
+ },
+ "0x018A40": {
+  "en": "\u001a\u0001\nThis unit's evasion rises by 5. When units and/or main pilots in the squad have \"Evade Up\"",
+  "slot": 135
+ },
+ "0x018AC8": {
+  "en": "abilities equipped, 3 or more in total, the effect activates. Equipping abilities is done",
+  "slot": 132
+ },
+ "0x018B4D": {
+  "en": "in the Intermission's \"Ability\" command.",
+  "slot": 78
+ },
+ "0x018BA7": {
+  "en": "\"\u0001\nThis unit's critical rate rises by 10. When units and/or main pilots",
+  "slot": 135
+ },
+ "0x018C2F": {
+  "en": "have 3 or more \"CRT Up\" abilities equipped in total, the effect activates. Equip",
+  "slot": 132
+ },
+ "0x018CB4": {
+  "en": "abilities via the Intermission's \"Ability\" command.",
+  "slot": 102
+ },
+ "0x018D26": {
+  "en": "\"\u0001\nEXP gained in battle by this unit rises by 10%. When units and/or main pilots",
+  "slot": 135
+ },
+ "0x018DAE": {
+  "en": "have 3 or more \"EXP+\" abilities equipped in total, the effect activates. Equip",
+  "slot": 132
+ },
+ "0x018E33": {
+  "en": "abilities via the Intermission's \"Ability\" command.",
+  "slot": 102
+ },
+ "0x018EA5": {
+  "en": "\u001f\u0001\rCash gained in battle by this unit rises by 10%. When units and/or main pilots",
+  "slot": 135
+ },
+ "0x018F2D": {
+  "en": "have 3 or more \"Cash+\" abilities equipped in total, the effect activates. Abilities",
+  "slot": 135
+ },
+ "0x018FB5": {
+  "en": "are equipped via the Intermission's \"Ability\" command.",
+  "slot": 93
+ },
+ "0x01901E": {
+  "en": "\u001f\u0001\u0007This unit's repair recovery rate rises by 10%. When units and/or main pilots have",
+  "slot": 132
+ },
+ "0x0190A3": {
+  "en": "3 or more \"Repair+\" abilities equipped in total, the effect activates. Abilities",
+  "slot": 132
+ },
+ "0x019128": {
+  "en": "are equipped via the Intermission's \"Ability\" command.",
+  "slot": 93
+ },
+ "0x019191": {
+  "en": "\u001a\u0001\nThis unit's max HP rises by 5%. When units and/or main pilots in the squad have \"HP+\"",
+  "slot": 135
+ },
+ "0x019219": {
+  "en": "abilities equipped, 3 or more in total, the effect activates. Equipping abilities is done",
+  "slot": 132
+ },
+ "0x01929E": {
+  "en": "in the Intermission's \"Ability\" command.",
+  "slot": 78
+ },
+ "0x0192F8": {
+  "en": "\u001a\u0001\nThis unit's max EN rises by 5%. When units and/or main pilots in the squad have \"EN+\"",
+  "slot": 135
+ },
+ "0x019380": {
+  "en": "abilities equipped, 3 or more in total, the effect activates. Equipping abilities is done",
+  "slot": 132
+ },
+ "0x019405": {
+  "en": "in the Intermission's \"Ability\" command.",
+  "slot": 78
+ },
+ "0x01945F": {
+  "en": "\u001a\u0001\rThis unit's movement rises by 1. When units and/or main pilots in the squad have \"Move+\"",
+  "slot": 138
+ },
+ "0x0194EA": {
+  "en": "abilities equipped, 3 or more in total, the effect activates. Equipping abilities is done",
+  "slot": 132
+ },
+ "0x01956F": {
+  "en": "in the Intermission's \"Ability\" command.",
+  "slot": 78
+ },
+ "0x0195C9": {
+  "en": "!\u0001\nThis unit gains the \"Full Block\" special ability. When units and/or main pilots",
+  "slot": 135
+ },
+ "0x019651": {
+  "en": "have 3 or more \"Block\" abilities equipped in total, the effect activates. Equip",
+  "slot": 132
+ },
+ "0x0196D6": {
+  "en": "abilities via the Intermission's \"Ability\" command.",
+  "slot": 99
+ },
+ "0x019745": {
+  "en": "-\u0001\nThis unit's barrier abilities rise by 200 (no effect if no barrier). When units,",
+  "slot": 135
+ },
+ "0x0197CD": {
+  "en": "or main pilots, have 3 or more \"Barrier+\" abilities equipped in total,",
+  "slot": 132
+ },
+ "0x019852": {
+  "en": "the effect activates. Equip abilities via the Intermission's \"Ability\" command.",
+  "slot": 135
+ },
+ "0x0198E5": {
+  "en": "(\u0001\nThis unit's weapon range rises by 1 (except MAP and range-1 weapons). When units, or",
+  "slot": 135
+ },
+ "0x01996D": {
+  "en": "main pilots, have 3 or more \"Range+\" abilities equipped in total, the effect",
+  "slot": 132
+ },
+ "0x0199F2": {
+  "en": "activates. Equip abilities via the Intermission's \"Ability\" command.",
+  "slot": 120
+ },
+ "0x019A71": {
+  "en": "The higher the skill level, the more accuracy, evasion, and critical rate rise in battle.",
+  "slot": 126
+ },
+ "0x019AF6": {
+  "en": "Shows the max range of the unit's equipped weapons before and after the parts change.",
+  "slot": 108
+ },
+ "0x019BF2": {
+  "en": "Shows the stats in that case.",
+  "slot": 33
+ },
+ "0x019C1A": {
+  "en": "Shows the cash gained if this upgrade part is sold.",
+  "slot": 81
+ },
+ "0x019C72": {
+  "en": "Indicates that support attack is set to not be performed.",
+  "slot": 75
+ },
+ "0x019CC4": {
+  "en": "Indicates that re-attack is set to not be performed.",
+  "slot": 72
+ },
+ "0x019D13": {
+  "en": "Indicates that support defend is set to not be performed.",
+  "slot": 75
+ },
+ "0x019D65": {
+  "en": "Indicates that a MAP weapon attack is being performed.",
+  "slot": 72
+ },
+ "0x019DBD": {
+  "en": "/\u00010Shows the weapon's attributes.　",
+  "slot": 39
+ },
+ "0x019DE5": {
+  "en": "<I=37><S=-76><I=36><S=52>...Weapon causing special effects like status ailments or barrier piercing.　",
+  "slot": 124
+ },
+ "0x019E62": {
+  "en": "<I=37><S=-30><I=38><S=6>...Beam weapon whose damage is cut by barriers like \"Beam Coat.\"　",
+  "slot": 141
+ },
+ "0x019EF0": {
+  "en": "<I=37><S=-29><I=106><S=5>...Missile-type weapon nullified by \"Jammer.\"",
+  "slot": 91
+ },
+ "0x019F52": {
+  "en": "Shows the weapon's current ammo. When ammo hits 0, that weapon cannot be used.",
+  "slot": 117
+ },
+ "0x019FCE": {
+  "en": "Shows the energy consumed when the weapon is used.",
+  "slot": 75
+ },
+ "0x01A025": {
+  "en": "\f\u0001;Shown if at least one search item matches and the matched item's search priority is \"ON.\"",
+  "slot": 135
+ },
+ "0x01A0AD": {
+  "en": "In the list sort order, rows showing <I=137> are given higher priority. Use <W=32><H=32><S=-4><Y=-3><I=47></Y><S=-4></H></W> to change",
+  "slot": 181
+ },
+ "0x01A163": {
+  "en": "the search terms.",
+  "slot": 36
+ },
+ "0x01A18E": {
+  "en": "When attacked, final damage drops by 100 times the number of Divine Servant units on the map.",
+  "slot": 134
+ },
+ "0x01A21B": {
+  "en": "At the start of your phase, lowers Will of all enemy pilots on the map by 2.",
+  "slot": 123
+ },
+ "0x01A326": {
+  "en": "Deals damage equal to 50% of its current HP.",
+  "slot": 60
+ },
+ "0x01A369": {
+  "en": "At the end of your phase, lowers EN of adjacent enemy units in the 8 surrounding tiles by 30.",
+  "slot": 120
+ },
+ "0x01A3E8": {
+  "en": "When HP is 60% or below, uses the spirit command \"Awaken\" at the start of the player phase.",
+  "slot": 120
+ },
+ "0x01A467": {
+  "en": "Recovers your unit's current EN by 1% of the damage taken.",
+  "slot": 78
+ },
+ "0x01A545": {
+  "en": "Uses the command \"Strike\".",
+  "slot": 36
+ },
+ "0x01A5F9": {
+  "en": "Uses \"Cheer\".",
+  "slot": 27
+ },
+ "0x01A6A4": {
+  "en": "Recovers your unit's current HP.",
+  "slot": 39
+ },
+ "0x01A75B": {
+  "en": "Uses (Strike).",
+  "slot": 27
+ },
+ "0x01A77D": {
+  "en": "When you Defend on counterattacks, etc., damage taken is reduced by a further 10%.",
+  "slot": 123
+ },
+ "0x01A7FF": {
+  "en": "The ability to trigger a Maximum Break.",
+  "slot": 60
+ },
+ "0x01A842": {
+  "en": "Only space backgrounds are shown.",
+  "slot": 48
+ },
+ "0x01A879": {
+  "en": "Only underground backgrounds are shown.",
+  "slot": 48
+ },
+ "0x01A8B0": {
+  "en": "Shows whether the background can be set to airborne.",
+  "slot": 54
+ },
+ "0x01A8ED": {
+  "en": "Shows whether the main pilot needs the special skill \"Psychic\" to use this weapon.",
+  "slot": 123
+ },
+ "0x01A96F": {
+  "en": "At the start of the player phase, lowers the will of enemy pilots within 1-3 tiles by 3.",
+  "slot": 135
+ },
+ "0x01AA86": {
+  "en": "Halves it.",
+  "slot": 21
+ },
+ "0x01AAA7": {
+  "en": "\u000e\u0001\nWhen you destroy an enemy unit while attacking with will 120 or higher, you can act again without ending your turn.",
+  "slot": 135
+ },
+ "0x01AB2F": {
+  "en": "Can trigger only once per phase per unit (the count does not rise even if the main pilot changes",
+  "slot": 132
+ },
+ "0x01ABB4": {
+  "en": "via \"Transform\" etc.).",
+  "slot": 42
+ },
+ "0x01ABE5": {
+  "en": "Only tracks built into this title are shown.",
+  "slot": 84
+ },
+ "0x01AC40": {
+  "en": "Only additional content is shown.",
+  "slot": 51
+ },
+ "0x01AC7A": {
+  "en": "Only music content saved on the hard disk is shown.",
+  "slot": 90
+ },
+ "0x01ACDB": {
+  "en": "Shows the album name of the music content.",
+  "slot": 63
+ },
+ "0x01ADAA": {
+  "en": "is played.",
+  "slot": 24
+ },
+ "0x01ADC9": {
+  "en": "Shows the BGM after replacement.",
+  "slot": 54
+ },
+ "0x01AE06": {
+  "en": "Shows the weapon's maximum ammo count.",
+  "slot": 39
+ },
+ "0x01AE34": {
+  "en": "For event-sortie pilots, <I=4> is shown.",
+  "slot": 74
+ },
+ "0x01AE85": {
+  "en": "For event-sortie units, <I=4> is shown.",
+  "slot": 65
+ },
+ "0x01AECD": {
+  "en": "For event-sortie units and event-sortie pilots, <I=4> is shown.",
+  "slot": 101
+ },
+ "0x01AF39": {
+  "en": "Shows the main pilot's will needed to use the weapon.",
+  "slot": 93
+ },
+ "0x01AF9D": {
+  "en": "Shows whether an SR Point has been earned on the current stage.",
+  "slot": 111
+ },
+ "0x01B013": {
+  "en": "Indicates that support attacks cannot be made.",
+  "slot": 51
+ },
+ "0x01B04D": {
+  "en": "Indicates that re-attacks cannot be made.",
+  "slot": 48
+ },
+ "0x01B084": {
+  "en": "Selects the squads to sortie. The number that can sortie varies by stage.",
+  "slot": 108
+ },
+ "0x01B0F7": {
+  "en": "Performs unit-related operations.",
+  "slot": 36
+ },
+ "0x01B122": {
+  "en": "Performs pilot-related operations.",
+  "slot": 45
+ },
+ "0x01B156": {
+  "en": "Changes the squad's formation.",
+  "slot": 42
+ },
+ "0x01B187": {
+  "en": "Checks the map state and changes squad sortie positions.",
+  "slot": 75
+ },
+ "0x01B1D9": {
+  "en": "Saves the current battle map state so it can be resumed from the same point.",
+  "slot": 102
+ },
+ "0x01B246": {
+  "en": "Shows abilities from the unit list.",
+  "slot": 45
+ },
+ "0x01B27A": {
+  "en": "Upgrades unit performance and weapon attack power.",
+  "slot": 63
+ },
+ "0x01B2C0": {
+  "en": "Equips a unit with upgrade parts.",
+  "slot": 48
+ },
+ "0x01B2F7": {
+  "en": "Equips a unit with its own swap parts.",
+  "slot": 57
+ },
+ "0x01B337": {
+  "en": "Equips a unit with swap weapons.",
+  "slot": 45
+ },
+ "0x01B36B": {
+  "en": "Equips units and pilots with abilities.",
+  "slot": 66
+ },
+ "0x01B3B4": {
+  "en": "Shows abilities from the pilot list.",
+  "slot": 54
+ },
+ "0x01B3F1": {
+  "en": "Enhances pilot abilities and learns skills.",
+  "slot": 66
+ },
+ "0x01B43A": {
+  "en": "Moves a pilot into a different unit.",
+  "slot": 54
+ },
+ "0x01B477": {
+  "en": "Ends the player's action phase and advances to the COM's action phase.",
+  "slot": 99
+ },
+ "0x01B4E1": {
+  "en": "Searches for pilots or units with the specified spirit commands or special abilities.",
+  "slot": 108
+ },
+ "0x01B554": {
+  "en": "Shows a list of the units that have sortied.",
+  "slot": 60
+ },
+ "0x01B597": {
+  "en": "Shows this stage's victory/defeat conditions and SR Point conditions.",
+  "slot": 90
+ },
+ "0x01B5F8": {
+  "en": "Shows cumulative data such as this stage's battle status and gains.",
+  "slot": 87
+ },
+ "0x01B656": {
+  "en": "Configures game settings such as the grid and BGM.",
+  "slot": 84
+ },
+ "0x01B6B1": {
+  "en": "The twin unit's two units each attack different units in the target squad.",
+  "slot": 99
+ },
+ "0x01B71B": {
+  "en": "Concentrates the attack on one unit in the target squad.",
+  "slot": 66
+ },
+ "0x01B764": {
+  "en": "Attacks the target unit at the same time as an adjacent allied unit.",
+  "slot": 96
+ },
+ "0x01B7CB": {
+  "en": "Makes a normal attack without using a special attack method.",
+  "slot": 72
+ },
+ "0x01B81A": {
+  "en": "Attacks the target unit and multiple adjacent units at the same time.",
+  "slot": 99
+ },
+ "0x01B884": {
+  "en": "Attacks two adjacent units at the same time.",
+  "slot": 78
+ },
+ "0x01B8D9": {
+  "en": "Moves to another spot within range. After moving, you may be able to use another command.",
+  "slot": 135
+ },
+ "0x01B967": {
+  "en": "Selects a weapon and attacks an enemy within range.",
+  "slot": 72
+ },
+ "0x01B9B6": {
+  "en": "Re-sorties squads loaded on a warship. Can be done even after the warship's turn ends.",
+  "slot": 111
+ },
+ "0x01BA2C": {
+  "en": "Moves to the ground. On the ground, you gain terrain defense and evade bonuses.",
+  "slot": 132
+ },
+ "0x01BAB7": {
+  "en": "Moves airborne. While airborne, you gain no terrain defense or evade bonuses.",
+  "slot": 135
+ },
+ "0x01BB45": {
+  "en": "Moves underground. While underground, you cannot be attacked but also cannot attack.",
+  "slot": 132
+ },
+ "0x01BBD0": {
+  "en": "Moves underwater. While underwater, you gain terrain defense and evade bonuses.",
+  "slot": 132
+ },
+ "0x01BC5B": {
+  "en": "Transforms the unit into another form. Unit performance changes after transforming.",
+  "slot": 93
+ },
+ "0x01BCBF": {
+  "en": "Removes swap parts and transforms into another form. Unit performance changes after.",
+  "slot": 111
+ },
+ "0x01BD35": {
+  "en": "One unit separates into multiple units.",
+  "slot": 54
+ },
+ "0x01BD72": {
+  "en": "Uses an equipped consumable upgrade part (warships can use it on units within 3 tiles too).",
+  "slot": 135
+ },
+ "0x01BE00": {
+  "en": "Recovers the HP of a squad within range. The amount rises with the pilot's Lv.",
+  "slot": 132
+ },
+ "0x01BE8B": {
+  "en": "Fully recovers a unit's EN and ammo within range. The target's will drops by 10.",
+  "slot": 129
+ },
+ "0x01BF13": {
+  "en": "Changes the main unit of a twin unit.",
+  "slot": 66
+ },
+ "0x01BF5C": {
+  "en": "Shows the status window.",
+  "slot": 51
+ },
+ "0x01BF96": {
+  "en": "Uses spirit commands and twin spirit commands.",
+  "slot": 69
+ },
+ "0x01BFE2": {
+  "en": "Lets you check unit abilities, pilot abilities, unit stats, and weapon performance.",
+  "slot": 111
+ },
+ "0x01C058": {
+  "en": "Loads onto a warship. While loaded, HP/EN recover 15% and ammo fully at player phase start.",
+  "slot": 129
+ },
+ "0x01C0E0": {
+  "en": "Confirms the destination and ends the action.",
+  "slot": 54
+ },
+ "0x01C11D": {
+  "en": "\"Swap\" Command",
+  "slot": 24
+ },
+ "0x01C13C": {
+  "en": "Combines multiple units into one unit.",
+  "slot": 57
+ },
+ "0x01C17C": {
+  "en": "Places two units on the same tile to form a twin unit.",
+  "slot": 84
+ },
+ "0x01C1D7": {
+  "en": "Splits a twin unit into two units.",
+  "slot": 63
+ },
+ "0x01C21D": {
+  "en": "Persuades an adjacent enemy. The result may change how the story unfolds.",
+  "slot": 114
+ },
+ "0x01C296": {
+  "en": "Loads an adjacent unit and ends the action. Can be used after moving too.",
+  "slot": 99
+ },
+ "0x01C300": {
+  "en": "<W=32><H=32><S=-4><Y=-3><I=41></Y><S=-4></H></W> shows the command menu.",
+  "slot": 99
+ },
+ "0x01C36A": {
+  "en": "<W=32><H=32><S=-4><Y=-3><I=61></Y><S=-4></H></W> shows the counter-setting menu.",
+  "slot": 102
+ },
+ "0x01C3D7": {
+  "en": "Selects a target and sets whether the attack hits, damage dealt, and so on.",
+  "slot": 102
+ },
+ "0x01C444": {
+  "en": "Changes the weapon used in battle.",
+  "slot": 48
+ },
+ "0x01C47B": {
+  "en": "Changes the boarding pilot.",
+  "slot": 42
+ },
+ "0x01C4AC": {
+  "en": "Moves it to another tile.",
+  "slot": 36
+ },
+ "0x01C4D7": {
+  "en": "Copies this unit and places it.",
+  "slot": 45
+ },
+ "0x01C50B": {
+  "en": "Sets participation/non-participation in battle.",
+  "slot": 51
+ },
+ "0x01C545": {
+  "en": "Changes it to another unit.",
+  "slot": 33
+ },
+ "0x01C56D": {
+  "en": "Changes the unit and pilot.",
+  "slot": 45
+ },
+ "0x01C5A1": {
+  "en": "Sets the HP at the start of battle.",
+  "slot": 48
+ },
+ "0x01C5D8": {
+  "en": "Lets you check the details of malfunctions occurring on a unit.",
+  "slot": 87
+ },
+ "0x01C636": {
+  "en": "Deletes the unit.",
+  "slot": 27
+ },
+ "0x01C658": {
+  "en": "<W=32><H=32><S=-4><Y=-3><I=41></Y><S=-4></H></W> selects the tile to set the background.",
+  "slot": 99
+ },
+ "0x01C6C2": {
+  "en": "<W=32><H=32><S=-4><Y=-3><I=41></Y><S=-4></H></W> selects the tile to set support attacks.",
+  "slot": 108
+ },
+ "0x01C735": {
+  "en": "<W=32><H=32><S=-4><Y=-3><I=41></Y><S=-4></H></W> selects the tile to set the unit.",
+  "slot": 105
+ }
+}
