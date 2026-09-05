@@ -1,0 +1,938 @@
+{
+ "0x00253C": {
+  "en": "「Hmph...」",
+  "slot": 18
+ },
+ "0x00254F": {
+  "en": "「Well then, shall we begin?」",
+  "slot": 36
+ },
+ "0x002574": {
+  "en": "「Now, are you prepared?」",
+  "slot": 42
+ },
+ "0x00259F": {
+  "en": "「The power of the Granzon... learn it firsthand.」",
+  "slot": 60
+ },
+ "0x0025DC": {
+  "en": "「Let me show you/　the power of the Granzon.」",
+  "slot": 70
+ },
+ "0x002623": {
+  "en": "「I shall be your opponent.」",
+  "slot": 39
+ },
+ "0x00264B": {
+  "en": "「Accept your fate obediently.」",
+  "slot": 45
+ },
+ "0x002679": {
+  "en": "「No one/　can ever bind me down.」",
+  "slot": 79
+ },
+ "0x0026C9": {
+  "en": "「For those who block my path... there is no mercy.」",
+  "slot": 66
+ },
+ "0x00270C": {
+  "en": "「You've got nerve, standing in my way.」",
+  "slot": 60
+ },
+ "0x002749": {
+  "en": "「Defying my master?/　You don't know your place!」",
+  "slot": 82
+ },
+ "0x00279C": {
+  "en": "「Heh... that's how it is.」",
+  "slot": 39
+ },
+ "0x0027C4": {
+  "en": "「Now, let me show off the Granzon's/　totally broken power, full force!」",
+  "slot": 106
+ },
+ "0x00282F": {
+  "en": "「Chika.../　where did you learn a word like that?」",
+  "slot": 79
+ },
+ "0x00287F": {
+  "en": "「I see... so this is the Masou Kishin Granveil.../　Indeed, I feel/　I've faced it more than once before.」",
+  "slot": 152
+ },
+ "0x002918": {
+  "en": "「Huang Yang Long.../　I see, my data and memories don't yet align.../　but he seems a formidable foe.」",
+  "slot": 152
+ },
+ "0x0029B1": {
+  "en": "「Granveil.../　Great firepower but weak defense... is it?/　I see, there should be a way to fight it.」",
+  "slot": 152
+ },
+ "0x002A4A": {
+  "en": "「That attitude, manner, and character.../ Something about it truly nags at me.」",
+  "slot": 91
+ },
+ "0x002AA6": {
+  "en": "「Valsione... oh, intriguing data./　Indeed, our bond runs deep, it seems.」",
+  "slot": 142
+ },
+ "0x002B35": {
+  "en": "「I've grasped most of the data.../　but that girl called Lune/　can't be measured by data alone, it seems.」",
+  "slot": 173
+ },
+ "0x002BE3": {
+  "en": "「A Masou operator summoned to Langran.../　Ahmed Hammoudi.../　The name does sound familiar.」",
+  "slot": 149
+ },
+ "0x002C79": {
+  "en": "「I see.../　I've grasped this Solgady unit's performance./　Now, how strong is Ahmed himself...」",
+  "slot": 149
+ },
+ "0x002D0F": {
+  "en": "「Interesting, this man Ahmed./　If he weren't my enemy,/　he could prove quite accommodating...」",
+  "slot": 143
+ },
+ "0x002D9F": {
+  "en": "「Your part is over now,/　Louzorl. Exit the stage.」",
+  "slot": 103
+ },
+ "0x002E07": {
+  "en": "「You stole my freedom.../　That sin is worth a thousand deaths./　Are you prepared, Louzorl?」",
+  "slot": 125
+ },
+ "0x002E85": {
+  "en": "「Heh... you are all mere puppets.」",
+  "slot": 51
+ },
+ "0x002EB9": {
+  "en": "「In a sense,/　you may be a necessary evil...」",
+  "slot": 79
+ },
+ "0x002F09": {
+  "en": "「Duvan Org.../　Accept your fate quietly.」",
+  "slot": 91
+ },
+ "0x002F65": {
+  "en": "「You will never become a perfect being.」",
+  "slot": 63
+ },
+ "0x002FA5": {
+  "en": "「Quite the actor, aren't you,/　Alteur Steinbeck.」",
+  "slot": 91
+ },
+ "0x003001": {
+  "en": "「Let me see your true form.」",
+  "slot": 63
+ },
+ "0x003041": {
+  "en": "「Heh.../　Can you truly instill fear and despair in me?」",
+  "slot": 88
+ },
+ "0x00309A": {
+  "en": "「Let me teach you what true terror is.」",
+  "slot": 66
+ },
+ "0x0030DD": {
+  "en": "「First,/　let me have you all perish.」",
+  "slot": 73
+ },
+ "0x003127": {
+  "en": "「That too is no mere coincidence...」",
+  "slot": 69
+ },
+ "0x00316D": {
+  "en": "「It's you who'll be swallowed by chaos.」",
+  "slot": 66
+ },
+ "0x0031B0": {
+  "en": "「Left as is,/　it could become troublesome later on...」",
+  "slot": 106
+ },
+ "0x00321B": {
+  "en": "「You Guests/　are enemies I must defeat.」",
+  "slot": 79
+ },
+ "0x00326B": {
+  "en": "「You'll share/　the same fate as the Inspectors.」",
+  "slot": 85
+ },
+ "0x0032C1": {
+  "en": "「The Granzon's power, sublimated by me.../　learn it firsthand.」",
+  "slot": 97
+ },
+ "0x003323": {
+  "en": "「Guests and Inspectors alike/　are powerless before this Granzon.」",
+  "slot": 100
+ },
+ "0x003388": {
+  "en": "「Now, receive your due... Lord Zezernan.」",
+  "slot": 63
+ },
+ "0x0033C8": {
+  "en": "「I told you before,/　your power won't last much longer.」",
+  "slot": 94
+ },
+ "0x003427": {
+  "en": "「Let's put an end to this soon,/　Lord Zezernan.」",
+  "slot": 73
+ },
+ "0x003471": {
+  "en": "「I have no need for corpse liberation.」",
+  "slot": 48
+ },
+ "0x0034A2": {
+  "en": "「Paradise, you say?/　I've glimpsed another world, at least.」",
+  "slot": 76
+ },
+ "0x0034EF": {
+  "en": "「Why not experience death yourself,/　just once?」",
+  "slot": 76
+ },
+ "0x00353C": {
+  "en": "「I'll indulge your little distraction./　After that,/　time will trouble you no more. Heh heh.」",
+  "slot": 152
+ },
+ "0x0035D5": {
+  "en": "「I can foresee where that leads...」",
+  "slot": 66
+ },
+ "0x003618": {
+  "en": "「Hmph.../　What do you hope to learn from me?」",
+  "slot": 73
+ },
+ "0x003662": {
+  "en": "「A rather ominous machine...」",
+  "slot": 45
+ },
+ "0x003690": {
+  "en": "「In a sense,/　it may be akin to my Granzon...」",
+  "slot": 88
+ },
+ "0x0036E9": {
+  "en": "「It may become a nuisance later on...」",
+  "slot": 66
+ },
+ "0x00372C": {
+  "en": "「Trying to absorb the Granzon... how foolish.」",
+  "slot": 63
+ },
+ "0x00376C": {
+  "en": "「Erde Mitte.../　You can easily imagine/　where AI1 will end up, can't you?」",
+  "slot": 116
+ },
+ "0x0037E1": {
+  "en": "「I too consider myself one who loves this Earth...」",
+  "slot": 72
+ },
+ "0x00382A": {
+  "en": "「Even a god cannot bind me./　Least of all a man-made one.」",
+  "slot": 103
+ },
+ "0x003892": {
+  "en": "「I see.../　So you are Euzeth Gozzo.」",
+  "slot": 76
+ },
+ "0x0038DF": {
+  "en": "「Your end will be the same.../　You can't escape the cycle.」",
+  "slot": 91
+ },
+ "0x00393B": {
+  "en": "「You cannot unravel the chains of causality./　Not while we stand here.」",
+  "slot": 115
+ },
+ "0x0039AF": {
+  "en": "「This... is how you attack.」",
+  "slot": 48
+ },
+ "0x0039E0": {
+  "en": "「I really must return the favor.」",
+  "slot": 66
+ },
+ "0x003A23": {
+  "en": "「Your reward for defying me.」",
+  "slot": 39
+ },
+ "0x003A4B": {
+  "en": "「You struck first, after all./　...heh heh.」",
+  "slot": 76
+ },
+ "0x003A98": {
+  "en": "「Now then, it's my turn.」",
+  "slot": 33
+ },
+ "0x003ABA": {
+  "en": "「I've read your hand now.」",
+  "slot": 51
+ },
+ "0x003AEE": {
+  "en": "「You should have just kept running...」",
+  "slot": 57
+ },
+ "0x003B28": {
+  "en": "「Heh heh... how about this?」",
+  "slot": 48
+ },
+ "0x003B59": {
+  "en": "「Then/　I'll attack without holding back.」",
+  "slot": 76
+ },
+ "0x003BA6": {
+  "en": "「Time to receive your due.」",
+  "slot": 51
+ },
+ "0x003BDA": {
+  "en": "「Now then, shall I return the favor?」",
+  "slot": 51
+ },
+ "0x003C0E": {
+  "en": "「Ngh... well done...」",
+  "slot": 33
+ },
+ "0x003C30": {
+  "en": "「It seems this is as far as I go...」",
+  "slot": 54
+ },
+ "0x003C67": {
+  "en": "「Heh... splendid.」",
+  "slot": 30
+ },
+ "0x003C86": {
+  "en": "「Kh! Not bad...」",
+  "slot": 39
+ },
+ "0x003CAE": {
+  "en": "「To corner me this far...」",
+  "slot": 57
+ },
+ "0x003CE8": {
+  "en": "「!?/　To go this far.../　I underestimated you, it seems.」",
+  "slot": 92
+ },
+ "0x003D45": {
+  "en": "「Gah!? I-impossible!?」",
+  "slot": 42
+ },
+ "0x003D70": {
+  "en": "「Mrgh! This power.../　It exceeds my predictions.」",
+  "slot": 85
+ },
+ "0x003DC6": {
+  "en": "「Kh... I see, so you're/　desperate too.」",
+  "slot": 79
+ },
+ "0x003E16": {
+  "en": "「Kh... I see, a clever move.」",
+  "slot": 51
+ },
+ "0x003E4A": {
+  "en": "「Not bad./　But it isn't over yet.」",
+  "slot": 76
+ },
+ "0x003E97": {
+  "en": "「Mm... that was a slight miscalculation.」",
+  "slot": 45
+ },
+ "0x003EC5": {
+  "en": "「Tch!!」",
+  "slot": 21
+ },
+ "0x003EDB": {
+  "en": "「M-master, master!!/　This is bad, this is bad,/　this is soooo baaad!」",
+  "slot": 125
+ },
+ "0x003F59": {
+  "en": "「...Chika, be quiet.」",
+  "slot": 48
+ },
+ "0x003F8A": {
+  "en": "「Waaaaah!!/　I'm gonna die, dyin', deaded, let's die!」",
+  "slot": 76
+ },
+ "0x003FD7": {
+  "en": "「...You panic too much, Chika./　And your grammar's off. Monica's influence, perhaps...」",
+  "slot": 115
+ },
+ "0x00404B": {
+  "en": "「Mrgh.../　The power of Granveil... impressive.」",
+  "slot": 73
+ },
+ "0x004095": {
+  "en": "「What...!/　Such power, that was a bit unexpected.」",
+  "slot": 79
+ },
+ "0x0040E5": {
+  "en": "「Mm... surprising, Ahmed./　I underestimated you.」",
+  "slot": 88
+ },
+ "0x00413E": {
+  "en": "「...Showing some grit, Lord Zezernan?」",
+  "slot": 60
+ },
+ "0x00417B": {
+  "en": "「The more you struggle,/　the tighter the chains bind, Euzeth.」",
+  "slot": 85
+ },
+ "0x0041D1": {
+  "en": "「Tsk!/　...But this much won't defeat me.」",
+  "slot": 82
+ },
+ "0x004224": {
+  "en": "「Ngh...!/　But this is still nothing to speak of...」",
+  "slot": 85
+ },
+ "0x00427A": {
+  "en": "「Mgh... you'd fight me with that?/　...Heh, how foolish...」",
+  "slot": 88
+ },
+ "0x0042D3": {
+  "en": "「Not bad.../　But the real battle starts now.」",
+  "slot": 79
+ },
+ "0x004323": {
+  "en": "「Ho, a direct hit, was it?」",
+  "slot": 45
+ },
+ "0x004351": {
+  "en": "「Tsk!/　...But this much still/　won't defeat me.」",
+  "slot": 92
+ },
+ "0x0043AE": {
+  "en": "「Kh... a somewhat proper attack this time.」",
+  "slot": 66
+ },
+ "0x0043F1": {
+  "en": "「Ngh... but this/　is still nothing to speak of...」",
+  "slot": 82
+ },
+ "0x004444": {
+  "en": "「Ho... a fine attack./　But it lacks the power to finish.」",
+  "slot": 100
+ },
+ "0x0044A9": {
+  "en": "「I see, so that's your play./　Not a bad attack.」",
+  "slot": 73
+ },
+ "0x0044F3": {
+  "en": "「Hmm, you struck a good spot./　Quite skilled.」",
+  "slot": 85
+ },
+ "0x004549": {
+  "en": "「Interesting... a unique tactic.」",
+  "slot": 63
+ },
+ "0x004589": {
+  "en": "「Ho.../　It seems I need to revise/　my assessment of you a little.」",
+  "slot": 113
+ },
+ "0x0045FB": {
+  "en": "「Kh!? Not bad.」",
+  "slot": 36
+ },
+ "0x004620": {
+  "en": "「But Master won't go down to this!/　No, not a chance!/　Master is invincible, you know!」",
+  "slot": 167
+ },
+ "0x0046C8": {
+  "en": "「Ho... surprisingly...」",
+  "slot": 33
+ },
+ "0x0046EA": {
+  "en": "「L-let me tell you!/　That was just a fluke!/　When Master gets serious, this is nothing!」",
+  "slot": 149
+ },
+ "0x004780": {
+  "en": "「Ho.../　The Fire Masou Kishin is no mere boast.」",
+  "slot": 76
+ },
+ "0x0047CD": {
+  "en": "「Mm... this power belies its look.../ So it's true, this is a/ descendant of the Valsion.」",
+  "slot": 149
+ },
+ "0x004863": {
+  "en": "「...I've reassessed you, Ahmed./　To think your strength was this great...」",
+  "slot": 97
+ },
+ "0x0048C5": {
+  "en": "「...Different from mass-produced units, it seems.」",
+  "slot": 57
+ },
+ "0x0048FF": {
+  "en": "「...It's about time/　I ended this feud with you all.」",
+  "slot": 85
+ },
+ "0x004955": {
+  "en": "「The Granzon isn't as fragile/　as you all think.」",
+  "slot": 91
+ },
+ "0x0049B1": {
+  "en": "「A last desperate struggle, Lord Zezernan.」",
+  "slot": 57
+ },
+ "0x0049EB": {
+  "en": "「Radiant Dragon,/ is that the end of your act?」",
+  "slot": 73
+ },
+ "0x004A35": {
+  "en": "「Mm... I underestimated inhuman power.」",
+  "slot": 54
+ },
+ "0x004A6C": {
+  "en": "「I've no intention of being your sacrifice.」",
+  "slot": 66
+ },
+ "0x004AAF": {
+  "en": "「Perhaps I took the Melior Esse lightly...」",
+  "slot": 69
+ },
+ "0x004AF5": {
+  "en": "「Heh... the name \"King of Ruin\"/　is no idle boast, it seems.」",
+  "slot": 85
+ },
+ "0x004B4B": {
+  "en": "「Even if you absorbed the Granzon,/　you would still...」",
+  "slot": 82
+ },
+ "0x004B9E": {
+  "en": "「Gan-eden,/ I won't accept your logic.」",
+  "slot": 91
+ },
+ "0x004BFA": {
+  "en": "「A bit troublesome, that machine.」",
+  "slot": 45
+ },
+ "0x004C28": {
+  "en": "「The same thing over and over.../　Don't you tire of it, Euzeth?」",
+  "slot": 82
+ },
+ "0x004C7B": {
+  "en": "「Still only this much?」",
+  "slot": 42
+ },
+ "0x004CA6": {
+  "en": "「You think you can beat me/　with that much?」",
+  "slot": 79
+ },
+ "0x004CF6": {
+  "en": "「Heh... a futile struggle...」",
+  "slot": 42
+ },
+ "0x004D21": {
+  "en": "「You're no match for me.」",
+  "slot": 48
+ },
+ "0x004D52": {
+  "en": "「Please don't disappoint me.」",
+  "slot": 42
+ },
+ "0x004D7D": {
+  "en": "「Not even worth dodging.」",
+  "slot": 45
+ },
+ "0x004DAB": {
+  "en": "「You can't stop me, you know?」",
+  "slot": 66
+ },
+ "0x004DEE": {
+  "en": "「Still not enough.」",
+  "slot": 30
+ },
+ "0x004E0D": {
+  "en": "「You think you can/　beat me with that much?」",
+  "slot": 79
+ },
+ "0x004E5D": {
+  "en": "「...I'd hoped for/　a somewhat better attack.../　How disappointing.」",
+  "slot": 128
+ },
+ "0x004EDE": {
+  "en": "「Heh... get serious, or/　you'll shorten your life.」",
+  "slot": 85
+ },
+ "0x004F34": {
+  "en": "「Heh... well,/　I'll praise you for landing it, at least.」",
+  "slot": 79
+ },
+ "0x004F84": {
+  "en": "「So feeble.../　You'd challenge me with that...」",
+  "slot": 76
+ },
+ "0x004FD1": {
+  "en": "「...Is that your best?/　Please don't disappoint me.」",
+  "slot": 85
+ },
+ "0x005027": {
+  "en": "「That won't work.」",
+  "slot": 24
+ },
+ "0x005040": {
+  "en": "「Totally fine and dandy, no sweat!/　Go wash your face and come back/　the day before yesterday!」",
+  "slot": 131
+ },
+ "0x0050C4": {
+  "en": "「What's wrong?/　Is that all, Yang Long?」",
+  "slot": 76
+ },
+ "0x005111": {
+  "en": "「Your emotions run ahead of you, Lune.」",
+  "slot": 57
+ },
+ "0x00514B": {
+  "en": "「Sadly, you lack power, Ahmed.」",
+  "slot": 63
+ },
+ "0x00518B": {
+  "en": "「Better than the Inspectors, it seems.」",
+  "slot": 57
+ },
+ "0x0051C5": {
+  "en": "「Even with the Guests' power,/　you can't defeat this Granzon.」",
+  "slot": 88
+ },
+ "0x00521E": {
+  "en": "「Ho... you landed a hit, Lord Zezernan.」",
+  "slot": 63
+ },
+ "0x00525E": {
+  "en": "「You mean to beat my Granzon with that,/　Lord Zezernan?」",
+  "slot": 82
+ },
+ "0x0052B1": {
+  "en": "「I've no interest in the fate/　of you and AI1.」",
+  "slot": 79
+ },
+ "0x005301": {
+  "en": "「Heh, trying to instill fear in me...」",
+  "slot": 63
+ },
+ "0x005341": {
+  "en": "「Is that all the \"King of Ruin\" can do?」",
+  "slot": 57
+ },
+ "0x00537B": {
+  "en": "「Calling yourself a god with this power.../　Laughable.」",
+  "slot": 88
+ },
+ "0x0053D4": {
+  "en": "「...Is this all?/　Don't disappoint me, false god.」",
+  "slot": 94
+ },
+ "0x005433": {
+  "en": "「Is this all you've got?/　The outcome's already clear, Euzeth.」",
+  "slot": 88
+ },
+ "0x00548C": {
+  "en": "「You won't hit me...」",
+  "slot": 33
+ },
+ "0x0054AE": {
+  "en": "「Heh, how foolish.」",
+  "slot": 24
+ },
+ "0x0054C7": {
+  "en": "「Your aim is sloppy.」",
+  "slot": 33
+ },
+ "0x0054E9": {
+  "en": "「Where are you aiming?/　I'm right here.」",
+  "slot": 64
+ },
+ "0x00552A": {
+  "en": "「Take better aim, please.」",
+  "slot": 39
+ },
+ "0x005552": {
+  "en": "「A miss means nothing.」",
+  "slot": 54
+ },
+ "0x005589": {
+  "en": "「Oh, is that all?」",
+  "slot": 36
+ },
+ "0x0055AE": {
+  "en": "「Even a hit/　would do nothing to me...」",
+  "slot": 85
+ },
+ "0x005604": {
+  "en": "「An all-or-nothing attack is the height of folly.」",
+  "slot": 54
+ },
+ "0x00563B": {
+  "en": "「You couldn't possibly hit me.」",
+  "slot": 42
+ },
+ "0x005666": {
+  "en": "「Amateurish...」",
+  "slot": 21
+ },
+ "0x00567C": {
+  "en": "「Isn't it though!/ Defying my master with that little power-/ you really don't know your place!」",
+  "slot": 137
+ },
+ "0x005706": {
+  "en": "「Nyah-nyah, nyah-nyah, you're terrible!/ You bumbling little dummy!」",
+  "slot": 91
+ },
+ "0x005762": {
+  "en": "「...Quiet down, Chika.」",
+  "slot": 45
+ },
+ "0x005790": {
+  "en": "「Your prized power means nothing/ if it can't land a hit, Yang Long.」",
+  "slot": 97
+ },
+ "0x0057F2": {
+  "en": "「Nice moves, I'll admit./ But too much wasted motion, Lune.」",
+  "slot": 97
+ },
+ "0x005854": {
+  "en": "「Speed isn't everything, you know.」",
+  "slot": 57
+ },
+ "0x00588E": {
+  "en": "「That contempt is what leads to this outcome.」",
+  "slot": 60
+ },
+ "0x0058CB": {
+  "en": "「It's useless, Lord Zezernan.」",
+  "slot": 42
+ },
+ "0x0058F6": {
+  "en": "「Whatever machine you're piloting,/ so long as it's you at the controls...」",
+  "slot": 85
+ },
+ "0x00594C": {
+  "en": "「I don't need your guidance.」",
+  "slot": 48
+ },
+ "0x00597D": {
+  "en": "「Melior Esse.../ Nothing to worry about.」",
+  "slot": 73
+ },
+ "0x0059C7": {
+  "en": "「And with that you'd doom the world...」",
+  "slot": 57
+ },
+ "0x005A01": {
+  "en": "「Hmph.../ If you claim to be a god,/ show me a bit more than this.」",
+  "slot": 98
+ },
+ "0x005A64": {
+  "en": "「I don't need your blessing.」",
+  "slot": 54
+ },
+ "0x005A9B": {
+  "en": "「Rapid evolution will be your undoing.」",
+  "slot": 66
+ },
+ "0x005ADE": {
+  "en": "「Can't you see your fate, Euzeth?」",
+  "slot": 66
+ },
+ "0x005B21": {
+  "en": "「Is that all you've got?」",
+  "slot": 33
+ },
+ "0x005B43": {
+  "en": "「Hmph... just as I read it.」",
+  "slot": 48
+ },
+ "0x005B74": {
+  "en": "「Too slow.」",
+  "slot": 21
+ },
+ "0x005B8A": {
+  "en": "「How naive...」",
+  "slot": 24
+ },
+ "0x005BA3": {
+  "en": "「Heh heh... it's useless.」",
+  "slot": 36
+ },
+ "0x005BC8": {
+  "en": "「Something seems to be missing.」",
+  "slot": 42
+ },
+ "0x005BF3": {
+  "en": "「Momentum alone won't be/ enough to beat me, you know?」",
+  "slot": 73
+ },
+ "0x005C3D": {
+  "en": "「.........」",
+  "slot": 15
+ },
+ "0x005C4D": {
+  "en": "「Well, that'll do.」",
+  "slot": 30
+ },
+ "0x005C6C": {
+  "en": "「Heh heh... you got lucky.」",
+  "slot": 48
+ },
+ "0x005C9D": {
+  "en": "「Won't reach from here...?/ Well, no matter.」",
+  "slot": 79
+ },
+ "0x005CED": {
+  "en": "「Taking potshots from way over there, how cheap!/ You chicken!」",
+  "slot": 91
+ },
+ "0x005D49": {
+  "en": "「...No way to counter this, is there.../ Well, nothing to be done.」",
+  "slot": 73
+ },
+ "0x005D93": {
+  "en": "「You won't escape.」",
+  "slot": 27
+ },
+ "0x005DAF": {
+  "en": "「A pity, but this is goodbye.」",
+  "slot": 48
+ },
+ "0x005DE0": {
+  "en": "「It's not over yet.」",
+  "slot": 42
+ },
+ "0x005E0B": {
+  "en": "「Heh heh... I'm just getting started.」",
+  "slot": 54
+ },
+ "0x005E42": {
+  "en": "「Can you withstand this blow?」",
+  "slot": 48
+ },
+ "0x005E73": {
+  "en": "「You may leave the rest to me.」",
+  "slot": 51
+ },
+ "0x005EA7": {
+  "en": "「Too early to feel safe yet.」",
+  "slot": 45
+ },
+ "0x005ED5": {
+  "en": "「Let me lend a hand, Masaki.」",
+  "slot": 42
+ },
+ "0x005F00": {
+  "en": "「Good grief./ Making me clean up your mess, Masaki?」",
+  "slot": 79
+ },
+ "0x005F50": {
+  "en": "「Uncalled for, perhaps,/ but I'll help, Presia.」",
+  "slot": 79
+ },
+ "0x005FA0": {
+  "en": "「Let me help, Lune.」",
+  "slot": 42
+ },
+ "0x005FCB": {
+  "en": "「Saphine, I'll finish the rest.」",
+  "slot": 57
+ },
+ "0x006005": {
+  "en": "「Monica, leave the rest to me.」",
+  "slot": 45
+ },
+ "0x006033": {
+  "en": "「Well, no helping it.」",
+  "slot": 33
+ },
+ "0x006055": {
+  "en": "「They're still of some use, after all.」",
+  "slot": 60
+ },
+ "0x006092": {
+  "en": "「In the Granzon, this much is nothing...」",
+  "slot": 57
+ },
+ "0x0060CC": {
+  "en": "「Very well, I'll protect you.」",
+  "slot": 60
+ },
+ "0x006109": {
+  "en": "「Stand back, I'll take over.」",
+  "slot": 48
+ },
+ "0x00613A": {
+  "en": "「Honestly... you're such a handful.」",
+  "slot": 63
+ },
+ "0x00617A": {
+  "en": "「I'll cover you. We're allies for now.」",
+  "slot": 66
+ },
+ "0x0061BD": {
+  "en": "「Don't worry, I won't call this/ atonement or anything.」",
+  "slot": 91
+ },
+ "0x006219": {
+  "en": "「I'll protect you, Saphine.」",
+  "slot": 48
+ },
+ "0x00624A": {
+  "en": "「Stand back, Monica.」",
+  "slot": 36
+ },
+ "0x00626F": {
+  "en": "「There's no use running.」",
+  "slot": 33
+ },
+ "0x006291": {
+  "en": "「Resistance is futile.」",
+  "slot": 30
+ },
+ "0x0062B0": {
+  "en": "「Heh... now the real hell begins.」",
+  "slot": 54
+ },
+ "0x0062E7": {
+  "en": "「Too slow. Here's one more for you.」",
+  "slot": 63
+ },
+ "0x006327": {
+  "en": "「Now then, here I come.」",
+  "slot": 30
+ },
+ "0x006346": {
+  "en": "「Gravitron Cannon, fire!」",
+  "slot": 45
+ },
+ "0x006374": {
+  "en": "「Gran Worm Sword!」",
+  "slot": 36
+ },
+ "0x006399": {
+  "en": "「Take this.」",
+  "slot": 21
+ },
+ "0x0063AF": {
+  "en": "「Worm Smasher!」",
+  "slot": 36
+ },
+ "0x0063D4": {
+  "en": "「Vanish.」",
+  "slot": 21
+ },
+ "0x0063EA": {
+  "en": "「Now then, shall we end this?」",
+  "slot": 45
+ },
+ "0x006418": {
+  "en": "「Vanish beyond the event horizon.」",
+  "slot": 45
+ },
+ "0x006446": {
+  "en": "「Black Hole Cluster, fire!」",
+  "slot": 54
+ },
+ "0x00647D": {
+  "en": "「A condensed micro black hole/ holds a peculiar solution.」",
+  "slot": 91
+ },
+ "0x0064D9": {
+  "en": "「A naked singularity eats away/ at spacetime itself.」",
+  "slot": 76
+ },
+ "0x006526": {
+  "en": "「There's no escaping gravitational collapse!」",
+  "slot": 51
+ }
+}
