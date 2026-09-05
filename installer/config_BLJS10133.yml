@@ -1,0 +1,30 @@
+# RPCS3 per-game configuration for BLJS10133
+# (Dai-2-Ji Super Robot Taisen OG)
+#
+# Drop this at:  <your RPCS3 folder>/config/custom_configs/config_BLJS10133.yml
+# or let the installer do it:  python tools/setup_rpcs3.py "<your RPCS3 folder>"
+#
+# These are the settings the patch was developed and played on. RPCS3 fills in
+# anything not listed here from your global configuration, so this only overrides
+# what matters for this game.
+
+Core:
+  PPU Decoder: Recompiler (LLVM)
+  SPU Decoder: Recompiler (LLVM)
+  SPU Block Size: Safe
+
+Video:
+  Renderer: Vulkan
+  Resolution: 1280x720
+  Shader Mode: Async Shader Recompiler
+  # Both colour-buffer options stay off: this game does not need them and they
+  # cost a lot of performance.
+  Write Color Buffers: false
+  Read Color Buffers: false
+  VSync: false
+  Multithreaded RSX: false
+  Force CPU Blit: false
+  Disable Vertex Cache: false
+
+Audio:
+  Renderer: Cubeb

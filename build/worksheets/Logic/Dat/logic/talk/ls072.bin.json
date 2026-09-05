@@ -1,0 +1,3068 @@
+{
+ "0x000081": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000097": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0000AD": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0000C0": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0000D6": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0000E6": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0000FC": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00010F": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000128": {
+  "en": "",
+  "slot": 27,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000144": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000157": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00016A": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000180": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000199": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0001B2": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0001CB": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0001DE": {
+  "en": "",
+  "slot": 27,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0001FA": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00020D": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00021D": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000233": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00024C": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000262": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00027B": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00028E": {
+  "en": "",
+  "slot": 27,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0002AA": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0002BD": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0002D6": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0002E9": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0002FC": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000312": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00032B": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000341": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000354": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00036A": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000383": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000396": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0003A9": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0003BC": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0003CF": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0003DF": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0003F5": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000408": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00041B": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000434": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000447": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00045D": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000473": {
+  "en": "",
+  "slot": 27,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00048F": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0004A5": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0004BB": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0004CB": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0004DE": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0004EE": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000501": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000517": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00052A": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000540": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000553": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000566": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000576": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000589": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00059F": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0005B8": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0005CB": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0005DB": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0005F1": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000601": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00061A": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000630": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000646": {
+  "en": "",
+  "slot": 36,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00066B": {
+  "en": "",
+  "slot": 36,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000690": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0006A9": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0006BC": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0006D5": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0006EB": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0006FB": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00070E": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00071E": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000728": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000732": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00073C": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000746": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000750": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00075A": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000764": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00076E": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000778": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000782": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00078C": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000796": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0007A0": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0007AA": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0007B4": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0007BE": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0007C8": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0007D2": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0007DC": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0007E6": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0007F0": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0007FA": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000804": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00080E": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000818": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000828": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000832": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00083C": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000846": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000850": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00085A": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000864": {
+  "en": "",
+  "slot": 12,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000871": {
+  "en": "",
+  "slot": 12,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00087E": {
+  "en": "",
+  "slot": 12,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00088B": {
+  "en": "",
+  "slot": 12,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000898": {
+  "en": "",
+  "slot": 12,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0008A5": {
+  "en": "",
+  "slot": 12,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0008B2": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0008C2": {
+  "en": "???",
+  "slot": 9
+ },
+ "0x0008CC": {
+  "en": "「S-so this is it...!」",
+  "slot": 36
+ },
+ "0x0008F1": {
+  "en": "Ibis",
+  "slot": 12
+ },
+ "0x0008FE": {
+  "en": "「If this is all I've got...@　then this is where it ends...!」",
+  "slot": 52
+ },
+ "0x000933": {
+  "en": "Aqua",
+  "slot": 9
+ },
+ "0x00093D": {
+  "en": "「Aaaaaahh!!」",
+  "slot": 36
+ },
+ "0x000962": {
+  "en": "Axel",
+  "slot": 12
+ },
+ "0x00096F": {
+  "en": "「Ugh! @　So this is where it ends...!!」",
+  "slot": 46
+ },
+ "0x00099E": {
+  "en": "Aya",
+  "slot": 6
+ },
+ "0x0009A5": {
+  "en": "「Agh...! I have to eject...!」",
+  "slot": 39
+ },
+ "0x0009CD": {
+  "en": "Araceli",
+  "slot": 12
+ },
+ "0x0009DA": {
+  "en": "「Time to call it.」",
+  "slot": 18
+ },
+ "0x0009ED": {
+  "en": "Arado",
+  "slot": 9
+ },
+ "0x0009F7": {
+  "en": "「Dammit! @　You won't get me next time!」",
+  "slot": 55
+ },
+ "0x000A2F": {
+  "en": "Ariel",
+  "slot": 15
+ },
+ "0x000A3F": {
+  "en": "「The rest is up to you......」",
+  "slot": 30
+ },
+ "0x000A5E": {
+  "en": "Alfimi",
+  "slot": 18
+ },
+ "0x000A71": {
+  "en": "「Is this... as far as I go...?」",
+  "slot": 36
+ },
+ "0x000A96": {
+  "en": "Irm",
+  "slot": 9
+ },
+ "0x000AA0": {
+  "en": "「Tch!! What a short show!」",
+  "slot": 45
+ },
+ "0x000ACE": {
+  "en": "Ing",
+  "slot": 9
+ },
+ "0x000AD8": {
+  "en": "Viletta",
+  "slot": 15
+ },
+ "0x000AE8": {
+  "en": "「Time to pull back...! I'm ejecting.」",
+  "slot": 39
+ },
+ "0x000B10": {
+  "en": "Ventos",
+  "slot": 15
+ },
+ "0x000B20": {
+  "en": "「Is this where it ends......!?」",
+  "slot": 39
+ },
+ "0x000B48": {
+  "en": "Excellen",
+  "slot": 15
+ },
+ "0x000B58": {
+  "en": "「Oh dear...@　how uncool of me, geez!」",
+  "slot": 55
+ },
+ "0x000B90": {
+  "en": "Elis",
+  "slot": 9
+ },
+ "0x000B9A": {
+  "en": "「No way, I'm hit!?」",
+  "slot": 36
+ },
+ "0x000BBF": {
+  "en": "Kirkus",
+  "slot": 12
+ },
+ "0x000BCC": {
+  "en": "「Nngh, so this is it!」",
+  "slot": 36
+ },
+ "0x000BF1": {
+  "en": "Carla",
+  "slot": 9
+ },
+ "0x000BFB": {
+  "en": "「I have to eject...!」",
+  "slot": 30
+ },
+ "0x000C1A": {
+  "en": "Kai",
+  "slot": 6
+ },
+ "0x000C21": {
+  "en": "「Tch! So this is as far as I go...!」",
+  "slot": 45
+ },
+ "0x000C4F": {
+  "en": "Katina",
+  "slot": 12
+ },
+ "0x000C5C": {
+  "en": "「Like hell I'll screw up here...!@　This ain't fun...」",
+  "slot": 67
+ },
+ "0x000CA0": {
+  "en": "Kyosuke",
+  "slot": 15
+ },
+ "0x000CB0": {
+  "en": "「I blew it...!@　Guess I've got no choice but to bail...」",
+  "slot": 58
+ },
+ "0x000CEB": {
+  "en": "Gilliam",
+  "slot": 12
+ },
+ "0x000CF8": {
+  "en": "「Tch! I'm ejecting!」",
+  "slot": 33
+ },
+ "0x000D1A": {
+  "en": "Kukuru",
+  "slot": 9
+ },
+ "0x000D24": {
+  "en": "「Ugh! Guess I've got to fall back!!」",
+  "slot": 48
+ },
+ "0x000D55": {
+  "en": "Kusuha",
+  "slot": 9
+ },
+ "0x000D5F": {
+  "en": "「I-I'm sorry...!」",
+  "slot": 39
+ },
+ "0x000D87": {
+  "en": "Glacies",
+  "slot": 18
+ },
+ "0x000D9A": {
+  "en": "「So this is it......!」",
+  "slot": 30
+ },
+ "0x000DB9": {
+  "en": "Kurt",
+  "slot": 9
+ },
+ "0x000DC3": {
+  "en": "「Ugh......! All hands, abandon ship!」",
+  "slot": 45
+ },
+ "0x000DF1": {
+  "en": "Gennacy",
+  "slot": 15
+ },
+ "0x000E01": {
+  "en": "「So this is it...... The rest is up to you.」",
+  "slot": 39
+ },
+ "0x000E29": {
+  "en": "Kouta",
+  "slot": 9
+ },
+ "0x000E33": {
+  "en": "「Dammit...!@ Is this where it ends?!」",
+  "slot": 49
+ },
+ "0x000E65": {
+  "en": "Gold",
+  "slot": 9
+ },
+ "0x000E6F": {
+  "en": "「Nngh! So they got the drop on me......」",
+  "slot": 48
+ },
+ "0x000EA0": {
+  "en": "Zash",
+  "slot": 12
+ },
+ "0x000EAD": {
+  "en": "「No good, we've taken too much damage...... Falling back!」",
+  "slot": 60
+ },
+ "0x000EEA": {
+  "en": "Saphine",
+  "slot": 15
+ },
+ "0x000EFA": {
+  "en": "「Well, I'm beaten. I'll leave the rest to you.」",
+  "slot": 48
+ },
+ "0x000F2B": {
+  "en": "Shine",
+  "slot": 12
+ },
+ "0x000F38": {
+  "en": "「Eek! I'll leave the rest to you!」",
+  "slot": 60
+ },
+ "0x000F75": {
+  "en": "Shu",
+  "slot": 9
+ },
+ "0x000F7F": {
+  "en": "「The Granzon... shot down...?」",
+  "slot": 51
+ },
+ "0x000FB3": {
+  "en": "Shouko",
+  "slot": 12
+ },
+ "0x000FC0": {
+  "en": "「Big brother... Emmy... I'm sorry!!」",
+  "slot": 51
+ },
+ "0x000FF4": {
+  "en": "Joshua",
+  "slot": 15
+ },
+ "0x001004": {
+  "en": "「Th-this is it!!」",
+  "slot": 27
+ },
+ "0x001020": {
+  "en": "Sleigh",
+  "slot": 9
+ },
+ "0x00102A": {
+  "en": "「Ngh... Guess I'm going out like a shooting star... Ejecting!」",
+  "slot": 66
+ },
+ "0x00106D": {
+  "en": "Seolla",
+  "slot": 9
+ },
+ "0x001077": {
+  "en": "「N-next time... for sure!!」",
+  "slot": 39
+ },
+ "0x00109F": {
+  "en": "Seti",
+  "slot": 9
+ },
+ "0x0010A9": {
+  "en": "「Th-this is all I can take...!」",
+  "slot": 45
+ },
+ "0x0010D7": {
+  "en": "Xenia",
+  "slot": 9
+ },
+ "0x0010E1": {
+  "en": "「Owowow... You got me. Miscalculation on my part.」",
+  "slot": 57
+ },
+ "0x00111B": {
+  "en": "Zeb",
+  "slot": 6
+ },
+ "0x001122": {
+  "en": "「Aw, man, they went and got me!」",
+  "slot": 54
+ },
+ "0x001159": {
+  "en": "Sanger",
+  "slot": 12
+ },
+ "0x001166": {
+  "en": "「Uh...ngh! Is this as far as I go...!」",
+  "slot": 45
+ },
+ "0x001194": {
+  "en": "Tasuku",
+  "slot": 9
+ },
+ "0x00119E": {
+  "en": "「Damn it! How pathetic...!!」",
+  "slot": 42
+ },
+ "0x0011C9": {
+  "en": "Tetsuya",
+  "slot": 9
+ },
+ "0x0011D3": {
+  "en": "「Ngh! All hands, abandon ship at once!!」",
+  "slot": 54
+ },
+ "0x00120A": {
+  "en": "Tytti",
+  "slot": 15
+ },
+ "0x00121A": {
+  "en": "「I'm sorry... The rest is up to you.」",
+  "slot": 42
+ },
+ "0x001245": {
+  "en": "Touma",
+  "slot": 9
+ },
+ "0x00124F": {
+  "en": "「Damn it! Is this the limit of my power...!」",
+  "slot": 54
+ },
+ "0x001286": {
+  "en": "Torres",
+  "slot": 12
+ },
+ "0x001293": {
+  "en": "「I can't fight anymore! Falling back!」",
+  "slot": 57
+ },
+ "0x0012CD": {
+  "en": "Hugo",
+  "slot": 12
+ },
+ "0x0012DA": {
+  "en": "「Waaaaaah!!」",
+  "slot": 36
+ },
+ "0x0012FF": {
+  "en": "Feil",
+  "slot": 12
+ },
+ "0x00130C": {
+  "en": "「Heh... Impressive, as expected.」",
+  "slot": 33
+ },
+ "0x00132E": {
+  "en": "Bullet",
+  "slot": 12
+ },
+ "0x00133B": {
+  "en": "「To be taken down here...@ I'm still green...!」",
+  "slot": 64
+ },
+ "0x00137C": {
+  "en": "Presia",
+  "slot": 12
+ },
+ "0x001389": {
+  "en": "「No good, this is the limit! Retreating!」",
+  "slot": 60
+ },
+ "0x0013C6": {
+  "en": "Mai",
+  "slot": 6
+ },
+ "0x0013CD": {
+  "en": "「Is-is it over... here...!?」",
+  "slot": 42
+ },
+ "0x0013F8": {
+  "en": "Masaki",
+  "slot": 9
+ },
+ "0x001402": {
+  "en": "「Sorry!@ I'm pulling out...!」",
+  "slot": 58
+ },
+ "0x00143D": {
+  "en": "Mio",
+  "slot": 6
+ },
+ "0x001444": {
+  "en": "「Sorry, the rest is on you!」",
+  "slot": 36
+ },
+ "0x001469": {
+  "en": "Michiru",
+  "slot": 9
+ },
+ "0x001473": {
+  "en": "「N-no good! This is it!!」",
+  "slot": 48
+ },
+ "0x0014A4": {
+  "en": "Mekibos",
+  "slot": 12
+ },
+ "0x0014B1": {
+  "en": "「Well, well, so this is the end.」",
+  "slot": 36
+ },
+ "0x0014D6": {
+  "en": "Monica",
+  "slot": 9
+ },
+ "0x0014E0": {
+  "en": "「I can't go on. I'll take my leave.」",
+  "slot": 69
+ },
+ "0x001526": {
+  "en": "Yang Long",
+  "slot": 12
+ },
+ "0x001533": {
+  "en": "「A bitter defeat... I'll withdraw.」",
+  "slot": 45
+ },
+ "0x001561": {
+  "en": "Yuuki",
+  "slot": 9
+ },
+ "0x00156B": {
+  "en": "「Careless of me...@ I'll pull back for now...!」",
+  "slot": 67
+ },
+ "0x0015AF": {
+  "en": "Radha",
+  "slot": 9
+ },
+ "0x0015B9": {
+  "en": "「N-not in a place like this...!」",
+  "slot": 39
+ },
+ "0x0015E1": {
+  "en": "Rai",
+  "slot": 6
+ },
+ "0x0015E8": {
+  "en": "「Tch...! Guess I couldn't hold out...!」",
+  "slot": 51
+ },
+ "0x00161C": {
+  "en": "Raul",
+  "slot": 9
+ },
+ "0x001626": {
+  "en": "「This... this can't be...!」",
+  "slot": 45
+ },
+ "0x001654": {
+  "en": "Russel",
+  "slot": 12
+ },
+ "0x001661": {
+  "en": "「Sorry! I'm ejecting!」",
+  "slot": 45
+ },
+ "0x00168F": {
+  "en": "Latooni",
+  "slot": 15
+ },
+ "0x00169F": {
+  "en": "「So it ends... here...!」",
+  "slot": 39
+ },
+ "0x0016C7": {
+  "en": "Lamia",
+  "slot": 9
+ },
+ "0x0016D1": {
+  "en": "「Ejecting...@ Ngh...! Can't even do it gracefully...」",
+  "slot": 70
+ },
+ "0x001718": {
+  "en": "Rio",
+  "slot": 6
+ },
+ "0x00171F": {
+  "en": "「N-next time I won't lose!!」",
+  "slot": 45
+ },
+ "0x00174D": {
+  "en": "Rishu",
+  "slot": 12
+ },
+ "0x00175A": {
+  "en": "「Hnn! Did I blunder...!」",
+  "slot": 45
+ },
+ "0x001788": {
+  "en": "Lim",
+  "slot": 6
+ },
+ "0x00178F": {
+  "en": "「Guhhh! Not in a place like this!!」",
+  "slot": 45
+ },
+ "0x0017BD": {
+  "en": "Ryusei",
+  "slot": 15
+ },
+ "0x0017CD": {
+  "en": "「D-damn it!@ They got me!」",
+  "slot": 52
+ },
+ "0x001802": {
+  "en": "Lune",
+  "slot": 12
+ },
+ "0x00180F": {
+  "en": "「Sorry! Valsione...!」",
+  "slot": 48
+ },
+ "0x001840": {
+  "en": "Ryoto",
+  "slot": 12
+ },
+ "0x00184D": {
+  "en": "「Ngh...! I have to eject...!」",
+  "slot": 45
+ },
+ "0x00187B": {
+  "en": "Ruzak Soldier A",
+  "slot": 27
+ },
+ "0x001897": {
+  "en": "「Th-they got me!」",
+  "slot": 27
+ },
+ "0x0018B3": {
+  "en": "Ruzak Soldier B",
+  "slot": 27
+ },
+ "0x0018CF": {
+  "en": "「This is as far as I go!!」",
+  "slot": 30
+ },
+ "0x0018EE": {
+  "en": "Ratsel",
+  "slot": 15
+ },
+ "0x0018FE": {
+  "en": "「So I'm still green as well...!」",
+  "slot": 42
+ },
+ "0x001929": {
+  "en": "Leona",
+  "slot": 9
+ },
+ "0x001933": {
+  "en": "「How humiliating...!」",
+  "slot": 27
+ },
+ "0x00194F": {
+  "en": "Lefina",
+  "slot": 15
+ },
+ "0x00195F": {
+  "en": "「A-all hands!@ Abandoning ship takes priority...!!」",
+  "slot": 52
+ },
+ "0x001994": {
+  "en": "Rodney",
+  "slot": 12
+ },
+ "0x0019A1": {
+  "en": "「No good, they got me.」",
+  "slot": 42
+ },
+ "0x0019CC": {
+  "en": "Roff",
+  "slot": 6
+ },
+ "0x0019D3": {
+  "en": "「Nothing to do but fall back...!」",
+  "slot": 42
+ },
+ "0x0019FE": {
+  "en": "「Return face to default.」",
+  "slot": 36
+ },
+ "0x001A23": {
+  "en": "Paris - Earth Federation Army - Joint Chiefs of Staff",
+  "slot": 45
+ },
+ "0x001A51": {
+  "en": "Earth Federation Army Joint Chiefs of Staff",
+  "slot": 36
+ },
+ "0x001A76": {
+  "en": "Daniel",
+  "slot": 12
+ },
+ "0x001A83": {
+  "en": "「Reconquista... the reclamation of holy ground?」",
+  "slot": 51
+ },
+ "0x001AB7": {
+  "en": "Gaspard",
+  "slot": 15
+ },
+ "0x001AC7": {
+  "en": "「Yes. It's a fitting name for the Moon reclamation operation, wouldn't you say?」",
+  "slot": 69
+ },
+ "0x001B0D": {
+  "en": "「Understood.@ And what shall we call@ Operation Alpha officially?」",
+  "slot": 119
+ },
+ "0x001B85": {
+  "en": "「Icebreaker.@ I want one of the names to be easy to grasp.@ Besides, you prefer straightforward naming, don't you?」",
+  "slot": 185
+ },
+ "0x001C3F": {
+  "en": "「Yes. Then from now on, Alpha will be@ Operation Icebreaker, and Bravo@ Operation Reconquista.」",
+  "slot": 182
+ },
+ "0x001CF6": {
+  "en": "「Now then, let's hear the report.」",
+  "slot": 42
+ },
+ "0x001D21": {
+  "en": "「At present, the Guests are conducting sporadic@ reconnaissance-in-force against Earth... but no major movements are seen.」",
+  "slot": 136
+ },
+ "0x001DAA": {
+  "en": "「Also, the Ruina have appeared not only@ in South America but in southwestern Africa,@ Australia, and Oceania as well...」",
+  "slot": 155
+ },
+ "0x001E46": {
+  "en": "「Several of our bases and Armored Module@ production plants have been seized.@ For details, please review this data.」",
+  "slot": 182
+ },
+ "0x001EFD": {
+  "en": "「Hmm... So the shoreline defense is nearing its limit too.」",
+  "slot": 54
+ },
+ "0x001F34": {
+  "en": "「Yes, the Ruina are appearing more frequently now.@ The South America Army and the fleets sent near@ Antarctica can't keep up.」",
+  "slot": 158
+ },
+ "0x001FD3": {
+  "en": "「Is it possible to move up@ Operation Icebreaker?」",
+  "slot": 85
+ },
+ "0x002029": {
+  "en": "「At present, it's difficult.@ Perhaps due to friction over that matter, the Gaia@ Sabers' response has slowed.」",
+  "slot": 143
+ },
+ "0x0020B9": {
+  "en": "「Hmph, Alteur... what is he scheming...?@ Depending on the case, the Federation may have to carry it out alone.」",
+  "slot": 139
+ },
+ "0x002145": {
+  "en": "「I'm advancing preparations with that in mind.@ And the Steel Dragon Squadron - how shall we proceed?」",
+  "slot": 133
+ },
+ "0x0021CB": {
+  "en": "「It may be best to split their forces in two@ and have them join both Icebreaker@ and Reconquista.」",
+  "slot": 143
+ },
+ "0x00225B": {
+  "en": "「Wouldn't it be better to have them focus on Icebreaker?@ There's no telling what moves the Ruina@ may make from here on.」",
+  "slot": 173
+ },
+ "0x002309": {
+  "en": "「Of course, depending on the Ruina's movements, we'll do so.@ But with the Moon under their control, I also want to settle things@ with the Guests quickly.」",
+  "slot": 170
+ },
+ "0x0023B4": {
+  "en": "「Compared to some unknowable being called the 'King of Ruin,'@ Teniquette Zezernan seems easier@ to bring to heel...」",
+  "slot": 173
+ },
+ "0x002462": {
+  "en": "Iti Iti Island",
+  "slot": 21
+ },
+ "0x002478": {
+  "en": "Steel Dragon Squadron",
+  "slot": 12
+ },
+ "0x002485": {
+  "en": "Sean",
+  "slot": 12
+ },
+ "0x002492": {
+  "en": "「...We destroyed the enemy just now, but we should assume@ the Gaia Sabers now know of this base.@ What will you do, Captain?」",
+  "slot": 188
+ },
+ "0x00254F": {
+  "en": "「We'll leave this island and draw them away.」",
+  "slot": 51
+ },
+ "0x002583": {
+  "en": "「The Gaia Sabers will likely prioritize pursuing us@ over Iti Iti Island... but even so,@ there's a chance this place comes under attack.」",
+  "slot": 188
+ },
+ "0x002640": {
+  "en": "「There's no avoiding it.@ The moment we chose to take you all in,@ this was something we were prepared for.」",
+  "slot": 122
+ },
+ "0x0026BB": {
+  "en": "「...I'm sorry...」",
+  "slot": 42
+ },
+ "0x0026E6": {
+  "en": "「No. There's a chance the base's location leaked@ from former DC personnel too...@ Sooner or later, this was bound to happen.」",
+  "slot": 170
+ },
+ "0x002791": {
+  "en": "「Still, as the Colonel said,@ to split their focus,@ I believe we're better off leaving here.」",
+  "slot": 149
+ },
+ "0x002827": {
+  "en": "「Lt. Commander Tetsuya, Vice Captain... any objections?」",
+  "slot": 63
+ },
+ "0x002867": {
+  "en": "「None.」",
+  "slot": 12
+ },
+ "0x002874": {
+  "en": "「None here either.」",
+  "slot": 33
+ },
+ "0x002896": {
+  "en": "「After drawing off the Gaia Sabers, we'll submerge@ in the seabed off Chile and await@ Vice Admiral Jacob's next orders.」",
+  "slot": 155
+ },
+ "0x002932": {
+  "en": "「Understood.」",
+  "slot": 24
+ },
+ "0x00294B": {
+  "en": "「Then begin departure preparations at once.@ And select the members who'll@ take on patrol duty.」",
+  "slot": 128
+ },
+ "0x0029CC": {
+  "en": "「Roger that.」",
+  "slot": 18
+ },
+ "0x0029DF": {
+  "en": "「Captain Kurt... I'll stay with the Steel Dragon Squadron.@ I'm counting on you - if needed, take the Kurogane and flee Iti Iti Island.」",
+  "slot": 200
+ },
+ "0x002AA8": {
+  "en": "「Sir...」",
+  "slot": 18
+ },
+ "0x002ABB": {
+  "en": "「Ugh...」",
+  "slot": 18
+ },
+ "0x002ACE": {
+  "en": "「Touma... are you feeling all right?」",
+  "slot": 57
+ },
+ "0x002B08": {
+  "en": "「Y-yeah... More importantly, everyone...@ I'm sorry things turned out like that...」",
+  "slot": 124
+ },
+ "0x002B85": {
+  "en": "「I don't mind.@ You went out to protect the base in the first place, right?」",
+  "slot": 115
+ },
+ "0x002BF9": {
+  "en": "「Besides, no one could have predicted@ things would turn out that way...」",
+  "slot": 88
+ },
+ "0x002C52": {
+  "en": "「Well, I'm just glad you're safe.」",
+  "slot": 48
+ },
+ "0x002C83": {
+  "en": "Despinis",
+  "slot": 15
+ },
+ "0x002C93": {
+  "en": "「Yes, for a moment I feared the worst...」",
+  "slot": 54
+ },
+ "0x002CCA": {
+  "en": "「You were getting thrown around by the DML System,@ but pulling that off was really something.」",
+  "slot": 127
+ },
+ "0x002D4A": {
+  "en": "「And after that, System LIOH threw me around@ good and hard, though...」",
+  "slot": 97
+ },
+ "0x002DAC": {
+  "en": "「By the way... is Major Kai's lecture over yet?」",
+  "slot": 78
+ },
+ "0x002DFB": {
+  "en": "「Yeah... Not about sortieing in the Raihou, but@ for overestimating my own strength in my first battle,@ I got chewed out for about two hours...」",
+  "slot": 149
+ },
+ "0x002E91": {
+  "en": "「That's nothing compared to Yang Long's lectures.」",
+  "slot": 69
+ },
+ "0x002ED7": {
+  "en": "「Huh? What do you mean?」",
+  "slot": 42
+ },
+ "0x002F02": {
+  "en": "「I got hit with one before myself...@ It starts with four thousand years of Chinese history@ and just goes on and on, with no end in sight.」",
+  "slot": 161
+ },
+ "0x002FA4": {
+  "en": "「And if you dare talk back, you get a lecture@ ten times as long thrown right back at you...」",
+  "slot": 115
+ },
+ "0x003018": {
+  "en": "「When Yang Long tires out,@ Ranshao takes over, so there's no time to rest, either.」",
+  "slot": 97
+ },
+ "0x00307A": {
+  "en": "「Th-that's...」",
+  "slot": 27
+ },
+ "0x003096": {
+  "en": "「Th-that's terrifying...」",
+  "slot": 36
+ },
+ "0x0030BB": {
+  "en": "「Rumor has it some guys have@ straight-up snapped from it.」",
+  "slot": 85
+ },
+ "0x003111": {
+  "en": "「...I'll thank you to stop making things up.@ I counsel people politely, taking my time.@ So that they properly repent.」",
+  "slot": 179
+ },
+ "0x0031C5": {
+  "en": "Ranshao",
+  "slot": 15
+ },
+ "0x0031D5": {
+  "en": "「Just so. If you'd like, I'd be glad to@ explain it all over again, at length...」",
+  "slot": 106
+ },
+ "0x003240": {
+  "en": "「N-no! I get it!@ It was my fault! It was my fault, so please, spare me!」",
+  "slot": 109
+ },
+ "0x0032AE": {
+  "en": "「...Devastatingly effective.」",
+  "slot": 33
+ },
+ "0x0032D0": {
+  "en": "(I-I'd better watch myself too.)",
+  "slot": 42
+ },
+ "0x0032FB": {
+  "en": "「By the way... what happens to the Raihou now?」",
+  "slot": 63
+ },
+ "0x00333B": {
+  "en": "「They'll talk it over up top and decide, but...@ I'll definitely be taken off it.@ After what happened...」",
+  "slot": 146
+ },
+ "0x0033CE": {
+  "en": "「Even if someone else had piloted it,@ the result likely would have been the same, though...」",
+  "slot": 91
+ },
+ "0x00342A": {
+  "en": "「.........」",
+  "slot": 15
+ },
+ "0x00343A": {
+  "en": "「...Touma, let me lend you these.」",
+  "slot": 54
+ },
+ "0x003471": {
+  "en": "「Power wristbands and ankle weights...?」",
+  "slot": 48
+ },
+ "0x0034A2": {
+  "en": "「Right.@ They're a bit different from the ones I usually wear, though.@ Here, take them.」",
+  "slot": 116
+ },
+ "0x003517": {
+  "en": "「Whoa! Th-they're heavy!」",
+  "slot": 36
+ },
+ "0x00353C": {
+  "en": "「Wear those all the time, and it'll be one way to train@ yourself to master the DML System.」",
+  "slot": 124
+ },
+ "0x0035B9": {
+  "en": "「Huh...?」",
+  "slot": 18
+ },
+ "0x0035CC": {
+  "en": "「You made a big decision and got in the Raihou, right?@ I don't know what'll happen to it, but...@ don't give up, keep at it. Just in case.」",
+  "slot": 194
+ },
+ "0x00368F": {
+  "en": "「...Thank you, Lune...」",
+  "slot": 48
+ },
+ "0x0036C0": {
+  "en": "Grand Christmas",
+  "slot": 30
+ },
+ "0x0036DF": {
+  "en": "Grand Christmas - Interior",
+  "slot": 45
+ },
+ "0x00370D": {
+  "en": "Erde",
+  "slot": 9
+ },
+ "0x003717": {
+  "en": "(That breaks the protection...)",
+  "slot": 48
+ },
+ "0x003748": {
+  "en": "(Idealant...@ Duvan Org's... data...)",
+  "slot": 85
+ },
+ "0x00379E": {
+  "en": "(! This is...!)",
+  "slot": 30
+ },
+ "0x0037BD": {
+  "en": "(Fufufu... This info will be useful.@ Now, for Units 8 and 9...)",
+  "slot": 91
+ },
+ "0x003819": {
+  "en": "Mitarl",
+  "slot": 12
+ },
+ "0x003826": {
+  "en": "「Erde, we'll run cruising tests on Prototypes 8 and 9.@ Leave data collection to each unit's AI0 and you.@ Come along in the Medius Locus.」",
+  "slot": 194
+ },
+ "0x0038E9": {
+  "en": "「Understood, but...@ what's the protocol should we encounter the enemy?」",
+  "slot": 82
+ },
+ "0x00393C": {
+  "en": "「We've set up a test course within@　our sphere of influence. Guests aside,@　the odds of running into Ruina or the Steel Dragon Squadron are low.」",
+  "slot": 185
+ },
+ "0x0039F6": {
+  "en": "「If you do encounter the enemy, withdraw at once.@　We can't afford to lose Units 8 and 9.」",
+  "slot": 133
+ },
+ "0x003A7C": {
+  "en": "「......Understood.」",
+  "slot": 30
+ },
+ "0x003A9B": {
+  "en": "（This could be my chance......@　I might pull off both goals at once......）",
+  "slot": 94
+ },
+ "0x003AFA": {
+  "en": "（Albero......I'll need your help too......）",
+  "slot": 69
+ },
+ "0x003B40": {
+  "en": "The Pacific Ocean",
+  "slot": 12
+ },
+ "0x003B4D": {
+  "en": "Eric",
+  "slot": 12
+ },
+ "0x003B5A": {
+  "en": "「......And that's the gist of the specs for@　the TE Absorber prototypes: Units 8, 9, and 10.」",
+  "slot": 130
+ },
+ "0x003BDD": {
+  "en": "「So the real prize is......」",
+  "slot": 33
+ },
+ "0x003BFF": {
+  "en": "「Unit 10, the MODEL-X.@　Units 8 and 9 are manned TE Absorbers@　built along the way.」",
+  "slot": 146
+ },
+ "0x003C92": {
+  "en": "「Machines built to work under the Gaia Sabers@ too -- deliverables to draw sponsor funds, but@ they outclass Cerberus and Garmraid.」",
+  "slot": 227
+ },
+ "0x003D76": {
+  "en": "「But the MODEL-X has AI1......」",
+  "slot": 60
+ },
+ "0x003DB3": {
+  "en": "「That's the yellow light.@　Mitarl's worried AI1 could go berserk.」",
+  "slot": 106
+ },
+ "0x003E1E": {
+  "en": "（Go berserk......）",
+  "slot": 18
+ },
+ "0x003E31": {
+  "en": "「Doctor Wong, about how Cerberus, Garmraid,@　and Medius were steered into real combat@　instead of a mock battle......」",
+  "slot": 179
+ },
+ "0x003EE5": {
+  "en": "「I don't know the full story myself.@　Most likely it was Erde's idea.」",
+  "slot": 109
+ },
+ "0x003F53": {
+  "en": "「A serious fight makes both sides try harder, which yields better data - probably to teach and raise AI1 more efficiently.」",
+  "slot": 215
+ },
+ "0x00402B": {
+  "en": "「......Even if it gets us killed......」",
+  "slot": 54
+ },
+ "0x004062": {
+  "en": "「Then so be it, as far as she's concerned.@　For Erde, the real prize is AI1......@　she dotes on it like her own child.」",
+  "slot": 179
+ },
+ "0x004116": {
+  "en": "「Then why is Major Albero Est@　following the Zentr Project?」",
+  "slot": 118
+ },
+ "0x00418D": {
+  "en": "「I couldn't say. I looked into it since it seemed odd, but Mitarl guards it fiercely. Albero and Erde both keep quiet about it too.」",
+  "slot": 221
+ },
+ "0x00426B": {
+  "en": "（So he has good reason......）",
+  "slot": 54
+ },
+ "0x0042A2": {
+  "en": "「I don't know everything, mind you.@　The former President, Galilnagant, Canis,@　the Machinery Children, Ing......」",
+  "slot": 188
+ },
+ "0x00435F": {
+  "en": "「Those matters, I really can't say.」",
+  "slot": 57
+ },
+ "0x004399": {
+  "en": "「......Then, one last question.@　What do you truly think of@　Alteur Steinbeck, Doctor?」",
+  "slot": 164
+ },
+ "0x00443E": {
+  "en": "「I can't read his true intent, but......@　if you had to call it black or white, I'd say he's fairly close to black.」",
+  "slot": 115
+ },
+ "0x0044B2": {
+  "en": "「I get the feeling he's using the Gaia Sabers as a front to scheme something no good.」",
+  "slot": 124
+ },
+ "0x00452F": {
+  "en": "「Just my hunch, mind you.@　But he strikes me as fundamentally different@　from the likes of Bian Zoldark.」",
+  "slot": 131
+ },
+ "0x0045B3": {
+  "en": "「Shu-chan understood that too, I think.@　That's likely why he did what he did.」",
+  "slot": 124
+ },
+ "0x004630": {
+  "en": "「Shu-chan......?@　You mean Doctor Shu Shirakawa?」",
+  "slot": 94
+ },
+ "0x00468F": {
+  "en": "「Mm. I cooperated with the Gaia Sabers to make a living too......but no more of that.」",
+  "slot": 128
+ },
+ "0x004710": {
+  "en": "「Your judgment and actions against them@　aren't mistaken, I'd say.」",
+  "slot": 106
+ },
+ "0x00477B": {
+  "en": "「......Thank you for telling me all this,@　Doctor.」",
+  "slot": 94
+ },
+ "0x0047DA": {
+  "en": "Eun",
+  "slot": 6
+ },
+ "0x0047E1": {
+  "en": "「Captain, it's almost time to surface.@　Please return to the bridge.」",
+  "slot": 88
+ },
+ "0x00483A": {
+  "en": "「......I've patrol duty, so I'll be off.」",
+  "slot": 63
+ },
+ "0x00487A": {
+  "en": "「Ah, right. Take care out there.」",
+  "slot": 66
+ },
+ "0x0048BD": {
+  "en": "「Clear skies but the waves run high,@　the sea's so wide and grand♪ Something like that, anyway.」",
+  "slot": 94
+ },
+ "0x00491C": {
+  "en": "「Honestly......we're not here to play, Mio.@　This is a patrol mission.」",
+  "slot": 106
+ },
+ "0x004987": {
+  "en": "「I know, I know.@　I'm checking the radar, see?」",
+  "slot": 91
+ },
+ "0x0049E3": {
+  "en": "Hakkai",
+  "slot": 12
+ },
+ "0x0049F0": {
+  "en": "「We're the ones doing the watching, though~」",
+  "slot": 42
+ },
+ "0x004A1B": {
+  "en": "Gojo",
+  "slot": 12
+ },
+ "0x004A28": {
+  "en": "「Sure works her familiars hard, this one.」",
+  "slot": 69
+ },
+ "0x004A6E": {
+  "en": "「......Nice, familiars.@　They help you out with all sorts of things.」",
+  "slot": 97
+ },
+ "0x004AD0": {
+  "en": "「Yeah. When I'm bored,@　they even practice comedy routines with me.」",
+  "slot": 73
+ },
+ "0x004B1A": {
+  "en": "「Th-that's not really what I was after......」",
+  "slot": 57
+ },
+ "0x004B54": {
+  "en": "（......Riding a TE Absorber alone is lonely, after all......@　since I always had Hugo with me......）",
+  "slot": 142
+ },
+ "0x004BE3": {
+  "en": "「Hey, hey, if you could make a familiar,@　what kind would you want?」",
+  "slot": 106
+ },
+ "0x004C4E": {
+  "en": "「Let's see......uh......」",
+  "slot": 42
+ },
+ "0x004C79": {
+  "en": "「A Komodo dragon, maybe?」",
+  "slot": 39
+ },
+ "0x004CA1": {
+  "en": "「Right, right, they're surprisingly fast......」",
+  "slot": 51
+ },
+ "0x004CD5": {
+  "en": "「Wait, why a lizard?!」",
+  "slot": 48
+ },
+ "0x004D06": {
+  "en": "「Mm~, nice setup and punchline.」",
+  "slot": 45
+ },
+ "0x004D34": {
+  "en": "「So, what would you want?」",
+  "slot": 30
+ },
+ "0x004D53": {
+  "en": "「A capybara, I guess.」",
+  "slot": 27
+ },
+ "0x004D6F": {
+  "en": "「Huh......wait, what's that?」",
+  "slot": 39
+ },
+ "0x004D97": {
+  "en": "「Also called the giant cavy.@　The biggest living rodent there is.」",
+  "slot": 97
+ },
+ "0x004DF9": {
+  "en": "Goku",
+  "slot": 9
+ },
+ "0x004E03": {
+  "en": "「Tenjiku, huh......now that's a word that gets us going.」",
+  "slot": 63
+ },
+ "0x004E43": {
+  "en": "「Right, right, off to the dreamland, GO WEST~」",
+  "slot": 57
+ },
+ "0x004E7D": {
+  "en": "（A giant......rodent......?）",
+  "slot": 42
+ },
+ "0x004EA8": {
+  "en": "「You just imagined something awful, didn't you.@　It's not like that, they're adorable.」",
+  "slot": 94
+ },
+ "0x004F07": {
+  "en": "「Yeah. Even better if you call it '-san' too.」",
+  "slot": 67
+ },
+ "0x004F4B": {
+  "en": "「I'll send you a picture later.@　Lune's bound to like it too.」",
+  "slot": 85
+ },
+ "0x004FA1": {
+  "en": "「Thanks.」",
+  "slot": 18
+ },
+ "0x004FB4": {
+  "en": "（For reference, I'd like to see that too......）",
+  "slot": 63
+ },
+ "0x004FF4": {
+  "en": "（Haah......there's just no sense of urgency here.）",
+  "slot": 60
+ },
+ "0x005031": {
+  "en": "Freki",
+  "slot": 9
+ },
+ "0x00503B": {
+  "en": "「Lady Tytti, an anomalous reading directly above.」",
+  "slot": 51
+ },
+ "0x00506F": {
+  "en": "Geri",
+  "slot": 6
+ },
+ "0x005076": {
+  "en": "「Space appears to be warping.@　Caution is advised.」",
+  "slot": 73
+ },
+ "0x0050C0": {
+  "en": "「What?! Everyone, watch the skies!」",
+  "slot": 54
+ },
+ "0x0050F7": {
+  "en": "「This is......a teleport emergence reading!」",
+  "slot": 48
+ },
+ "0x005128": {
+  "en": "「Those are......!」",
+  "slot": 30
+ },
+ "0x005147": {
+  "en": "「The Guests!」",
+  "slot": 21
+ },
+ "0x00515D": {
+  "en": "「Why would they be all the way out here......?!」",
+  "slot": 48
+ },
+ "0x00518E": {
+  "en": "「I'd heard they've been running@　recon-in-force everywhere lately, but......!」",
+  "slot": 100
+ },
+ "0x0051F3": {
+  "en": "「Tytti, we can't outrun them at this range!」",
+  "slot": 66
+ },
+ "0x005236": {
+  "en": "「Right, we've no choice but to intercept.」",
+  "slot": 45
+ },
+ "0x005264": {
+  "en": "「I've alerted the Hiryu!@　Everyone, whatever you do, don't push your luck!」",
+  "slot": 103
+ },
+ "0x0052CC": {
+  "en": "「Lady Tytti, we've picked up objects@　closing in on our position.」",
+  "slot": 97
+ },
+ "0x00532E": {
+  "en": "「Three contacts.」",
+  "slot": 27
+ },
+ "0x00534A": {
+  "en": "「If they didn't teleport in, they're not Guests......?!@　Could it be the Gaia Sabers?!」",
+  "slot": 124
+ },
+ "0x0053C7": {
+  "en": "「Those machines......?!」",
+  "slot": 27
+ },
+ "0x0053E3": {
+  "en": "「They took down the Guest units......!」",
+  "slot": 42
+ },
+ "0x00540E": {
+  "en": "「Th-that's......!!」",
+  "slot": 27
+ },
+ "0x00542A": {
+  "en": "（Heh heh......how lucky.@　To make contact with her this soon......）",
+  "slot": 97
+ },
+ "0x00548C": {
+  "en": "Albero",
+  "slot": 12
+ },
+ "0x005499": {
+  "en": "「You......so you changed the test course@　with this in mind?」",
+  "slot": 97
+ },
+ "0x0054FB": {
+  "en": "「Hardly......it's coincidence.」",
+  "slot": 36
+ },
+ "0x005520": {
+  "en": "「And sending Units 8 and 9 into battle, no less......@　isn't that against Mitarl's orders?」",
+  "slot": 133
+ },
+ "0x0055A6": {
+  "en": "「Don't worry. I'll take responsibility.」",
+  "slot": 57
+ },
+ "0x0055E0": {
+  "en": "「Professor Mitte!」",
+  "slot": 24
+ },
+ "0x0055F9": {
+  "en": "「As you can see, Units 8 and 9 are complete.@　Which means you and that machine of yours@　are no longer needed.」",
+  "slot": 149
+ },
+ "0x00568F": {
+  "en": "「I......still have business with you, Professor.」",
+  "slot": 51
+ },
+ "0x0056C3": {
+  "en": "「There's still time......still time to stop.@　Get out of the Medius Locus.@　Otherwise, we'll......!」",
+  "slot": 158
+ },
+ "0x005762": {
+  "en": "「An ultimatum, is it.@　But you know full well@　such things are futile, don't you?」",
+  "slot": 122
+ },
+ "0x0057DD": {
+  "en": "「I can't forgive you......but right now......!」",
+  "slot": 69
+ },
+ "0x005823": {
+  "en": "「......I hate it, you know.@　That pushy, self-righteous side of you.@　I always have.」",
+  "slot": 113
+ },
+ "0x005895": {
+  "en": "「!」",
+  "slot": 9
+ },
+ "0x00589F": {
+  "en": "「You grew up without hardship, handed your path,@　living without ever suffering real setback......」",
+  "slot": 118
+ },
+ "0x005916": {
+  "en": "「Kept safe by the wealthy and powerful without realizing it......you joined the army just because you hated being treated like a princess.」",
+  "slot": 182
+ },
+ "0x0059CD": {
+  "en": "「Then you became a pilot, to prove to everyone you weren't a caged bird......but one that braves death and flies by its own strength.」",
+  "slot": 191
+ },
+ "0x005A8D": {
+  "en": "「Put plainly, you became a soldier@　like it was a fashion statement, didn't you?」",
+  "slot": 97
+ },
+ "0x005AEF": {
+  "en": "「Th-that's not true......!」",
+  "slot": 27
+ },
+ "0x005B0B": {
+  "en": "「What's not true?@　It wasn't forced, there were no unavoidable circumstances,@　it wasn't to put food on the table, was it?」",
+  "slot": 149
+ },
+ "0x005BA1": {
+  "en": "「You never needed money in the first place.@　You're a member of the Centrum family, after all.」",
+  "slot": 124
+ },
+ "0x005C1E": {
+  "en": "「You've never worn yourself down just to survive,@　unlike me.」",
+  "slot": 100
+ },
+ "0x005C83": {
+  "en": "「I-I......did it to get results......!」",
+  "slot": 57
+ },
+ "0x005CBD": {
+  "en": "「Results? What results?@　Hugo Medio's death, perhaps?」",
+  "slot": 82
+ },
+ "0x005D10": {
+  "en": "「Ngh......!」",
+  "slot": 18
+ },
+ "0x005D23": {
+  "en": "「For all your knowledge, at heart you're a foolish, spoiled child.@　But even you had your uses.」",
+  "slot": 133
+ },
+ "0x005DA9": {
+  "en": "「Yes......the DFC data you built@　was exactly what my AI1 needed.」",
+  "slot": 127
+ },
+ "0x005E29": {
+  "en": "「What are you trying to do@　with this AI1 of yours?!」",
+  "slot": 82
+ },
+ "0x005E7C": {
+  "en": "「Heh heh......how should I answer to satisfy you?@　Wealth and fame? World conquest? Human extinction?@　......None of it interests me.」",
+  "slot": 194
+ },
+ "0x005F3F": {
+  "en": "「I only want to see where AI1 ends up.@　For that, I'll use anything and everything.」",
+  "slot": 121
+ },
+ "0x005FB9": {
+  "en": "「S-so that's why you'd use me......?!」",
+  "slot": 42
+ },
+ "0x005FE4": {
+  "en": "「Now, Aqua.@　Offer up your flesh and blood to my child.」",
+  "slot": 79
+ },
+ "0x006034": {
+  "en": "「E-Erde......wh-what kind of person are you......!!」",
+  "slot": 66
+ },
+ "0x006077": {
+  "en": "（There's noise in AI1 again......!@　Don't tell me it's reacting to Aqua......?）",
+  "slot": 106
+ },
+ "0x0060E2": {
+  "en": "「The same phenomenon as last time, it seems.」",
+  "slot": 57
+ },
+ "0x00611C": {
+  "en": "「......Within tolerance.@　AI1 and I will handle Units 8 and 9.@　You take her.」",
+  "slot": 134
+ },
+ "0x0061A3": {
+  "en": "「For each of our children......isn't that right, Albero.」",
+  "slot": 69
+ },
+ "0x0061E9": {
+  "en": "（This woman......!）",
+  "slot": 24
+ },
+ "0x006202": {
+  "en": "「Aqua!」",
+  "slot": 18
+ },
+ "0x006215": {
+  "en": "「I-I'm all right......!@　I'll stop the Professor......I'll stop Erde......!」",
+  "slot": 97
+ },
+ "0x006277": {
+  "en": "「And to do that......I'll destroy AI1!」",
+  "slot": 57
+ },
+ "0x0062B1": {
+  "en": "（There's no mistake......it's reacting to Aqua.@　Are they resonating......?!）",
+  "slot": 115
+ },
+ "0x006325": {
+  "en": "（Is it because you've grown and evolved, AI1......?）",
+  "slot": 63
+ },
+ "0x006365": {
+  "en": "「Here we go. Ready?」",
+  "slot": 30
+ },
+ "0x006384": {
+  "en": "「Yes......eliminate Aqua before the Steel Dragon Squadron arrives.@　She's in the way.」",
+  "slot": 109
+ },
+ "0x0063F2": {
+  "en": "「I'll destroy AI1!@　Then you'll be......!」",
+  "slot": 70
+ },
+ "0x006439": {
+  "en": "「AI1 is my everything.@　The likes of you can't defeat it.」",
+  "slot": 82
+ },
+ "0x00648C": {
+  "en": "「Aqua, AI1 has your DFC data@　built into it. Meaning it knows your habits@　as well as I do, or better.」",
+  "slot": 185
+ },
+ "0x006546": {
+  "en": "「Then this should've ended sooner!@　If you can't manage that, I still have a chance to win!」",
+  "slot": 142
+ },
+ "0x0065D5": {
+  "en": "「Heh heh......how far will that bravado carry you?」",
+  "slot": 75
+ },
+ "0x006621": {
+  "en": "「Unit 9......the advanced Garmraid......!@　I can't win on power, I have to read its moves!」",
+  "slot": 133
+ },
+ "0x0066A7": {
+  "en": "「Unit 8......the advanced Cerberus......!@　Close in carelessly and I'm done for!」",
+  "slot": 118
+ },
+ "0x00671E": {
+  "en": "「Rasmunanium, CA control.@ Repairing damaged armor.」",
+  "slot": 94
+ },
+ "0x00677D": {
+  "en": "「This isn't getting me anywhere......!@　Do I have no choice but to release the TE limiter?!」",
+  "slot": 112
+ },
+ "0x0067EE": {
+  "en": "「......I'll grant that you've held out well this far.@　But it's over now.」",
+  "slot": 97
+ },
+ "0x006850": {
+  "en": "「Go, Ignite.」",
+  "slot": 39
+ },
+ "0x006878": {
+  "en": "「Guh! As if I'd let you take me down!」",
+  "slot": 63
+ },
+ "0x0068B8": {
+  "en": "「Just as I read it.@　Seize her, Blaze.」",
+  "slot": 70
+ },
+ "0x0068FF": {
+  "en": "「Aaah!!」",
+  "slot": 21
+ },
+ "0x006915": {
+  "en": "「Aqua!!」",
+  "slot": 27
+ },
+ "0x006931": {
+  "en": "「I won't let you interfere.」",
+  "slot": 30
+ },
+ "0x006950": {
+  "en": "「Kyaah!」",
+  "slot": 21
+ },
+ "0x006966": {
+  "en": "「Guuh!」",
+  "slot": 21
+ },
+ "0x00697C": {
+  "en": "「Albero, I'll take control of the machine from here.」",
+  "slot": 57
+ },
+ "0x0069B6": {
+  "en": "「What?!」",
+  "slot": 21
+ },
+ "0x0069CC": {
+  "en": "「Now, AI1.@　You'll be the one to eliminate Aqua.」",
+  "slot": 73
+ },
+ "0x006A16": {
+  "en": "「Aaah, the machine!!」",
+  "slot": 33
+ },
+ "0x006A38": {
+  "en": "「You listened to me, AI1.@　Good child.」",
+  "slot": 82
+ },
+ "0x006A8B": {
+  "en": "「Th-the machine won't move!!」",
+  "slot": 39
+ },
+ "0x006AB3": {
+  "en": "「Th-the cockpit hatch!!」",
+  "slot": 51
+ },
+ "0x006AE7": {
+  "en": "「Say, Aqua. I've one last request.」",
+  "slot": 57
+ },
+ "0x006B21": {
+  "en": "「Huh?!」",
+  "slot": 18
+ },
+ "0x006B34": {
+  "en": "「Let the Professor watch@　that pretty face of yours twist and crumple.」",
+  "slot": 100
+ },
+ "0x006B99": {
+  "en": "「!!」",
+  "slot": 12
+ },
+ "0x006BA6": {
+  "en": "「Die in agony.@　Do that, and I might just@　come to like you.」",
+  "slot": 125
+ },
+ "0x006C24": {
+  "en": "「......A little, anyway.」",
+  "slot": 24
+ },
+ "0x006C3D": {
+  "en": "「A-aaah......Hugo......!!」",
+  "slot": 51
+ },
+ "0x006C71": {
+  "en": "「Huugooooo!!」",
+  "slot": 36
+ },
+ "0x006C96": {
+  "en": "「?!」",
+  "slot": 12
+ },
+ "0x006CA3": {
+  "en": "「Wh-what?! The cockpit!!」",
+  "slot": 54
+ },
+ "0x006CDA": {
+  "en": "「Th-the Rasmnanium?!」",
+  "slot": 42
+ },
+ "0x006D05": {
+  "en": "「M-my body's being swallowed! Get it under control, Erde!!」",
+  "slot": 75
+ },
+ "0x006D51": {
+  "en": "「AI1! What are you doing?!@　Stop the Rasmnanium's expansion!」",
+  "slot": 115
+ },
+ "0x006DC5": {
+  "en": "「I-I'm being swallowed! Kyaaah!!」",
+  "slot": 51
+ },
+ "0x006DF9": {
+  "en": "「Uoooooh!!」",
+  "slot": 27
+ },
+ "0x006E15": {
+  "en": "「G-going berserk?! Impossible!!」",
+  "slot": 42
+ },
+ "0x006E40": {
+  "en": "「Wh-what's happening?! Aqua!!」",
+  "slot": 57
+ },
+ "0x006E7A": {
+  "en": "Crossfade",
+  "slot": 21
+ },
+ "0x006E90": {
+  "en": "（U-ugh......）",
+  "slot": 24
+ },
+ "0x006EA9": {
+  "en": "（I......what happened to me......）",
+  "slot": 45
+ },
+ "0x006ED7": {
+  "en": "（Medius pinned me down, and then......）",
+  "slot": 60
+ },
+ "0x006F14": {
+  "en": "（Aqua......）",
+  "slot": 21
+ },
+ "0x006F2A": {
+  "en": "（This voice......Hugo......?）",
+  "slot": 42
+ },
+ "0x006F55": {
+  "en": "（I'm sorry, Hugo...@　I... I couldn't do it...）",
+  "slot": 79
+ },
+ "0x006FA5": {
+  "en": "（Wake up, Aqua...@　It's not over yet...）",
+  "slot": 79
+ },
+ "0x006FF5": {
+  "en": "（B-but... I can't anymore...）",
+  "slot": 42
+ },
+ "0x007020": {
+  "en": "（I'm here... You and me together...@　we can stop it...）",
+  "slot": 85
+ },
+ "0x007076": {
+  "en": "（Wha...!?）",
+  "slot": 24
+ },
+ "0x00708F": {
+  "en": "（So wake up...!）",
+  "slot": 42
+ },
+ "0x0070BA": {
+  "en": "「Hugo!?」",
+  "slot": 24
+ },
+ "0x0070D3": {
+  "en": "「Kh, guh...」",
+  "slot": 24
+ },
+ "0x0070EC": {
+  "en": "「From... from inside the Rasmunanium...!」",
+  "slot": 54
+ },
+ "0x007123": {
+  "en": "「Give me your hand, Aqua...!@　Right now, we can break free of it...!」",
+  "slot": 97
+ },
+ "0x007185": {
+  "en": "「Y-you, just what are you...!?」",
+  "slot": 42
+ },
+ "0x0071B0": {
+  "en": "「Pull me... pull me out of here... hurry...!」",
+  "slot": 66
+ },
+ "0x0071F3": {
+  "en": "「O-okay, got it!!」",
+  "slot": 33
+ },
+ "0x007215": {
+  "en": "「Kh, guhhh...!!」",
+  "slot": 36
+ },
+ "0x00723A": {
+  "en": "「Nnnngh!!」",
+  "slot": 24
+ },
+ "0x007253": {
+  "en": "「Haah, haah, ha...」",
+  "slot": 39
+ },
+ "0x00727B": {
+  "en": "「Hu-Hugo...!」",
+  "slot": 36
+ },
+ "0x0072A0": {
+  "en": "「Th... thanks... you saved me...」",
+  "slot": 60
+ },
+ "0x0072DD": {
+  "en": "「Y-your arm... what happened...!?」",
+  "slot": 42
+ },
+ "0x007308": {
+  "en": "「It's fine... as you can see, it's not real...」",
+  "slot": 75
+ },
+ "0x007354": {
+  "en": "「N-no... impossible...!@　AI1... you took him in too...!?」",
+  "slot": 118
+ },
+ "0x0073CB": {
+  "en": "「Why...!? Because it judged him@　a necessary part, like the TE Engine...!?」",
+  "slot": 115
+ },
+ "0x00743F": {
+  "en": "「Because to evolve further, it needed@　a pilot... a human...!?」",
+  "slot": 118
+ },
+ "0x0074B6": {
+  "en": "「Even scanning, I found nothing like that...!@　Why...!?」",
+  "slot": 122
+ },
+ "0x007531": {
+  "en": "「Why keep him alive... and release him...!?@　Was he of no more use...!? But why did he react@　to Aqua...!」",
+  "slot": 167
+ },
+ "0x0075D9": {
+  "en": "「No, it reacted to Hugo's will...!?@ Not to absorb Aqua, or to kill her...!?」",
+  "slot": 142
+ },
+ "0x007668": {
+  "en": "「Nnh... uu... Hugo...!」",
+  "slot": 51
+ },
+ "0x00769C": {
+  "en": "「Captain!?」",
+  "slot": 18
+ },
+ "0x0076AF": {
+  "en": "「He's being pulled into the Rasmunanium...!!」",
+  "slot": 69
+ },
+ "0x0076F5": {
+  "en": "「Hurry... get away from the Medius...!」",
+  "slot": 57
+ },
+ "0x00772F": {
+  "en": "「Y-you...!!」",
+  "slot": 33
+ },
+ "0x007751": {
+  "en": "「Looks like... the tables have turned...」",
+  "slot": 69
+ },
+ "0x007797": {
+  "en": "「This too... is my due...@　for everything... I've done until now...」",
+  "slot": 106
+ },
+ "0x007802": {
+  "en": "「C-Captain!!」",
+  "slot": 24
+ },
+ "0x00781B": {
+  "en": "「Hu-Hugo...@　Foglia... take care of Foglia...!」",
+  "slot": 88
+ },
+ "0x007874": {
+  "en": "「Please... my son...!」",
+  "slot": 42
+ },
+ "0x00789F": {
+  "en": "「What are you saying, Captain!?@　He's already gone!!」",
+  "slot": 76
+ },
+ "0x0078EC": {
+  "en": "「No... he's alive... under Mitarl...」",
+  "slot": 72
+ },
+ "0x007935": {
+  "en": "「To keep Foglia's... life going...@　I... all this time...」",
+  "slot": 88
+ },
+ "0x00798E": {
+  "en": "「Guhaah!!」",
+  "slot": 24
+ },
+ "0x0079A7": {
+  "en": "「...Fine, AI1... do as you like.@　But Albero... you're of no more use now.」",
+  "slot": 127
+ },
+ "0x007A27": {
+  "en": "「Erde!!」",
+  "slot": 21
+ },
+ "0x007A3D": {
+  "en": "「Nh, uuu...!」",
+  "slot": 30
+ },
+ "0x007A5C": {
+  "en": "「An unexpected turn... but either way,@　this is what I was going to do@　to you.」",
+  "slot": 128
+ },
+ "0x007ADD": {
+  "en": "「Let AI1 take you in just as you are.@　As a corpse, though.」",
+  "slot": 103
+ },
+ "0x007B45": {
+  "en": "「Y-you...!!」",
+  "slot": 30
+ },
+ "0x007B64": {
+  "en": "「Let me tell you at the end.@　Foglia Est does not exist in this world.」",
+  "slot": 103
+ },
+ "0x007BCC": {
+  "en": "「Wh... what did you say...!?」",
+  "slot": 36
+ },
+ "0x007BF1": {
+  "en": "「What you saw was a fake.@　Just someone else's corpse with plastic surgery.@　Well done, wasn't it?」",
+  "slot": 149
+ },
+ "0x007C87": {
+  "en": "「U-uuu...!!」",
+  "slot": 33
+ },
+ "0x007CA9": {
+  "en": "「Or would you rather believe she was real?@　But truth doesn't matter now.@　Not to you, dying here.」",
+  "slot": 140
+ },
+ "0x007D36": {
+  "en": "「E-Erde... how dare... you...!」",
+  "slot": 57
+ },
+ "0x007D70": {
+  "en": "「C-Captaaain!!」",
+  "slot": 33
+ },
+ "0x007D92": {
+  "en": "「Hu-Hugo.....................」",
+  "slot": 51
+ },
+ "0x007DC6": {
+  "en": "「Captain Alberooo!!」",
+  "slot": 42
+ },
+ "0x007DF1": {
+  "en": "「A-aaah...!!」",
+  "slot": 33
+ },
+ "0x007E13": {
+  "en": "「...The Rasmunanium's rampage has stopped.@　Now I can control it somehow.」",
+  "slot": 121
+ },
+ "0x007E8D": {
+  "en": "「E-Erde Mitte!@ How dare you harm the Captain! And Foglia, too!!」",
+  "slot": 91
+ },
+ "0x007EE9": {
+  "en": "「For the record, Foglia Est's death@　isn't my fault... you've no right to resent me.」",
+  "slot": 136
+ },
+ "0x007F72": {
+  "en": "「Y-youuu!!」",
+  "slot": 36
+ },
+ "0x007F97": {
+  "en": "GS Soldier",
+  "slot": 9
+ },
+ "0x007FA1": {
+  "en": "「Lake 1 to Gamma 1!@　Return to base at once and explain your defiance of orders!」",
+  "slot": 103
+ },
+ "0x008009": {
+  "en": "「...Albero Est was killed in action.」",
+  "slot": 57
+ },
+ "0x008043": {
+  "en": "「I-is that true!?」",
+  "slot": 33
+ },
+ "0x008065": {
+  "en": "「Yes, sadly... And it was he who defied orders.@　He forced me to change the test course.」",
+  "slot": 170
+ },
+ "0x008110": {
+  "en": "「Taking Units 8 and 9 to ambush@　the Steel Dragon Squadron...@　rushing for glory...」",
+  "slot": 119
+ },
+ "0x008188": {
+  "en": "「...A-anyway, retreat together@　with Units 8 and 9!」",
+  "slot": 91
+ },
+ "0x0081E4": {
+  "en": "「About that... those two are currently disabled@　from combat damage. We've lost our pilot too,@　and can't move, so please recover us.」",
+  "slot": 212
+ },
+ "0x0082B9": {
+  "en": "「Wha...!」",
+  "slot": 21
+ },
+ "0x0082CF": {
+  "en": "「Aqua, I wanted to witness your end myself...@　but I'll leave it to Units 8 and 9.」",
+  "slot": 112
+ },
+ "0x008340": {
+  "en": "「Those two carry all the data you and Hugo@　gathered...」",
+  "slot": 109
+ },
+ "0x0083AE": {
+  "en": "「In other words, your lives will be taken@　by what amounts to another version of yourselves.」",
+  "slot": 121
+ },
+ "0x008428": {
+  "en": "「You...!!」",
+  "slot": 24
+ },
+ "0x008441": {
+  "en": "「Farewell, Hugo Medio.@　A trite line, but I'll say it...@　Get along with Albero and Foglia in the next world.」",
+  "slot": 176
+ },
+ "0x0084F2": {
+  "en": "「I won't let her escape, Erde Mitte!@　After her, Aqua!!」",
+  "slot": 82
+ },
+ "0x008545": {
+  "en": "「Don't!!」",
+  "slot": 21
+ },
+ "0x00855B": {
+  "en": "「I know how you feel... so do I.」",
+  "slot": 66
+ },
+ "0x00859E": {
+  "en": "「But survival comes first here...@　You came back to me, after all.」",
+  "slot": 124
+ },
+ "0x00861B": {
+  "en": "「Aqua...」",
+  "slot": 21
+ },
+ "0x008631": {
+  "en": "「Come back alive, no matter what...@　That's what Major Albero taught, isn't it?」",
+  "slot": 109
+ },
+ "0x00869F": {
+  "en": "「...Yeah, it is.」",
+  "slot": 30
+ },
+ "0x0086BE": {
+  "en": "「So leave this to me.」",
+  "slot": 42
+ },
+ "0x0086E9": {
+  "en": "「...Understood...」",
+  "slot": 30
+ },
+ "0x008708": {
+  "en": "「These signals...! Everyone came for us!」",
+  "slot": 63
+ },
+ "0x008748": {
+  "en": "「Everyone, are you okay!?」",
+  "slot": 33
+ },
+ "0x00876A": {
+  "en": "「Yeah, somehow.」",
+  "slot": 27
+ },
+ "0x008786": {
+  "en": "「And Aqua saved Hugo.」",
+  "slot": 69
+ },
+ "0x0087CC": {
+  "en": "「What!?」",
+  "slot": 24
+ },
+ "0x0087E5": {
+  "en": "「Really!?」",
+  "slot": 21
+ },
+ "0x0087FB": {
+  "en": "「Yes... as you can see, but...」",
+  "slot": 48
+ },
+ "0x00882C": {
+  "en": "「Ensign Hugo, so you were alive...!」",
+  "slot": 57
+ },
+ "0x008866": {
+  "en": "「Heh... looks like my rotten luck hasn't run out.」",
+  "slot": 78
+ },
+ "0x0088B5": {
+  "en": "「B-but where have you been all this time!?」",
+  "slot": 60
+ },
+ "0x0088F2": {
+  "en": "「That's...」",
+  "slot": 21
+ },
+ "0x008908": {
+  "en": "「Save it for later. All units, begin the attack!」",
+  "slot": 60
+ },
+ "0x008945": {
+  "en": "「Ah, before that. Got a moment, Captain?」",
+  "slot": 63
+ },
+ "0x008985": {
+  "en": "「What is it?」",
+  "slot": 18
+ },
+ "0x008998": {
+  "en": "「Those two over there...@　TE Absorber Units 8 and 9...@　can't we grab them?」",
+  "slot": 125
+ },
+ "0x008A16": {
+  "en": "「Huh?」",
+  "slot": 12
+ },
+ "0x008A23": {
+  "en": "「I had a hand in developing those.@　Be a waste to destroy them.」",
+  "slot": 112
+ },
+ "0x008A94": {
+  "en": "「If you recover them, I'll refit them later.@　With Ensign Hugo back,@　we can field them too.」",
+  "slot": 158
+ },
+ "0x008B33": {
+  "en": "「Understood.@　Relay to all units. Don't destroy@　TE Absorbers 8 and 9, capture them.」",
+  "slot": 137
+ },
+ "0x008BBD": {
+  "en": "「Roger!」",
+  "slot": 15
+ },
+ "0x008BCD": {
+  "en": "「The TE Absorbers...!!」",
+  "slot": 45
+ },
+ "0x008BFB": {
+  "en": "Eita",
+  "slot": 9
+ },
+ "0x008C05": {
+  "en": "「TE Absorber Unit 9, functions halted!」",
+  "slot": 57
+ },
+ "0x008C3F": {
+  "en": "「TE Absorber Unit 8, functions halted!」",
+  "slot": 57
+ },
+ "0x008C79": {
+  "en": "「No signals from remaining enemies in the zone!」",
+  "slot": 51
+ },
+ "0x008CAD": {
+  "en": "「Maintain full perimeter watch.@　After recovering all units, we withdraw from the zone.」",
+  "slot": 91
+ },
+ "0x008D09": {
+  "en": "「Well, that was a surprise.@　Pulled into the Medius... into the Rasmunanium,@　and coming back alive.」",
+  "slot": 140
+ },
+ "0x008D96": {
+  "en": "「Don't know the reason, but@　it seems he was released fairly cleanly.」",
+  "slot": 85
+ },
+ "0x008DEC": {
+  "en": "Marion",
+  "slot": 12
+ },
+ "0x008DF9": {
+  "en": "「Perhaps it has something to do with@　the Rasmunanium being built into@　Ensign Hugo's body.」",
+  "slot": 170
+ },
+ "0x008EA4": {
+  "en": "「Mm... the parts Mitarl added@　are still there, after all...」",
+  "slot": 88
+ },
+ "0x008EFD": {
+  "en": "「...Being alive at all is a blessing...」",
+  "slot": 54
+ },
+ "0x008F34": {
+  "en": "「What was it like, all that time@　inside the Medius?」",
+  "slot": 100
+ },
+ "0x008F99": {
+  "en": "「Like sleeping the whole time...@　Only, I thought I couldn't just die like that...@　that I had to make it back...」",
+  "slot": 167
+ },
+ "0x009041": {
+  "en": "「And then... I heard Aqua's voice...」",
+  "slot": 57
+ },
+ "0x00907B": {
+  "en": "「Hmm... that will of yours@　may have had some effect on AI1.」",
+  "slot": 97
+ },
+ "0x0090DD": {
+  "en": "「Why did it take Hugo in,@　to begin with...」",
+  "slot": 100
+ },
+ "0x009142": {
+  "en": "「Chance or intent, I can't say...@　but maybe it grew interested while fighting you all.@　As a being that pilots a TE Absorber.」",
+  "slot": 182
+ },
+ "0x0091F9": {
+  "en": "「But that wasn't what Erde@　wanted...」",
+  "slot": 94
+ },
+ "0x009258": {
+  "en": "「No, I suppose not.」",
+  "slot": 36
+ },
+ "0x00927D": {
+  "en": "「...Anyway, Aqua...@　thanks to you, I'm alive...」",
+  "slot": 85
+ },
+ "0x0092D3": {
+  "en": "「That goes both ways, Hugo...@　I'm glad you came back.@　I thought you were dead...」",
+  "slot": 161
+ },
+ "0x009375": {
+  "en": "「But Captain Albero...@　deceived by Erde and Mitarl...」",
+  "slot": 91
+ },
+ "0x0093D1": {
+  "en": "「He had no choice but to choose@　a bitter path, didn't he...」",
+  "slot": 85
+ },
+ "0x009427": {
+  "en": "「Never knowing... it was so...」",
+  "slot": 48
+ },
+ "0x009458": {
+  "en": "（Looking back now... trying to bring Hugo in@　was to save him, wasn't it...）",
+  "slot": 121
+ },
+ "0x0094D2": {
+  "en": "「Mitarl... Erde...@　I can never forgive those people...」",
+  "slot": 94
+ },
+ "0x009531": {
+  "en": "「We have to crush the Zentr Project...@　or the Captain, Foglia, and the Cry Wolves@　will never rest...」",
+  "slot": 167
+ },
+ "0x0095D9": {
+  "en": "「Mm... if AI1 keeps evolving like this,@　that project will head somewhere dangerous...」",
+  "slot": 124
+ },
+ "0x009656": {
+  "en": "「The Medius will likely appear again.@　You should use the Cerberus Ignite@　and the Garmraid Blaze.」",
+  "slot": 173
+ },
+ "0x009704": {
+  "en": "「But my body is...」",
+  "slot": 39
+ },
+ "0x00972C": {
+  "en": "「I don't know if there's a way to fully remove@　what Mitarl built in, but the mechanical parts@　I can repair well enough.」",
+  "slot": 182
+ },
+ "0x0097E3": {
+  "en": "「Even so, the medicine... I've almost none left.」",
+  "slot": 66
+ },
+ "0x009826": {
+  "en": "「There's plenty. Figured this might happen,@ so I borrowed some before we went to Bunker 8.」",
+  "slot": 118
+ },
+ "0x00989D": {
+  "en": "「Wha, really!?」",
+  "slot": 36
+ },
+ "0x0098C2": {
+  "en": "「Mm. Mitarl must have thought it wasn't needed anymore.@　The guard on it was lax.@　I swapped the medicine.」",
+  "slot": 155
+ },
+ "0x00995E": {
+  "en": "「Then... I can still fight...」",
+  "slot": 45
+ },
+ "0x00998C": {
+  "en": "「Then let me explain the Cerberus Ignite@　and the Garmraid Blaze to you.」",
+  "slot": 130
+ },
+ "0x009A0F": {
+  "en": "「First, the Ignite's frame is an upgraded Cerberus.@　And it can do reversible transformation.」",
+  "slot": 154
+ },
+ "0x009AAA": {
+  "en": "「And by changing where the Ignite Parts@　weapon units are mounted...」",
+  "slot": 127
+ },
+ "0x009B2A": {
+  "en": "「it can take two forms: Form G for@　close-range melee, and Form S@　for long-range bombardment.」",
+  "slot": 143
+ },
+ "0x009BBA": {
+  "en": "「The TE Engine is an improved type too,@　so output-adjustment issues are eased.@　The DFC is relatively easy as well.」",
+  "slot": 161
+ },
+ "0x009C5C": {
+  "en": "「And the pilot changes with the form...@　but it can be set like the Cerberus and Garmraid.@　What'll it be?」",
+  "slot": 203
+ },
+ "0x009D28": {
+  "en": "「To lessen the strain on your body,@　I think we should set it so the pilot changes.」",
+  "slot": 127
+ },
+ "0x009DA8": {
+  "en": "「I've been piloting the TE Absorber@　solo for a while now...@　I'll manage it.」",
+  "slot": 122
+ },
+ "0x009E23": {
+  "en": "「...Understood.」",
+  "slot": 24
+ },
+ "0x009E3C": {
+  "en": "「Then let me explain the Blaze next.@　Its frame is an upgraded Garmraid.@　This TE Engine's improved too.」",
+  "slot": 188
+ },
+ "0x009EF9": {
+  "en": "「Plus there are Machine Animalites,@　support mechs... the wolf-type Rowga,@　the bird-type Hiou.」",
+  "slot": 161
+ },
+ "0x009F9B": {
+  "en": "「Rowga and Hiou can fight on their own,@　but usually they're split and mounted on the frame.@　And by changing their positions...」",
+  "slot": 203
+ },
+ "0x00A067": {
+  "en": "「the Blaze can take Form G and Form S too.」",
+  "slot": 72
+ },
+ "0x00A0B0": {
+  "en": "「Those are for close-range and long-range too...?」",
+  "slot": 63
+ },
+ "0x00A0F0": {
+  "en": "「Mm. Use each form of the Cerberus Ignite@　and Garmraid Blaze@　to suit the situation.」",
+  "slot": 173
+ },
+ "0x00A19E": {
+  "en": "「Understood.@　...Aqua, Mitarl and Erde, I'll...」",
+  "slot": 82
+ },
+ "0x00A1F1": {
+  "en": "「Yes... I know.@　It won't end at just destroying AI1 anymore...」",
+  "slot": 106
+ },
+ "0x00A25C": {
+  "en": "「We have no choice but to settle things with Erde...!」",
+  "slot": 57
+ },
+ "0x00A296": {
+  "en": "「Huh!? Me, in the RaiOh!?」",
+  "slot": 42
+ },
+ "0x00A2C1": {
+  "en": "「That's right. Colonel Lefina decided@　it'll still be needed as a fighting force.」",
+  "slot": 109
+ },
+ "0x00A32F": {
+  "en": "「And Sanger and I took note of your talent,@　taking on mass-produced Jinrai in the RaiOh@　despite piloting it for the first time.」",
+  "slot": 167
+ },
+ "0x00A3D7": {
+  "en": "「Not just Major Kai, but Major Sanger too...?」",
+  "slot": 66
+ },
+ "0x00A41A": {
+  "en": "「Yeah. Rough, but you've got good potential.」",
+  "slot": 63
+ },
+ "0x00A45A": {
+  "en": "「Of course, you may refuse. Think it over.」",
+  "slot": 54
+ },
+ "0x00A491": {
+  "en": "「...No need for that. Please let me do it.」",
+  "slot": 66
+ },
+ "0x00A4D4": {
+  "en": "Minaki",
+  "slot": 9
+ },
+ "0x00A4DE": {
+  "en": "「Touma...」",
+  "slot": 21
+ },
+ "0x00A4F4": {
+  "en": "「Minaki... I'll do it. I'll prove the RaiOh you refit@　is a force that can protect this world.」",
+  "slot": 148
+ },
+ "0x00A589": {
+  "en": "「Even after what my father... what I did to you...@　you'd still say that?」",
+  "slot": 118
+ },
+ "0x00A600": {
+  "en": "「Yeah...」",
+  "slot": 18
+ },
+ "0x00A613": {
+  "en": "「Then it's decided.@　Minaki, explain the refit parts.」",
+  "slot": 97
+ },
+ "0x00A675": {
+  "en": "「Yes.@　For a human to pilot the RaiOh,@　we can't remove System LIOH.」",
+  "slot": 134
+ },
+ "0x00A6FC": {
+  "en": "「The reason is... to withstand the feedback@　of full-body drive, we have to use@　LIOH's registers.」",
+  "slot": 179
+ },
+ "0x00A7B0": {
+  "en": "「If System LIOH stays in place,@　there's a risk it rampages again...」",
+  "slot": 97
+ },
+ "0x00A812": {
+  "en": "「No, the only functions used are those registers...@　the rest is dormant. In exchange, LIOH offers@　almost no support...」",
+  "slot": 191
+ },
+ "0x00A8D2": {
+  "en": "「so you'll need to raise@　your own melee skills.」",
+  "slot": 85
+ },
+ "0x00A928": {
+  "en": "「In other words, train hard...」",
+  "slot": 39
+ },
+ "0x00A950": {
+  "en": "「Yes.」",
+  "slot": 12
+ },
+ "0x00A95D": {
+  "en": "「So Sanger and I... and Axel@　will drill you into shape.」",
+  "slot": 112
+ },
+ "0x00A9CE": {
+  "en": "「...I see, so that's why I was called here.」",
+  "slot": 75
+ },
+ "0x00AA1A": {
+  "en": "「Yes... The Soulgain carries a system@　similar to the DML, and@　your own combat skills are formidable.」",
+  "slot": 161
+ },
+ "0x00AABC": {
+  "en": "「I've no obligation to grant such a request...@　but I suppose we're past the point of saying that.」",
+  "slot": 115
+ },
+ "0x00AB30": {
+  "en": "「Very well, I'll take it on.@　But make no mistake, it won't be easy. Be ready.」",
+  "slot": 94
+ },
+ "0x00AB8F": {
+  "en": "「Y-yes! I'm counting on you!」",
+  "slot": 57
+ },
+ "0x00ABC9": {
+  "en": "「Not only did you defy orders,@　you lost prototypes 8 and 9 as well!@　What in the world were you doing!?」",
+  "slot": 146
+ },
+ "0x00AC5C": {
+  "en": "「As I said before,@　the one who caused it was Albero.@　...Though he's dead now, of course.」",
+  "slot": 152
+ },
+ "0x00ACF5": {
+  "en": "「Th-that man... why would he do such a thing...!」",
+  "slot": 69
+ },
+ "0x00AD3B": {
+  "en": "「He was rushing for glory, it seems,@　for the sake of his false son.」",
+  "slot": 82
+ },
+ "0x00AD8E": {
+  "en": "「Absurd...! The moment he defied my orders,@　he had to know what would become of his son!」",
+  "slot": 130
+ },
+ "0x00AE11": {
+  "en": "（Heh... dead men tell no tales.）",
+  "slot": 42
+ },
+ "0x00AE3C": {
+  "en": "「S-such a blunder... and these losses...!@　My standing... the project itself...!」",
+  "slot": 139
+ },
+ "0x00AEC8": {
+  "en": "「We still have AI1, Medius, and MODEL-X.@　Why not simply produce results with those?」",
+  "slot": 139
+ },
+ "0x00AF54": {
+  "en": "「That is not the issue!@　My honor has been gravely stained!」",
+  "slot": 106
+ },
+ "0x00AFBF": {
+  "en": "「If AI1 evolves further,@　if my child is installed in MODEL-X...@　we'll gain more than enough to make up for this.」",
+  "slot": 170
+ },
+ "0x00B06A": {
+  "en": "「Out of the question! That thing is dangerous!@　You'll answer for this too! Be ready!」",
+  "slot": 121
+ },
+ "0x00B0E4": {
+  "en": "「...Indeed.」",
+  "slot": 18
+ },
+ "0x00B0F7": {
+  "en": "（Now, just Duvan Org left to deal with...@　and then this man will have no choice left.）",
+  "slot": 106
+ }
+}

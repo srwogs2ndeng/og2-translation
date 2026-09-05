@@ -1,0 +1,570 @@
+[
+ {
+  "prefix": "85",
+  "en": "Shows the unit's amount of energy. EN is used for EN-type weapons and flight movement, and is"
+ },
+ {
+  "prefix": "88",
+  "en": "Shows that an attack will hit. If a critical occurs, 'CRT'"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the pilot's level. Leveling up raises the pilot's stats, and"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the pilot points earned in battle. PP can only be obtained by defeating enemy units."
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the pilot's maximum SP. If stats rise from a level up, the skill's"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the SR points earned so far. If SR point acquisition is under 80%, the"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the Weapon Gauge used by the unit before and after changing weapons, and the unit's current maximum"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the Weapon Gauge value needed for the unit to equip that weapon. The number in parentheses"
+ },
+ {
+  "prefix": "85",
+  "en": "The required Weapon Gauge amount for the weapon in the selected slot and the weapon being selected"
+ },
+ {
+  "prefix": "88",
+  "en": "If the pilot has become an Ace Pilot, an Ace Bonus is displayed. In order"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the weapon's critical rate modifier. The higher the value, the chance of a critical in battle"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the unit's size. Sizes range from SS to LL; the smaller it is, the easier it becom"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the current skill level. Skill level changes when the pilot's level goes up or training is performed, and"
+ },
+ {
+  "prefix": "88",
+  "en": "For the pilot equipped with the searched ability, or the pilot aboard a unit that has it equipped,"
+ },
+ {
+  "prefix": "85",
+  "en": "When HP, EN, Armor, Mobility, and Accuracy are all upgraded to level 10, this shows the unit's"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the unit's movement value, plus its ability to move across Air, Land, Water, and Underground terrain -"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the unit's current movement value and move type. The value in parentheses is the stat without the equipped part - its base"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the squad's current movement value and move type. The value in parentheses is the stat without the equipped part - its base"
+ },
+ {
+  "prefix": "02018f",
+  "en": "Shows the squad's movement value, and for each terrain - Air, Land, Water, Underground - how"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the unit's movement capability. The cost to enter each terrain depends on the unit, since"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the main pilot's remaining uses of the special skill \"Support Attack,\" and its Skill"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows that the main pilot aboard this unit can perform Support Attack. For the current turn, this is"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the main pilot's remaining uses of the special skill \"Support Defend,\" and its Skill"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows that the main pilot aboard this unit can perform Support Defend. For the current turn, this is"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the pilot's evasion ability. The higher the value, the easier it is to evade attacks."
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the pilot's evasion ability. When the stat rises from a level up, the skill's text color"
+ },
+ {
+  "prefix": "87",
+  "en": "Shows the pilot's melee combat skill for use with <I=6>melee weapons. The higher the value,"
+ },
+ {
+  "prefix": "87",
+  "en": "Shows the pilot's melee combat skill for use with <I=6>melee weapons. The higher the value,"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the pilot's melee combat ability. When the stat rises from a level up, the skill's"
+ },
+ {
+  "prefix": "dd",
+  "en": "Shows how much damage will be taken by performing a Support Defense."
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the unit that has the searched ability equipped, or the unit the pilot with it equipped is riding in."
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the pilot's Will. As Will rises, more weapons become usable, and"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the pilot's combat skill. The higher the value, the higher the critical hit rate in battle and"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the pilot's combat skill. When the stat rises from a level up, the skill's text color"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the unit's equipped upgrade parts. Equipping upgrade parts can raise the unit's stats, and"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the number of enemies the pilot has shot down in battle so far. Once the kill count reaches 50 or more, they become an ace"
+ },
+ {
+  "prefix": "85",
+  "en": "Sets the attack type for the counterattacking side. If the attacker is performing an individual attack, a Focus Attack will"
+ },
+ {
+  "prefix": "85",
+  "en": "If triggered, the counterattacking side attacks. Exceptions: can't retaliate, a Maximum Break, or Combination Attacks."
+ },
+ {
+  "prefix": "85",
+  "en": "If triggered, Hit rate, Critical chance, and other values change. This also applies while a Counter is in effect."
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the attack power of the strongest area-attack weapon equipped. Area-attack"
+ },
+ {
+  "prefix": "85",
+  "en": "For the Main and Sub units, this compares each one's strongest area-attack weapon."
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the attack power of the strongest Map Weapon equipped. Map"
+ },
+ {
+  "prefix": "85",
+  "en": "The attack power of the strongest weapon equipped that is neither an area-attack weapon nor a Map Weapon"
+ },
+ {
+  "prefix": "85",
+  "en": "For the Main and Sub units, this compares each one's strongest weapon that is neither an area-attack weapon nor a Map Weapon."
+ },
+ {
+  "prefix": "88",
+  "en": "Shows the attack power of the strongest weapon with a special effect that the unit has equipped."
+ },
+ {
+  "prefix": "87",
+  "en": "Represents the pilot's ranged combat skill. The higher this value, the more <I=7>ranged-weapon"
+ },
+ {
+  "prefix": "87",
+  "en": "Represents the pilot's ranged combat skill. The higher this value, the more <I=7>ranged-weapon"
+ },
+ {
+  "prefix": "85",
+  "en": "Represents the pilot's ranged combat skill. If a level up raises this stat, the skill name's color changes."
+ },
+ {
+  "prefix": "88",
+  "en": "When lit, it shows the unit has a shield. If a shield-equipped unit uses \"Guard\" during a counterattack, etc.,"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the stage's victory condition (the player's objective). The victory condition may change due to events,"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the energy consumed when a weapon is used. The number in parentheses is the current energy value."
+ },
+ {
+  "prefix": "88",
+  "en": "Shows the SP consumed when using a spirit command, and the pilot's current SP /"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the SP needed for a pilot to use spirit commands. Depending on the pilot,"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the pilot's spirit commands (twin spirit commands). Depending on the pilot,"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the spirit commands a pilot has learned. These vary by pilot."
+ },
+ {
+  "prefix": "b2",
+  "en": "Shows the number of enemy-type units downed this stage. If 1 or more, checking the details via <W=32><H=32><S=-4><Y=-3><I=41></Y><S=-4></H></W>"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the unit's and pilot's compatibility with space terrain. It affects accuracy and evasion in combat, and"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the compatibility between the unit and pilot and ocean terrain. It affects accuracy and evasion in combat, and damage taken."
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the compatibility between the unit and pilot and air terrain. It affects accuracy and evasion in combat, and damage taken."
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the compatibility between the unit and pilot and land terrain. It affects accuracy and evasion in combat, and damage taken."
+ },
+ {
+  "prefix": "",
+  "en": "Shows the weapon's attribute."
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the weapon's \"current ammo\"/\"max ammo\". If current ammo reaches 0, that weapon"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the weapon's compatibility with each type of terrain. It affects the damage dealt to the target in battle."
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the unit's compatibility with space terrain. It affects hit rate, evade rate, and damage taken in battle."
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the pilot's compatibility with space terrain. It affects hit rate, evade rate, and damage taken. This also"
+ },
+ {
+  "prefix": "88",
+  "en": "Shows the weapon's compatibility with space terrain. It affects the damage dealt to the target in battle. There are 5 ranks: S,"
+ },
+ {
+  "prefix": "88",
+  "en": "Shows the unit's compatibility with sea terrain. It affects hit rate, evade rate, and damage taken in battle."
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the pilot's compatibility with sea terrain. It affects hit rate, evade rate, and damage taken in battle."
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the weapon's compatibility with sea terrain. It affects the damage dealt to the target in battle. There are 5 ranks: S,"
+ },
+ {
+  "prefix": "88",
+  "en": "Shows the unit's compatibility with air terrain. It affects hit rate, evade rate, and damage taken in battle."
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the pilot's compatibility with air terrain. It affects hit rate, evade rate, and damage taken in battle."
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the weapon's compatibility with air terrain. It affects the damage dealt to the target in battle. There are 5 ranks: S,"
+ },
+ {
+  "prefix": "88",
+  "en": "Shows the unit's compatibility with land terrain. Affects hit rate, evasion rate, and damage taken in battle."
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the pilot's compatibility with land terrain. Affects hit rate, evasion rate, and damage taken in battle."
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the weapon's compatibility with land terrain. Affects damage dealt to the target in battle. There are 5 ranks: S,"
+ },
+ {
+  "prefix": "86",
+  "en": "Shows whether the weapon can attack only enemy-type units."
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the special skills the pilot has learned. For skills newly learned via level-up,"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the weapon's special attack effect. On attack, R-type effects target the unit, P-type effects target the pilot, and it"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows special abilities the unit has. On the map, once activation conditions are met, a special ability's text turns blue and"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the stage's defeat conditions. If a defeat condition is met, it is Game Over. Defeat"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the configured counterattack behavior. For twin units, whether to counterattack automatically or manually"
+ },
+ {
+  "prefix": "b2",
+  "en": "Shows the number of player-type units downed during the stage. If the number is 1 or more, the details <W=32><H=32><S=-4><Y=-3><I=41></Y><S=-4></H></W>"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the special skill required to use the weapon. If the requirement is not met, the weapon"
+ },
+ {
+  "prefix": "88",
+  "en": "Shows the Will the main pilot needs to use the weapon. The number in ( ) shows the current main"
+ },
+ {
+  "prefix": "",
+  "en": "Shows the equipment type. For equipment marked <C=FFFC00FF>A</C>, such as <I=6><S=-8><Y=5><I=16></Y>, the Intermission \"Weapon Change\""
+ },
+ {
+  "prefix": "81",
+  "en": "Shows the unit and pilot type, and the squad number they belong to. Main units show <I=1>; for warships,"
+ },
+ {
+  "prefix": "85",
+  "en": "Weapons causing effects such as status ailments, or gear granting repair ability when equipped, appear here."
+ },
+ {
+  "prefix": "0501a7",
+  "en": "When lit, indicates the unit can use the individual command \"Resupply\". Resupply,"
+ },
+ {
+  "prefix": "0501a7",
+  "en": "When lit, indicates the squad can use the individual command \"Resupply\". Resupply,"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the pilot's ability to prevent damage. The higher the value, the less damage taken in battle"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the pilot's ability to prevent damage. The higher the value, the less damage taken in battle"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the pilot's ability to prevent damage. When a level up raises this stat, the skill"
+ },
+ {
+  "prefix": "88",
+  "en": "Shows the pilot's attack accuracy. The higher the value, the easier attacks land. If affected by a status"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the pilot's attack accuracy. When a level up raises this stat, the skill's text"
+ },
+ {
+  "prefix": "85",
+  "en": "Grants the unit the movement type \"Air\", raising movement by 1. Sets the unit's and weapons' terrain compatibility for \"Air\" to S"
+ },
+ {
+  "prefix": "85",
+  "en": "Raises the unit's movement by 2, mobility by 25, and weapon accuracy by 20. For weapons other than map weapons and range-1 weapons."
+ },
+ {
+  "prefix": "85",
+  "en": "If EN is 5 or more, reduces damage from beam attacks (excluding barrier-piercing weapons) by 900 point"
+ },
+ {
+  "prefix": "85",
+  "en": "If EN is 10 or more, damage from beam attacks (excluding barrier-piercing weapons) by 1200"
+ },
+ {
+  "prefix": "85",
+  "en": "If EN is 5 or more and Will is 120 or more, negates up to 800 damage from all attacks (excluding barrier-piercing weapons)."
+ },
+ {
+  "prefix": "85",
+  "en": "When activated, sets Hit, Evade, and Critical rate to 100% for that attack in battle."
+ },
+ {
+  "prefix": "85",
+  "en": "Based on remaining HP%, the higher the skill level, the more your Hit, Evade, and Armor rise, and your"
+ },
+ {
+  "prefix": "85",
+  "en": "When activated, allows a counterattack before the enemy attacks. The higher the skill level, the more the activation rate"
+ },
+ {
+  "prefix": "87",
+  "en": "The higher the skill level, the more the unit's Movement increases, as does its <I=6> melee weapon attack power, excluding map weapon"
+ },
+ {
+  "prefix": "87",
+  "en": "The higher the skill level, the more the unit's <I=7> ranged weapon attack power and range increase, excluding map weapons"
+ },
+ {
+  "prefix": "85",
+  "en": "The higher the skill level, the more the Hit and Evade rates of allied units within your command range increase"
+ },
+ {
+  "prefix": "85",
+  "en": "When attacking with a weapon capable of Combination Attack, that unit gains the"
+ },
+ {
+  "prefix": "85",
+  "en": "Funds earned for destroying enemy units become 1.2x. Even when stacked with effects like Lucky,"
+ },
+ {
+  "prefix": "85",
+  "en": "If your Skill is 20+ higher than the target's main pilot, your unit performs a Support Attack after the target counters. It then"
+ },
+ {
+  "prefix": "85",
+  "en": "If EN is 15 or more and Will is 120 or more, all attacks (excluding barrier-piercing weapons)"
+ },
+ {
+  "prefix": "85",
+  "en": "If EN is 5 or more, reduces damage from beam attacks (excluding barrier-piercing weapons) by 1100"
+ },
+ {
+  "prefix": "85",
+  "en": "If EN is 5 or more and Will is 120 or more, damage from all attacks (excluding barrier-piercing weapons)"
+ },
+ {
+  "prefix": "85",
+  "en": "Your current HP, by the amount of damage that would otherwise be taken from beam attacks (excluding barrier-piercing weapons),"
+ },
+ {
+  "prefix": "88",
+  "en": "If EN is 5 or more and Will is 110 or more, from all attacks (excluding barrier-piercing weapons), up to the"
+ },
+ {
+  "prefix": "88",
+  "en": "If EN is 5 or more and Will is 110 or more, from all attacks (excluding barrier-piercing weapons), up to the"
+ },
+ {
+  "prefix": "85",
+  "en": "That a barrier-type special ability, such as \"Beam Coat\" or \"Psychic Field,\" is equipped, this"
+ },
+ {
+  "prefix": "85",
+  "en": "For 1 turn, your attack hit rate becomes 100%"
+ },
+ {
+  "prefix": "85",
+  "en": "In the next battle, the enemy is not defeated and is left with 10 HP. However, unless your Skill exceeds the opponent's,"
+ },
+ {
+  "prefix": "85",
+  "en": "You can gain the effects of \"Accel,\" \"Hot Blood,\" \"Alert,\" \"Guaranteed Hit,\" \"Spirit,\" \"Effort,\" and \"Luck\" all at once"
+ },
+ {
+  "prefix": "88",
+  "en": "For twin units, matches the pilot abilities (Melee, Ranged, Evade, Hit, Skill, Defense) of both main pilots"
+ },
+ {
+  "prefix": "85",
+  "en": "If the main pilot's abilities (Melee, Ranged, Hit, Evade, Defense, Skill) are reduced by a status ailment, in that"
+ },
+ {
+  "prefix": "88",
+  "en": "Shown when the pilot is unable to use spirit commands due to a status ailment."
+ },
+ {
+  "prefix": "85",
+  "en": "If affected, the unit's current EN drops by 30, and the attacking unit's current EN rises by that amount"
+ },
+ {
+  "prefix": "85",
+  "en": "If affected, the unit's current EN drops by 50, and the attacking unit's current EN rises by that amount"
+ },
+ {
+  "prefix": "85",
+  "en": "If affected, the unit's current EN drops by 100, and the attacking unit's current EN raise"
+ },
+ {
+  "prefix": "85",
+  "en": "If affected, for 1 turn the main pilot's Melee, Ranged, Hit, Evade, Defense, and Skill value"
+ },
+ {
+  "prefix": "85",
+  "en": "If affected, for 1 turn the main pilot's Melee, Ranged, Hit, Evade, Defense, and Skill value"
+ },
+ {
+  "prefix": "85",
+  "en": "If affected, for 1 turn the main pilot's Melee, Ranged, Hit, Evade, Defense, and Skill value"
+ },
+ {
+  "prefix": "85",
+  "en": "If affected, for 1 turn the main pilot's Melee, Ranged, Hit, Evade, Defense, and Skill value"
+ },
+ {
+  "prefix": "85",
+  "en": "If affected, for 1 turn, individual commands other than Join, Disband, Main, and Ability"
+ },
+ {
+  "prefix": "88",
+  "en": "If affected, the main pilot's current SP decreases, and by that amount"
+ },
+ {
+  "prefix": "85",
+  "en": "If affected, the main pilot's current SP decreases by 10, and by that amount"
+ },
+ {
+  "prefix": "85",
+  "en": "If affected, the main pilot's current SP decreases by 15, and by that amount"
+ },
+ {
+  "prefix": "85",
+  "en": "If affected, decreases the main pilot's current SP by 20; by that amount, it"
+ },
+ {
+  "prefix": "85",
+  "en": "If affected, the \"Spirit\" command is unusable for 1 turn. Also,"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the current max range of the unit's equipped weapon. The value in () is for when the selected upgrade part is removed;"
+ },
+ {
+  "prefix": "85",
+  "en": "At the start of your phase, randomly selects 4 enemy units on the map. Each"
+ },
+ {
+  "prefix": "85",
+  "en": "If HP falls to 10% or below, or if HP is 10% or below at the start of your phase,"
+ },
+ {
+  "prefix": "85",
+  "en": "At the start of your phase, on all specific units (TBD) on the map,"
+ },
+ {
+  "prefix": "85",
+  "en": "At the start of your phase, for all specific units (TBD) on the map, by 30% of max HP,"
+ },
+ {
+  "prefix": "85",
+  "en": "At the start of your phase, if a specific pilot (TBD) is on the map,"
+ },
+ {
+  "prefix": "85",
+  "en": "If EN is 5 or more and Will is 110 or more, damage from all attacks (except barrier-piercing weapons)"
+ },
+ {
+  "prefix": "85",
+  "en": "Shows the original BGM being replaced. In situations where this track would play, the replacement BGM"
+ }
+]
