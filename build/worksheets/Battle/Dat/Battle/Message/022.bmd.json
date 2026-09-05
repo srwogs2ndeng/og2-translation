@@ -1,0 +1,606 @@
+{
+ "0x001F44": {
+  "en": "「You bastard!!」",
+  "slot": 27
+ },
+ "0x001F60": {
+  "en": "「Don't mock me!!」",
+  "slot": 27
+ },
+ "0x001F7C": {
+  "en": "「Give it up!!」",
+  "slot": 27
+ },
+ "0x001F98": {
+  "en": "「I'll show you a thing or two!」",
+  "slot": 36
+ },
+ "0x001FBD": {
+  "en": "「Get lost!」",
+  "slot": 21
+ },
+ "0x001FD3": {
+  "en": "「How's this!」",
+  "slot": 33
+ },
+ "0x001FF5": {
+  "en": "「You're mine!」",
+  "slot": 24
+ },
+ "0x00200E": {
+  "en": "「No one lays a hand on you.../ you're my prey!」",
+  "slot": 76
+ },
+ "0x00205B": {
+  "en": "「What the... that's just a kid!」",
+  "slot": 54
+ },
+ "0x002092": {
+  "en": "「Girl... don't push your luck!/ I'll make you hurt!」",
+  "slot": 79
+ },
+ "0x0020E2": {
+  "en": "「Kid... war's no playground!/ Tuck your tail and run home!」",
+  "slot": 97
+ },
+ "0x002144": {
+  "en": "「A surface mech, huh.../ how odd. That's one strange taste you've got.」",
+  "slot": 100
+ },
+ "0x0021A9": {
+  "en": "「What is that thing, anyway?/ Beats me why it's so hung up on looking human.」",
+  "slot": 106
+ },
+ "0x002214": {
+  "en": "「You think war's your playground!?/ I'll teach you better!」",
+  "slot": 103
+ },
+ "0x00227C": {
+  "en": "「Shu Shirakawa... a dangerous foe./ Better keep my guard up.」",
+  "slot": 115
+ },
+ "0x0022F0": {
+  "en": "「Tch, the famous Granzon./ A worthy opponent, here I come!」",
+  "slot": 100
+ },
+ "0x002355": {
+  "en": "「You lot are scheming plenty,/ but the world's not that easy!」",
+  "slot": 133
+ },
+ "0x0023DB": {
+  "en": "「Saphine of the Crimson, huh./ A fine woman, but a nasty streak.」",
+  "slot": 94
+ },
+ "0x00243A": {
+  "en": "「There's a bounty on that one, right?/ Nice bonus, I'll take it!」",
+  "slot": 121
+ },
+ "0x0024B4": {
+  "en": "「Saphine,/ no time to play with you!/ Let's end this quick!」",
+  "slot": 119
+ },
+ "0x00252C": {
+  "en": "「Surface dweller, I've got a surprise for you!」",
+  "slot": 51
+ },
+ "0x002560": {
+  "en": "「Face me, surface dweller!」",
+  "slot": 33
+ },
+ "0x002582": {
+  "en": "「You picked the wrong side to back!」",
+  "slot": 63
+ },
+ "0x0025C2": {
+  "en": "「Don't stick your nose in,/ surface dweller!」",
+  "slot": 73
+ },
+ "0x00260C": {
+  "en": "「I won't let you surface folk/ do as you please anymore!」",
+  "slot": 76
+ },
+ "0x002659": {
+  "en": "「I see, this one's a real prize!」",
+  "slot": 57
+ },
+ "0x002693": {
+  "en": "「Cybuster! I'll show you a thing or two!」",
+  "slot": 60
+ },
+ "0x0026D0": {
+  "en": "「Masoukishin Cybuster.../ I'll smash you to bits!」",
+  "slot": 73
+ },
+ "0x00271A": {
+  "en": "「Take down Cybuster and/ my stock skyrockets!/ Now, here I come!」",
+  "slot": 125
+ },
+ "0x002798": {
+  "en": "「Masoukishin this, Masoukishin that, shut it!/ Specs alone won't win you this!」",
+  "slot": 118
+ },
+ "0x00280F": {
+  "en": "「A Masoukishin's not invincible!/ Keep hitting it and I've got a shot!」",
+  "slot": 127
+ },
+ "0x00288F": {
+  "en": "「Gaddess... bottom of the barrel among the Masoukishin.」",
+  "slot": 66
+ },
+ "0x0028D2": {
+  "en": "「Masoukishin Gaddess, huh.../ Well, not a bad machine!」",
+  "slot": 79
+ },
+ "0x002922": {
+  "en": "「Whoa, Granveil./ Its firepower's a pain./ Better end this fast.」",
+  "slot": 131
+ },
+ "0x0029A6": {
+  "en": "「Firepower or not, Granveil's no threat/ once I take it down first!」",
+  "slot": 112
+ },
+ "0x002A17": {
+  "en": "「Granveil's weakness is its thin armor.../ so I'll strike first and end it!」",
+  "slot": 124
+ },
+ "0x002A94": {
+  "en": "「What's a pile-driver like that gonna do?」",
+  "slot": 57
+ },
+ "0x002ACE": {
+  "en": "「Riding some grand machine, huh!」",
+  "slot": 51
+ },
+ "0x002B02": {
+  "en": "「A surface warship! What a target!」",
+  "slot": 48
+ },
+ "0x002B33": {
+  "en": "「That thing's a mash-up of all sorts!」",
+  "slot": 66
+ },
+ "0x002B76": {
+  "en": "「Playtime's over!」",
+  "slot": 39
+ },
+ "0x002B9E": {
+  "en": "「Now it's my turn. Brace yourself.」",
+  "slot": 51
+ },
+ "0x002BD2": {
+  "en": "「Counterattack!」",
+  "slot": 24
+ },
+ "0x002BEB": {
+  "en": "「My turn now. Here I come!」",
+  "slot": 48
+ },
+ "0x002C1C": {
+  "en": "「Wanna tangle with me? Then brace yourself!」",
+  "slot": 66
+ },
+ "0x002C5F": {
+  "en": "「I've still got my turn left!」",
+  "slot": 45
+ },
+ "0x002C8D": {
+  "en": "「Here! This one's payback!」",
+  "slot": 51
+ },
+ "0x002CC1": {
+  "en": "「Wha!? No way! Me, of all...」",
+  "slot": 57
+ },
+ "0x002CFB": {
+  "en": "「Impossible, I'm beaten!?」",
+  "slot": 36
+ },
+ "0x002D20": {
+  "en": "「Tch!! At this rate!」",
+  "slot": 42
+ },
+ "0x002D4B": {
+  "en": "「Tch! Tough one!」",
+  "slot": 33
+ },
+ "0x002D6D": {
+  "en": "「Wh-what the!?」",
+  "slot": 27
+ },
+ "0x002D89": {
+  "en": "「Wh-what power!?」",
+  "slot": 36
+ },
+ "0x002DAE": {
+  "en": "「This is bad!/ G-gotta do something!」",
+  "slot": 52
+ },
+ "0x002DE3": {
+  "en": "「Whoa!?/ Th-this... didn't see that coming.」",
+  "slot": 76
+ },
+ "0x002E30": {
+  "en": "「Damn... did I push my luck too far?」",
+  "slot": 51
+ },
+ "0x002E64": {
+  "en": "「Gwah!!/ Y-you did it.../ but I'm not beaten yet!」",
+  "slot": 95
+ },
+ "0x002EC4": {
+  "en": "「Nwaah!?/ Wh-what!? By some brat!?」",
+  "slot": 76
+ },
+ "0x002F11": {
+  "en": "「Guuh...!/ Going head-on with Granzon/ is a losing game...!」",
+  "slot": 110
+ },
+ "0x002F80": {
+  "en": "「Gwaah!! Damn it!/ Getting worked over by S-Saphine...!」",
+  "slot": 109
+ },
+ "0x002FEE": {
+  "en": "「I can't lose/ to a surface dweller!!」",
+  "slot": 82
+ },
+ "0x003041": {
+  "en": "「S-surface dweller... I underestimated you...!」",
+  "slot": 57
+ },
+ "0x00307B": {
+  "en": "「Looks like you've survived/ some real hell on the surface...!」",
+  "slot": 88
+ },
+ "0x0030D4": {
+  "en": "「Gwaah!!/ Y-you... damn Cybuster!」",
+  "slot": 76
+ },
+ "0x003121": {
+  "en": "「Tch! I can't shake him off!」",
+  "slot": 51
+ },
+ "0x003155": {
+  "en": "「Damn Masoukishin,/ driving me this far...!」",
+  "slot": 73
+ },
+ "0x00319F": {
+  "en": "「Whoa!!/ G-Gaddess... what power!」",
+  "slot": 70
+ },
+ "0x0031E6": {
+  "en": "「Damn...!/ So this is Granveil's power...!」",
+  "slot": 91
+ },
+ "0x003242": {
+  "en": "「Guh!/ I'll snap that sword of yours for sure!」",
+  "slot": 79
+ },
+ "0x003292": {
+  "en": "「H-heh, looks like you missed the kill...!」",
+  "slot": 66
+ },
+ "0x0032D5": {
+  "en": "「Tch!! Not bad!!」",
+  "slot": 36
+ },
+ "0x0032FA": {
+  "en": "「Guh! Nice hit.」",
+  "slot": 33
+ },
+ "0x00331C": {
+  "en": "「Tch! But it's not over yet!」",
+  "slot": 57
+ },
+ "0x003356": {
+  "en": "「You think this drops me!」",
+  "slot": 45
+ },
+ "0x003384": {
+  "en": "「Ngh! This is nothing yet!」",
+  "slot": 48
+ },
+ "0x0033B5": {
+  "en": "「Nice, now that's more like it.」",
+  "slot": 57
+ },
+ "0x0033EF": {
+  "en": "「Not bad!/ Now it's worth crushing you!」",
+  "slot": 88
+ },
+ "0x003448": {
+  "en": "「Damn! That one hit clean!」",
+  "slot": 57
+ },
+ "0x003482": {
+  "en": "「Guh, you got me!」",
+  "slot": 39
+ },
+ "0x0034AA": {
+  "en": "「Tch! Better than I thought!」",
+  "slot": 57
+ },
+ "0x0034E4": {
+  "en": "「What!? That kid actually/ landed a clean hit!?」",
+  "slot": 76
+ },
+ "0x003531": {
+  "en": "「Tch, fooled by looks?/ You've got some good gear!」",
+  "slot": 91
+ },
+ "0x00358D": {
+  "en": "「Tch, so this is Granzon's power.../ not to be underestimated!」",
+  "slot": 70
+ },
+ "0x0035D4": {
+  "en": "「Whoa, you're better than I thought,/ Saphine!」",
+  "slot": 73
+ },
+ "0x00361E": {
+  "en": "「Surface dweller, you actually did it!」",
+  "slot": 45
+ },
+ "0x00364C": {
+  "en": "「Guh! I'll give you credit, surface dweller!」",
+  "slot": 60
+ },
+ "0x003689": {
+  "en": "「Enough! Don't get cocky, surface dweller!」",
+  "slot": 63
+ },
+ "0x0036C9": {
+  "en": "「Tch, that's Cybuster for you...!」",
+  "slot": 57
+ },
+ "0x003703": {
+  "en": "「Damn Cybuster, you're a handful!」",
+  "slot": 54
+ },
+ "0x00373A": {
+  "en": "「Ugh! Damn Masoukishin!」",
+  "slot": 39
+ },
+ "0x003762": {
+  "en": "「Tch! He's fast!」",
+  "slot": 39
+ },
+ "0x00378A": {
+  "en": "「Damn, what kind of flying is that,/　that guy!」",
+  "slot": 73
+ },
+ "0x0037D4": {
+  "en": "「Not bad, Gaddess!/　Now that's more like it!」",
+  "slot": 88
+ },
+ "0x00382D": {
+  "en": "「I see, you've got good power,/　Granveil!」",
+  "slot": 79
+ },
+ "0x00387D": {
+  "en": "「Tch! That blade's a pain!」",
+  "slot": 45
+ },
+ "0x0038AB": {
+  "en": "「Ngh! What's that pile driver!?」",
+  "slot": 54
+ },
+ "0x0038E2": {
+  "en": "「Not good enough!!」",
+  "slot": 30
+ },
+ "0x003901": {
+  "en": "「Hmph, nothing to it.」",
+  "slot": 39
+ },
+ "0x003929": {
+  "en": "「Is that all!?」",
+  "slot": 27
+ },
+ "0x003945": {
+  "en": "「Ha, doesn't hurt! Just tickles!」",
+  "slot": 66
+ },
+ "0x003988": {
+  "en": "「What's wrong? That all you got?」",
+  "slot": 45
+ },
+ "0x0039B6": {
+  "en": "「That's it? Don't make me laugh!」",
+  "slot": 51
+ },
+ "0x0039EA": {
+  "en": "「That's your best? Pathetic!」",
+  "slot": 51
+ },
+ "0x003A1E": {
+  "en": "「What's wrong, what's wrong?/　Is that your full power?」",
+  "slot": 76
+ },
+ "0x003A6B": {
+  "en": "「Huh? What's that!/ This ain't playtime!」",
+  "slot": 76
+ },
+ "0x003AB8": {
+  "en": "「Hmph, so hung up on some weird gimmick/　you forgot how to hit hard?」",
+  "slot": 100
+ },
+ "0x003B1D": {
+  "en": "「Hmph, the Granzon's nothing to fear!」",
+  "slot": 57
+ },
+ "0x003B57": {
+  "en": "「Ha! That's your best, Saphine!?」",
+  "slot": 63
+ },
+ "0x003B97": {
+  "en": "「Hmph, surface dweller... just grazed me?」",
+  "slot": 54
+ },
+ "0x003BCE": {
+  "en": "「You crack me up, surface dweller!」",
+  "slot": 45
+ },
+ "0x003BFC": {
+  "en": "「Maybe that worked/　back on the surface!」",
+  "slot": 76
+ },
+ "0x003C49": {
+  "en": "「Not much to these surface machines!」",
+  "slot": 63
+ },
+ "0x003C89": {
+  "en": "「Hmph, you're less than the rumors, Cybuster!」",
+  "slot": 63
+ },
+ "0x003CC9": {
+  "en": "「That all the Masou Kishin's got!?」",
+  "slot": 54
+ },
+ "0x003D00": {
+  "en": "「That's a disgrace to the Masou Kishin's name!」",
+  "slot": 60
+ },
+ "0x003D3D": {
+  "en": "「Ha! Only your speed's impressive...」",
+  "slot": 66
+ },
+ "0x003D80": {
+  "en": "「You're a Gaddess, and this is all you've got!?」",
+  "slot": 57
+ },
+ "0x003DBA": {
+  "en": "「Hey, wasn't attack power your selling/　point, Granveil?」",
+  "slot": 97
+ },
+ "0x003E1C": {
+  "en": "「Your aim's off!!」",
+  "slot": 30
+ },
+ "0x003E3B": {
+  "en": "「A miss!」",
+  "slot": 18
+ },
+ "0x003E4E": {
+  "en": "「Won't hit me!」",
+  "slot": 21
+ },
+ "0x003E64": {
+  "en": "「Like I'll let that hit me!」",
+  "slot": 48
+ },
+ "0x003E95": {
+  "en": "「Where you aiming!?」",
+  "slot": 33
+ },
+ "0x003EB7": {
+  "en": "「Hmph, too easy to read!」",
+  "slot": 42
+ },
+ "0x003EE2": {
+  "en": "「Whoa! That was close, too close.」",
+  "slot": 42
+ },
+ "0x003F0D": {
+  "en": "「Ha! What a klutz!」",
+  "slot": 36
+ },
+ "0x003F32": {
+  "en": "「Amateur's aim, that's all!」",
+  "slot": 36
+ },
+ "0x003F57": {
+  "en": "「Whoa! Your hit looked like it'd sting.」",
+  "slot": 63
+ },
+ "0x003F97": {
+  "en": "「Ha, that's what playing gets you, Saphine!」",
+  "slot": 63
+ },
+ "0x003FD7": {
+  "en": "「Ha, where you looking! Cybuster!」",
+  "slot": 66
+ },
+ "0x00401A": {
+  "en": "「Hmph, what a waste of power,/　Granveil!」",
+  "slot": 76
+ },
+ "0x004067": {
+  "en": "「Won't work, won't work!!」",
+  "slot": 39
+ },
+ "0x00408F": {
+  "en": "「Hahaha! You crack me up!」",
+  "slot": 45
+ },
+ "0x0040BD": {
+  "en": "「.........」",
+  "slot": 15
+ },
+ "0x0040CD": {
+  "en": "「Tch! Can't even fight back!?」",
+  "slot": 51
+ },
+ "0x004101": {
+  "en": "「Tch, dirty move!」",
+  "slot": 27
+ },
+ "0x00411D": {
+  "en": "「Whoa, it ain't over yet!」",
+  "slot": 54
+ },
+ "0x004154": {
+  "en": "「Want another hit?」",
+  "slot": 42
+ },
+ "0x00417F": {
+  "en": "「Just to be sure, one more for ya!」",
+  "slot": 54
+ },
+ "0x0041B6": {
+  "en": "「I'll handle the rest!」",
+  "slot": 30
+ },
+ "0x0041D5": {
+  "en": "「Take this!!」",
+  "slot": 36
+ },
+ "0x0041FA": {
+  "en": "「Vanish!」",
+  "slot": 24
+ },
+ "0x004213": {
+  "en": "「Plasma Sword!」",
+  "slot": 30
+ },
+ "0x004232": {
+  "en": "「Haaah!」",
+  "slot": 18
+ },
+ "0x004245": {
+  "en": "「Taaah!」",
+  "slot": 18
+ },
+ "0x004258": {
+  "en": "「Yah!」",
+  "slot": 15
+ },
+ "0x004268": {
+  "en": "「Oraaah!」",
+  "slot": 21
+ },
+ "0x00427E": {
+  "en": "「Dyah!」",
+  "slot": 18
+ },
+ "0x004291": {
+  "en": "「Oryah!」",
+  "slot": 21
+ },
+ "0x0042A7": {
+  "en": "「Brace yourself, this one hurts!」",
+  "slot": 54
+ },
+ "0x0042DE": {
+  "en": "「Go dowwwn!!」",
+  "slot": 33
+ }
+}
