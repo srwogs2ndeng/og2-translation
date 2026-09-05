@@ -1,0 +1,2595 @@
+{
+ "0x000081": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000097": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0000AD": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0000C0": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0000D6": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0000E6": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0000FC": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00010F": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000128": {
+  "en": "",
+  "slot": 27,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000144": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000157": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00016A": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000180": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000199": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0001B2": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0001CB": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0001DE": {
+  "en": "",
+  "slot": 27,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0001FA": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00020D": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00021D": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000233": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00024C": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000262": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00027B": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00028E": {
+  "en": "",
+  "slot": 27,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0002AA": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0002BD": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0002D6": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0002E9": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0002FC": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000312": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00032B": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000341": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000354": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00036A": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000383": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000396": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0003A9": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0003BC": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0003CF": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0003DF": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0003F5": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000408": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00041B": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000434": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000447": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00045D": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000473": {
+  "en": "",
+  "slot": 27,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00048F": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0004A5": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0004BB": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0004CB": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0004DE": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0004EE": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000501": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000517": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00052A": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000540": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000553": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000566": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000576": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000589": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00059F": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0005B8": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0005CB": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0005DB": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0005F1": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000601": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00061A": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000630": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000646": {
+  "en": "",
+  "slot": 36,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00066B": {
+  "en": "",
+  "slot": 36,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000690": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0006A9": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0006BC": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0006D5": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0006EB": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0006FB": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00070E": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00071E": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00072E": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000738": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000742": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00074C": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000756": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000760": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00076A": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000774": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00077E": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000788": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000792": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00079C": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0007A6": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0007B0": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0007BA": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0007C4": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0007CE": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0007D8": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0007E2": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0007EC": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0007F6": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000800": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00080A": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000814": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00081E": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000828": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000832": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00083C": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000846": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000850": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00085A": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000864": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00086E": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000878": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000882": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00088C": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000896": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0008A0": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0008AA": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0008B4": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0008BE": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0008C8": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0008D2": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0008DC": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0008E6": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0008F0": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0008FA": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000904": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00090E": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000918": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000922": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00092C": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000936": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000946": {
+  "en": "???",
+  "slot": 9
+ },
+ "0x000950": {
+  "en": "「S-so this is it...!」",
+  "slot": 36
+ },
+ "0x000975": {
+  "en": "Ibis",
+  "slot": 12
+ },
+ "0x000982": {
+  "en": "「At my current skill level...@　this is as far as I go...!」",
+  "slot": 52
+ },
+ "0x0009B7": {
+  "en": "Aqua",
+  "slot": 9
+ },
+ "0x0009C1": {
+  "en": "「Kyaaaaaah!!」",
+  "slot": 36
+ },
+ "0x0009E6": {
+  "en": "Axel",
+  "slot": 12
+ },
+ "0x0009F3": {
+  "en": "「Gah!@　So this is it...!!」",
+  "slot": 46
+ },
+ "0x000A22": {
+  "en": "Aya",
+  "slot": 6
+ },
+ "0x000A29": {
+  "en": "「Agh...! I have to eject...!」",
+  "slot": 39
+ },
+ "0x000A51": {
+  "en": "Araceli",
+  "slot": 12
+ },
+ "0x000A5E": {
+  "en": "「Time to pull back.」",
+  "slot": 18
+ },
+ "0x000A71": {
+  "en": "Arado",
+  "slot": 9
+ },
+ "0x000A7B": {
+  "en": "「Damn it!@　Next time you won't get me!」",
+  "slot": 55
+ },
+ "0x000AB3": {
+  "en": "Ariel",
+  "slot": 15
+ },
+ "0x000AC3": {
+  "en": "「The rest is up to you......」",
+  "slot": 30
+ },
+ "0x000AE2": {
+  "en": "Alfimi",
+  "slot": 18
+ },
+ "0x000AF5": {
+  "en": "「Is this... the end...?」",
+  "slot": 36
+ },
+ "0x000B1A": {
+  "en": "Irm",
+  "slot": 9
+ },
+ "0x000B24": {
+  "en": "「Tch!! Curtain call already!」",
+  "slot": 45
+ },
+ "0x000B52": {
+  "en": "Ing",
+  "slot": 9
+ },
+ "0x000B5C": {
+  "en": "Viletta",
+  "slot": 15
+ },
+ "0x000B6C": {
+  "en": "「Time to pull out...! I'm ejecting.」",
+  "slot": 39
+ },
+ "0x000B94": {
+  "en": "Ventos",
+  "slot": 15
+ },
+ "0x000BA4": {
+  "en": "「Is this as far as I go......!?」",
+  "slot": 39
+ },
+ "0x000BCC": {
+  "en": "Excellen",
+  "slot": 15
+ },
+ "0x000BDC": {
+  "en": "「Oh dear...@　how uncool, honestly!」",
+  "slot": 55
+ },
+ "0x000C14": {
+  "en": "Elis",
+  "slot": 9
+ },
+ "0x000C1E": {
+  "en": "「No way, I'm hit!?」",
+  "slot": 36
+ },
+ "0x000C43": {
+  "en": "Kirkus",
+  "slot": 12
+ },
+ "0x000C50": {
+  "en": "「Nngh, so this is it!」",
+  "slot": 36
+ },
+ "0x000C75": {
+  "en": "Carla",
+  "slot": 9
+ },
+ "0x000C7F": {
+  "en": "「I have to eject...!」",
+  "slot": 30
+ },
+ "0x000C9E": {
+  "en": "Kai",
+  "slot": 6
+ },
+ "0x000CA5": {
+  "en": "「Hrk! So this is my limit...!」",
+  "slot": 45
+ },
+ "0x000CD3": {
+  "en": "Katina",
+  "slot": 12
+ },
+ "0x000CE0": {
+  "en": "「Like hell I'll blow it here...!@　Not funny...」",
+  "slot": 67
+ },
+ "0x000D24": {
+  "en": "Kyosuke",
+  "slot": 15
+ },
+ "0x000D34": {
+  "en": "「Screwed up...!@　No choice but to bail...」",
+  "slot": 58
+ },
+ "0x000D6F": {
+  "en": "Gilliam",
+  "slot": 12
+ },
+ "0x000D7C": {
+  "en": "「Hrk! I'm ejecting!」",
+  "slot": 33
+ },
+ "0x000D9E": {
+  "en": "Kukuru",
+  "slot": 9
+ },
+ "0x000DA8": {
+  "en": "「Gah! I've got no choice but to fall back!!」",
+  "slot": 48
+ },
+ "0x000DD9": {
+  "en": "Kusuha",
+  "slot": 9
+ },
+ "0x000DE3": {
+  "en": "「I-I'm sorry...!」",
+  "slot": 39
+ },
+ "0x000E0B": {
+  "en": "Glacies",
+  "slot": 18
+ },
+ "0x000E1E": {
+  "en": "「So this is it......!」",
+  "slot": 30
+ },
+ "0x000E3D": {
+  "en": "Kurt",
+  "slot": 9
+ },
+ "0x000E47": {
+  "en": "「Ngh...! All hands, abandon ship!」",
+  "slot": 45
+ },
+ "0x000E75": {
+  "en": "Gennacy",
+  "slot": 15
+ },
+ "0x000E85": {
+  "en": "「This is as far as I go... The rest is up to you.」",
+  "slot": 39
+ },
+ "0x000EAD": {
+  "en": "Kouta",
+  "slot": 9
+ },
+ "0x000EB7": {
+  "en": "「Damn it...!@　Is this where it ends?!」",
+  "slot": 49
+ },
+ "0x000EE9": {
+  "en": "Gold",
+  "slot": 9
+ },
+ "0x000EF3": {
+  "en": "「Nnngh! So I've fallen behind...」",
+  "slot": 48
+ },
+ "0x000F24": {
+  "en": "Zashford",
+  "slot": 12
+ },
+ "0x000F31": {
+  "en": "「No good, I took too much damage... I'm pulling back!」",
+  "slot": 60
+ },
+ "0x000F6E": {
+  "en": "Saphine",
+  "slot": 15
+ },
+ "0x000F7E": {
+  "en": "「Well, this is a mess. I'll leave the rest to you.」",
+  "slot": 48
+ },
+ "0x000FAF": {
+  "en": "Shine",
+  "slot": 12
+ },
+ "0x000FBC": {
+  "en": "「Kyaaah! I'll leave the rest to you!」",
+  "slot": 60
+ },
+ "0x000FF9": {
+  "en": "Shu",
+  "slot": 9
+ },
+ "0x001003": {
+  "en": "「To think... the Granzon would be shot down...」",
+  "slot": 51
+ },
+ "0x001037": {
+  "en": "Shouko",
+  "slot": 12
+ },
+ "0x001044": {
+  "en": "「Big brother... Emmy... I'm sorry!!」",
+  "slot": 51
+ },
+ "0x001078": {
+  "en": "Joshua",
+  "slot": 15
+ },
+ "0x001088": {
+  "en": "「Th-this is my limit!!」",
+  "slot": 27
+ },
+ "0x0010A4": {
+  "en": "Sleigh",
+  "slot": 9
+ },
+ "0x0010AE": {
+  "en": "「Ngh... So I'm the one who becomes a shooting star... I'm ejecting!」",
+  "slot": 66
+ },
+ "0x0010F1": {
+  "en": "Seolla",
+  "slot": 9
+ },
+ "0x0010FB": {
+  "en": "「N-next time... for sure!!」",
+  "slot": 39
+ },
+ "0x001123": {
+  "en": "Setty",
+  "slot": 9
+ },
+ "0x00112D": {
+  "en": "「Th-this is all I can take...!」",
+  "slot": 45
+ },
+ "0x00115B": {
+  "en": "Xenia",
+  "slot": 9
+ },
+ "0x001165": {
+  "en": "「Owowow... I give up. My math was off.」",
+  "slot": 57
+ },
+ "0x00119F": {
+  "en": "Zeb",
+  "slot": 6
+ },
+ "0x0011A6": {
+  "en": "「Oh brother, they got me good!」",
+  "slot": 54
+ },
+ "0x0011DD": {
+  "en": "Sanger",
+  "slot": 12
+ },
+ "0x0011EA": {
+  "en": "「U-ngh! So this is as far as I go...!」",
+  "slot": 45
+ },
+ "0x001218": {
+  "en": "Tasuku",
+  "slot": 9
+ },
+ "0x001222": {
+  "en": "「Damn it! How pathetic...!!」",
+  "slot": 42
+ },
+ "0x00124D": {
+  "en": "Tetsuya",
+  "slot": 9
+ },
+ "0x001257": {
+  "en": "「Ngh! All hands, abandon ship at once!!」",
+  "slot": 54
+ },
+ "0x00128E": {
+  "en": "Tytti",
+  "slot": 15
+ },
+ "0x00129E": {
+  "en": "「I'm sorry. I'll leave the rest to you.」",
+  "slot": 42
+ },
+ "0x0012C9": {
+  "en": "Touma",
+  "slot": 9
+ },
+ "0x0012D3": {
+  "en": "「Damn it! Is this the limit of my power...!」",
+  "slot": 54
+ },
+ "0x00130A": {
+  "en": "Torres",
+  "slot": 12
+ },
+ "0x001317": {
+  "en": "「I can't fight anymore! Retreating!」",
+  "slot": 57
+ },
+ "0x001351": {
+  "en": "Hugo",
+  "slot": 12
+ },
+ "0x00135E": {
+  "en": "「Uwaaaaaah!!」",
+  "slot": 36
+ },
+ "0x001383": {
+  "en": "Feil",
+  "slot": 12
+ },
+ "0x001390": {
+  "en": "「Ngh... You're as good as they say.」",
+  "slot": 33
+ },
+ "0x0013B2": {
+  "en": "Bullet",
+  "slot": 12
+ },
+ "0x0013BF": {
+  "en": "「To go down in a place like this...@　I'm still green...!」",
+  "slot": 64
+ },
+ "0x001400": {
+  "en": "Presia",
+  "slot": 12
+ },
+ "0x00140D": {
+  "en": "「No good, I can't take any more! Retreating!」",
+  "slot": 60
+ },
+ "0x00144A": {
+  "en": "Mai",
+  "slot": 6
+ },
+ "0x001451": {
+  "en": "「I-is it... over... here?!」",
+  "slot": 42
+ },
+ "0x00147C": {
+  "en": "Masaki",
+  "slot": 9
+ },
+ "0x001486": {
+  "en": "「Sorry!@　I'm getting out of here...!」",
+  "slot": 58
+ },
+ "0x0014C1": {
+  "en": "Mio",
+  "slot": 6
+ },
+ "0x0014C8": {
+  "en": "「Sorry, the rest is up to you!」",
+  "slot": 36
+ },
+ "0x0014ED": {
+  "en": "Michiru",
+  "slot": 9
+ },
+ "0x0014F7": {
+  "en": "「Th-this is bad! This is as far as I go!!」",
+  "slot": 48
+ },
+ "0x001528": {
+  "en": "Mekibos",
+  "slot": 12
+ },
+ "0x001535": {
+  "en": "「Well, well. So this is the end.」",
+  "slot": 36
+ },
+ "0x00155A": {
+  "en": "Monica",
+  "slot": 9
+ },
+ "0x001564": {
+  "en": "「I can't go any further. Please excuse me.」",
+  "slot": 69
+ },
+ "0x0015AA": {
+  "en": "Yang Long",
+  "slot": 12
+ },
+ "0x0015B7": {
+  "en": "「A bitter defeat... I'll withdraw.」",
+  "slot": 45
+ },
+ "0x0015E5": {
+  "en": "Yuuki",
+  "slot": 9
+ },
+ "0x0015EF": {
+  "en": "「Careless of me...@　I'll fall back for now...!」",
+  "slot": 67
+ },
+ "0x001633": {
+  "en": "Radha",
+  "slot": 9
+ },
+ "0x00163D": {
+  "en": "「T-to end up in a place like this...!」",
+  "slot": 39
+ },
+ "0x001665": {
+  "en": "Rai",
+  "slot": 6
+ },
+ "0x00166C": {
+  "en": "「Tch...! I can't hold out after all...!」",
+  "slot": 51
+ },
+ "0x0016A0": {
+  "en": "Raul",
+  "slot": 9
+ },
+ "0x0016AA": {
+  "en": "「This... this can't be...!」",
+  "slot": 45
+ },
+ "0x0016D8": {
+  "en": "Russel",
+  "slot": 12
+ },
+ "0x0016E5": {
+  "en": "「I'm sorry! I'm ejecting!」",
+  "slot": 45
+ },
+ "0x001713": {
+  "en": "Latooni",
+  "slot": 15
+ },
+ "0x001723": {
+  "en": "「So it ends... here...!」",
+  "slot": 39
+ },
+ "0x00174B": {
+  "en": "Lamia",
+  "slot": 9
+ },
+ "0x001755": {
+  "en": "「Ejecting, I am...@　Ngh...! No style at all, it seems...」",
+  "slot": 70
+ },
+ "0x00179C": {
+  "en": "Rio",
+  "slot": 6
+ },
+ "0x0017A3": {
+  "en": "「N-next time I won't lose!!」",
+  "slot": 45
+ },
+ "0x0017D1": {
+  "en": "Rishu",
+  "slot": 12
+ },
+ "0x0017DE": {
+  "en": "「Nngh! So I've blundered...!」",
+  "slot": 45
+ },
+ "0x00180C": {
+  "en": "Lim",
+  "slot": 6
+ },
+ "0x001813": {
+  "en": "「Nnngh! In a place like this!!」",
+  "slot": 45
+ },
+ "0x001841": {
+  "en": "Ryusei",
+  "slot": 15
+ },
+ "0x001851": {
+  "en": "「D-damn it!@　They got me!」",
+  "slot": 52
+ },
+ "0x001886": {
+  "en": "Lune",
+  "slot": 12
+ },
+ "0x001893": {
+  "en": "「Sorry! Valsione...!」",
+  "slot": 48
+ },
+ "0x0018C4": {
+  "en": "Ryoto",
+  "slot": 12
+ },
+ "0x0018D1": {
+  "en": "「Ngh...! I've got to eject...!」",
+  "slot": 45
+ },
+ "0x0018FF": {
+  "en": "Ruzak Soldier A",
+  "slot": 27
+ },
+ "0x00191B": {
+  "en": "「Th-they got me!」",
+  "slot": 27
+ },
+ "0x001937": {
+  "en": "Ruzak Soldier B",
+  "slot": 27
+ },
+ "0x001953": {
+  "en": "「Is this the end?!」",
+  "slot": 30
+ },
+ "0x001972": {
+  "en": "Ratsel",
+  "slot": 15
+ },
+ "0x001982": {
+  "en": "「So I'm still green too...!」",
+  "slot": 42
+ },
+ "0x0019AD": {
+  "en": "Leona",
+  "slot": 9
+ },
+ "0x0019B7": {
+  "en": "「How... humiliating...!」",
+  "slot": 27
+ },
+ "0x0019D3": {
+  "en": "Lefina",
+  "slot": 15
+ },
+ "0x0019E3": {
+  "en": "「A-all hands!@　Make abandoning ship your first priority...!!」",
+  "slot": 52
+ },
+ "0x001A18": {
+  "en": "Rodney",
+  "slot": 12
+ },
+ "0x001A25": {
+  "en": "「No good, they went and got me.」",
+  "slot": 42
+ },
+ "0x001A50": {
+  "en": "Roff",
+  "slot": 6
+ },
+ "0x001A57": {
+  "en": "「I've no choice but to fall back...!」",
+  "slot": 42
+ },
+ "0x001A82": {
+  "en": "「Reset face to default.」",
+  "slot": 36
+ },
+ "0x001AA7": {
+  "en": "「Everyone out there,@　welcome to the world of Super Robot Wars!@　I'm Arado Balanga!」",
+  "slot": 140
+ },
+ "0x001B34": {
+  "en": "「And serving as my coach is@ the demon instructor who can make even a crying baby laugh...」",
+  "slot": 109
+ },
+ "0x001BA2": {
+  "en": "「Why are you laughing?」",
+  "slot": 30
+ },
+ "0x001BC1": {
+  "en": "「Huh?」",
+  "slot": 15
+ },
+ "0x001BD1": {
+  "en": "「Never mind.@　I'm Major Kai Kitamura, commander of the Special Tactics Instructor Corps.」",
+  "slot": 94
+ },
+ "0x001C30": {
+  "en": "「Believe it or not, the Major's a lot younger than he looks.」",
+  "slot": 60
+ },
+ "0x001C6D": {
+  "en": "「Gah! What's that supposed to mean?!@　Keep your mouth shut!」",
+  "slot": 85
+ },
+ "0x001CC3": {
+  "en": "「S-sorry!」",
+  "slot": 30
+ },
+ "0x001CE2": {
+  "en": "「...Ahem.@　Now then, let's begin the lecture on how to play.」",
+  "slot": 85
+ },
+ "0x001D38": {
+  "en": "「Y-yes sir! I'm counting on you!」",
+  "slot": 60
+ },
+ "0x001D75": {
+  "en": "「Arado, have you ever played@　Super Robot Wars before?」",
+  "slot": 109
+ },
+ "0x001DE3": {
+  "en": "「No sir, never!@　I'm a total rookie!」",
+  "slot": 70
+ },
+ "0x001E2A": {
+  "en": "「...You've read the manual thoroughly beforehand, I trust?」",
+  "slot": 66
+ },
+ "0x001E6D": {
+  "en": "「Haven't read it! I'm winging it!」",
+  "slot": 57
+ },
+ "0x001EA7": {
+  "en": "「You fool!@　What do you take Super Robot Wars for?!」",
+  "slot": 91
+ },
+ "0x001F03": {
+  "en": "「A-a simulation RPG, sir!」",
+  "slot": 54
+ },
+ "0x001F3A": {
+  "en": "「...Correct.@　Now then, I'll explain from the very beginning.」",
+  "slot": 82
+ },
+ "0x001F8D": {
+  "en": "「U-um, Major Kai...@　I'm not really that quick to catch on,@　so... will I be okay?」",
+  "slot": 134
+ },
+ "0x002014": {
+  "en": "「Then get this into your head first.@　Whenever there's something you don't understand,@　press the SELECT button.」",
+  "slot": 158
+ },
+ "0x0020B3": {
+  "en": "「The SELECT button, you mean@　the one on the wireless controller?」",
+  "slot": 94
+ },
+ "0x002112": {
+  "en": "「Yes.@　Depending on the situation, it'll explain the controls and functions.」",
+  "slot": 79
+ },
+ "0x002162": {
+  "en": "「When in doubt, SELECT button.@　Don't you forget it.」",
+  "slot": 79
+ },
+ "0x0021B2": {
+  "en": "「Roger!」",
+  "slot": 15
+ },
+ "0x0021C2": {
+  "en": "「Now, step by step, I'll explain@　how to play Super Robot Wars.」",
+  "slot": 97
+ },
+ "0x002224": {
+  "en": "「A scene like this one, where we're@　talking right now, is called a@　'scenario demo'...」",
+  "slot": 119
+ },
+ "0x00229C": {
+  "en": "「You advance a 'scenario demo' by pressing the O button.」",
+  "slot": 78
+ },
+ "0x0022EB": {
+  "en": "「And if you press R1 and O@　at the same time, you can fast-forward.」",
+  "slot": 109
+ },
+ "0x002359": {
+  "en": "「Furthermore, press START and@　R1 together, and the 'scenario demo'@　gets skipped all at once.」",
+  "slot": 155
+ },
+ "0x0023F5": {
+  "en": "「Then let's try it right-」",
+  "slot": 27
+ },
+ "0x002411": {
+  "en": "「Hold it. Try that here and this 'scenario demo'@　will come to an end.」",
+  "slot": 97
+ },
+ "0x002473": {
+  "en": "「Urk...... r-right.@ Close one, close one.」",
+  "slot": 70
+ },
+ "0x0024BA": {
+  "en": "「Still, that last function's handy@　for a second playthrough and such,@　so I'll jot it down.」",
+  "slot": 128
+ },
+ "0x00253B": {
+  "en": "「A fine attitude, but@　do you actually remember it correctly?」",
+  "slot": 76
+ },
+ "0x002588": {
+  "en": "「Uh, uhh... um... well...@　how did it go again?」",
+  "slot": 82
+ },
+ "0x0025DB": {
+  "en": "「...Just as I thought. In that case, press the Triangle button.」",
+  "slot": 66
+ },
+ "0x00261E": {
+  "en": "「That brings up the 'backlog,'@　letting you scroll back and reread@　the conversation up to a point.」",
+  "slot": 149
+ },
+ "0x0026B4": {
+  "en": "「So even if I accidentally skip a line,@　I'll be fine!」",
+  "slot": 94
+ },
+ "0x002713": {
+  "en": "「But there's a limit to how much you can reread.@　Bear that in mind.」",
+  "slot": 85
+ },
+ "0x002769": {
+  "en": "「Roger that!」",
+  "slot": 21
+ },
+ "0x00277F": {
+  "en": "「Also,@　sometimes a differently-colored word@　shows up in the dialogue...」",
+  "slot": 107
+ },
+ "0x0027EB": {
+  "en": "「That's a 'keyword.' Press the Square button@　and you can open an explanation window.」",
+  "slot": 130
+ },
+ "0x00286E": {
+  "en": "「<The Inspector Incident>.@　...Press Square at a time like this and the explanation appears.」",
+  "slot": 114
+ },
+ "0x0028E1": {
+  "en": "「<The Inspector Incident>.@　Press the Square button and give it a try.」",
+  "slot": 84
+ },
+ "0x002936": {
+  "en": "「Got it?」",
+  "slot": 18
+ },
+ "0x002949": {
+  "en": "「Yes sir!」",
+  "slot": 15
+ },
+ "0x002959": {
+  "en": "「For the other controls during a 'scenario demo,'@　just press that SELECT button@　I mentioned earlier.」",
+  "slot": 146
+ },
+ "0x0029EC": {
+  "en": "「Do that, and@　a plate explaining the various controls will appear.」",
+  "slot": 97
+ },
+ "0x002A4E": {
+  "en": "「Like so.」",
+  "slot": 24
+ },
+ "0x002A67": {
+  "en": "「I see...@　So pressing SELECT lets me@　view those control explanations again.」",
+  "slot": 122
+ },
+ "0x002AE2": {
+  "en": "「Now then, on to the battle map.」",
+  "slot": 51
+ },
+ "0x002B16": {
+  "en": "「Huh, so this is a battle map.」",
+  "slot": 45
+ },
+ "0x002B44": {
+  "en": "「In Super Robot Wars, you advance@　by clearing the battle maps prepared@　for each scenario.」",
+  "slot": 134
+ },
+ "0x002BCB": {
+  "en": "「First you move your robots,@　a.k.a. 'units,' during the Player Phase...」",
+  "slot": 106
+ },
+ "0x002C36": {
+  "en": "「Once that's done,@　the computer moves the enemy units.」",
+  "slot": 85
+ },
+ "0x002C8C": {
+  "en": "「So my turn and the enemy's turn alternate.@　Like shogi or baseball.」",
+  "slot": 100
+ },
+ "0x002CF1": {
+  "en": "「Correct.@　The game proceeds by repeating@　the Player Phase and Enemy Phase.」",
+  "slot": 122
+ },
+ "0x002D6C": {
+  "en": "「Got it.@　So what exactly am I supposed to do?」",
+  "slot": 88
+ },
+ "0x002DC5": {
+  "en": "「The objective for clearing a scenario...@　the 'mission objective,' is shown in the 'general command.'」",
+  "slot": 124
+ },
+ "0x002E42": {
+  "en": "「The 'general command'?」",
+  "slot": 39
+ },
+ "0x002E6A": {
+  "en": "「Put the cursor on a unit and press O to bring up@　the 'unit command' for operating that unit...」",
+  "slot": 142
+ },
+ "0x002EF9": {
+  "en": "「Put the cursor where there's no unit and@　press O to display the 'general command.'」",
+  "slot": 133
+ },
+ "0x002F7F": {
+  "en": "「Like this.」",
+  "slot": 24
+ },
+ "0x002F98": {
+  "en": "「Press O here.」",
+  "slot": 27
+ },
+ "0x002FB4": {
+  "en": "「I see...」",
+  "slot": 21
+ },
+ "0x002FCA": {
+  "en": "「And putting the cursor on a unit@　and pressing O brings up the@　'unit command,' right.」",
+  "slot": 137
+ },
+ "0x003054": {
+  "en": "「All those commands... think I can memorize them all...?」",
+  "slot": 75
+ },
+ "0x0030A0": {
+  "en": "「No need to worry.@　You'll understand how each command works@　by actually using it during the game.」",
+  "slot": 125
+ },
+ "0x00311E": {
+  "en": "「That 'mission objective' from before is@　inside the 'general command,' right.@　Let's take a look.」",
+  "slot": 140
+ },
+ "0x0031AB": {
+  "en": "「That red robot@ is the Razangriff Raven.」",
+  "slot": 79
+ },
+ "0x0031FB": {
+  "en": "「So I operate that one@　and move it to the point.」",
+  "slot": 82
+ },
+ "0x00324E": {
+  "en": "「Correct.@　Get it to that designated point@　and the victory condition is met.」",
+  "slot": 101
+ },
+ "0x0032B4": {
+  "en": "「Now, use the 'move' unit command@　and head for the designated point.」",
+  "slot": 103
+ },
+ "0x00331C": {
+  "en": "「Note that the Mass-Prod Huckebein Mk-II over there@　can't act this time.」",
+  "slot": 106
+ },
+ "0x003387": {
+  "en": "「A unit can act only once per phase.」",
+  "slot": 63
+ },
+ "0x0033C7": {
+  "en": "「Once it ends its action,@　it can't move for that phase. Take note.」",
+  "slot": 91
+ },
+ "0x003423": {
+  "en": "「All right, let's begin.@　LESSON 1 - Movement.」",
+  "slot": 73
+ },
+ "0x00346D": {
+  "en": "「Huh?@　Guess I came up a little short...」",
+  "slot": 58
+ },
+ "0x0034A8": {
+  "en": "「That's every unit that can move.@　They've all finished their turn.」",
+  "slot": 88
+ },
+ "0x003501": {
+  "en": "「So what now?」",
+  "slot": 21
+ },
+ "0x003517": {
+  "en": "「You hand the phase to the enemy.@　Pick 'End Phase' at the top of the@　'Squad Command' list and confirm.」",
+  "slot": 146
+ },
+ "0x0035AA": {
+  "en": "「Do that, or the game won't advance.」",
+  "slot": 51
+ },
+ "0x0035DE": {
+  "en": "「What happens when I pass the phase, sir?」",
+  "slot": 63
+ },
+ "0x00361E": {
+  "en": "「Normally, the enemy units act.@　But there's no enemy here now, so@　it'll jump straight to your phase.」",
+  "slot": 137
+ },
+ "0x0036A8": {
+  "en": "「So it's my turn again, huh.」",
+  "slot": 51
+ },
+ "0x0036DC": {
+  "en": "「Right, this time I'll pull it off!」",
+  "slot": 48
+ },
+ "0x00370D": {
+  "en": "「Now end your phase.」",
+  "slot": 57
+ },
+ "0x003747": {
+  "en": "「That clears LESSON 1.」",
+  "slot": 45
+ },
+ "0x003775": {
+  "en": "「Next one, please!」",
+  "slot": 33
+ },
+ "0x003797": {
+  "en": "「Then on to LESSON 2.」",
+  "slot": 48
+ },
+ "0x0037C8": {
+  "en": "「Same as before?」",
+  "slot": 27
+ },
+ "0x0037E4": {
+  "en": "「Not quite. Your target point is over there.」",
+  "slot": 60
+ },
+ "0x003821": {
+  "en": "「A bit far... @　Eh, I'll just split it into two moves.」",
+  "slot": 82
+ },
+ "0x003874": {
+  "en": "「Hold on.@　An 'SR Point Condition' has been added@　to the 'Mission Objectives.'」",
+  "slot": 107
+ },
+ "0x0038E0": {
+  "en": "「For real?@　Let me see that again, Major.」",
+  "slot": 79
+ },
+ "0x003930": {
+  "en": "「Yeah.」",
+  "slot": 12
+ },
+ "0x00393D": {
+  "en": "「It's true.」",
+  "slot": 15
+ },
+ "0x00394D": {
+  "en": "「An 'SR (Super Robot Wars) Point'...@　It's a challenge set for each map,@　separate from the victory conditions.」",
+  "slot": 143
+ },
+ "0x0039DD": {
+  "en": "「Clear it, and you earn an 'SR Point.'」",
+  "slot": 75
+ },
+ "0x003A29": {
+  "en": "「And what's that good for?」",
+  "slot": 57
+ },
+ "0x003A63": {
+  "en": "「The moment you get one, every allied@　pilot on the map gains 10 'PP'...@　points used to train pilots.」",
+  "slot": 155
+ },
+ "0x003AFF": {
+  "en": "「Then I've gotta grab every one!」",
+  "slot": 45
+ },
+ "0x003B2D": {
+  "en": "「But earning points marks you@　as a skilled player, and the@　game's difficulty goes up.」",
+  "slot": 134
+ },
+ "0x003BB4": {
+  "en": "「Get 80% or more of all the 'SR Points' -@　one per map - and difficulty goes to Hard.@　Under 80% keeps it Normal.」",
+  "slot": 191
+ },
+ "0x003C74": {
+  "en": "「So beginners don't have to push@　to collect 'SR Points.'」",
+  "slot": 100
+ },
+ "0x003CD9": {
+  "en": "「So it's basically a challenge thrown down@　to players who fancy their skills.」",
+  "slot": 103
+ },
+ "0x003D41": {
+  "en": "「Exactly.@　Now, let's sum up 'SR Points.'」",
+  "slot": 82
+ },
+ "0x003D94": {
+  "en": "「But with that unit's movement, there's@　no way it'll reach the target point@　in a single move, sir.」",
+  "slot": 137
+ },
+ "0x003E1E": {
+  "en": "「For that, use a 'Spirit Command.'」",
+  "slot": 57
+ },
+ "0x003E58": {
+  "en": "「A 'Spirit Command'?」",
+  "slot": 33
+ },
+ "0x003E7A": {
+  "en": "「Special commands set@　for each individual pilot.」",
+  "slot": 76
+ },
+ "0x003EC7": {
+  "en": "「They spend 'Spirit Points,' or 'SP,'@　to trigger all kinds of effects@　on a unit or pilot.」",
+  "slot": 173
+ },
+ "0x003F75": {
+  "en": "「Wh-whoa, like magic.@　Can I go wild with those right from the start?」",
+  "slot": 118
+ },
+ "0x003FEC": {
+  "en": "「Depends on the pilot.@　At low levels, though, they only have@　a limited set of 'Spirit Commands.'」",
+  "slot": 155
+ },
+ "0x004088": {
+  "en": "「So once a pilot levels up...」",
+  "slot": 69
+ },
+ "0x0040CE": {
+  "en": "「They gradually learn new@　'Spirit Commands' to match, and@　their 'Spirit Points' rise too.」",
+  "slot": 137
+ },
+ "0x004158": {
+  "en": "「Then if I learn like a hundred@　'Spirit Commands,' I'm unstoppable!」",
+  "slot": 109
+ },
+ "0x0041C6": {
+  "en": "「Life's not that easy.@　One pilot can learn no more@　than six 'Spirit Commands.'」",
+  "slot": 146
+ },
+ "0x004259": {
+  "en": "「Aw... is that all.」",
+  "slot": 27
+ },
+ "0x004275": {
+  "en": "「When a new pilot joins, it's worth@　checking what 'Spirit Commands'@　they bring with them.」",
+  "slot": 152
+ },
+ "0x00430E": {
+  "en": "「You can't clear the next LESSON 2@　without using a Spirit Command.」",
+  "slot": 100
+ },
+ "0x004373": {
+  "en": "「Roger! I'll give it a shot!」",
+  "slot": 42
+ },
+ "0x00439E": {
+  "en": "「All right!@　Time to take on LESSON 2!」",
+  "slot": 64
+ },
+ "0x0043DF": {
+  "en": "「First, pass the phase to the enemy.」",
+  "slot": 51
+ },
+ "0x004413": {
+  "en": "「H-how do I do that?」",
+  "slot": 36
+ },
+ "0x004438": {
+  "en": "「Pick 'End Phase' at the top of the@　Squad Command list and press O.」",
+  "slot": 109
+ },
+ "0x0044A6": {
+  "en": "「Normally the enemy units act.@　But there's no enemy now, so@　it'll jump straight to your phase.」",
+  "slot": 137
+ },
+ "0x004530": {
+  "en": "「Right, let's tackle LESSON 2 with spirit!」",
+  "slot": 66
+ },
+ "0x004573": {
+  "en": "「Now use 'End Phase' to@　end your phase.」",
+  "slot": 82
+ },
+ "0x0045C6": {
+  "en": "「Pick 'End Phase' from the Squad@　Command list and press O.」",
+  "slot": 94
+ },
+ "0x004625": {
+  "en": "「All right!@　Now, LESSON 2, take two!」",
+  "slot": 79
+ },
+ "0x004675": {
+  "en": "「Hold it.@　You won't reach the target point@　without using a certain something.」",
+  "slot": 94
+ },
+ "0x0046D4": {
+  "en": "「A certain something?@　You mean a 'Spirit Command'?」",
+  "slot": 76
+ },
+ "0x004721": {
+  "en": "「Right. Use 'Accel,' the 'Spirit@　Command' that boosts a unit's movement.」",
+  "slot": 118
+ },
+ "0x004798": {
+  "en": "「Mind you, there are many kinds of@　'Spirit Command' besides 'Accel.'」",
+  "slot": 100
+ },
+ "0x0047FD": {
+  "en": "「'Valor' to deal big damage,@　'Focus' to dodge for certain...」",
+  "slot": 130
+ },
+ "0x004880": {
+  "en": "「'Guts' or 'Trust' when you want@　to restore a unit's HP...」",
+  "slot": 94
+ },
+ "0x0048DF": {
+  "en": "「Using the right 'Spirit Command' for@　the situation is key to winning.」",
+  "slot": 100
+ },
+ "0x004944": {
+  "en": "「Then let's just zip-zip-zip through it@　with 'Accel' and clear the thing!」",
+  "slot": 100
+ },
+ "0x0049A9": {
+  "en": "「Ho... sounds confident.」",
+  "slot": 45
+ },
+ "0x0049D7": {
+  "en": "「You bet I am!」",
+  "slot": 30
+ },
+ "0x0049F6": {
+  "en": "「Fail... and you get no more than two refills at dinner.」",
+  "slot": 69
+ },
+ "0x004A3C": {
+  "en": "「Gah!@　B-but I'll take my chances anyway!」",
+  "slot": 70
+ },
+ "0x004A83": {
+  "en": "「Your chances aren't worth much.@　You sure about this?」",
+  "slot": 88
+ },
+ "0x004ADC": {
+  "en": "「Actually... it'd be nice if I could redo it...」",
+  "slot": 69
+ },
+ "0x004B22": {
+  "en": "「For that, there's 'Save.'」",
+  "slot": 42
+ },
+ "0x004B4D": {
+  "en": "「Save?」",
+  "slot": 18
+ },
+ "0x004B60": {
+  "en": "「Yeah. In the 'Squad Command' list@　there's a command called 'Mid-Battle Save.'」",
+  "slot": 103
+ },
+ "0x004BC8": {
+  "en": "「Use it and you can record@　the state mid-game.」",
+  "slot": 91
+ },
+ "0x004C24": {
+  "en": "「Then, during play, hold@　R1, R2, L1, L2, START and@　SELECT together to...」",
+  "slot": 137
+ },
+ "0x004CAE": {
+  "en": "「return to the state when you saved.」",
+  "slot": 60
+ },
+ "0x004CEB": {
+  "en": "「A soft reset, basically...」",
+  "slot": 48
+ },
+ "0x004D1C": {
+  "en": "「If you make an irreversible mistake,@　you can soft reset and start over.」",
+  "slot": 124
+ },
+ "0x004D99": {
+  "en": "「When it really counts, always save.」",
+  "slot": 66
+ },
+ "0x004DDC": {
+  "en": "「Roger!@　Now, on to LESSON 2!」",
+  "slot": 76
+ },
+ "0x004E29": {
+  "en": "「Yes! Cleared it!」",
+  "slot": 36
+ },
+ "0x004E4E": {
+  "en": "「And that earns an 'SR Point.'」",
+  "slot": 57
+ },
+ "0x004E88": {
+  "en": "「Ohh, man... I blew it.」",
+  "slot": 39
+ },
+ "0x004EB0": {
+  "en": "「Use the 'Accel' Spirit Command@　and you'd have reached the point.」",
+  "slot": 103
+ },
+ "0x004F18": {
+  "en": "「Fine, just this once -@ I'll let you have the 'SR Point.'」",
+  "slot": 97
+ },
+ "0x004F7A": {
+  "en": "「I see.@　So this is what grabbing an 'SR Point' does.」",
+  "slot": 85
+ },
+ "0x004FD0": {
+  "en": "「SR Point conditions vary from map to map.」",
+  "slot": 75
+ },
+ "0x00501C": {
+  "en": "「Some are easy, like this one, and@　some demand all sorts of skills@　and tactics to pull off.」",
+  "slot": 152
+ },
+ "0x0050B5": {
+  "en": "「Also, replaying from a Game Over@　locks out 'SR Points.' Keep that in mind.」",
+  "slot": 130
+ },
+ "0x005138": {
+  "en": "「Th-that sounds like a lot of work.」",
+  "slot": 42
+ },
+ "0x005163": {
+  "en": "「You can advance and clear the game@　without earning any 'SR Points.'」",
+  "slot": 115
+ },
+ "0x0051D7": {
+  "en": "「So beginners are best off playing@　without worrying about 'SR Points.'」",
+  "slot": 115
+ },
+ "0x00524B": {
+  "en": "「The difficulty stays lower that way, too.」",
+  "slot": 63
+ },
+ "0x00528B": {
+  "en": "「Got it!@　Then I'll play easy and not sweat it!」",
+  "slot": 100
+ },
+ "0x0052F0": {
+  "en": "「Now then, next up is 'Combat.'」",
+  "slot": 51
+ },
+ "0x005324": {
+  "en": "「Combat is the single most important@　element in 'Super Robot Wars.'」",
+  "slot": 103
+ },
+ "0x00538C": {
+  "en": "「Then let's go!」",
+  "slot": 27
+ },
+ "0x0053A8": {
+  "en": "「Don't rush, Arado.@　You charging in alone won't win a battle.」",
+  "slot": 94
+ },
+ "0x005407": {
+  "en": "「Using your squads well is the key.」",
+  "slot": 69
+ },
+ "0x00544D": {
+  "en": "「Squads... you say?」",
+  "slot": 27
+ },
+ "0x005469": {
+  "en": "「Squads you control on the map come@　in two kinds: 'Twin Units' and@　'Single Units.'」",
+  "slot": 137
+ },
+ "0x0054F3": {
+  "en": "「A 'Twin Unit' has two positions...@　a main unit that leads the squad and@　a sub unit that follows - two machines...」",
+  "slot": 176
+ },
+ "0x0055A4": {
+  "en": "「A 'Single Unit' is just@　the one main machine.」",
+  "slot": 94
+ },
+ "0x005603": {
+  "en": "「A 'Twin Unit' acts as a squad.@　Both machines move - and attack - as one.」",
+  "slot": 136
+ },
+ "0x00568C": {
+  "en": "「And only 'Twin Units' can use@　'Twin Spirit Commands.'」",
+  "slot": 118
+ },
+ "0x005703": {
+  "en": "「Only the main pilot can use them, and@　unlike normal 'Spirit Commands,' they@　spend both main pilots' 'Spirit Points.'」",
+  "slot": 215
+ },
+ "0x0057DB": {
+  "en": "「...Might be easier to grasp if I just show you.」",
+  "slot": 78
+ },
+ "0x00582A": {
+  "en": "「But there's no 'Twin Unit' on the map, sir.」",
+  "slot": 72
+ },
+ "0x005873": {
+  "en": "「You can rebuild a squad on the map@　into a 'Single Unit' or a 'Twin Unit.'」",
+  "slot": 143
+ },
+ "0x005903": {
+  "en": "「How do I do that?」",
+  "slot": 30
+ },
+ "0x005922": {
+  "en": "「Use 'Merge' from the 'Individual@　Command' list to make a 'Twin Unit'@　from two adjacent 'Single Units.'」",
+  "slot": 200
+ },
+ "0x0059EB": {
+  "en": "「There's no 'Will' limit or such, but@　battleships can't form a 'Twin Unit.'」",
+  "slot": 127
+ },
+ "0x005A6B": {
+  "en": "「The window shown when merging displays@　the squad's 'Abilities' and their effects.」",
+  "slot": 121
+ },
+ "0x005AE5": {
+  "en": "「'Abilities'?」",
+  "slot": 30
+ },
+ "0x005B04": {
+  "en": "「'Abilities' are equipped to machines and pilots,@　granting special effects that turn a@　fight in your favor.」",
+  "slot": 148
+ },
+ "0x005B99": {
+  "en": "「You can equip three each to the@　'Slots' on a machine and a pilot.」",
+  "slot": 112
+ },
+ "0x005C0A": {
+  "en": "「And when three or more of the same@　'Ability' line up, its 'Ability Effect'@　activates.」",
+  "slot": 133
+ },
+ "0x005C90": {
+  "en": "「An 'Ability Effect' grants the squad@　various boosts - weapon damage,@　evasion, and the like.」",
+  "slot": 158
+ },
+ "0x005D2F": {
+  "en": "「A 'Single Unit' covers six 'Slots' -@　machine and main pilot - while a@　'Twin Unit' covers twelve in all.」",
+  "slot": 194
+ },
+ "0x005DF2": {
+  "en": "「So a 'Single Unit' gets up to@　two 'Ability Effects,' but...」",
+  "slot": 112
+ },
+ "0x005E63": {
+  "en": "「A 'Twin Unit' triggers up to four@　'Ability Effects' on each machine -@　so it's the better deal.」",
+  "slot": 158
+ },
+ "0x005F02": {
+  "en": "「And you equip 'Abilities' via the@　'Ability' command in the Intermission.」",
+  "slot": 124
+ },
+ "0x005F7F": {
+  "en": "「Now, let's try a 'Twin Spirit Command.'」",
+  "slot": 69
+ },
+ "0x005FC5": {
+  "en": "「When a 'Twin Unit' attacks, the sub@　machine doesn't have to attack, but@　it can still be targeted by counters.」",
+  "slot": 161
+ },
+ "0x006067": {
+  "en": "「And as I said, a unit acts only once@　per phase, so the sub machine's@　turn ends as well.」",
+  "slot": 158
+ },
+ "0x006106": {
+  "en": "「It's done for the turn without doing@　anything... what a waste.」",
+  "slot": 94
+ },
+ "0x006165": {
+  "en": "「When that happens, just turn the@　'Twin Unit' into a 'Single Unit.'」",
+  "slot": 106
+ },
+ "0x0061D0": {
+  "en": "「To make a 'Twin Unit' into a@　'Single Unit,' use the 'Individual@　Command' 'Split.'」",
+  "slot": 137
+ },
+ "0x00625A": {
+  "en": "「But note - if you split, any active@　'Twin Spirit Command' effects@　are lost.」",
+  "slot": 134
+ },
+ "0x0062E1": {
+  "en": "「Now, let's bring out some enemy units.」",
+  "slot": 51
+ },
+ "0x006315": {
+  "en": "「Before the fight, a word on weapons.」",
+  "slot": 51
+ },
+ "0x006349": {
+  "en": "「Weapons come in three types:@　'Normal,' 'All,' and 'Map.'」",
+  "slot": 94
+ },
+ "0x0063A8": {
+  "en": "「Uhh... 'All' means a weapon with@　the 'ALL' mark, and...」",
+  "slot": 121
+ },
+ "0x006422": {
+  "en": "「'Map' means one with the 'MAP' mark,@　and one with nothing is@　'Normal,' right?」",
+  "slot": 152
+ },
+ "0x0064BB": {
+  "en": "「Right. An attack using a 'Normal'@　weapon is a 'Normal Attack'...」",
+  "slot": 106
+ },
+ "0x006526": {
+  "en": "「An attack with an 'All' weapon is an@　'All Attack,' and one with a 'Map'@　weapon is a 'Map Weapon.'」",
+  "slot": 170
+ },
+ "0x0065D1": {
+  "en": "「A 'Normal Attack' weapon damages one@　machine, while an 'All Attack'@　weapon damages a whole squad...」",
+  "slot": 151
+ },
+ "0x006669": {
+  "en": "「A 'Map Weapon' damages every squad@　within its attack range.」",
+  "slot": 103
+ },
+ "0x0066D1": {
+  "en": "「Th-that's powerful.」",
+  "slot": 36
+ },
+ "0x0066F6": {
+  "en": "「Note, too, that combat has position@　matchups you need to watch.」",
+  "slot": 94
+ },
+ "0x006755": {
+  "en": "「Same position is fine - main hitting@　the enemy's main, or sub hitting sub -@　but...」",
+  "slot": 176
+ },
+ "0x006806": {
+  "en": "「Opposite positions - main hitting a@　sub machine, say - deal less@　damage than usual.」",
+  "slot": 164
+ },
+ "0x0068AB": {
+  "en": "「A main machine's attack deals 100%@　damage to the enemy's main and@　65% to the sub.」",
+  "slot": 143
+ },
+ "0x00693B": {
+  "en": "「I see...」",
+  "slot": 24
+ },
+ "0x006954": {
+  "en": "「Also, some weapons can't be used@　unless the pilot's 'Will' is@　at or above a set value.」",
+  "slot": 134
+ },
+ "0x0069DB": {
+  "en": "「'Will' affects the damage you deal, too.@　Joining a fight, or having an enemy or@　ally shot down, raises or lowers it.」",
+  "slot": 188
+ },
+ "0x006A98": {
+  "en": "「Now, let me show you an 'All Attack' for real.」",
+  "slot": 66
+ },
+ "0x006ADB": {
+  "en": "「So that was an 'All Attack.'」",
+  "slot": 42
+ },
+ "0x006B06": {
+  "en": "「Some 'All Attack' weapons can perform@　a 'Double Attack,' hitting an adjacent@　enemy squad at the same time.」",
+  "slot": 170
+ },
+ "0x006BB1": {
+  "en": "「Next, a word on 'Map Weapons.'」",
+  "slot": 51
+ },
+ "0x006BE5": {
+  "en": "「Yes, sir.」",
+  "slot": 12
+ },
+ "0x006BF2": {
+  "en": "「As I said, a 'Map Weapon' damages@　every squad within its attack range.」",
+  "slot": 127
+ },
+ "0x006C72": {
+  "en": "「And position doesn't reduce the@　damage, nor do you take a counter.」",
+  "slot": 112
+ },
+ "0x006CE3": {
+  "en": "「That's real handy.」",
+  "slot": 33
+ },
+ "0x006D05": {
+  "en": "「But if allies are in range, they'll@　take damage right alongside the enemy.」",
+  "slot": 115
+ },
+ "0x006D79": {
+  "en": "「When using a 'Map Weapon,' be very careful.」",
+  "slot": 69
+ },
+ "0x006DBF": {
+  "en": "「Y-yes, sir.」",
+  "slot": 18
+ },
+ "0x006DD2": {
+  "en": "「Now, let's use a 'Map Weapon' for real.」",
+  "slot": 69
+ },
+ "0x006E18": {
+  "en": "「Wh-whoa... wiped 'em all out.」",
+  "slot": 42
+ },
+ "0x006E43": {
+  "en": "「A trait of 'Map Weapons' is that each@　type has its own range pattern.」",
+  "slot": 130
+ },
+ "0x006EC6": {
+  "en": "「Next, a word on 'Normal Attacks.'」",
+  "slot": 54
+ },
+ "0x006EFD": {
+  "en": "「Huh? A 'Normal Attack' isn't just one thing?」",
+  "slot": 75
+ },
+ "0x006F49": {
+  "en": "「Right. In combat between 'Twin Units,'@　you can pick 'Individual Attack' or@　'Focus Attack.' Let me explain each.」",
+  "slot": 182
+ },
+ "0x007000": {
+  "en": "「First, 'Individual Attack.'@　The 'Twin Unit's' two machines hit@　the enemy in the same position.」",
+  "slot": 155
+ },
+ "0x00709C": {
+  "en": "「Use 'Individual Attack' when you want@　to spread damage evenly over a squad.」",
+  "slot": 103
+ },
+ "0x007104": {
+  "en": "「Understood!」",
+  "slot": 27
+ },
+ "0x007120": {
+  "en": "「Next, 'Focus Attack.'」",
+  "slot": 51
+ },
+ "0x007154": {
+  "en": "「Where 'Individual Attack' hits the enemy@　in the same position, 'Focus Attack'@　lets you name one machine and hit it.」",
+  "slot": 194
+ },
+ "0x007217": {
+  "en": "「So I can gang up on whoever's in the way.」",
+  "slot": 63
+ },
+ "0x007257": {
+  "en": "「Exactly.@　Now, let me show you a 'Focus Attack.'」",
+  "slot": 94
+ },
+ "0x0072B6": {
+  "en": "「That was a 'Focus Attack.' Remember@　that 'Normal Attacks' come in@　'Individual' and 'Focus' kinds.」",
+  "slot": 152
+ },
+ "0x00734F": {
+  "en": "「Note, too, that 'Normal Attacks' can@　trigger 'Support Attack' or 'Support@　Defense' from an adjacent squad.」",
+  "slot": 139
+ },
+ "0x0073DB": {
+  "en": "「With 'Support Attack,' an adjacent squad@　follows your 'Normal Attack' with an@　extra strike.」",
+  "slot": 127
+ },
+ "0x00745B": {
+  "en": "「'Support Defense' is the reverse - when@　you take an enemy 'Normal Attack,' an@　adjacent squad takes the damage for you.」",
+  "slot": 155
+ },
+ "0x0074F7": {
+  "en": "「I see... so with a 'Normal Attack,'@　the guy next door might lend a hand.」",
+  "slot": 109
+ },
+ "0x007565": {
+  "en": "「True, but you can't use 'Support@　Attack' just any time.」",
+  "slot": 100
+ },
+ "0x0075CA": {
+  "en": "「To use 'Support Attack' or 'Support@　Defense,' the main pilot needs the@　'Support Attack Lv' or 'Support Defense Lv' skill.」",
+  "slot": 200
+ },
+ "0x007693": {
+  "en": "「Understood!@　I'll pick that up as I play!」",
+  "slot": 79
+ },
+ "0x0076E3": {
+  "en": "「Beyond the attacks I've covered, there@　are also 'Combination Attacks' and@　'Maximum Breaks,' among others.」",
+  "slot": 161
+ },
+ "0x007785": {
+  "en": "「A 'Combination Attack' uses a weapon@　made for it and hits up to@　five enemies at once.」",
+  "slot": 164
+ },
+ "0x00782A": {
+  "en": "「Weapons marked with a 'C' are the ones@　you can use for a 'Combination Attack.'」",
+  "slot": 127
+ },
+ "0x0078AA": {
+  "en": "「Also, attack targets must be adjacent to each other, and@ the attacking pilot must know the skill 'Continuous Attack Lv.'」",
+  "slot": 194
+ },
+ "0x00796D": {
+  "en": "「If two Twin Units are adjacent and the attacking@　pilot has learned the special skill 'Command,'@　you can perform a 'Maximum Break.'」",
+  "slot": 218
+ },
+ "0x007A48": {
+  "en": "「In a 'Maximum Break,' all four units@　make a simultaneous strike with 'F'-marked support@　weapons, then attack with the main weapon.」",
+  "slot": 170
+ },
+ "0x007AF3": {
+  "en": "「Note that weapons with the 'ALL' mark@　can't be used as the main weapon.」",
+  "slot": 109
+ },
+ "0x007B61": {
+  "en": "「And everyone's 'Will' must be 140 or higher.@　Also, Will drops by 10 after the attack.@　Think carefully about when to use it.」",
+  "slot": 197
+ },
+ "0x007C27": {
+  "en": "「The key to victory is using the attacks I've taught you@　as the situation demands.」",
+  "slot": 109
+ },
+ "0x007C95": {
+  "en": "「'Normal Attack,' 'All Attack,'@　and, uh... what was that other one?」",
+  "slot": 97
+ },
+ "0x007CF7": {
+  "en": "「I already taught you what to do at times like this.」",
+  "slot": 72
+ },
+ "0x007D40": {
+  "en": "「Huh? What was it again?」",
+  "slot": 36
+ },
+ "0x007D65": {
+  "en": "「Come on... it was the very first thing I taught you.」",
+  "slot": 57
+ },
+ "0x007D9F": {
+  "en": "「Oh, right!@　You press the SELECT button!」",
+  "slot": 70
+ },
+ "0x007DE6": {
+  "en": "「Next, I'll teach you how to bring up the Menu Help@　for term explanations on the status screens.」",
+  "slot": 115
+ },
+ "0x007E5A": {
+  "en": "「Using 'Ability' from the 'Individual Commands'@　lets you view a unit's various stats.」",
+  "slot": 127
+ },
+ "0x007EDA": {
+  "en": "「Arado, try bringing up the help for the@　weapon types I mentioned earlier.」",
+  "slot": 94
+ },
+ "0x007F39": {
+  "en": "「Let's see, open 'Ability' from 'Individual Commands'...@　then press SELECT on the 'Weapon Stats' screen.」",
+  "slot": 139
+ },
+ "0x007FC5": {
+  "en": "「I see... the help tells you all kinds of things.」",
+  "slot": 69
+ },
+ "0x00800B": {
+  "en": "「Note that SELECT Help is also available@　while the 'General Commands' or@　'Individual Commands' are displayed.」",
+  "slot": 149
+ },
+ "0x0080A1": {
+  "en": "「In that case, a command description appears@　at the bottom of the screen.」",
+  "slot": 69
+ },
+ "0x0080E7": {
+  "en": "「When you're stuck, it's SELECT Help!」",
+  "slot": 63
+ },
+ "0x008127": {
+  "en": "「Landing a hit on an enemy or shooting one down@　earns you 'Experience.'」",
+  "slot": 88
+ },
+ "0x008180": {
+  "en": "「Every 500 'Experience' points, a pilot levels up@　and grows stronger.」",
+  "slot": 103
+ },
+ "0x0081E8": {
+  "en": "「You can also gain 'Experience' by using the@　'Repair' and 'Resupply' commands.」",
+  "slot": 121
+ },
+ "0x008262": {
+  "en": "「'Repair'? 'Resupply'?」",
+  "slot": 39
+ },
+ "0x00828A": {
+  "en": "「Special commands that support@　a unit in battle.」",
+  "slot": 85
+ },
+ "0x0082E0": {
+  "en": "「Only certain units can use them, but...@　without mastering them, you won't win@　the tough battles.」",
+  "slot": 164
+ },
+ "0x008385": {
+  "en": "「And if you make a unit with that ability@　a squad leader, the command shows up@　under 'Individual Commands.'」",
+  "slot": 143
+ },
+ "0x008415": {
+  "en": "「For example, after taking damage from an enemy attack...」",
+  "slot": 69
+ },
+ "0x00845B": {
+  "en": "「Gah!」",
+  "slot": 18
+ },
+ "0x00846E": {
+  "en": "「I'll switch the main to the mass-produced@　Huckebein Mk-II with the repair unit equipped.」",
+  "slot": 112
+ },
+ "0x0084DF": {
+  "en": "「Ah! My HP recovered!」",
+  "slot": 39
+ },
+ "0x008507": {
+  "en": "「That was 'Repair.'」",
+  "slot": 30
+ },
+ "0x008526": {
+  "en": "「So what's 'Resupply'?」",
+  "slot": 39
+ },
+ "0x00854E": {
+  "en": "「'Resupply' restores a unit's spent EN@　and weapon ammo.」",
+  "slot": 115
+ },
+ "0x0085C2": {
+  "en": "「Both commands only work on squads within@　'Repair' or 'Resupply' range, so be careful.」",
+  "slot": 142
+ },
+ "0x008651": {
+  "en": "「Also, shooting down an enemy earns 'Funds' and 'PP,'@　and sometimes even 'Upgrade Parts.'」",
+  "slot": 142
+ },
+ "0x0086E0": {
+  "en": "「You'll use those during the 'Intermission'@　after clearing a map.」",
+  "slot": 112
+ },
+ "0x008751": {
+  "en": "「All right!@　First, beat the enemy and clear the map!」",
+  "slot": 70
+ },
+ "0x008798": {
+  "en": "「The enemy fights back too, so watch yourself.」",
+  "slot": 54
+ },
+ "0x0087CF": {
+  "en": "「Now then, let's begin the final LESSON.」",
+  "slot": 51
+ },
+ "0x008803": {
+  "en": "「Clear this, and you'll be ready@　to start the game right away.」",
+  "slot": 88
+ },
+ "0x00885C": {
+  "en": "「Yeah! Took the enemy down!」",
+  "slot": 45
+ },
+ "0x00888A": {
+  "en": "「Good. That's the basics mastered.」",
+  "slot": 54
+ },
+ "0x0088C1": {
+  "en": "「I won this time, but I bet there are some@　real tough maps out there.@　Think I'll be able to clear 'em?」",
+  "slot": 137
+ },
+ "0x00894B": {
+  "en": "「Damn, I got taken out!」",
+  "slot": 42
+ },
+ "0x008976": {
+  "en": "「Normally, this is where you'd get a Game Over.」",
+  "slot": 63
+ },
+ "0x0089B6": {
+  "en": "「Uh, uh-oh... what do I do?」",
+  "slot": 42
+ },
+ "0x0089E1": {
+  "en": "「No need to worry.@　When you get a Game Over, you restart@　from the beginning of that map, but...」",
+  "slot": 131
+ },
+ "0x008A65": {
+  "en": "「The 'Funds' and 'Experience' you earned@　before the Game Over carry over.」",
+  "slot": 112
+ },
+ "0x008AD6": {
+  "en": "「So if I get a Game Over after leveling up,@　I can retry starting from@　that level?」",
+  "slot": 161
+ },
+ "0x008B78": {
+  "en": "「That's right.@　Even a tough map can be cleared with enough tries.」",
+  "slot": 91
+ },
+ "0x008BD4": {
+  "en": "「Then that's a relief!」",
+  "slot": 33
+ },
+ "0x008BF6": {
+  "en": "「There's also a 'Strategy Q&A' that gathers tips@　and info useful for beating the game.」",
+  "slot": 112
+ },
+ "0x008C67": {
+  "en": "「Reading it will help you out when you're@　tackling a difficult map.」",
+  "slot": 94
+ },
+ "0x008CC6": {
+  "en": "「How do I view that?」",
+  "slot": 57
+ },
+ "0x008D00": {
+  "en": "「Select 'LIBRARY' on the title screen,@　then choose 'Strategy Q&A'...」",
+  "slot": 127
+ },
+ "0x008D80": {
+  "en": "「Or, in the 'Intermission,' go to 'Library'@　under 'Options' and proceed to@　the 'Strategy Q&A.'」",
+  "slot": 143
+ },
+ "0x008E10": {
+  "en": "「Well then, that concludes the battle map guidance.」",
+  "slot": 69
+ },
+ "0x008E56": {
+  "en": "「You did well, Arado.」",
+  "slot": 39
+ },
+ "0x008E7E": {
+  "en": "「That was a piece of cake!@　So, is this the 'Intermission'?」",
+  "slot": 109
+ },
+ "0x008EEC": {
+  "en": "「No, it isn't. Once this 'Scenario Demo' ends,@　the 'Intermission' begins.」",
+  "slot": 118
+ },
+ "0x008F63": {
+  "en": "「That's where you prep to move on to the next scenario.」",
+  "slot": 72
+ },
+ "0x008FAC": {
+  "en": "「Prep?」",
+  "slot": 15
+ },
+ "0x008FBC": {
+  "en": "「For instance, saving the game data@　up to this point...」",
+  "slot": 85
+ },
+ "0x009012": {
+  "en": "「Reorganizing your squads for the next scenario,@　equipping 'Upgrade Parts' to your units...」",
+  "slot": 127
+ },
+ "0x009092": {
+  "en": "「Upgrading units with 'Funds' earned on the map,@　or training pilots with 'PP.'」",
+  "slot": 142
+ },
+ "0x009121": {
+  "en": "「I see.」",
+  "slot": 18
+ },
+ "0x009134": {
+  "en": "「To really understand its role, it's best to see@　the 'Intermission' in the main game itself.@　And try out the various actions yourself.」",
+  "slot": 182
+ },
+ "0x0091EB": {
+  "en": "「Got it.@　Then I'll go play the main game right away!」",
+  "slot": 82
+ },
+ "0x00923E": {
+  "en": "「Before that, a quick review.@　What do you do when there's something you don't know?」",
+  "slot": 103
+ },
+ "0x0092A6": {
+  "en": "「Uh... um... oh, that's right!」",
+  "slot": 63
+ },
+ "0x0092E6": {
+  "en": "「First off, I'll somehow call up Major Kai!」",
+  "slot": 75
+ },
+ "0x009332": {
+  "en": "「Right, then I appear on screen and give you the answer...」",
+  "slot": 75
+ },
+ "0x00937E": {
+  "en": "「You idiot! There's no such feature!!」",
+  "slot": 63
+ },
+ "0x0093BE": {
+  "en": "「Aw, man...@　But you players know the answer, right?」",
+  "slot": 94
+ },
+ "0x00941D": {
+  "en": "「Now then, that concludes the 'Guidance Scenario.'@　I wish all you players luck. See you in the main game.」",
+  "slot": 145
+ }
+}

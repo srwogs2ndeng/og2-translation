@@ -1,0 +1,36 @@
+{
+ "0x000081": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000091": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0000A1": {
+  "en": "Hiryu Kai Bridge",
+  "slot": 30
+ },
+ "0x0000C0": {
+  "en": "Lefina",
+  "slot": 15
+ },
+ "0x0000D0": {
+  "en": "「What's the pilots' level?」",
+  "slot": 39
+ },
+ "0x0000F8": {
+  "en": "「Leave as is」;@「Set to 45」;@「Set to 99.」",
+  "slot": 70
+ },
+ "0x00013F": {
+  "en": "「Force them to sortie?」",
+  "slot": 36
+ },
+ "0x000164": {
+  "en": "「Yes」;@「No.」",
+  "slot": 35
+ }
+}
