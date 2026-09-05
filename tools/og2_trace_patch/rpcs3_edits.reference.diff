@@ -1,0 +1,62 @@
+diff --git a/rpcs3/Emu/CMakeLists.txt b/rpcs3/Emu/CMakeLists.txt
+index 045fa30..60f19ad 100644
+--- a/rpcs3/Emu/CMakeLists.txt
++++ b/rpcs3/Emu/CMakeLists.txt
+@@ -51,6 +51,7 @@ target_include_directories(rpcs3_emu
+ 
+ # Utilities
+ target_sources(rpcs3_emu PRIVATE
++	Cell/og2_trace.cpp
+     ../util/atomic.cpp
+     ../util/console.cpp
+     ../util/emu_utils.cpp
+diff --git a/rpcs3/Emu/Cell/PPUInterpreter.cpp b/rpcs3/Emu/Cell/PPUInterpreter.cpp
+index 3fa6d09..dffd483 100644
+--- a/rpcs3/Emu/Cell/PPUInterpreter.cpp
++++ b/rpcs3/Emu/Cell/PPUInterpreter.cpp
+@@ -18,6 +18,7 @@
+ #include "util/v128.hpp"
+ #include "util/simd.hpp"
+ #include "util/sysinfo.hpp"
++#include "og2_trace.hpp"  // OG2 tracer
+ #include "Utilities/JIT.h"
+ 
+ #if !defined(_MSC_VER)
+@@ -457,6 +458,7 @@ auto ppu_feed_data(ppu_thread& ppu, u64 addr)
+ 	if (g_breakpoint_handler.HasBreakpoint(addr, breakpoint_types::bp_read))
+ 	{
+ 		debugbp_log.success("BPMR: breakpoint reading 0x%x at 0x%x", value, addr);
++		OG2_TRACE('R', ppu.cia, static_cast<u32>(addr), value, ppu);
+ 		ppubreak(ppu);
+ 	}
+ #endif
+diff --git a/rpcs3/Emu/Memory/vm.h b/rpcs3/Emu/Memory/vm.h
+index c59e32d..26f816a 100644
+--- a/rpcs3/Emu/Memory/vm.h
++++ b/rpcs3/Emu/Memory/vm.h
+@@ -12,6 +12,7 @@ class ppu_thread;
+ 
+ #ifdef RPCS3_HAS_MEMORY_BREAKPOINTS
+ #include "rpcs3qt/breakpoint_handler.h"
++#include "Emu/Cell/og2_trace.hpp"  // OG2 tracer
+ #include "util/logs.hpp"
+ 
+ LOG_CHANNEL(debugbp_log, "DebugBP");
+@@ -279,7 +280,7 @@ namespace vm
+ 		if (ppu && g_breakpoint_handler.HasBreakpoint(addr, breakpoint_types::bp_write))
+ 		{
+ 			debugbp_log.success("BPMW: breakpoint writing(8) 0x%x at 0x%x", value, addr);
+-			ppubreak(*ppu);
++			OG2_TRACE('W', ppu->cia, addr, value, *ppu); ppubreak(*ppu);
+ 		}
+ #endif
+ 	}
+@@ -334,7 +335,7 @@ namespace vm
+ 			{
+ 				debugbp_log.success("BPMW: breakpoint writing(%d) 0x%x at 0x%x",
+ 					sizeof(dest_t) * CHAR_BIT, value, addr);
+-				ppubreak(*ppu);
++				OG2_TRACE('W', ppu->cia, addr, value, *ppu); ppubreak(*ppu);
+ 			}
+ #endif
+ 		}

@@ -1,0 +1,32 @@
+# extraction output (multi-GB, reproducible from the ISO)
+work/
+*.psarc
+*.psarc.sdat
+*.iso
+__pycache__/
+*.pyc
+build/en/
+build/out/
+build/rollbacks/
+
+# game-derived / oversized (kept on disk, never in the repo)
+_original_iso/
+_re/
+_rollback/
+staging/
+*.elf
+*.BIN
+*.bin.orig
+build/eboot_batches/
+.claude/
+
+# game-data template captured from the user's own install (PARAM.SFO/ICON0.PNG)
+build/gd_template/
+# local backups + run logs
+*.bak
+*.bak2
+build/_*.log
+aqtinstall.log
+# built executables + pyinstaller scratch (rebuild with tools/build_git_account.py)
+build/bin/
+build/_pyinstaller/
