@@ -1,0 +1,534 @@
+{
+ "0x002318": {
+  "en": "「Target sighted! Attack!」",
+  "slot": 39
+ },
+ "0x002340": {
+  "en": "「I'll pull it off!」",
+  "slot": 27
+ },
+ "0x00235C": {
+  "en": "「Good, I've got my aim!」",
+  "slot": 36
+ },
+ "0x002381": {
+  "en": "「Making my move!」",
+  "slot": 21
+ },
+ "0x002397": {
+  "en": "「Coming, surface dweller!」",
+  "slot": 30
+ },
+ "0x0023B6": {
+  "en": "「Surface scum siding with Langran!」",
+  "slot": 48
+ },
+ "0x0023E7": {
+  "en": "「Surface dwellers won't have their way!」",
+  "slot": 45
+ },
+ "0x002415": {
+  "en": "「To a mere surface machine!」",
+  "slot": 33
+ },
+ "0x002437": {
+  "en": "「Here I come, Cybuster!」",
+  "slot": 39
+ },
+ "0x00245F": {
+  "en": "「Taking down the Cybuster would be/ the greatest honor of all!」",
+  "slot": 73
+ },
+ "0x0024A9": {
+  "en": "「Even against a Masou Kishin!」",
+  "slot": 36
+ },
+ "0x0024CE": {
+  "en": "「Felling a Masou Kishin means great glory!」",
+  "slot": 54
+ },
+ "0x002505": {
+  "en": "「Masou Kishin... in numbers, we can win!」",
+  "slot": 60
+ },
+ "0x002542": {
+  "en": "「Granveil... I'll take you down!」",
+  "slot": 57
+ },
+ "0x00257C": {
+  "en": "「Gaddess... I'll bring you down!」",
+  "slot": 48
+ },
+ "0x0025AD": {
+  "en": "「A mere Langran Masou machine!」",
+  "slot": 42
+ },
+ "0x0025D8": {
+  "en": "「Langran, I won't let you have your way!」",
+  "slot": 57
+ },
+ "0x002612": {
+  "en": "「Down with Langran! Here I go!」",
+  "slot": 45
+ },
+ "0x002640": {
+  "en": "「Now it's my turn to attack!」",
+  "slot": 36
+ },
+ "0x002665": {
+  "en": "「Counterattack!」",
+  "slot": 21
+ },
+ "0x00267B": {
+  "en": "「Now it's my turn!」",
+  "slot": 36
+ },
+ "0x0026A0": {
+  "en": "「You won't get off easy!」",
+  "slot": 30
+ },
+ "0x0026BF": {
+  "en": "「This time, I'll strike first!」",
+  "slot": 39
+ },
+ "0x0026E7": {
+  "en": "「It's not over yet!」",
+  "slot": 30
+ },
+ "0x002706": {
+  "en": "「Uwaaah!!」",
+  "slot": 27
+ },
+ "0x002722": {
+  "en": "「Is... is this the end!?」",
+  "slot": 30
+ },
+ "0x002741": {
+  "en": "「E-eject!」",
+  "slot": 24
+ },
+ "0x00275A": {
+  "en": "「Damn you, damn you all!!」",
+  "slot": 39
+ },
+ "0x002782": {
+  "en": "「D-damn it!!」",
+  "slot": 30
+ },
+ "0x0027A1": {
+  "en": "「Th-this is too much!!」",
+  "slot": 33
+ },
+ "0x0027C3": {
+  "en": "「Gwaah! Wh-what is this!?」",
+  "slot": 48
+ },
+ "0x0027F4": {
+  "en": "「Th-this is bad! At this rate!」",
+  "slot": 48
+ },
+ "0x002825": {
+  "en": "「Argh, I can't fall back yet!!」",
+  "slot": 45
+ },
+ "0x002853": {
+  "en": "「No good, my shield's power is dropping!」",
+  "slot": 66
+ },
+ "0x002896": {
+  "en": "「Gwooh! Th-this won't hold!」",
+  "slot": 54
+ },
+ "0x0028CD": {
+  "en": "「Ugh! Damn, what raw power!」",
+  "slot": 63
+ },
+ "0x00290D": {
+  "en": "「Guh! For my homeland,/ I can't fall back here!」",
+  "slot": 79
+ },
+ "0x00295D": {
+  "en": "「Ugh!/ It's not settled yet, surface dweller!」",
+  "slot": 73
+ },
+ "0x0029A7": {
+  "en": "「Am I... no match for that surface dweller...!?」",
+  "slot": 63
+ },
+ "0x0029E7": {
+  "en": "「What is that surface machine!!」",
+  "slot": 51
+ },
+ "0x002A1B": {
+  "en": "「My speed, my power - both/ no match for the Cybuster!」",
+  "slot": 82
+ },
+ "0x002A6E": {
+  "en": "「D-damn you, Cybuster!!」",
+  "slot": 51
+ },
+ "0x002AA2": {
+  "en": "「S-so this is a Masou Kishin's power!!」",
+  "slot": 54
+ },
+ "0x002AD9": {
+  "en": "「A Masou Kishin... it's dangerous after all!」",
+  "slot": 63
+ },
+ "0x002B19": {
+  "en": "「No good, I can't stop the Granveil!!」",
+  "slot": 63
+ },
+ "0x002B59": {
+  "en": "「Th-the Fire Masou Kishin.../ The name's no bluff...!」",
+  "slot": 82
+ },
+ "0x002BAC": {
+  "en": "「Th-the Gaddess... too strong!」",
+  "slot": 45
+ },
+ "0x002BDA": {
+  "en": "「I must stop the Gaddess here...!!」",
+  "slot": 63
+ },
+ "0x002C1A": {
+  "en": "「Guh! A direct hit!」",
+  "slot": 30
+ },
+ "0x002C39": {
+  "en": "「Th-they hit me square on!?」",
+  "slot": 45
+ },
+ "0x002C67": {
+  "en": "「Not yet, I'm not done yet!」",
+  "slot": 51
+ },
+ "0x002C9B": {
+  "en": "「Gwuh! How dare you!!」",
+  "slot": 36
+ },
+ "0x002CC0": {
+  "en": "「A-are my moves being read!?」",
+  "slot": 51
+ },
+ "0x002CF4": {
+  "en": "「Ugh, was I careless...!」",
+  "slot": 42
+ },
+ "0x002D1F": {
+  "en": "「What!? Am I outmatched in power!?」",
+  "slot": 60
+ },
+ "0x002D5C": {
+  "en": "「You've done it now, surface dweller!!」",
+  "slot": 45
+ },
+ "0x002D8A": {
+  "en": "「Ugh! Surface scum, how dare you!」",
+  "slot": 48
+ },
+ "0x002DBB": {
+  "en": "「Falling behind a surface dweller...!」",
+  "slot": 48
+ },
+ "0x002DEC": {
+  "en": "「Cybuster, what incredible speed!」",
+  "slot": 60
+ },
+ "0x002E29": {
+  "en": "「I must stop the Cybuster no matter what...!!」",
+  "slot": 60
+ },
+ "0x002E66": {
+  "en": "「A-as expected, Masou Kishin!」",
+  "slot": 45
+ },
+ "0x002E94": {
+  "en": "「I wasn't careless with a Masou Kishin...!」",
+  "slot": 60
+ },
+ "0x002ED1": {
+  "en": "「G-Granveil... that firepower!」",
+  "slot": 57
+ },
+ "0x002F0B": {
+  "en": "「At least let me/ hold the Granveil back...!」",
+  "slot": 76
+ },
+ "0x002F58": {
+  "en": "「Th-the Gaddess, you've done it!」",
+  "slot": 51
+ },
+ "0x002F8C": {
+  "en": "「To think I can't stop the Gaddess...!」",
+  "slot": 51
+ },
+ "0x002FC0": {
+  "en": "「Tch, failed to dodge!」",
+  "slot": 42
+ },
+ "0x002FEB": {
+  "en": "「It only grazed me!」",
+  "slot": 30
+ },
+ "0x00300A": {
+  "en": "「This won't count as damage!」",
+  "slot": 57
+ },
+ "0x003044": {
+  "en": "「Hmph, so what of it!?」",
+  "slot": 54
+ },
+ "0x00307B": {
+  "en": "「A mere scratch, nothing more!」",
+  "slot": 39
+ },
+ "0x0030A3": {
+  "en": "「You think that'll stop us!?」",
+  "slot": 42
+ },
+ "0x0030CE": {
+  "en": "「Don't underestimate/ Shutedonias!」",
+  "slot": 76
+ },
+ "0x00311B": {
+  "en": "「Surface dweller, not bad!」",
+  "slot": 33
+ },
+ "0x00313D": {
+  "en": "「Don't get cocky, surface dweller!」",
+  "slot": 42
+ },
+ "0x003168": {
+  "en": "「Hmph, maybe that worked/ on the surface, but...」",
+  "slot": 85
+ },
+ "0x0031BE": {
+  "en": "「Ha! All you've got is speed, Cybuster!?」",
+  "slot": 63
+ },
+ "0x0031FE": {
+  "en": "「Cybuster... you're not as fearsome as they say.」",
+  "slot": 54
+ },
+ "0x003235": {
+  "en": "「This Masou Kishin's nothing much.」",
+  "slot": 51
+ },
+ "0x003269": {
+  "en": "「I can do it! I can fight a Masou Kishin!」",
+  "slot": 63
+ },
+ "0x0032A9": {
+  "en": "「Granveil... so that's all it is.」",
+  "slot": 51
+ },
+ "0x0032DD": {
+  "en": "「Granveil, not as tough as I thought.」",
+  "slot": 66
+ },
+ "0x003320": {
+  "en": "「Is that all, Gaddess!?」",
+  "slot": 42
+ },
+ "0x00334B": {
+  "en": "「Hmph, the Gaddess is weak!」",
+  "slot": 45
+ },
+ "0x003379": {
+  "en": "「Nice try!」",
+  "slot": 21
+ },
+ "0x00338F": {
+  "en": "「Can't hit me!」",
+  "slot": 21
+ },
+ "0x0033A5": {
+  "en": "「Too slow!」",
+  "slot": 15
+ },
+ "0x0033B5": {
+  "en": "「Too soft!」",
+  "slot": 18
+ },
+ "0x0033C8": {
+  "en": "「Is that all, surface dweller!」",
+  "slot": 39
+ },
+ "0x0033F0": {
+  "en": "「Masou Kishin or not, that's nothing much.」",
+  "slot": 63
+ },
+ "0x003430": {
+  "en": "「Useless!」",
+  "slot": 21
+ },
+ "0x003446": {
+  "en": "「That won't work!」",
+  "slot": 24
+ },
+ "0x00345F": {
+  "en": "「Is that all!」",
+  "slot": 24
+ },
+ "0x003478": {
+  "en": "「......」",
+  "slot": 15
+ },
+ "0x003488": {
+  "en": "「Out of ammo!?」",
+  "slot": 27
+ },
+ "0x0034A4": {
+  "en": "「I can't counterattack!」",
+  "slot": 30
+ },
+ "0x0034C3": {
+  "en": "「Ngh, at this rate!」",
+  "slot": 30
+ },
+ "0x0034E2": {
+  "en": "「No choice - I'll fall back...!」",
+  "slot": 54
+ },
+ "0x003519": {
+  "en": "「Where did it go!?」",
+  "slot": 39
+ },
+ "0x003541": {
+  "en": "「Tch, I lost sight of it!」",
+  "slot": 33
+ },
+ "0x003563": {
+  "en": "「Ngh, quick on its feet...!」",
+  "slot": 48
+ },
+ "0x003594": {
+  "en": "「It got in my blind spot!」",
+  "slot": 33
+ },
+ "0x0035B6": {
+  "en": "「Covering you!」",
+  "slot": 21
+ },
+ "0x0035CC": {
+  "en": "「Right behind you!」",
+  "slot": 24
+ },
+ "0x0035E5": {
+  "en": "「The rest's on me!」",
+  "slot": 24
+ },
+ "0x0035FE": {
+  "en": "「I've got this! One more hit!」",
+  "slot": 36
+ },
+ "0x003623": {
+  "en": "「Won't let you!」",
+  "slot": 21
+ },
+ "0x003639": {
+  "en": "「Not a chance!」",
+  "slot": 24
+ },
+ "0x003652": {
+  "en": "「I'll handle this!」",
+  "slot": 33
+ },
+ "0x003674": {
+  "en": "「Get ready for this!」",
+  "slot": 36
+ },
+ "0x003699": {
+  "en": "「Not yet! One more hit!」",
+  "slot": 36
+ },
+ "0x0036BE": {
+  "en": "「It's not over yet!」",
+  "slot": 39
+ },
+ "0x0036E6": {
+  "en": "「There's more!」",
+  "slot": 24
+ },
+ "0x0036FF": {
+  "en": "「You're mine!」",
+  "slot": 18
+ },
+ "0x003712": {
+  "en": "「Take this!」",
+  "slot": 30
+ },
+ "0x003731": {
+  "en": "「Eat this!」",
+  "slot": 18
+ },
+ "0x003744": {
+  "en": "「Take it!」",
+  "slot": 18
+ },
+ "0x003757": {
+  "en": "「Right there!」",
+  "slot": 18
+ },
+ "0x00376A": {
+  "en": "「Go down!」",
+  "slot": 18
+ },
+ "0x00377D": {
+  "en": "「Haaah!」",
+  "slot": 18
+ },
+ "0x003790": {
+  "en": "「Oryaaa!」",
+  "slot": 21
+ },
+ "0x0037A6": {
+  "en": "「Taaah!」",
+  "slot": 21
+ },
+ "0x0037BC": {
+  "en": "「Hnngh!」",
+  "slot": 18
+ },
+ "0x0037CF": {
+  "en": "「Take that!」",
+  "slot": 24
+ },
+ "0x0037E8": {
+  "en": "「Gun turrets, open fire!」",
+  "slot": 36
+ },
+ "0x00380D": {
+  "en": "「AA guns, fire!」",
+  "slot": 30
+ },
+ "0x00382C": {
+  "en": "「Flak guns, ready! Fire!」",
+  "slot": 45
+ },
+ "0x00385A": {
+  "en": "「Flak guns one, two! Fire!」",
+  "slot": 48
+ },
+ "0x00388B": {
+  "en": "「All forward turrets, ready! Fire!」",
+  "slot": 51
+ },
+ "0x0038BF": {
+  "en": "「Forward turrets, volley! Fire!」",
+  "slot": 48
+ },
+ "0x0038F0": {
+  "en": "「Baryon beam cannon, ready!」",
+  "slot": 51
+ },
+ "0x003924": {
+  "en": "「Fire!」",
+  "slot": 15
+ },
+ "0x003934": {
+  "en": "「Ready the main cannon!」",
+  "slot": 30
+ }
+}

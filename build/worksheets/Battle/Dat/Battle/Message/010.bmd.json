@@ -1,0 +1,718 @@
+{
+ "0x001B70": {
+  "en": "「Here I come. You ready?」",
+  "slot": 48
+ },
+ "0x001BA1": {
+  "en": "「I can win, right?/ Surely, probably, maybe, I guess...」",
+  "slot": 79
+ },
+ "0x001BF1": {
+  "en": "「Now then, which weapon should I try?」",
+  "slot": 48
+ },
+ "0x001C22": {
+  "en": "「Guess I've just gotta do it now.」",
+  "slot": 54
+ },
+ "0x001C59": {
+  "en": "「Well... let's just give it a shot.」",
+  "slot": 60
+ },
+ "0x001C96": {
+  "en": "「All right then, let's get going.」",
+  "slot": 42
+ },
+ "0x001CC1": {
+  "en": "「Prepare yourself!!」",
+  "slot": 30
+ },
+ "0x001CE0": {
+  "en": "「I can do it too!!」",
+  "slot": 30
+ },
+ "0x001CFF": {
+  "en": "「You never know who'll win till you try.」",
+  "slot": 60
+ },
+ "0x001D3C": {
+  "en": "「I struck first, so I've got the edge!」",
+  "slot": 63
+ },
+ "0x001D7C": {
+  "en": "「Well, it'll work out. Here goes!」",
+  "slot": 57
+ },
+ "0x001DB6": {
+  "en": "「Brother! Your way is wrong!/ I don't understand you anymore!」",
+  "slot": 130
+ },
+ "0x001E39": {
+  "en": "「Stop it, brother!/ What good does this do!?/ It only spreads more chaos!」",
+  "slot": 128
+ },
+ "0x001EBA": {
+  "en": "「Brother, reconsider!/ There's still time!」",
+  "slot": 73
+ },
+ "0x001F04": {
+  "en": "「I'm sorry... I'm so sorry, brother.../ It's because I built the Duraxil...」",
+  "slot": 118
+ },
+ "0x001F7B": {
+  "en": "「No, brother!/ Taking responsibility like this.../ There has to be another way!」",
+  "slot": 122
+ },
+ "0x001FF6": {
+  "en": "「Brother, can't I stop you anymore!?/ Can't I be of any help!?」",
+  "slot": 109
+ },
+ "0x002064": {
+  "en": "「You disappoint me, General Kirkus!/ When I heard you'd raised your banner,/ I actually had some hope!」",
+  "slot": 143
+ },
+ "0x0020F4": {
+  "en": "「You falling this deep into ambition/ wasn't in my data./ I'll have to correct that.」",
+  "slot": 143
+ },
+ "0x002184": {
+  "en": "「Of all people,/ trying to prop up that Terius.../ Monica'd be better than him!」",
+  "slot": 134
+ },
+ "0x00220B": {
+  "en": "「Whoa... I can tell just by looking./ That's some outrageous tuning./ General, you spared no expense.」",
+  "slot": 143
+ },
+ "0x00229B": {
+  "en": "「To give a mass-produced Browel/ this much tuning...../ I'm impressed, General Ort.」",
+  "slot": 149
+ },
+ "0x002331": {
+  "en": "「Looks like there's Elial Kingdom/ parts used here and there...../ Wonder how much that cost.」",
+  "slot": 140
+ },
+ "0x0023BE": {
+  "en": "「Um.../ right, Major Kanzort Jog./ Special forces... gotta be careful.」",
+  "slot": 134
+ },
+ "0x002445": {
+  "en": "「Major Kanzort Jog./ Special forces...../ Definitely no pushover.」",
+  "slot": 116
+ },
+ "0x0024BA": {
+  "en": "「I've got your data, Major Jog!/ Prepare yourself!」",
+  "slot": 97
+ },
+ "0x00251C": {
+  "en": "「So he's already got a counter/ to ectoplasm processing./ Fighting's just a waste.」",
+  "slot": 122
+ },
+ "0x002597": {
+  "en": "「This isn't the time to be dealing/ with someone like Louzorl...」",
+  "slot": 100
+ },
+ "0x0025FC": {
+  "en": "「Attacking him now/ won't mean much... eh, whatever.」",
+  "slot": 106
+ },
+ "0x002667": {
+  "en": "「Nasel Zamboss... special forces too, huh...../ Looks a bit tough.」",
+  "slot": 106
+ },
+ "0x0026D2": {
+  "en": "「Can't deny I'm short on data...../ but I've got to do it!」",
+  "slot": 76
+ },
+ "0x00271F": {
+  "en": "「Major Nasel Zamboss./ Special forces through and through,/ so I've barely got any data...」",
+  "slot": 134
+ },
+ "0x0027A6": {
+  "en": "「Honestly...../ how you were picked as a mech operator/ still baffles me!」",
+  "slot": 122
+ },
+ "0x002821": {
+  "en": "「Ahmed,/ you seem to know a lot of inside stuff?/ Spill some of it!」",
+  "slot": 119
+ },
+ "0x002899": {
+  "en": "「Why are wind-element operators/ always such flaky types!」",
+  "slot": 103
+ },
+ "0x002901": {
+  "en": "「Ratel!/ You don't want this fight either, right!/ Just quietly back off!」",
+  "slot": 131
+ },
+ "0x002985": {
+  "en": "「I thought you'd be a bit more/ reasonable than this,/ Ratel!」",
+  "slot": 98
+ },
+ "0x0029E8": {
+  "en": "「Kirkus has poisoned you too much, Ratel!/ Let's stop this fight!」",
+  "slot": 106
+ },
+ "0x002A53": {
+  "en": "「Ensign Lioness,/ aren't you acting on personal feelings?」",
+  "slot": 82
+ },
+ "0x002AA6": {
+  "en": "「Ensign Lioness!/ I won't hold back, so be ready!」",
+  "slot": 85
+ },
+ "0x002AFC": {
+  "en": "「Data says she was once a fine/ police officer...../ but as an operator, how good is she!?」",
+  "slot": 137
+ },
+ "0x002B86": {
+  "en": "「Sealing Volkruss completely.../ shows just how amazing/ Sword-God Randor really was.」",
+  "slot": 149
+ },
+ "0x002C1C": {
+  "en": "「Super-ancient civilization, giants'/ residual thoughts...../ Need to dig into how true that is.」",
+  "slot": 140
+ },
+ "0x002CA9": {
+  "en": "「Ugh, up close it's really gross...../ but as research material, kinda interesting.」",
+  "slot": 124
+ },
+ "0x002D26": {
+  "en": "「A precious chance to gather data./ Gotta record it properly.」",
+  "slot": 94
+ },
+ "0x002D85": {
+  "en": "「As if I'd let you!」",
+  "slot": 33
+ },
+ "0x002DA7": {
+  "en": "「Now it's my turn!」",
+  "slot": 36
+ },
+ "0x002DCC": {
+  "en": "「Counterattack!」",
+  "slot": 21
+ },
+ "0x002DE2": {
+  "en": "「Payback!」",
+  "slot": 21
+ },
+ "0x002DF8": {
+  "en": "「I'll pay you back with interest!」",
+  "slot": 45
+ },
+ "0x002E26": {
+  "en": "「I won't let you!」",
+  "slot": 39
+ },
+ "0x002E4E": {
+  "en": "「No way!? I got hit!?」",
+  "slot": 54
+ },
+ "0x002E85": {
+  "en": "「Th-this is bad...../ took a bit too much damage.」",
+  "slot": 73
+ },
+ "0x002ECF": {
+  "en": "「Ah! One more hit and...」",
+  "slot": 63
+ },
+ "0x002F0F": {
+  "en": "「Aaagh!? Th-that one hurt...」",
+  "slot": 63
+ },
+ "0x002F4F": {
+  "en": "「Kyaa!? Y-you really did it...」",
+  "slot": 63
+ },
+ "0x002F8F": {
+  "en": "「N-no! I can't take any more...」",
+  "slot": 51
+ },
+ "0x002FC3": {
+  "en": "「Guaah!! Bad, this is bad!」",
+  "slot": 57
+ },
+ "0x002FFD": {
+  "en": "「Agh!! Shield's in the red zone!?/ I'm in a pinch!!」",
+  "slot": 88
+ },
+ "0x003056": {
+  "en": "「Guuh!!/ B-brother... you're serious...」",
+  "slot": 70
+ },
+ "0x00309D": {
+  "en": "「Agh!?/ Th-the power really is incredible...」",
+  "slot": 70
+ },
+ "0x0030E4": {
+  "en": "「Ngh!!/ Cranking the power up this high...../ Impressive, General Ort.」",
+  "slot": 110
+ },
+ "0x003153": {
+  "en": "「No way!? It took this much!?/ You're kidding!?」",
+  "slot": 85
+ },
+ "0x0031A9": {
+  "en": "「Guh!!/ I knew I shouldn't have taken on/ something like a Nagizzard!」",
+  "slot": 107
+ },
+ "0x003215": {
+  "en": "「Agh!! No good!/ A power contest is bad for me!」",
+  "slot": 73
+ },
+ "0x00325F": {
+  "en": "「C-could you go a little easier,/ Ahmed!」",
+  "slot": 82
+ },
+ "0x0032B2": {
+  "en": "「N-no mercy, huh, Ratel.」",
+  "slot": 51
+ },
+ "0x0032E6": {
+  "en": "「Hey, quit only aiming at me!」",
+  "slot": 63
+ },
+ "0x003326": {
+  "en": "「Kyaaah!! Wh-what is this thing...」",
+  "slot": 66
+ },
+ "0x003369": {
+  "en": "「Tch! You've done it now!」",
+  "slot": 48
+ },
+ "0x00339A": {
+  "en": "「You did it! I won't forgive you!」",
+  "slot": 51
+ },
+ "0x0033CE": {
+  "en": "「Ngh! Not yet, I won't let you!!」",
+  "slot": 57
+ },
+ "0x003408": {
+  "en": "「Kya! I'm not done yet!」",
+  "slot": 57
+ },
+ "0x003442": {
+  "en": "「Not bad! But I can still go!」",
+  "slot": 51
+ },
+ "0x003476": {
+  "en": "「Ow!?/ Hey! You're paying for repairs later!」",
+  "slot": 82
+ },
+ "0x0034C9": {
+  "en": "「Kyaa!? What was that for, geez!」",
+  "slot": 60
+ },
+ "0x003506": {
+  "en": "「Ow!? Weird, did I miscalculate?」",
+  "slot": 63
+ },
+ "0x003546": {
+  "en": "「Owww... you're pretty good!」",
+  "slot": 54
+ },
+ "0x00357D": {
+  "en": "「Ngh... it's the Duraxil all right./ Fighting head-on is bad for me...」",
+  "slot": 103
+ },
+ "0x0035E5": {
+  "en": "「Owww.../ You're better than I thought, General Kirkus.」",
+  "slot": 73
+ },
+ "0x00362F": {
+  "en": "「Y-yeah, well, that's what/ sparing no expense on the tuning gets you...」",
+  "slot": 91
+ },
+ "0x00368B": {
+  "en": "「Ow! He's onto my every move.../ Should've guessed - special forces.」",
+  "slot": 100
+ },
+ "0x0036F0": {
+  "en": "「Oww... geez,/ I don't have time to deal with you!」",
+  "slot": 97
+ },
+ "0x003752": {
+  "en": "「Ugh! What is with this guy!/ Nothing but relentless attacks!」",
+  "slot": 85
+ },
+ "0x0037A8": {
+  "en": "「Tch,/ dodging Solgady's attacks really is rough.」",
+  "slot": 85
+ },
+ "0x0037FE": {
+  "en": "「Y-yeah, you're good, Ratel.」",
+  "slot": 48
+ },
+ "0x00382F": {
+  "en": "「Ngh! Ensign Lioness, not to be taken lightly.」",
+  "slot": 60
+ },
+ "0x00386C": {
+  "en": "「Tch, against Volkruss/ getting off this light is downright lucky.」",
+  "slot": 88
+ },
+ "0x0038C5": {
+  "en": "「That won't work on me!」",
+  "slot": 39
+ },
+ "0x0038ED": {
+  "en": "「What?! This little thing?!」",
+  "slot": 39
+ },
+ "0x003915": {
+  "en": "「Heh, not as tough as I thought.」",
+  "slot": 60
+ },
+ "0x003952": {
+  "en": "「Argh! You chipped my paint! Unforgivable!」",
+  "slot": 66
+ },
+ "0x003995": {
+  "en": "「You just grazed me!」",
+  "slot": 27
+ },
+ "0x0039B1": {
+  "en": "「Ow... dodge failed. That's weird.」",
+  "slot": 57
+ },
+ "0x0039EB": {
+  "en": "「Pfft, not much punch to that.」",
+  "slot": 54
+ },
+ "0x003A22": {
+  "en": "「Heh heh heh... just as planned!/ This much won't even scratch me!」",
+  "slot": 97
+ },
+ "0x003A84": {
+  "en": "「Whoa!/ Took a hit from the Duraxil/ and got off this easy? Lucky me!」",
+  "slot": 113
+ },
+ "0x003AF6": {
+  "en": "「That's all your prized machine can do?/ General Kirkus!」",
+  "slot": 79
+ },
+ "0x003B46": {
+  "en": "「I've done some upgrades too, you know!」",
+  "slot": 51
+ },
+ "0x003B7A": {
+  "en": "「Huh, less power than I expected.」",
+  "slot": 51
+ },
+ "0x003BAE": {
+  "en": "「Not so tough after all, Louzorl.」",
+  "slot": 57
+ },
+ "0x003BE8": {
+  "en": "「I'm fine, this much is nothing!」",
+  "slot": 39
+ },
+ "0x003C10": {
+  "en": "「Took me for a Norse, did you? Bad move, Ahmed!」",
+  "slot": 69
+ },
+ "0x003C56": {
+  "en": "「Holding back, Ratel?」",
+  "slot": 36
+ },
+ "0x003C7B": {
+  "en": "「That's your best, Ensign Lioness?」",
+  "slot": 54
+ },
+ "0x003CB2": {
+  "en": "「Huh? Less damage than I predicted.../ Boosting the armor paid off.」",
+  "slot": 100
+ },
+ "0x003D17": {
+  "en": "「Yaah~, that startled me~」",
+  "slot": 42
+ },
+ "0x003D42": {
+  "en": "「As if you'd ever hit me!」",
+  "slot": 45
+ },
+ "0x003D70": {
+  "en": "「Watch it!/ Hey, what if that had hit me?!」",
+  "slot": 76
+ },
+ "0x003DBD": {
+  "en": "「Heh, I knew you'd try that!」",
+  "slot": 51
+ },
+ "0x003DF1": {
+  "en": "「I've read your whole attack pattern!」",
+  "slot": 60
+ },
+ "0x003E2E": {
+  "en": "「Simple aim. Just as I predicted.」",
+  "slot": 39
+ },
+ "0x003E56": {
+  "en": "「Phew, that's my brother for you./ Your spot-on aim really saved me.」",
+  "slot": 79
+ },
+ "0x003EA6": {
+  "en": "「Whoa, too close~./ Didn't know General Kirkus was this good.」",
+  "slot": 94
+ },
+ "0x003F05": {
+  "en": "「General Ort's habits? Already got you figured out!」",
+  "slot": 63
+ },
+ "0x003F45": {
+  "en": "「Knew it, I figured you'd try that,/ Major Jog!」",
+  "slot": 76
+ },
+ "0x003F92": {
+  "en": "「Louzorl,/ I've analyzed your attack pattern!」",
+  "slot": 79
+ },
+ "0x003FE2": {
+  "en": "「Fast, I'll give you that./ But a miss means nothing,/ Ahmed.」",
+  "slot": 101
+ },
+ "0x004048": {
+  "en": "「Yikes! No mercy, huh, Ratel.」",
+  "slot": 60
+ },
+ "0x004085": {
+  "en": "「I won't fall for that, Ensign Lioness!」",
+  "slot": 63
+ },
+ "0x0040C5": {
+  "en": "「Yes! Dodged it!」",
+  "slot": 36
+ },
+ "0x0040EA": {
+  "en": "「OK! Just as calculated!」",
+  "slot": 36
+ },
+ "0x00410F": {
+  "en": "「That was too close~」",
+  "slot": 33
+ },
+ "0x004131": {
+  "en": "「Yikes!/ Nasty attack you've got there~./ Good thing it missed...」",
+  "slot": 122
+ },
+ "0x0041AC": {
+  "en": "「I see, I see./ This dodge pattern works!」",
+  "slot": 76
+ },
+ "0x0041F9": {
+  "en": "「.........」",
+  "slot": 15
+ },
+ "0x004209": {
+  "en": "「Uh, counter, counter.../ Aw, I've got no usable weapon.」",
+  "slot": 79
+ },
+ "0x004259": {
+  "en": "「Attacking from out of range?!/ Hey! That's cheating!」",
+  "slot": 73
+ },
+ "0x0042A3": {
+  "en": "「Heh, it's not over yet~」",
+  "slot": 54
+ },
+ "0x0042DA": {
+  "en": "「You're the one who spaced out!」",
+  "slot": 57
+ },
+ "0x004314": {
+  "en": "「I'm just getting started!」",
+  "slot": 54
+ },
+ "0x00434B": {
+  "en": "「My turn now!」",
+  "slot": 30
+ },
+ "0x00436A": {
+  "en": "「Then it's my turn next!」",
+  "slot": 42
+ },
+ "0x004395": {
+  "en": "「Masaki, I'll lend a hand!」",
+  "slot": 39
+ },
+ "0x0043BD": {
+  "en": "「Tytti! Let me in on this too!」",
+  "slot": 57
+ },
+ "0x0043F7": {
+  "en": "「Leave the finish to me, Yang Long!」",
+  "slot": 48
+ },
+ "0x004428": {
+  "en": "「Mio, I'll help you!」",
+  "slot": 30
+ },
+ "0x004447": {
+  "en": "「Presia, I've got your back!」",
+  "slot": 54
+ },
+ "0x00447E": {
+  "en": "「My turn now, Lune!」",
+  "slot": 42
+ },
+ "0x0044A9": {
+  "en": "「Not thrilled about it, but I'll help,/ Christoph.」",
+  "slot": 76
+ },
+ "0x0044F6": {
+  "en": "「Never thought I'd end up helping you,/ Saphine.」",
+  "slot": 88
+ },
+ "0x00454F": {
+  "en": "「Monica, I'll back you up!」",
+  "slot": 45
+ },
+ "0x00457D": {
+  "en": "「Honestly, you're such a handful,/ Terius.」",
+  "slot": 73
+ },
+ "0x0045C7": {
+  "en": "「Fellow mech lover!/ I'll help you, Ryusei!」",
+  "slot": 73
+ },
+ "0x004611": {
+  "en": "「Not bad, Tasuku! Me too!」",
+  "slot": 63
+ },
+ "0x004651": {
+  "en": "「Ryoto, I'll help you!」",
+  "slot": 45
+ },
+ "0x00467F": {
+  "en": "「Rio, leave the rest to me!」",
+  "slot": 33
+ },
+ "0x0046A1": {
+  "en": "「Leave this to me!」",
+  "slot": 39
+ },
+ "0x0046C9": {
+  "en": "「Get back! I've got this!」",
+  "slot": 48
+ },
+ "0x0046FA": {
+  "en": "「A bit nervous, but... I'll shield you!」",
+  "slot": 66
+ },
+ "0x00473D": {
+  "en": "「I'll be the shield!/ ...not sure I'll hold, though.」",
+  "slot": 76
+ },
+ "0x00478A": {
+  "en": "「Masaki, I'll cover you!」",
+  "slot": 54
+ },
+ "0x0047C1": {
+  "en": "「Tytti, watch out!」",
+  "slot": 39
+ },
+ "0x0047E9": {
+  "en": "「Yang Long! Get back!」",
+  "slot": 39
+ },
+ "0x004811": {
+  "en": "「Um... I, I guess I came to help, Mio.」",
+  "slot": 63
+ },
+ "0x004851": {
+  "en": "「Presia, watch out!」",
+  "slot": 36
+ },
+ "0x004876": {
+  "en": "「Lune, I've got this!」",
+  "slot": 45
+ },
+ "0x0048A4": {
+  "en": "「Not that I care, really,/ but you're an ally, I guess.」",
+  "slot": 76
+ },
+ "0x0048F1": {
+  "en": "「Ugh, why do I have to be/ the one saving Saphine...」",
+  "slot": 94
+ },
+ "0x004950": {
+  "en": "「Monica, no spacing out!」",
+  "slot": 60
+ },
+ "0x00498D": {
+  "en": "「Terius, it's dangerous, get back!」",
+  "slot": 60
+ },
+ "0x0049CA": {
+  "en": "「Ryusei, get back!」",
+  "slot": 39
+ },
+ "0x0049F2": {
+  "en": "「Tasuku, watch out!」",
+  "slot": 33
+ },
+ "0x004A14": {
+  "en": "「Ryoto, I've got this!」",
+  "slot": 45
+ },
+ "0x004A42": {
+  "en": "「Rio, get out of there now!」",
+  "slot": 33
+ },
+ "0x004A64": {
+  "en": "「Opening!」",
+  "slot": 21
+ },
+ "0x004A7A": {
+  "en": "「Not done yet!」",
+  "slot": 24
+ },
+ "0x004A93": {
+  "en": "「Not yet! One more time!」",
+  "slot": 39
+ },
+ "0x004ABB": {
+  "en": "「I'll show you!」",
+  "slot": 30
+ },
+ "0x004ADA": {
+  "en": "「Take this!」",
+  "slot": 21
+ },
+ "0x004AF0": {
+  "en": "「Hyah!」",
+  "slot": 18
+ },
+ "0x004B03": {
+  "en": "「Take that!」",
+  "slot": 18
+ },
+ "0x004B16": {
+  "en": "「Brass Knuckleee!」",
+  "slot": 42
+ },
+ "0x004B41": {
+  "en": "「Hit the mark!!」",
+  "slot": 24
+ },
+ "0x004B5A": {
+  "en": "「You can't escape these eyes!」",
+  "slot": 51
+ },
+ "0x004B8E": {
+  "en": "「Taste my cursed evil eye!」",
+  "slot": 51
+ },
+ "0x004BC2": {
+  "en": "「Evil Eye!」",
+  "slot": 27
+ },
+ "0x004BDE": {
+  "en": "「Haah!」",
+  "slot": 18
+ },
+ "0x004BF1": {
+  "en": "「This should do it!!」",
+  "slot": 27
+ }
+}
