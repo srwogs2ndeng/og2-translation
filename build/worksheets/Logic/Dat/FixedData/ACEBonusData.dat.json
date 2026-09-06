@@ -1,0 +1,978 @@
+{
+ "0x0018AA": {
+  "en": "No Ace Bonus available",
+  "slot": 45
+ },
+ "0x0018E1": {
+  "en": ".Support Attack final damage +10%",
+  "slot": 46
+ },
+ "0x001910": {
+  "en": "Support Defend final damage -20%",
+  "slot": 45
+ },
+ "0x001944": {
+  "en": "Support Attack final damage +10%, Support Defend final damage -20%",
+  "slot": 93
+ },
+ "0x0019AB": {
+  "en": "\u001cFinal accuracy +10%",
+  "slot": 28
+ },
+ "0x0019C8": {
+  "en": "Critical rate +20%",
+  "slot": 39
+ },
+ "0x0019F6": {
+  "en": "Final accuracy +10%, Critical rate +20%",
+  "slot": 69
+ },
+ "0x001A45": {
+  "en": ".Support Defend final damage -20%",
+  "slot": 46
+ },
+ "0x001A74": {
+  "en": "EXP gained +10%",
+  "slot": 27
+ },
+ "0x001A96": {
+  "en": "Support Defend final damage -20%, EXP gained +10%",
+  "slot": 75
+ },
+ "0x001AEB": {
+  "en": "\u001cEXP gained +10%",
+  "slot": 28
+ },
+ "0x001B08": {
+  "en": "Money gained +10%",
+  "slot": 24
+ },
+ "0x001B27": {
+  "en": "EXP gained +10%, Money gained +10%",
+  "slot": 54
+ },
+ "0x001B67": {
+  "en": "\u001cEXP gained +10%",
+  "slot": 28
+ },
+ "0x001B84": {
+  "en": "Skill +10",
+  "slot": 15
+ },
+ "0x001B9A": {
+  "en": "EXP gained +10%, Skill +10",
+  "slot": 45
+ },
+ "0x001BD1": {
+  "en": "%Lucky trigger rate +10%",
+  "slot": 37
+ },
+ "0x001BF7": {
+  "en": "Spirit Command 'Luck' SP cost 15",
+  "slot": 51
+ },
+ "0x001C31": {
+  "en": "Lucky trigger rate +10%, Spirit Command 'Luck' SP cost 15",
+  "slot": 90
+ },
+ "0x001C95": {
+  "en": "\u001cFinal accuracy +10%",
+  "slot": 28
+ },
+ "0x001CB2": {
+  "en": "Final evasion +5%",
+  "slot": 24
+ },
+ "0x001CD1": {
+  "en": "Final accuracy +10%, Final evasion +5%",
+  "slot": 54
+ },
+ "0x001D11": {
+  "en": "\u001cFinal evasion +10%",
+  "slot": 28
+ },
+ "0x001D2E": {
+  "en": "Critical rate +10%",
+  "slot": 39
+ },
+ "0x001D5C": {
+  "en": "Final evasion +10%, Critical rate +10%",
+  "slot": 69
+ },
+ "0x001DAB": {
+  "en": "\u0019Money gained +10%",
+  "slot": 25
+ },
+ "0x001DC5": {
+  "en": "Final accuracy +10%",
+  "slot": 27
+ },
+ "0x001DE7": {
+  "en": "Money gained +10%, Final accuracy +10%",
+  "slot": 54
+ },
+ "0x001E27": {
+  "en": "\u001fPsychic weapons deal",
+  "slot": 31
+ },
+ "0x001E47": {
+  "en": "final damage +10%",
+  "slot": 30
+ },
+ "0x001E6C": {
+  "en": "Psychic weapons deal final damage +10%",
+  "slot": 60
+ },
+ "0x001EB2": {
+  "en": "\u001cFinal accuracy +10%",
+  "slot": 28
+ },
+ "0x001ECF": {
+  "en": "Final evasion +10%",
+  "slot": 27
+ },
+ "0x001EF1": {
+  "en": "Final accuracy +10%, Final evasion +10%",
+  "slot": 57
+ },
+ "0x001F34": {
+  "en": "\u001cFinal accuracy +10%",
+  "slot": 28
+ },
+ "0x001F51": {
+  "en": "SP +20",
+  "slot": 15
+ },
+ "0x001F67": {
+  "en": "Final accuracy +10%, SP +20",
+  "slot": 45
+ },
+ "0x001F9E": {
+  "en": "\"Critical rate +20%",
+  "slot": 34
+ },
+ "0x001FC1": {
+  "en": "Skill +10",
+  "slot": 15
+ },
+ "0x001FD7": {
+  "en": "Critical rate +20%, Skill +10",
+  "slot": 51
+ },
+ "0x002014": {
+  "en": "\u001cFinal evasion +10%",
+  "slot": 28
+ },
+ "0x002031": {
+  "en": "SP +20",
+  "slot": 15
+ },
+ "0x002047": {
+  "en": "Final evasion +10%, SP +20",
+  "slot": 45
+ },
+ "0x00207E": {
+  "en": "%Final damage dealt +5%",
+  "slot": 37
+ },
+ "0x0020A4": {
+  "en": "Final accuracy +10%",
+  "slot": 27
+ },
+ "0x0020C6": {
+  "en": "Final damage dealt +5%, Final accuracy +10%",
+  "slot": 66
+ },
+ "0x00210F": {
+  "en": "Final damage dealt +10%",
+  "slot": 39
+ },
+ "0x002140": {
+  "en": "(From weapons other than MAP",
+  "slot": 40
+ },
+ "0x002169": {
+  "en": "and range 1, final damage -20%",
+  "slot": 45
+ },
+ "0x00219D": {
+  "en": "Final damage from weapons other than MAP and range 1 -20%",
+  "slot": 87
+ },
+ "0x0021FB": {
+  "en": "Spirit Command 'Love' SP cost 45",
+  "slot": 48
+ },
+ "0x002239": {
+  "en": ",Accuracy +10%",
+  "slot": 22
+ },
+ "0x002250": {
+  "en": "Evasion +10%",
+  "slot": 21
+ },
+ "0x002266": {
+  "en": "Critical rate +10%",
+  "slot": 39
+ },
+ "0x002294": {
+  "en": "Accuracy +10%, Evasion +10%, Critical rate +10%",
+  "slot": 87
+ },
+ "0x0022F5": {
+  "en": "\u001cMelee weapons deal",
+  "slot": 28
+ },
+ "0x002312": {
+  "en": "final damage +10%",
+  "slot": 30
+ },
+ "0x002337": {
+  "en": "Melee weapons deal final damage +10%",
+  "slot": 57
+ },
+ "0x00237A": {
+  "en": "\u001cRanged weapons deal",
+  "slot": 28
+ },
+ "0x002397": {
+  "en": "final damage +10%",
+  "slot": 30
+ },
+ "0x0023BC": {
+  "en": "Ranged weapons deal final damage +10%",
+  "slot": 57
+ },
+ "0x0023FF": {
+  "en": "(Final damage taken -10%",
+  "slot": 40
+ },
+ "0x002428": {
+  "en": "Money gained +10%",
+  "slot": 24
+ },
+ "0x002447": {
+  "en": "Final damage taken -10%, Money gained +10%",
+  "slot": 66
+ },
+ "0x002493": {
+  "en": "\u001cFinal evasion +10%",
+  "slot": 28
+ },
+ "0x0024B0": {
+  "en": "EXP gained +10%",
+  "slot": 27
+ },
+ "0x0024D2": {
+  "en": "Final evasion +10%, EXP gained +10%",
+  "slot": 57
+ },
+ "0x002515": {
+  "en": "\u0019Damage dealt on counter,",
+  "slot": 25
+ },
+ "0x00252F": {
+  "en": "final damage +10%",
+  "slot": 30
+ },
+ "0x002554": {
+  "en": "On counter, final damage dealt +10%",
+  "slot": 54
+ },
+ "0x002591": {
+  "en": "Movement +1",
+  "slot": 15
+ },
+ "0x0025AA": {
+  "en": "\u0016Command effect +5%",
+  "slot": 22
+ },
+ "0x0025C1": {
+  "en": "Critical rate +10%",
+  "slot": 39
+ },
+ "0x0025EF": {
+  "en": "Command effect +5%, Critical rate +10%",
+  "slot": 63
+ },
+ "0x002635": {
+  "en": "Final evasion +15%",
+  "slot": 27
+ },
+ "0x002657": {
+  "en": "EXP gained +20%",
+  "slot": 27
+ },
+ "0x002679": {
+  "en": "Money gained +20%",
+  "slot": 24
+ },
+ "0x00269B": {
+  "en": "\u001cFinal accuracy +10%",
+  "slot": 28
+ },
+ "0x0026B8": {
+  "en": "Final damage taken -10%",
+  "slot": 39
+ },
+ "0x0026E6": {
+  "en": "Final accuracy +10%, Final damage taken -10%",
+  "slot": 69
+ },
+ "0x002732": {
+  "en": "Support Defend final damage -30%",
+  "slot": 45
+ },
+ "0x002766": {
+  "en": "Final damage taken -10%",
+  "slot": 39
+ },
+ "0x002797": {
+  "en": "(From weapons other than MAP",
+  "slot": 40
+ },
+ "0x0027C0": {
+  "en": "and range 1, final damage -10%",
+  "slot": 45
+ },
+ "0x0027F4": {
+  "en": "Final damage from weapons other than MAP and range 1 -10%",
+  "slot": 87
+ },
+ "0x002852": {
+  "en": "Command effect +5%",
+  "slot": 21
+ },
+ "0x00286E": {
+  "en": "Critical rate +40%",
+  "slot": 39
+ },
+ "0x00289C": {
+  "en": "At 130+ Will, final damage taken -15%",
+  "slot": 66
+ },
+ "0x0028E8": {
+  "en": "\u001cFinal accuracy +20%",
+  "slot": 28
+ },
+ "0x002905": {
+  "en": "Final damage taken -10%",
+  "slot": 39
+ },
+ "0x002933": {
+  "en": "Final accuracy +20%, Final damage taken -10%",
+  "slot": 69
+ },
+ "0x002986": {
+  "en": ";Ranged weapons deal,",
+  "slot": 28
+ },
+ "0x0029A3": {
+  "en": "final damage +10%",
+  "slot": 30
+ },
+ "0x0029C2": {
+  "en": "Evasion +10%",
+  "slot": 21
+ },
+ "0x0029DE": {
+  "en": "Ranged weapons deal final damage +10%, Evasion +10%",
+  "slot": 81
+ },
+ "0x002A39": {
+  "en": "\u0016Command effect +5%",
+  "slot": 22
+ },
+ "0x002A50": {
+  "en": "Final damage taken -10%",
+  "slot": 39
+ },
+ "0x002A7E": {
+  "en": "Command effect +5%, Final damage taken -10%",
+  "slot": 63
+ },
+ "0x002AC7": {
+  "en": "\u0016Evasion +10%",
+  "slot": 22
+ },
+ "0x002ADE": {
+  "en": "Critical rate +20%",
+  "slot": 39
+ },
+ "0x002B0C": {
+  "en": "Evasion +10%, Critical rate +20%",
+  "slot": 63
+ },
+ "0x002B59": {
+  "en": "/Accuracy +10%",
+  "slot": 22
+ },
+ "0x002B70": {
+  "en": "Damage dealt on counter,",
+  "slot": 24
+ },
+ "0x002B89": {
+  "en": "final damage +10%",
+  "slot": 30
+ },
+ "0x002BAE": {
+  "en": "Accuracy +10%, on counter final damage +10%",
+  "slot": 78
+ },
+ "0x002C06": {
+  "en": "%Final damage taken -5%",
+  "slot": 37
+ },
+ "0x002C2C": {
+  "en": "Evasion +5%",
+  "slot": 18
+ },
+ "0x002C45": {
+  "en": "Final damage taken -5%, Evasion +5%",
+  "slot": 57
+ },
+ "0x002C8C": {
+  "en": "&Accuracy +5%",
+  "slot": 19
+ },
+ "0x002CA0": {
+  "en": "Evasion +5%",
+  "slot": 18
+ },
+ "0x002CB3": {
+  "en": "Critical rate +5%",
+  "slot": 36
+ },
+ "0x002CDE": {
+  "en": "Accuracy +5%, Evasion +5%, Critical rate +5%",
+  "slot": 78
+ },
+ "0x002D36": {
+  "en": "%Final damage taken -5%",
+  "slot": 37
+ },
+ "0x002D5C": {
+  "en": "Accuracy +10%",
+  "slot": 21
+ },
+ "0x002D78": {
+  "en": "Final damage taken -5%, Accuracy +10%",
+  "slot": 60
+ },
+ "0x002DBB": {
+  "en": "Final damage taken -20%",
+  "slot": 39
+ },
+ "0x002DE9": {
+  "en": "Accuracy +10%",
+  "slot": 21
+ },
+ "0x002E05": {
+  "en": "Critical rate +10%",
+  "slot": 39
+ },
+ "0x002E33": {
+  "en": "Evasion +20%",
+  "slot": 21
+ },
+ "0x002E4F": {
+  "en": "Critical rate +20%",
+  "slot": 39
+ },
+ "0x002E7D": {
+  "en": "Accuracy +20%",
+  "slot": 21
+ },
+ "0x002E99": {
+  "en": "Final Accuracy +15%",
+  "slot": 27
+ },
+ "0x002EBE": {
+  "en": "(Final damage dealt +20%",
+  "slot": 40
+ },
+ "0x002EE7": {
+  "en": "Critical Rate +30%",
+  "slot": 39
+ },
+ "0x002F15": {
+  "en": "Final damage dealt +20%, Critical Rate +30%",
+  "slot": 81
+ },
+ "0x002F6D": {
+  "en": "Final damage dealt +5%",
+  "slot": 36
+ },
+ "0x002F9B": {
+  "en": "\u001cFinal damage dealt by,",
+  "slot": 28
+ },
+ "0x002FB8": {
+  "en": "ranged weapons +5%",
+  "slot": 27
+ },
+ "0x002FDA": {
+  "en": "Final damage dealt by ranged weapons +5%",
+  "slot": 54
+ },
+ "0x003017": {
+  "en": "Final damage taken -5%",
+  "slot": 36
+ },
+ "0x003042": {
+  "en": "Final Accuracy +10%",
+  "slot": 27
+ },
+ "0x003067": {
+  "en": "\u0013Accuracy +5%",
+  "slot": 19
+ },
+ "0x00307B": {
+  "en": "Evasion +5%",
+  "slot": 18
+ },
+ "0x003094": {
+  "en": "Accuracy +5%, Evasion +5%",
+  "slot": 39
+ },
+ "0x0030C2": {
+  "en": "Critical Rate +5%",
+  "slot": 36
+ },
+ "0x0030F0": {
+  "en": "%Counter Rate +15%",
+  "slot": 37
+ },
+ "0x003116": {
+  "en": "Critical Rate +25%",
+  "slot": 33
+ },
+ "0x00313E": {
+  "en": "Counter Rate +15%, Critical Rate +25%",
+  "slot": 72
+ },
+ "0x00318D": {
+  "en": "SP +30",
+  "slot": 15
+ },
+ "0x0031A6": {
+  "en": "\u001cEXP gained +10%",
+  "slot": 28
+ },
+ "0x0031C3": {
+  "en": "Spirit command \"Bless\" costs 20 SP",
+  "slot": 51
+ },
+ "0x0031FD": {
+  "en": "EXP gained +10%, Spirit \"Bless\" costs 20 SP",
+  "slot": 81
+ },
+ "0x003258": {
+  "en": "\u001cFinal Evasion +10%",
+  "slot": 28
+ },
+ "0x003275": {
+  "en": "Final damage taken -10%",
+  "slot": 39
+ },
+ "0x0032A3": {
+  "en": "Final Evasion +10%, Final damage taken -10%",
+  "slot": 69
+ },
+ "0x0032EF": {
+  "en": "Evasion +10%",
+  "slot": 21
+ },
+ "0x00330E": {
+  "en": "\u0019Final damage dealt on",
+  "slot": 25
+ },
+ "0x003328": {
+  "en": "counter +5%",
+  "slot": 27
+ },
+ "0x00334A": {
+  "en": "Final damage dealt on counter +5%",
+  "slot": 51
+ },
+ "0x00338B": {
+  "en": "ACritical Rate +10%",
+  "slot": 40
+ },
+ "0x0033B4": {
+  "en": "Final damage dealt on",
+  "slot": 24
+ },
+ "0x0033CD": {
+  "en": "counter +10%",
+  "slot": 30
+ },
+ "0x0033F2": {
+  "en": "Critical Rate +10%, Final damage on counter +10%",
+  "slot": 96
+ },
+ "0x00345C": {
+  "en": "(Final damage dealt +10%",
+  "slot": 40
+ },
+ "0x003485": {
+  "en": "Accuracy +10%",
+  "slot": 21
+ },
+ "0x0034A1": {
+  "en": "Final damage dealt +10%, Accuracy +10%",
+  "slot": 63
+ },
+ "0x0034EA": {
+  "en": "%Lucky trigger rate +10%",
+  "slot": 37
+ },
+ "0x003510": {
+  "en": "Final Evasion +5%",
+  "slot": 24
+ },
+ "0x00352F": {
+  "en": "Lucky trigger rate +10%, Final Evasion +5%",
+  "slot": 63
+ },
+ "0x003575": {
+  "en": "Final damage taken -15%",
+  "slot": 39
+ },
+ "0x0035A3": {
+  "en": "Critical Rate +30%",
+  "slot": 39
+ },
+ "0x0035D4": {
+  "en": "\u0016Command Effect +5%",
+  "slot": 22
+ },
+ "0x0035EB": {
+  "en": "Final Accuracy +10%",
+  "slot": 27
+ },
+ "0x00360D": {
+  "en": "Command Effect +5%, Final Accuracy +10%",
+  "slot": 51
+ },
+ "0x003647": {
+  "en": "At 160+ Will, gain \"Awaken\" at own phase start",
+  "slot": 81
+ },
+ "0x0036A2": {
+  "en": "Money gained +10%",
+  "slot": 25
+ },
+ "0x0036BC": {
+  "en": "SP +15",
+  "slot": 15
+ },
+ "0x0036D2": {
+  "en": "Money gained +10%, SP +15",
+  "slot": 42
+ },
+ "0x00370A": {
+  "en": "DFinal damage dealt +20%",
+  "slot": 40
+ },
+ "0x003733": {
+  "en": "Final Accuracy +15%",
+  "slot": 27
+ },
+ "0x00374F": {
+  "en": "Critical Rate +15%",
+  "slot": 39
+ },
+ "0x003780": {
+  "en": "IFinal damage dealt +20%, Final Accuracy +15%,",
+  "slot": 73
+ },
+ "0x0037CA": {
+  "en": "Critical Rate +15%",
+  "slot": 39
+ },
+ "0x0037FF": {
+  "en": "DFinal damage dealt +15%",
+  "slot": 40
+ },
+ "0x003828": {
+  "en": "Final Accuracy +10%",
+  "slot": 27
+ },
+ "0x003844": {
+  "en": "Critical Rate +10%",
+  "slot": 39
+ },
+ "0x003875": {
+  "en": "IFinal damage dealt +15%, Final Accuracy +10%,",
+  "slot": 73
+ },
+ "0x0038BF": {
+  "en": "Critical Rate +10%",
+  "slot": 39
+ },
+ "0x0038F4": {
+  "en": "DFinal damage dealt +10%",
+  "slot": 40
+ },
+ "0x00391D": {
+  "en": "Final Accuracy +10%",
+  "slot": 27
+ },
+ "0x003939": {
+  "en": "Critical Rate +10%",
+  "slot": 39
+ },
+ "0x00396A": {
+  "en": "IFinal damage dealt +10%, Final Accuracy +10%,",
+  "slot": 73
+ },
+ "0x0039B4": {
+  "en": "Critical Rate +10%",
+  "slot": 39
+ },
+ "0x0039E5": {
+  "en": "%Final damage taken -5%",
+  "slot": 37
+ },
+ "0x003A0B": {
+  "en": "Final Evasion +10%",
+  "slot": 27
+ },
+ "0x003A2D": {
+  "en": "Final damage taken -5%, Final Evasion +10%",
+  "slot": 66
+ },
+ "0x003A79": {
+  "en": "\u001cFinal Accuracy +10%",
+  "slot": 28
+ },
+ "0x003A96": {
+  "en": "Critical Rate +15%",
+  "slot": 39
+ },
+ "0x003AC4": {
+  "en": "Final Accuracy +10%, Critical Rate +15%",
+  "slot": 69
+ },
+ "0x003B10": {
+  "en": "Spirit command \"Reawaken\" costs 45 SP",
+  "slot": 51
+ },
+ "0x003B51": {
+  "en": "DCritical Rate +30%",
+  "slot": 40
+ },
+ "0x003B7A": {
+  "en": "Final damage dealt by",
+  "slot": 27
+ },
+ "0x003B96": {
+  "en": "melee weapons +5%",
+  "slot": 27
+ },
+ "0x003BBB": {
+  "en": "FCritical Rate +30%, Final damage by melee,",
+  "slot": 70
+ },
+ "0x003C02": {
+  "en": "weapons +5%",
+  "slot": 27
+ },
+ "0x003C27": {
+  "en": "\u001cFinal Evasion +10%",
+  "slot": 28
+ },
+ "0x003C44": {
+  "en": "Critical Rate +15%",
+  "slot": 39
+ },
+ "0x003C72": {
+  "en": "Final Evasion +10%, Critical Rate +15%",
+  "slot": 69
+ },
+ "0x003CBE": {
+  "en": "Support Attack final damage +15%",
+  "slot": 45
+ },
+ "0x003CF5": {
+  "en": "\u0019Final Accuracy +5%",
+  "slot": 25
+ },
+ "0x003D0F": {
+  "en": "Critical Rate +10%",
+  "slot": 39
+ },
+ "0x003D3D": {
+  "en": "Final Accuracy +5%, Critical Rate +10%",
+  "slot": 66
+ },
+ "0x003D89": {
+  "en": "\u0019Final Evasion +5%",
+  "slot": 25
+ },
+ "0x003DA3": {
+  "en": "Critical Rate +10%",
+  "slot": 39
+ },
+ "0x003DD1": {
+  "en": "Final Evasion +5%, Critical Rate +10%",
+  "slot": 66
+ },
+ "0x003E1A": {
+  "en": "Counter Rate +40%",
+  "slot": 36
+ },
+ "0x003E48": {
+  "en": "\u0019Final Accuracy +5%",
+  "slot": 25
+ },
+ "0x003E62": {
+  "en": "Final Evasion +5%",
+  "slot": 24
+ },
+ "0x003E81": {
+  "en": "Final Accuracy +5%, Final Evasion +5%",
+  "slot": 51
+ },
+ "0x003EBB": {
+  "en": "When HP falls below 30%, gain \"Iron Wall\" once",
+  "slot": 72
+ },
+ "0x003F0A": {
+  "en": "Skill +25",
+  "slot": 15
+ },
+ "0x003F20": {
+  "en": "When HP falls below 30%, gain \"Drive\" once",
+  "slot": 72
+ },
+ "0x003F6F": {
+  "en": "Spirit command \"Zeal\" costs 25 SP",
+  "slot": 51
+ },
+ "0x003FA9": {
+  "en": "Spirit command \"Enervate\" costs 20 SP",
+  "slot": 51
+ },
+ "0x003FE6": {
+  "en": "(Range of weapons other than",
+  "slot": 40
+ },
+ "0x00400F": {
+  "en": "MAP and range-1 +1",
+  "slot": 21
+ },
+ "0x00402B": {
+  "en": "Range of weapons other than MAP and range-1 +1",
+  "slot": 63
+ },
+ "0x004071": {
+  "en": "Spirit command \"Resupply\" costs 40 SP",
+  "slot": 51
+ },
+ "0x0040AB": {
+  "en": "Gain \"Luck\" at own phase start",
+  "slot": 54
+ },
+ "0x0040E8": {
+  "en": "At 130+ Will, gain \"Effort\" at own phase start",
+  "slot": 81
+ },
+ "0x004140": {
+  "en": "At 130+ Will, Final Accuracy +15%, Final Evasion +15%",
+  "slot": 84
+ },
+ "0x00419B": {
+  "en": "Below 50% HP, use \"Disrupt\" once",
+  "slot": 69
+ },
+ "0x0041E7": {
+  "en": "At 140+ Will, gain \"Focus\" at own phase start",
+  "slot": 81
+ },
+ "0x00423F": {
+  "en": "Below 60% HP, gain \"Awaken\" once",
+  "slot": 63
+ },
+ "0x004285": {
+  "en": "All terrain ratings become \"S\"",
+  "slot": 42
+ },
+ "0x0042B6": {
+  "en": "Below 30% HP, gain \"Focus\" at own phase start",
+  "slot": 81
+ },
+ "0x00430E": {
+  "en": "Spirit command \"Awaken\" costs 30 SP",
+  "slot": 51
+ },
+ "0x004348": {
+  "en": "Spirit command \"Guts\" costs 15 SP",
+  "slot": 54
+ },
+ "0x004385": {
+  "en": "Below 50% HP, Final Accuracy +20%",
+  "slot": 54
+ },
+ "0x0043C2": {
+  "en": "Skill +30, Final Accuracy +15%",
+  "slot": 45
+ },
+ "0x0043F9": {
+  "en": "\u001cFinal Accuracy +15%",
+  "slot": 28
+ },
+ "0x004416": {
+  "en": "SP +15",
+  "slot": 15
+ },
+ "0x00442C": {
+  "en": "Final Accuracy +15%, SP +15",
+  "slot": 45
+ },
+ "0x004460": {
+  "en": "At 140+ Will, use \"Bond\" once",
+  "slot": 63
+ },
+ "0x0044A6": {
+  "en": "At 130+ Will, gain \"Direct Hit\" at own phase start",
+  "slot": 81
+ },
+ "0x0044FE": {
+  "en": "When HP falls below 40%, gain \"Love\" once",
+  "slot": 69
+ },
+ "0x00454A": {
+  "en": "When HP falls below 10%, gain \"Bless\" once",
+  "slot": 72
+ },
+ "0x004599": {
+  "en": "Spirit command \"Trust\" costs 10 SP",
+  "slot": 51
+ },
+ "0x0045D3": {
+  "en": "Counter Rate +20%",
+  "slot": 36
+ },
+ "0x0045FE": {
+  "en": "Below 40% HP, use \"Disrupt\" once",
+  "slot": 69
+ },
+ "0x00464A": {
+  "en": "At self phase start, gain \"Fervor\" when HP is 20% or less",
+  "slot": 81
+ },
+ "0x0046A5": {
+  "en": "(Critical rate +10%",
+  "slot": 40
+ },
+ "0x0046CE": {
+  "en": "Support attack final damage +10%",
+  "slot": 45
+ },
+ "0x004702": {
+  "en": "Critical rate +10%, support attack final damage +10%",
+  "slot": 87
+ }
+}

@@ -1,0 +1,814 @@
+{
+ "0x002458": {
+  "en": "「There you are...!」",
+  "slot": 24
+ },
+ "0x002471": {
+  "en": "「You won't interfere.」",
+  "slot": 27
+ },
+ "0x00248D": {
+  "en": "「I'll...shoot you down」",
+  "slot": 27
+ },
+ "0x0024A9": {
+  "en": "「If this is my fate... I'll see it through.」",
+  "slot": 63
+ },
+ "0x0024E9": {
+  "en": "「I was born to fight./ No matter the foe...!」",
+  "slot": 88
+ },
+ "0x002542": {
+  "en": "「I've decided to stand with Joshua and the others.」",
+  "slot": 57
+ },
+ "0x00257C": {
+  "en": "「For now, with humans... I live a fleeting life.」",
+  "slot": 57
+ },
+ "0x0025B6": {
+  "en": "「I'll bring you down.」",
+  "slot": 30
+ },
+ "0x0025D5": {
+  "en": "「Another guardian of Earth...」",
+  "slot": 42
+ },
+ "0x002600": {
+  "en": "「This isn't my first fight with those guardians.」",
+  "slot": 63
+ },
+ "0x002640": {
+  "en": "「Just what is it you're protecting...?」",
+  "slot": 60
+ },
+ "0x00267D": {
+  "en": "「Freeze it, and it goes quiet.」",
+  "slot": 36
+ },
+ "0x0026A2": {
+  "en": "「Joshua's enemies are/　my enemies too.」",
+  "slot": 85
+ },
+ "0x0026F8": {
+  "en": "「My life is not yours to command.」",
+  "slot": 45
+ },
+ "0x002726": {
+  "en": "「Ignis... my resolve will not waver.」",
+  "slot": 54
+ },
+ "0x00275D": {
+  "en": "「Aquila... can you shatter even me?」",
+  "slot": 48
+ },
+ "0x00278E": {
+  "en": "「I'll be your opponent, Aquila.」",
+  "slot": 45
+ },
+ "0x0027BC": {
+  "en": "「Which of us dies first...?/　Let's find out, Contagio.」",
+  "slot": 85
+ },
+ "0x002812": {
+  "en": "「I'll defy fear - and you too./ Just like Joshua and Lim.」",
+  "slot": 100
+ },
+ "0x002877": {
+  "en": "「Even if my fate to fall can't be changed,/　I can still choose the path there...!」",
+  "slot": 100
+ },
+ "0x0028DC": {
+  "en": "「Umbra... can you destroy me?」",
+  "slot": 57
+ },
+ "0x002916": {
+  "en": "「Perfectio... I'll defeat you./　So that I... can live...!」",
+  "slot": 97
+ },
+ "0x002978": {
+  "en": "「\"King of Ruin\"... you made me./　But I won't be bound by you...!」",
+  "slot": 109
+ },
+ "0x0029E6": {
+  "en": "「It gives off strong negative energy...」",
+  "slot": 48
+ },
+ "0x002A17": {
+  "en": "「That negative energy is dangerous...!」",
+  "slot": 48
+ },
+ "0x002A48": {
+  "en": "「I have no need for your guidance.」",
+  "slot": 54
+ },
+ "0x002A7F": {
+  "en": "「I'll fight you./　So Joshua and the rest can stay human.」",
+  "slot": 91
+ },
+ "0x002ADB": {
+  "en": "「I don't want a life granted by you.」",
+  "slot": 57
+ },
+ "0x002B15": {
+  "en": "「Koryu... I'll freeze your time.」",
+  "slot": 48
+ },
+ "0x002B46": {
+  "en": "「Even if you're my enemy now,/　what I do won't change.」",
+  "slot": 85
+ },
+ "0x002B9C": {
+  "en": "「I am no longer a herald of ruin.」",
+  "slot": 51
+ },
+ "0x002BD0": {
+  "en": "「You cannot stop me.」",
+  "slot": 57
+ },
+ "0x002C0A": {
+  "en": "「Even if you're my foe, I'll fight.」",
+  "slot": 45
+ },
+ "0x002C38": {
+  "en": "「I'll freeze your time./　So you can't evolve.」",
+  "slot": 79
+ },
+ "0x002C88": {
+  "en": "「Another herald of ruin...」",
+  "slot": 42
+ },
+ "0x002CB3": {
+  "en": "「Four Fiends.../　I'll bring ruin upon you.」",
+  "slot": 64
+ },
+ "0x002CF4": {
+  "en": "「Gan Eden.../　I have no need for your blessing.」",
+  "slot": 76
+ },
+ "0x002D41": {
+  "en": "「Even against a god, I'll fight -/　alongside Joshua and the rest!」",
+  "slot": 85
+ },
+ "0x002D97": {
+  "en": "「Euzeth.../　Your path leads to eternal ice...!」",
+  "slot": 79
+ },
+ "0x002DE7": {
+  "en": "「Euzeth, you can create nothing./　This is where you die!」",
+  "slot": 88
+ },
+ "0x002E40": {
+  "en": "「I won't let you flee.」",
+  "slot": 27
+ },
+ "0x002E5C": {
+  "en": "「Still there, are you.」",
+  "slot": 30
+ },
+ "0x002E7B": {
+  "en": "「Wherever you flee...」",
+  "slot": 36
+ },
+ "0x002EA0": {
+  "en": "「This time, I'm coming to you.」",
+  "slot": 36
+ },
+ "0x002EC5": {
+  "en": "「Just where are you going?」",
+  "slot": 36
+ },
+ "0x002EEA": {
+  "en": "「Is this the end...!」",
+  "slot": 30
+ },
+ "0x002F09": {
+  "en": "「Forgive me, Joshua...!」",
+  "slot": 42
+ },
+ "0x002F34": {
+  "en": "「I-I cannot be defeated here.../　For Joshua and the rest...!」",
+  "slot": 106
+ },
+ "0x002F9F": {
+  "en": "「Kh!/　To think you'd overwhelm Fabularis...!」",
+  "slot": 76
+ },
+ "0x002FEC": {
+  "en": "「I-I cannot perish yet...!」",
+  "slot": 60
+ },
+ "0x003029": {
+  "en": "「Uugh...! The damage is severe...!」",
+  "slot": 57
+ },
+ "0x003063": {
+  "en": "「I won't retreat...! Not yet, I'm not done...!」",
+  "slot": 63
+ },
+ "0x0030A3": {
+  "en": "「To make me flinch...!」",
+  "slot": 45
+ },
+ "0x0030D1": {
+  "en": "「Impossible - not to this Fabularis...!」",
+  "slot": 60
+ },
+ "0x00310E": {
+  "en": "「Even if this body is shattered...!」",
+  "slot": 57
+ },
+ "0x003148": {
+  "en": "「Duvan, I haven't fallen yet...!」",
+  "slot": 60
+ },
+ "0x003185": {
+  "en": "「What... negative energy...!」",
+  "slot": 48
+ },
+ "0x0031B6": {
+  "en": "「Kh! Ignis, you...!」",
+  "slot": 48
+ },
+ "0x0031E7": {
+  "en": "「This is Ignis's wave...!?」",
+  "slot": 48
+ },
+ "0x003218": {
+  "en": "「It's not over yet, Aquila!」",
+  "slot": 54
+ },
+ "0x00324F": {
+  "en": "「Contagio,/　to fall to your hand...!」",
+  "slot": 76
+ },
+ "0x00329C": {
+  "en": "「Kh!/　Umbra, our paths have parted...!」",
+  "slot": 76
+ },
+ "0x0032E9": {
+  "en": "「Th-that fate of ruin - I won't accept it!」",
+  "slot": 54
+ },
+ "0x003320": {
+  "en": "「Kh, uugh.../　I am... not your possession...!」",
+  "slot": 73
+ },
+ "0x00336A": {
+  "en": "「Am I feeling... fear...!?」",
+  "slot": 57
+ },
+ "0x0033A4": {
+  "en": "「Koryu, you got me good...!」",
+  "slot": 45
+ },
+ "0x0033D2": {
+  "en": "「Y-your paradise...!」",
+  "slot": 48
+ },
+ "0x003403": {
+  "en": "「This body -/　I won't hand it over to you...!」",
+  "slot": 79
+ },
+ "0x003453": {
+  "en": "「I-I won't be swallowed by that power...!」",
+  "slot": 57
+ },
+ "0x00348D": {
+  "en": "「Uugh...!/　Not to a god made by human hands...!」",
+  "slot": 70
+ },
+ "0x0034D4": {
+  "en": "「Kh! I must stop the Four Fiends...!」",
+  "slot": 54
+ },
+ "0x00350B": {
+  "en": "「T-the fate you decree,/　I won't accept...!」",
+  "slot": 73
+ },
+ "0x003555": {
+  "en": "「Kh, Euzeth.../　I won't let you change my fate...!」",
+  "slot": 94
+ },
+ "0x0035B4": {
+  "en": "「...You'll go no further.」",
+  "slot": 42
+ },
+ "0x0035DF": {
+  "en": "「Kh, this is...!」",
+  "slot": 33
+ },
+ "0x003601": {
+  "en": "「I'm hit...!」",
+  "slot": 33
+ },
+ "0x003623": {
+  "en": "「To take that head-on...!」",
+  "slot": 42
+ },
+ "0x00364E": {
+  "en": "「Kh, a direct hit...!」",
+  "slot": 39
+ },
+ "0x003676": {
+  "en": "「My battle isn't over yet...!」",
+  "slot": 48
+ },
+ "0x0036A7": {
+  "en": "「Fabularis's response is sluggish...!」",
+  "slot": 60
+ },
+ "0x0036E4": {
+  "en": "「This much won't bring me down...!」",
+  "slot": 42
+ },
+ "0x00370F": {
+  "en": "「Dragged in by that negative wave...!」",
+  "slot": 60
+ },
+ "0x00374C": {
+  "en": "「Ignis,/　I cannot be defeated by you...!」",
+  "slot": 79
+ },
+ "0x00379C": {
+  "en": "「Not bad, Aquila...!」",
+  "slot": 39
+ },
+ "0x0037C4": {
+  "en": "「Kh, Contagio...!」",
+  "slot": 45
+ },
+ "0x0037F2": {
+  "en": "「Umbra... you read my moves...!」",
+  "slot": 60
+ },
+ "0x00382F": {
+  "en": "「Before the \"King of Ruin,\"/　I cannot flinch...!」",
+  "slot": 79
+ },
+ "0x00387F": {
+  "en": "「Kanan, it's not settled yet...!」",
+  "slot": 57
+ },
+ "0x0038B9": {
+  "en": "「Kh! Not bad, Taihoku...!」",
+  "slot": 45
+ },
+ "0x0038E7": {
+  "en": "「Gan Eden, I can still fight...!」",
+  "slot": 54
+ },
+ "0x00391E": {
+  "en": "「An attack like that won't work.」",
+  "slot": 42
+ },
+ "0x003949": {
+  "en": "「That won't be enough to shatter me.」",
+  "slot": 54
+ },
+ "0x003980": {
+  "en": "「What's this farce?」",
+  "slot": 24
+ },
+ "0x003999": {
+  "en": "「...No problem here.」",
+  "slot": 30
+ },
+ "0x0039B8": {
+  "en": "「Don't underestimate Fabularis.」",
+  "slot": 48
+ },
+ "0x0039E9": {
+  "en": "「And what of it?」",
+  "slot": 39
+ },
+ "0x003A11": {
+  "en": "「The damage isn't worth noting.」",
+  "slot": 45
+ },
+ "0x003A3F": {
+  "en": "「Just a graze...」",
+  "slot": 30
+ },
+ "0x003A5E": {
+  "en": "「Shallow, Duvan.」",
+  "slot": 30
+ },
+ "0x003A7D": {
+  "en": "「Duvan, you're already...」",
+  "slot": 45
+ },
+ "0x003AAB": {
+  "en": "「Is that all, Ignis.」",
+  "slot": 36
+ },
+ "0x003AD0": {
+  "en": "「No need to hold back, Ignis.」",
+  "slot": 42
+ },
+ "0x003AFB": {
+  "en": "「Aquila, whatever you do...」",
+  "slot": 54
+ },
+ "0x003B32": {
+  "en": "「Contagio, no need for restraint.」",
+  "slot": 48
+ },
+ "0x003B63": {
+  "en": "「Don't underestimate me, Contagio.」",
+  "slot": 48
+ },
+ "0x003B94": {
+  "en": "「How feeble, Umbra.」",
+  "slot": 33
+ },
+ "0x003BB6": {
+  "en": "「I wouldn't have thought the \"King of Ruin\" was this weak...」",
+  "slot": 72
+ },
+ "0x003BFF": {
+  "en": "「Perfectio,/　the one who ruins me... is not you!」",
+  "slot": 97
+ },
+ "0x003C61": {
+  "en": "「Your looks and power don't match.」",
+  "slot": 51
+ },
+ "0x003C95": {
+  "en": "「What now? All talk, Koryu?」",
+  "slot": 48
+ },
+ "0x003CC6": {
+  "en": "「What is this, Kanan?」",
+  "slot": 30
+ },
+ "0x003CE5": {
+  "en": "「Kanan, is that all?」",
+  "slot": 39
+ },
+ "0x003D0D": {
+  "en": "「Shallow, Taihoku.」",
+  "slot": 24
+ },
+ "0x003D26": {
+  "en": "「Is that all, guardians?」",
+  "slot": 45
+ },
+ "0x003D54": {
+  "en": "「Don't get in my way, Gaia Sabers.」",
+  "slot": 57
+ },
+ "0x003D8E": {
+  "en": "「How noisy...」",
+  "slot": 24
+ },
+ "0x003DA7": {
+  "en": "「Won't work, Alteur.」",
+  "slot": 36
+ },
+ "0x003DCC": {
+  "en": "「Is that all, Alteur.」",
+  "slot": 39
+ },
+ "0x003DF4": {
+  "en": "「I won't become yours.」",
+  "slot": 45
+ },
+ "0x003E22": {
+  "en": "「Even with a god's power,/　you can't destroy me.」",
+  "slot": 76
+ },
+ "0x003E6F": {
+  "en": "「Euzeth, is that all the power you have?」",
+  "slot": 54
+ },
+ "0x003EA6": {
+  "en": "「You won't hit me.」",
+  "slot": 27
+ },
+ "0x003EC2": {
+  "en": "「You can't reach me」",
+  "slot": 24
+ },
+ "0x003EDB": {
+  "en": "「Where are you looking?」",
+  "slot": 30
+ },
+ "0x003EFA": {
+  "en": "「You can't catch Fabularis.」",
+  "slot": 60
+ },
+ "0x003F37": {
+  "en": "「No match for Fabularis.」",
+  "slot": 54
+ },
+ "0x003F6E": {
+  "en": "「You thought you could hit me?」",
+  "slot": 48
+ },
+ "0x003F9F": {
+  "en": "「Guardians, you can't stop me.」",
+  "slot": 66
+ },
+ "0x003FE2": {
+  "en": "「I won't take in your negative energy.」",
+  "slot": 57
+ },
+ "0x00401C": {
+  "en": "「I no longer... need negative energy.」",
+  "slot": 51
+ },
+ "0x004050": {
+  "en": "「Useless, Ignis.」",
+  "slot": 30
+ },
+ "0x00406F": {
+  "en": "「Too slow, Aquila.」",
+  "slot": 30
+ },
+ "0x00408E": {
+  "en": "「Too easy, Aquila.」",
+  "slot": 30
+ },
+ "0x0040AD": {
+  "en": "「Contagio, I know your tricks.」",
+  "slot": 60
+ },
+ "0x0040EA": {
+  "en": "「Umbra, I'm right here.」",
+  "slot": 36
+ },
+ "0x00410F": {
+  "en": "「You're the one who perishes here,/　Perfectio.」",
+  "slot": 73
+ },
+ "0x004159": {
+  "en": "「Useless, Kanan.」",
+  "slot": 24
+ },
+ "0x004172": {
+  "en": "「Too easy, Taihoku.」",
+  "slot": 24
+ },
+ "0x00418B": {
+  "en": "「Taihoku, you can't catch me.」",
+  "slot": 51
+ },
+ "0x0041BF": {
+  "en": "「Koryu, this won't go your way.」",
+  "slot": 51
+ },
+ "0x0041F3": {
+  "en": "「Even the Four Spirits can't touch me.」",
+  "slot": 51
+ },
+ "0x004227": {
+  "en": "「I've no interest in the world you dream of!」",
+  "slot": 54
+ },
+ "0x00425E": {
+  "en": "「Don't think you can absorb me.」",
+  "slot": 39
+ },
+ "0x004286": {
+  "en": "「I know all about you.」",
+  "slot": 54
+ },
+ "0x0042BD": {
+  "en": "「You can't lead me to ruin.」",
+  "slot": 48
+ },
+ "0x0042EE": {
+  "en": "「I'm not the Four Fiends' prey.」",
+  "slot": 36
+ },
+ "0x004313": {
+  "en": "「Devour your own flesh, then.」",
+  "slot": 39
+ },
+ "0x00433B": {
+  "en": "「I won't let you seal the Earth!」",
+  "slot": 42
+ },
+ "0x004366": {
+  "en": "「Your blade can't pierce me.」",
+  "slot": 51
+ },
+ "0x00439A": {
+  "en": "「You too.../　will walk the same path as the King of Ruin.」",
+  "slot": 79
+ },
+ "0x0043EA": {
+  "en": "「Euzeth, your power won't work.」",
+  "slot": 51
+ },
+ "0x00441E": {
+  "en": "「That was nothing.」",
+  "slot": 36
+ },
+ "0x004443": {
+  "en": "「Dodged it, it seems.」",
+  "slot": 30
+ },
+ "0x004462": {
+  "en": "「Useless, Guardians.」",
+  "slot": 33
+ },
+ "0x004484": {
+  "en": "「What are you doing, Umbra?」",
+  "slot": 39
+ },
+ "0x0044AC": {
+  "en": "「Is that a god's power?」",
+  "slot": 30
+ },
+ "0x0044CB": {
+  "en": "「Such a thing as that...」",
+  "slot": 39
+ },
+ "0x0044F3": {
+  "en": "「That trick won't work.」",
+  "slot": 33
+ },
+ "0x004515": {
+  "en": "「No effect on me.」",
+  "slot": 24
+ },
+ "0x00452E": {
+  "en": "「Useless.」",
+  "slot": 15
+ },
+ "0x00453E": {
+  "en": "「.........」",
+  "slot": 15
+ },
+ "0x00454E": {
+  "en": "「Can't attack, huh.」",
+  "slot": 24
+ },
+ "0x004567": {
+  "en": "「Unable to do a thing...」",
+  "slot": 33
+ },
+ "0x004589": {
+  "en": "「No counter, huh」",
+  "slot": 21
+ },
+ "0x00459F": {
+  "en": "「If it's within my power...」",
+  "slot": 45
+ },
+ "0x0045CD": {
+  "en": "「I'll handle the rest.」",
+  "slot": 27
+ },
+ "0x0045E9": {
+  "en": "「This is my duty too.」",
+  "slot": 30
+ },
+ "0x004608": {
+  "en": "「Nowhere to run.」",
+  "slot": 30
+ },
+ "0x004627": {
+  "en": "「Joshua, I've got your back.」",
+  "slot": 57
+ },
+ "0x004661": {
+  "en": "「Joshua, I'll lend you my strength.」",
+  "slot": 48
+ },
+ "0x004692": {
+  "en": "「Let me help, Lim.」",
+  "slot": 30
+ },
+ "0x0046B1": {
+  "en": "「Lim, take my power...」",
+  "slot": 42
+ },
+ "0x0046DC": {
+  "en": "「Ventos, leave the rest to me.」",
+  "slot": 39
+ },
+ "0x004704": {
+  "en": "「Ven, I'll cover you.」",
+  "slot": 30
+ },
+ "0x004723": {
+  "en": "「I'll take you on!」",
+  "slot": 39
+ },
+ "0x00474B": {
+  "en": "「I'll take this one.」",
+  "slot": 39
+ },
+ "0x004773": {
+  "en": "「I'll stop it.」",
+  "slot": 27
+ },
+ "0x00478F": {
+  "en": "「Leave it to me.」",
+  "slot": 30
+ },
+ "0x0047AE": {
+  "en": "「Joshua, I'll protect you.」",
+  "slot": 45
+ },
+ "0x0047DC": {
+  "en": "「I won't let them get Joshua!」",
+  "slot": 48
+ },
+ "0x00480D": {
+  "en": "「Stand back, Lim.」",
+  "slot": 24
+ },
+ "0x004826": {
+  "en": "「Lim, leave it to me.」",
+  "slot": 30
+ },
+ "0x004845": {
+  "en": "「Fall back, Ventos!」",
+  "slot": 42
+ },
+ "0x004870": {
+  "en": "「Stand back, Ven.」",
+  "slot": 27
+ },
+ "0x00488C": {
+  "en": "「I'll end this...!」",
+  "slot": 39
+ },
+ "0x0048B4": {
+  "en": "「Accept your fate...!」",
+  "slot": 39
+ },
+ "0x0048DC": {
+  "en": "「Go...!」",
+  "slot": 21
+ },
+ "0x0048F2": {
+  "en": "「You want to surround me? Take my ice blades!」",
+  "slot": 54
+ },
+ "0x004929": {
+  "en": "「Pierce my foe, blades of ice!」",
+  "slot": 45
+ },
+ "0x004957": {
+  "en": "「Ice blades...」",
+  "slot": 21
+ },
+ "0x00496D": {
+  "en": "「Virite Gladius...」",
+  "slot": 45
+ },
+ "0x00499B": {
+  "en": "「Your time freezes still!」",
+  "slot": 39
+ },
+ "0x0049C3": {
+  "en": "「Turn to ice and shatter!」",
+  "slot": 39
+ },
+ "0x0049EB": {
+  "en": "「Feel my freezing air.」",
+  "slot": 39
+ },
+ "0x004A13": {
+  "en": "「Unleash the frost, Fabularis.」",
+  "slot": 48
+ },
+ "0x004A44": {
+  "en": "「An icy hell engulfs you...!」",
+  "slot": 39
+ },
+ "0x004A6C": {
+  "en": "「Parvus Acies!」",
+  "slot": 39
+ },
+ "0x004A94": {
+  "en": "「Go!」",
+  "slot": 15
+ },
+ "0x004AA4": {
+  "en": "「Congelatio!」",
+  "slot": 33
+ },
+ "0x004AC6": {
+  "en": "「You can't resist any longer!」",
+  "slot": 42
+ },
+ "0x004AF1": {
+  "en": "「Now, sink into the cold darkness...!」",
+  "slot": 54
+ },
+ "0x004B28": {
+  "en": "「Take this!」",
+  "slot": 18
+ },
+ "0x004B3B": {
+  "en": "「All of you will freeze!」",
+  "slot": 39
+ }
+}
