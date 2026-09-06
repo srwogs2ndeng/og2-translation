@@ -1,0 +1,386 @@
+{
+ "0x000456": {
+  "en": "------",
+  "slot": 18
+ },
+ "0x00046F": {
+  "en": "AB Field",
+  "slot": 21
+ },
+ "0x00048B": {
+  "en": "When EN is 10+, reduces damage from beam attacks (except barrier-piercing weapons) by 1200.",
+  "slot": 147
+ },
+ "0x000525": {
+  "en": "E Field",
+  "slot": 18
+ },
+ "0x0005DF": {
+  "en": "reduces it.",
+  "slot": 18
+ },
+ "0x0005F8": {
+  "en": "G-Wall",
+  "slot": 18
+ },
+ "0x0006AF": {
+  "en": "nullifies it.",
+  "slot": 21
+ },
+ "0x0006CB": {
+  "en": "G-Territory",
+  "slot": 21
+ },
+ "0x00078B": {
+  "en": "nullifies it.",
+  "slot": 21
+ },
+ "0x0007A7": {
+  "en": "Passive Bit",
+  "slot": 24
+ },
+ "0x0007C6": {
+  "en": "When EN is 5+, reduces damage from beam attacks (except barrier-piercing weapons) by 1100.",
+  "slot": 144
+ },
+ "0x00085D": {
+  "en": "TE Sphere",
+  "slot": 18
+ },
+ "0x000914": {
+  "en": "reduces it.",
+  "slot": 18
+ },
+ "0x00092D": {
+  "en": "Beam Coat",
+  "slot": 18
+ },
+ "0x000946": {
+  "en": "When EN is 5+, reduces damage from beam attacks (except barrier-piercing weapons) by 900.",
+  "slot": 141
+ },
+ "0x0009DA": {
+  "en": "Beam Absorb",
+  "slot": 15
+ },
+ "0x0009F0": {
+  "en": "Restores current HP by the damage that would have been taken from beam attacks (except barrier-piercing weapons).",
+  "slot": 150
+ },
+ "0x000A8D": {
+  "en": "Psycho Field",
+  "slot": 21
+ },
+ "0x000B47": {
+  "en": "Nullifies damage up to Psychic skill level x200.",
+  "slot": 98
+ },
+ "0x000BB0": {
+  "en": "Psycho Field S",
+  "slot": 24
+ },
+ "0x000C6D": {
+  "en": "Nullifies damage up to Psychic skill level x250.",
+  "slot": 98
+ },
+ "0x000CD6": {
+  "en": "Distortion Field",
+  "slot": 21
+ },
+ "0x000CF2": {
+  "en": "When EN is 10+, halves damage from all attacks (except barrier-piercing weapons).",
+  "slot": 129
+ },
+ "0x000D7A": {
+  "en": "HP Regen (S)",
+  "slot": 21
+ },
+ "0x000D96": {
+  "en": "HP Regen",
+  "slot": 12
+ },
+ "0x000DA9": {
+  "en": "Restores HP at the start of the self phase.",
+  "slot": 60
+ },
+ "0x000DEC": {
+  "en": "HP Regen (M)",
+  "slot": 21
+ },
+ "0x000E08": {
+  "en": "HP Regen (L)",
+  "slot": 21
+ },
+ "0x000E24": {
+  "en": "EN Regen (S)",
+  "slot": 21
+ },
+ "0x000E40": {
+  "en": "EN Regen",
+  "slot": 12
+ },
+ "0x000E53": {
+  "en": "Restores EN at the start of the self phase.",
+  "slot": 60
+ },
+ "0x000E96": {
+  "en": "EN Regen (M)",
+  "slot": 21
+ },
+ "0x000EB2": {
+  "en": "EN Regen (L)",
+  "slot": 21
+ },
+ "0x000ECE": {
+  "en": "System LIOH",
+  "slot": 24
+ },
+ "0x000EED": {
+  "en": "When Will is 130+, the main pilot's Melee, Hit, and Skill rise by 20.",
+  "slot": 120
+ },
+ "0x000F6C": {
+  "en": "ODE System",
+  "slot": 21
+ },
+ "0x000F88": {
+  "en": "At self phase start, all units on the map with the ODE System ability set their pilot's Will to that of the highest-Will pilot among them. Also, final hit and evade rates rise by (number of ODE System units on map) + (turns elapsed) x2.",
+  "slot": 368
+ },
+ "0x0010FF": {
+  "en": "Jammer",
+  "slot": 12
+ },
+ "0x001112": {
+  "en": "Nullifies missile-type attacks with a 50% chance.",
+  "slot": 69
+ },
+ "0x00115E": {
+  "en": "Mirage",
+  "slot": 6
+ },
+ "0x00116B": {
+  "en": "When pilot Will is 130+, can evade an attack with a 50% chance.",
+  "slot": 105
+ },
+ "0x0011DB": {
+  "en": "Pilot Block",
+  "slot": 27
+ },
+ "0x0011FD": {
+  "en": "Nullifies all P-type special effects.",
+  "slot": 51
+ },
+ "0x001237": {
+  "en": "Robot Block",
+  "slot": 24
+ },
+ "0x001256": {
+  "en": "Nullifies all R-type special effects.",
+  "slot": 51
+ },
+ "0x001290": {
+  "en": "Full Block",
+  "slot": 18
+ },
+ "0x0012A9": {
+  "en": "Nullifies all special effects.",
+  "slot": 45
+ },
+ "0x0012DD": {
+  "en": "Use Parts",
+  "slot": 21
+ },
+ "0x0012F9": {
+  "en": "Can use the command-usable parts equipped on an adjacent unit.",
+  "slot": 114
+ },
+ "0x001372": {
+  "en": "Gan Eden's Aegis",
+  "slot": 24
+ },
+ "0x001391": {
+  "en": "When attacked, final damage is reduced by (number of servant units on map) x100.",
+  "slot": 137
+ },
+ "0x001421": {
+  "en": "Passio",
+  "slot": 15
+ },
+ "0x001437": {
+  "en": "At self phase start, lowers the Will of all enemy pilots on the map by 2.",
+  "slot": 123
+ },
+ "0x0014B9": {
+  "en": "Pinpoint Bombing",
+  "slot": 24
+ },
+ "0x0014D8": {
+  "en": "At self phase start, deals damage equal to 50% of current HP to 4 random enemy units on the map.",
+  "slot": 192
+ },
+ "0x00159F": {
+  "en": "Dark Realm",
+  "slot": 12
+ },
+ "0x0015B2": {
+  "en": "At self phase end, lowers EN of enemy units in the 8 adjacent tiles by 30.",
+  "slot": 120
+ },
+ "0x001631": {
+  "en": "Wrath",
+  "slot": 6
+ },
+ "0x00163E": {
+  "en": "At self phase start, if HP is 60% or less, uses the spirit command \"Awaken\".",
+  "slot": 117
+ },
+ "0x0016BA": {
+  "en": "Energy Absorb",
+  "slot": 21
+ },
+ "0x0016D6": {
+  "en": "Restores current EN by 1% of the damage taken.",
+  "slot": 78
+ },
+ "0x00172B": {
+  "en": "Dummy",
+  "slot": 9
+ },
+ "0x00173B": {
+  "en": "Watchful Eye",
+  "slot": 12
+ },
+ "0x00174E": {
+  "en": "When HP drops to 10% or less, or at self phase start if HP is 10% or less, uses the spirit command \"Strike\".",
+  "slot": 168
+ },
+ "0x0017FD": {
+  "en": "Ally Spirit (tmp)",
+  "slot": 21
+ },
+ "0x001819": {
+  "en": "At self phase start, uses the spirit command \"Sense\" on all specific units (TBD) on the map.",
+  "slot": 159
+ },
+ "0x0018BF": {
+  "en": "Ally Heal (tmp)",
+  "slot": 21
+ },
+ "0x0018DB": {
+  "en": "At self phase start, restores current HP by 30% of max HP to all specific units (TBD) on the map.",
+  "slot": 171
+ },
+ "0x00198D": {
+  "en": "If-Present Spirit (tmp)",
+  "slot": 24
+ },
+ "0x0019AC": {
+  "en": "At self phase start, if a specific pilot (TBD) is on the map, uses a spirit command (TBD).",
+  "slot": 159
+ },
+ "0x001A52": {
+  "en": "Faith Shield",
+  "slot": 12
+ },
+ "0x001A65": {
+  "en": "God Aegis",
+  "slot": 9
+ },
+ "0x001A75": {
+  "en": "Evil Eye",
+  "slot": 12
+ },
+ "0x001A88": {
+  "en": "At self phase start, lowers the Will of enemy pilots within 1-3 tiles by 3.",
+  "slot": 135
+ },
+ "0x001B16": {
+  "en": "Fang Ward",
+  "slot": 9
+ },
+ "0x001B26": {
+  "en": "When EN is 5+ and Will is 110+, halves damage from all attacks (except barrier-piercing weapons).",
+  "slot": 153
+ },
+ "0x001BC6": {
+  "en": "Dummy 03",
+  "slot": 15
+ },
+ "0x001BDC": {
+  "en": "Dummy 04",
+  "slot": 15
+ },
+ "0x001BF2": {
+  "en": "Dummy 05",
+  "slot": 15
+ },
+ "0x001C08": {
+  "en": "Dummy 06",
+  "slot": 15
+ },
+ "0x001C1E": {
+  "en": "Dummy 07",
+  "slot": 15
+ },
+ "0x001C34": {
+  "en": "Dummy 08",
+  "slot": 15
+ },
+ "0x001C4A": {
+  "en": "Dummy 09",
+  "slot": 15
+ },
+ "0x001C60": {
+  "en": "Dummy 10",
+  "slot": 15
+ },
+ "0x001C76": {
+  "en": "Morph",
+  "slot": 6
+ },
+ "0x001C83": {
+  "en": "Can change the unit into a different form.",
+  "slot": 60
+ },
+ "0x001CC6": {
+  "en": "Combine/Split",
+  "slot": 15
+ },
+ "0x001CDC": {
+  "en": "Can combine multiple units into a different form, or separate them back into the original units.",
+  "slot": 132
+ },
+ "0x001D67": {
+  "en": "(Single) Split",
+  "slot": 15
+ },
+ "0x001D7D": {
+  "en": "Refit",
+  "slot": 6
+ },
+ "0x001D8A": {
+  "en": "Repair Kit",
+  "slot": 12
+ },
+ "0x001D9D": {
+  "en": "Can restore the HP of units within range.",
+  "slot": 81
+ },
+ "0x001DF5": {
+  "en": "Supply Kit",
+  "slot": 12
+ },
+ "0x001E08": {
+  "en": "Can restore the EN and ammo of units within range to max.",
+  "slot": 108
+ },
+ "0x001E7B": {
+  "en": "Shield",
+  "slot": 9
+ },
+ "0x001E8B": {
+  "en": "When defending on counter, etc., reduces damage taken by a further 10%.",
+  "slot": 123
+ }
+}

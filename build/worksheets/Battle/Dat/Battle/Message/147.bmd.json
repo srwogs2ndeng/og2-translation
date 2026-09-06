@@ -1,0 +1,754 @@
+{
+ "0x005018": {
+  "en": "「Got you!」",
+  "slot": 21
+ },
+ "0x00502E": {
+  "en": "「Take this!」",
+  "slot": 18
+ },
+ "0x005041": {
+  "en": "「I'll be your opponent!」",
+  "slot": 36
+ },
+ "0x005066": {
+  "en": "「Right there!」",
+  "slot": 18
+ },
+ "0x005079": {
+  "en": "「I'll end this!」",
+  "slot": 21
+ },
+ "0x00508F": {
+  "en": "「A sure strike!」",
+  "slot": 27
+ },
+ "0x0050AB": {
+  "en": "「I'll stop you here!」",
+  "slot": 33
+ },
+ "0x0050CD": {
+  "en": "「You won't have your way!」",
+  "slot": 33
+ },
+ "0x0050EF": {
+  "en": "「I'll show you the power gap!」",
+  "slot": 36
+ },
+ "0x005114": {
+  "en": "「Don't lump me with the others!」",
+  "slot": 51
+ },
+ "0x005148": {
+  "en": "「You all end here!」",
+  "slot": 42
+ },
+ "0x005173": {
+  "en": "「I'll show you the power of the chosen!」",
+  "slot": 51
+ },
+ "0x0051A7": {
+  "en": "「Down the battleship and you're finished!」",
+  "slot": 60
+ },
+ "0x0051E4": {
+  "en": "「Their key is that ship! I'll sink it!」",
+  "slot": 60
+ },
+ "0x005221": {
+  "en": "「Even a Space Noah class!」",
+  "slot": 45
+ },
+ "0x00524F": {
+  "en": "「SRX Project? Don't make me laugh!」",
+  "slot": 51
+ },
+ "0x005283": {
+  "en": "「Just a prototype! It'll fall apart soon enough!」",
+  "slot": 60
+ },
+ "0x0052C0": {
+  "en": "「I can't let them combine!」",
+  "slot": 45
+ },
+ "0x0052EE": {
+  "en": "「Down one and they can't combine!」",
+  "slot": 48
+ },
+ "0x00531F": {
+  "en": "「Fall, you prototype!」",
+  "slot": 30
+ },
+ "0x00533E": {
+  "en": "「Prototype! I'll take it down!」",
+  "slot": 36
+ },
+ "0x005363": {
+  "en": "「Let's go, prototype!」",
+  "slot": 27
+ },
+ "0x00537F": {
+  "en": "「Just an Armored Module!/ I can down it!」",
+  "slot": 70
+ },
+ "0x0053C6": {
+  "en": "「Vanish, project and all!」",
+  "slot": 45
+ },
+ "0x0053F4": {
+  "en": "「Speed's its only strong point!」",
+  "slot": 54
+ },
+ "0x00542B": {
+  "en": "「Hmph, a machine that's all bulk!」",
+  "slot": 54
+ },
+ "0x005462": {
+  "en": "「You're all show!」",
+  "slot": 27
+ },
+ "0x00547E": {
+  "en": "「Just brute force, nothing more!」",
+  "slot": 39
+ },
+ "0x0054A6": {
+  "en": "「I'll pierce that armor!」",
+  "slot": 39
+ },
+ "0x0054CE": {
+  "en": "「Special units go down first!」",
+  "slot": 39
+ },
+ "0x0054F6": {
+  "en": "「An old machine tweaked up? Easy!」",
+  "slot": 42
+ },
+ "0x005521": {
+  "en": "「Looks tough, but so what!」",
+  "slot": 39
+ },
+ "0x005549": {
+  "en": "「Keep my distance and I can down it!」",
+  "slot": 45
+ },
+ "0x005577": {
+  "en": "「Just a modified Gespenst!」",
+  "slot": 48
+ },
+ "0x0055A8": {
+  "en": "「Fitting name - I'll make you a ghost!」",
+  "slot": 51
+ },
+ "0x0055DC": {
+  "en": "「Ghost, I'll lay you to rest!」",
+  "slot": 45
+ },
+ "0x00560A": {
+  "en": "「Just an old model, nothing to fear!」",
+  "slot": 51
+ },
+ "0x00563E": {
+  "en": "「Vanish, just like your nickname!」",
+  "slot": 42
+ },
+ "0x005669": {
+  "en": "「Here I come, Huckebein!」",
+  "slot": 42
+ },
+ "0x005694": {
+  "en": "「The Huckebein's successor...!」",
+  "slot": 51
+ },
+ "0x0056C8": {
+  "en": "「The joke stops at your looks!」",
+  "slot": 42
+ },
+ "0x0056F3": {
+  "en": "「That machine - is it a joke...!?」",
+  "slot": 48
+ },
+ "0x005724": {
+  "en": "「Take down the Grungust and glory's mine!」",
+  "slot": 60
+ },
+ "0x005761": {
+  "en": "「Fall, you super machine!」",
+  "slot": 33
+ },
+ "0x005783": {
+  "en": "「Here I come, Grungust!」",
+  "slot": 39
+ },
+ "0x0057AB": {
+  "en": "「Destroy the Cybuster first!」",
+  "slot": 54
+ },
+ "0x0057E2": {
+  "en": "「I won't let him use that weapon!」",
+  "slot": 54
+ },
+ "0x005819": {
+  "en": "「Here I come, Cybuster!」",
+  "slot": 39
+ },
+ "0x005841": {
+  "en": "「Valsione.../ If you stand against us, you're going down!」",
+  "slot": 73
+ },
+ "0x00588B": {
+  "en": "「Heh, time for a dragon hunt!」",
+  "slot": 39
+ },
+ "0x0058B3": {
+  "en": "「The tiger hunt begins!」",
+  "slot": 33
+ },
+ "0x0058D5": {
+  "en": "「That machine... the sheer presence...!」",
+  "slot": 51
+ },
+ "0x005909": {
+  "en": "「I'll snap that sword in two!」",
+  "slot": 42
+ },
+ "0x005934": {
+  "en": "「D-damn youuu!!」",
+  "slot": 33
+ },
+ "0x005956": {
+  "en": "「I-I'm ejecting!」",
+  "slot": 27
+ },
+ "0x005972": {
+  "en": "「This is it! Ejecting!」",
+  "slot": 39
+ },
+ "0x00599A": {
+  "en": "「Damn! Abandoning the machine!」",
+  "slot": 45
+ },
+ "0x0059C8": {
+  "en": "「Argh! Falling back!!」",
+  "slot": 39
+ },
+ "0x0059F0": {
+  "en": "「Gwaaah!!」",
+  "slot": 27
+ },
+ "0x005A0C": {
+  "en": "「No good! Any more of this and I'm finished!」",
+  "slot": 51
+ },
+ "0x005A40": {
+  "en": "「W-what!? Damage at 70%!?」",
+  "slot": 57
+ },
+ "0x005A7A": {
+  "en": "「Damn! I can't win in this thing!」",
+  "slot": 54
+ },
+ "0x005AB1": {
+  "en": "「N-not yet!/ I haven't lost to you yet!」",
+  "slot": 73
+ },
+ "0x005AFB": {
+  "en": "「I-I'll stop him no matter what!」",
+  "slot": 57
+ },
+ "0x005B35": {
+  "en": "「Tch, is the gap between us that wide!?」",
+  "slot": 63
+ },
+ "0x005B75": {
+  "en": "「Ngh! Our glory, brought so low!」",
+  "slot": 66
+ },
+ "0x005BB8": {
+  "en": "「Ngh!/ I took that much damage!?」",
+  "slot": 70
+ },
+ "0x005BFF": {
+  "en": "「I won't fall here!」",
+  "slot": 42
+ },
+ "0x005C2A": {
+  "en": "「N-not until I make the ATX Team pay...!」",
+  "slot": 63
+ },
+ "0x005C6A": {
+  "en": "「He closes in so fast!」",
+  "slot": 51
+ },
+ "0x005C9E": {
+  "en": "「No way, that's a modified Gespenst!」",
+  "slot": 66
+ },
+ "0x005CE1": {
+  "en": "「Is that really/ a Personal Trooper!?」",
+  "slot": 73
+ },
+ "0x005D2B": {
+  "en": "「The Aggressors... still alive...!!」",
+  "slot": 66
+ },
+ "0x005D6E": {
+  "en": "「D-damn you! The R Series!!」",
+  "slot": 48
+ },
+ "0x005D9F": {
+  "en": "「C-can't I even stop the R Series!?」",
+  "slot": 66
+ },
+ "0x005DE2": {
+  "en": "「Damn! I have to get him before they combine!」",
+  "slot": 57
+ },
+ "0x005E1C": {
+  "en": "「Argh! Can't I beat the SRX Team!?」",
+  "slot": 66
+ },
+ "0x005E5F": {
+  "en": "「Tch! Guess they're fully tuned!」",
+  "slot": 57
+ },
+ "0x005E99": {
+  "en": "「Gwah! That prototype packs some power!!」",
+  "slot": 60
+ },
+ "0x005ED6": {
+  "en": "「Argh! The performance gap is too much!」",
+  "slot": 54
+ },
+ "0x005F0D": {
+  "en": "「Ugh...!/ I have to transmit the prototype data...!」",
+  "slot": 79
+ },
+ "0x005F5D": {
+  "en": "「Ngh!/ Is that really a Gespenst!?」",
+  "slot": 70
+ },
+ "0x005FA4": {
+  "en": "「Ngh! It rivals the latest models!?」",
+  "slot": 66
+ },
+ "0x005FE7": {
+  "en": "「Ugh!/ So it's not all show after all!」",
+  "slot": 70
+ },
+ "0x00602E": {
+  "en": "「Argh! Can't I beat that special unit!?」",
+  "slot": 60
+ },
+ "0x00606B": {
+  "en": "「I have to stop that special unit...!!」",
+  "slot": 66
+ },
+ "0x0060AE": {
+  "en": "「Ugh! I can't lose to a machine like that!」",
+  "slot": 66
+ },
+ "0x0060F1": {
+  "en": "「A-as I feared... facing the Grungust...!」",
+  "slot": 57
+ },
+ "0x00612B": {
+  "en": "「Th-this power... it really is a cursed machine...!」",
+  "slot": 66
+ },
+ "0x00616E": {
+  "en": "「D-damn you, Cybuster...!」",
+  "slot": 51
+ },
+ "0x0061A2": {
+  "en": "「Ugh! A direct hit!?」",
+  "slot": 39
+ },
+ "0x0061CA": {
+  "en": "「Looks like you couldn't stop me!」",
+  "slot": 63
+ },
+ "0x00620A": {
+  "en": "「Hmph, that's more like it!」",
+  "slot": 51
+ },
+ "0x00623E": {
+  "en": "「Damn you! Nicely done!」",
+  "slot": 42
+ },
+ "0x006269": {
+  "en": "「Ugh! A hit or two won't stop me!」",
+  "slot": 66
+ },
+ "0x0062AC": {
+  "en": "「My armor can't stop it!?」",
+  "slot": 57
+ },
+ "0x0062E6": {
+  "en": "「Tch, don't underestimate me!」",
+  "slot": 45
+ },
+ "0x006314": {
+  "en": "「Th-the ATX Team... beyond the rumors...!」",
+  "slot": 51
+ },
+ "0x006348": {
+  "en": "「So it's more than just modified...!」",
+  "slot": 73
+ },
+ "0x006392": {
+  "en": "「Ngh! His power rivals a special unit!」",
+  "slot": 48
+ },
+ "0x0063C3": {
+  "en": "「What kind of mods did he make!?」",
+  "slot": 57
+ },
+ "0x0063FD": {
+  "en": "「S-so this is the Aggressors' skill...!」",
+  "slot": 51
+ },
+ "0x006431": {
+  "en": "「Not just a prototype, it seems!」",
+  "slot": 51
+ },
+ "0x006465": {
+  "en": "「Urgh...! So that's an SRX Project machine!」",
+  "slot": 66
+ },
+ "0x0064A8": {
+  "en": "「Gwah! This much power before they even combine!?」",
+  "slot": 60
+ },
+ "0x0064E5": {
+  "en": "「So this is the SRX Team's skill...!」",
+  "slot": 51
+ },
+ "0x006519": {
+  "en": "「No good, I can't keep up with his speed!」",
+  "slot": 63
+ },
+ "0x006559": {
+  "en": "「What kind of machine did they build!」",
+  "slot": 57
+ },
+ "0x006593": {
+  "en": "「Prototype! How dare you!」",
+  "slot": 33
+ },
+ "0x0065B5": {
+  "en": "「I won't help you gather your data!」",
+  "slot": 60
+ },
+ "0x0065F2": {
+  "en": "「Argh, beaten by a Federation prototype!」",
+  "slot": 51
+ },
+ "0x006626": {
+  "en": "「A-at this rate we'll be the ghosts...!!」",
+  "slot": 63
+ },
+ "0x006666": {
+  "en": "「Ngh! Beaten this badly by an old model!」",
+  "slot": 60
+ },
+ "0x0066A3": {
+  "en": "「Ugh! Fast for how it looks!」",
+  "slot": 54
+ },
+ "0x0066DA": {
+  "en": "「Ngh! Not just big, it seems!」",
+  "slot": 66
+ },
+ "0x00671D": {
+  "en": "「Ugh! Its attack power is on another level!」",
+  "slot": 66
+ },
+ "0x006760": {
+  "en": "「Damn! Fooled by its looks!」",
+  "slot": 60
+ },
+ "0x00679D": {
+  "en": "「Ngh!/ Beaten by that failure's successor - why!?」",
+  "slot": 70
+ },
+ "0x0067E4": {
+  "en": "「Ngh! The name Masou Kishin/ isn't just for show...!」",
+  "slot": 82
+ },
+ "0x006837": {
+  "en": "「Hmph! Not so tough after all!」",
+  "slot": 42
+ },
+ "0x006862": {
+  "en": "「You underestimate our power!?」",
+  "slot": 51
+ },
+ "0x006896": {
+  "en": "「This won't make me flinch!」",
+  "slot": 51
+ },
+ "0x0068CA": {
+  "en": "「Not as strong as I thought!」",
+  "slot": 48
+ },
+ "0x0068FB": {
+  "en": "「Ho... is this all the fight you've got?」",
+  "slot": 63
+ },
+ "0x00693B": {
+  "en": "「Minor damage. Continuing the mission!」",
+  "slot": 54
+ },
+ "0x006972": {
+  "en": "「Hmph... not even worth checking.」",
+  "slot": 57
+ },
+ "0x0069AC": {
+  "en": "「ATX Team... not as good as the rumors.」",
+  "slot": 51
+ },
+ "0x0069E0": {
+  "en": "「Hmph, just a modified old model!」",
+  "slot": 48
+ },
+ "0x006A11": {
+  "en": "「Hey, where'd you even modify it?」",
+  "slot": 45
+ },
+ "0x006A3F": {
+  "en": "「Ngh! That charging power...!」",
+  "slot": 45
+ },
+ "0x006A6D": {
+  "en": "「This much? The Aggressors have fallen far.」",
+  "slot": 63
+ },
+ "0x006AAD": {
+  "en": "「And that's your anti-alien weapon? Laughable!」",
+  "slot": 60
+ },
+ "0x006AEA": {
+  "en": "「What's wrong? Only the paint job is flashy?」",
+  "slot": 63
+ },
+ "0x006B2A": {
+  "en": "「Why don't you just combine already!?」",
+  "slot": 48
+ },
+ "0x006B5B": {
+  "en": "「What? Is that the SRX Team's real skill?」",
+  "slot": 60
+ },
+ "0x006B98": {
+  "en": "「Prototype, your tuning's off, it seems.」",
+  "slot": 66
+ },
+ "0x006BDB": {
+  "en": "「What's wrong, prototype! Is that all you've got?」",
+  "slot": 60
+ },
+ "0x006C18": {
+  "en": "「Hmph... not a prototype, but a reject?」",
+  "slot": 54
+ },
+ "0x006C4F": {
+  "en": "「The Gespenst is/　obsolete now!」",
+  "slot": 73
+ },
+ "0x006C99": {
+  "en": "「All show, no substance.」",
+  "slot": 36
+ },
+ "0x006CBE": {
+  "en": "「Don't think brute force can beat us!」",
+  "slot": 51
+ },
+ "0x006CF2": {
+  "en": "「Slow as it looks!」",
+  "slot": 54
+ },
+ "0x006D29": {
+  "en": "「Avoid a direct hit and the Grungust's nothing!」",
+  "slot": 63
+ },
+ "0x006D69": {
+  "en": "「That's the Huckebein's power?」",
+  "slot": 48
+ },
+ "0x006D9A": {
+  "en": "「A Masou Kishin, and that's all?」",
+  "slot": 60
+ },
+ "0x006DD7": {
+  "en": "「Dodged it!」",
+  "slot": 21
+ },
+ "0x006DED": {
+  "en": "「Your moves are too big!」",
+  "slot": 51
+ },
+ "0x006E21": {
+  "en": "「Too slow!」",
+  "slot": 18
+ },
+ "0x006E34": {
+  "en": "「Your aim is off.」",
+  "slot": 42
+ },
+ "0x006E5F": {
+  "en": "「Your foes must've been weak!」",
+  "slot": 54
+ },
+ "0x006E96": {
+  "en": "「Lucky hits won't last!」",
+  "slot": 45
+ },
+ "0x006EC4": {
+  "en": "「Yes, dodged it clean!」",
+  "slot": 33
+ },
+ "0x006EE6": {
+  "en": "「Is that all?」",
+  "slot": 21
+ },
+ "0x006EFC": {
+  "en": "「Weak!」",
+  "slot": 24
+ },
+ "0x006F15": {
+  "en": "「Too bad!」",
+  "slot": 27
+ },
+ "0x006F31": {
+  "en": "「Useless!」",
+  "slot": 18
+ },
+ "0x006F44": {
+  "en": "「.........」",
+  "slot": 15
+ },
+ "0x006F54": {
+  "en": "「Ngh, I need resupply!」",
+  "slot": 27
+ },
+ "0x006F70": {
+  "en": "「A long fight hurts me!」",
+  "slot": 33
+ },
+ "0x006F92": {
+  "en": "「I can't strike back...!」",
+  "slot": 39
+ },
+ "0x006FBA": {
+  "en": "「Won't let me lift a finger?!」",
+  "slot": 45
+ },
+ "0x006FE8": {
+  "en": "「No way, am I being played?!」",
+  "slot": 51
+ },
+ "0x00701C": {
+  "en": "「O-out of ammo...?!」",
+  "slot": 39
+ },
+ "0x007044": {
+  "en": "「Ngh, at this range...!」",
+  "slot": 45
+ },
+ "0x007072": {
+  "en": "「I can't counter from here!」",
+  "slot": 42
+ },
+ "0x00709D": {
+  "en": "「There's no way to counter?!」",
+  "slot": 33
+ },
+ "0x0070BF": {
+  "en": "「Damn! I'll be picked off!」",
+  "slot": 57
+ },
+ "0x0070F9": {
+  "en": "「No! I'm just a target now!」",
+  "slot": 54
+ },
+ "0x007130": {
+  "en": "「Ngh! Is there nothing I can do...!?」",
+  "slot": 54
+ },
+ "0x007167": {
+  "en": "「No time to look away!」",
+  "slot": 45
+ },
+ "0x007195": {
+  "en": "「Can you dodge this combo?!」",
+  "slot": 39
+ },
+ "0x0071BD": {
+  "en": "「This ends it!」",
+  "slot": 30
+ },
+ "0x0071DC": {
+  "en": "「This time, I finish it for good!」",
+  "slot": 39
+ },
+ "0x007204": {
+  "en": "「Hmph, no escape now!」",
+  "slot": 39
+ },
+ "0x00722C": {
+  "en": "「Not happening!」",
+  "slot": 21
+ },
+ "0x007242": {
+  "en": "「I won't let you!」",
+  "slot": 36
+ },
+ "0x007267": {
+  "en": "「Fall back while you can!」",
+  "slot": 30
+ },
+ "0x007286": {
+  "en": "「Hmph, careless!」",
+  "slot": 33
+ },
+ "0x0072A8": {
+  "en": "「I'll wipe you all out!」",
+  "slot": 36
+ },
+ "0x0072CD": {
+  "en": "「I'll knock you all down!」",
+  "slot": 36
+ },
+ "0x0072F2": {
+  "en": "「Here I go!」",
+  "slot": 18
+ },
+ "0x007305": {
+  "en": "「Sonic Breaker!!」",
+  "slot": 42
+ },
+ "0x007330": {
+  "en": "「Target lock!」",
+  "slot": 36
+ },
+ "0x007355": {
+  "en": "「This settles it!」",
+  "slot": 27
+ },
+ "0x007371": {
+  "en": "「Now, prepare yourself!」",
+  "slot": 30
+ },
+ "0x007390": {
+  "en": "「Shatter to bits!!」",
+  "slot": 24
+ },
+ "0x0073A9": {
+  "en": "「Going down!」",
+  "slot": 18
+ },
+ "0x0073BC": {
+  "en": "「Direct hit!」",
+  "slot": 24
+ }
+}
