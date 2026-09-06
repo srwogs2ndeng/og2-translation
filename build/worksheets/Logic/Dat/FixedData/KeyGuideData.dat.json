@@ -1,0 +1,758 @@
+{
+ "0x003819": {
+  "en": "OK",
+  "slot": 6
+ },
+ "0x003826": {
+  "en": "Back",
+  "slot": 6
+ },
+ "0x003833": {
+  "en": "Abil",
+  "slot": 6
+ },
+ "0x003840": {
+  "en": "--",
+  "slot": 6
+ },
+ "0x00384D": {
+  "en": "-----",
+  "slot": 15
+ },
+ "0x003863": {
+  "en": "Sort Asc.",
+  "slot": 15
+ },
+ "0x003879": {
+  "en": "Toggle Sort Type (Asc/Desc)",
+  "slot": 45
+ },
+ "0x0038AD": {
+  "en": "To Top",
+  "slot": 9
+ },
+ "0x0038BD": {
+  "en": "Top/Bottom",
+  "slot": 21
+ },
+ "0x0038D9": {
+  "en": "Sort",
+  "slot": 9
+ },
+ "0x0038E9": {
+  "en": "Sort Order",
+  "slot": 21
+ },
+ "0x003905": {
+  "en": "Sub Info",
+  "slot": 12
+ },
+ "0x003918": {
+  "en": "Sub Info",
+  "slot": 18
+ },
+ "0x003938": {
+  "en": "Select",
+  "slot": 6
+ },
+ "0x003945": {
+  "en": "Toggle Page",
+  "slot": 15
+ },
+ "0x00395B": {
+  "en": "Toggle",
+  "slot": 6
+ },
+ "0x003968": {
+  "en": "Toggle Main/Sub View",
+  "slot": 30
+ },
+ "0x00398D": {
+  "en": "Abil (Pre-Swap)",
+  "slot": 27
+ },
+ "0x0039AF": {
+  "en": "------",
+  "slot": 18
+ },
+ "0x0039C8": {
+  "en": "Chg Unit",
+  "slot": 12
+ },
+ "0x0039DB": {
+  "en": "Chg Unit",
+  "slot": 15
+ },
+ "0x0039F1": {
+  "en": "--------",
+  "slot": 24
+ },
+ "0x003A10": {
+  "en": "Chg Pilot",
+  "slot": 21
+ },
+ "0x003A2C": {
+  "en": "Change Pilot",
+  "slot": 24
+ },
+ "0x003A4B": {
+  "en": "Switch Item",
+  "slot": 12
+ },
+ "0x003A5E": {
+  "en": "Input Stats",
+  "slot": 12
+ },
+ "0x003A71": {
+  "en": "Remove",
+  "slot": 6
+ },
+ "0x003A7E": {
+  "en": "Clear All Swaps",
+  "slot": 33
+ },
+ "0x003AA6": {
+  "en": "Clear Swaps",
+  "slot": 21
+ },
+ "0x003AC2": {
+  "en": "Category",
+  "slot": 12
+ },
+ "0x003AD5": {
+  "en": "Wpn Category",
+  "slot": 18
+ },
+ "0x003AEE": {
+  "en": "Toggle List Compact ON/OFF",
+  "slot": 45
+ },
+ "0x003B22": {
+  "en": "Modify",
+  "slot": 6
+ },
+ "0x003B2F": {
+  "en": "Weapon",
+  "slot": 12
+ },
+ "0x003B42": {
+  "en": "Weapon",
+  "slot": 15
+ },
+ "0x003B58": {
+  "en": "Unequip parts",
+  "slot": 21
+ },
+ "0x003B74": {
+  "en": "OK",
+  "slot": 6
+ },
+ "0x003B81": {
+  "en": "Equipped Unit",
+  "slot": 18
+ },
+ "0x003B9A": {
+  "en": "Parts Category",
+  "slot": 21
+ },
+ "0x003BB6": {
+  "en": "Mark",
+  "slot": 9
+ },
+ "0x003BC6": {
+  "en": "Toggle Mark ON/OFF",
+  "slot": 27
+ },
+ "0x003BE8": {
+  "en": "Change parts",
+  "slot": 15
+ },
+ "0x003BFE": {
+  "en": "Sell",
+  "slot": 12
+ },
+ "0x003C11": {
+  "en": "Morph",
+  "slot": 6
+ },
+ "0x003C1E": {
+  "en": "Morph",
+  "slot": 12
+ },
+ "0x003C31": {
+  "en": "Wpn Mod",
+  "slot": 12
+ },
+ "0x003C44": {
+  "en": "Upgrade Wpn",
+  "slot": 15
+ },
+ "0x003C5A": {
+  "en": "Mod Value",
+  "slot": 15
+ },
+ "0x003C70": {
+  "en": "Flip Page",
+  "slot": 9
+ },
+ "0x003C80": {
+  "en": "Unit Upgrade",
+  "slot": 12
+ },
+ "0x003C93": {
+  "en": "Upgrade unit",
+  "slot": 15
+ },
+ "0x003CA9": {
+  "en": "Remove ability",
+  "slot": 21
+ },
+ "0x003CC5": {
+  "en": "Swap",
+  "slot": 6
+ },
+ "0x003CD2": {
+  "en": "Swap Main and Sub",
+  "slot": 27
+ },
+ "0x003CF4": {
+  "en": "Change unit/pilot",
+  "slot": 33
+ },
+ "0x003D1C": {
+  "en": "Ability Category",
+  "slot": 27
+ },
+ "0x003D3E": {
+  "en": "List Category",
+  "slot": 24
+ },
+ "0x003D5D": {
+  "en": "Detail",
+  "slot": 6
+ },
+ "0x003D6A": {
+  "en": "Detail menu",
+  "slot": 18
+ },
+ "0x003D83": {
+  "en": "Search Setup",
+  "slot": 12
+ },
+ "0x003D96": {
+  "en": "Search Items",
+  "slot": 18
+ },
+ "0x003DAF": {
+  "en": "Search",
+  "slot": 12
+ },
+ "0x003DC2": {
+  "en": "Search Item",
+  "slot": 18
+ },
+ "0x003DDB": {
+  "en": "Support",
+  "slot": 12
+ },
+ "0x003DEE": {
+  "en": "Support command",
+  "slot": 24
+ },
+ "0x003E0D": {
+  "en": "Mode",
+  "slot": 9
+ },
+ "0x003E1D": {
+  "en": "Switch mode",
+  "slot": 15
+ },
+ "0x003E33": {
+  "en": "Toggle Mark ON/OFF (+<W=32><H=32><S=-4><Y=-3><I=124></Y><S=-4></H></W>All)",
+  "slot": 91
+ },
+ "0x003E95": {
+  "en": "Change squad",
+  "slot": 12
+ },
+ "0x003EA8": {
+  "en": "Search",
+  "slot": 6
+ },
+ "0x003EB5": {
+  "en": "Revert",
+  "slot": 6
+ },
+ "0x003EC2": {
+  "en": "Revert Setting",
+  "slot": 21
+ },
+ "0x003EDE": {
+  "en": "Setting",
+  "slot": 12
+ },
+ "0x003EF1": {
+  "en": "First Strike",
+  "slot": 6
+ },
+ "0x003EFE": {
+  "en": "1st Strike",
+  "slot": 12
+ },
+ "0x003F11": {
+  "en": "Show Info",
+  "slot": 12
+ },
+ "0x003F24": {
+  "en": "Info Display",
+  "slot": 21
+ },
+ "0x003F40": {
+  "en": "Start Battle",
+  "slot": 12
+ },
+ "0x003F53": {
+  "en": "Unit Category",
+  "slot": 18
+ },
+ "0x003F6C": {
+  "en": "Pilot Category",
+  "slot": 27
+ },
+ "0x003F8E": {
+  "en": "BG Category",
+  "slot": 18
+ },
+ "0x003FA7": {
+  "en": "Play",
+  "slot": 6
+ },
+ "0x003FB4": {
+  "en": "Play (Prev.)",
+  "slot": 18
+ },
+ "0x003FCD": {
+  "en": "Stop",
+  "slot": 6
+ },
+ "0x003FDA": {
+  "en": "Stop the BGM",
+  "slot": 18
+ },
+ "0x003FF3": {
+  "en": "Main",
+  "slot": 9
+ },
+ "0x004003": {
+  "en": "Change main unit",
+  "slot": 24
+ },
+ "0x004022": {
+  "en": "End Select",
+  "slot": 12
+ },
+ "0x004035": {
+  "en": "Settings",
+  "slot": 15
+ },
+ "0x00404B": {
+  "en": "Exit",
+  "slot": 6
+ },
+ "0x004058": {
+  "en": "End settings",
+  "slot": 12
+ },
+ "0x00406B": {
+  "en": "Select/Page Sw.",
+  "slot": 24
+ },
+ "0x00408A": {
+  "en": "Term",
+  "slot": 6
+ },
+ "0x004097": {
+  "en": "Show term (<C=00FFFFFF>when text is green</C>)",
+  "slot": 55
+ },
+ "0x0040D5": {
+  "en": "Scroll Desc.",
+  "slot": 24
+ },
+ "0x0040F4": {
+  "en": "Line",
+  "slot": 6
+ },
+ "0x004101": {
+  "en": "Play line",
+  "slot": 12
+ },
+ "0x004114": {
+  "en": "Face",
+  "slot": 6
+ },
+ "0x004121": {
+  "en": "Change face",
+  "slot": 15
+ },
+ "0x004137": {
+  "en": "Change char",
+  "slot": 15
+ },
+ "0x00414D": {
+  "en": "Change Char",
+  "slot": 27
+ },
+ "0x00416F": {
+  "en": "Link",
+  "slot": 9
+ },
+ "0x00417F": {
+  "en": "Show link",
+  "slot": 15
+ },
+ "0x004195": {
+  "en": "Switch link",
+  "slot": 15
+ },
+ "0x0041AB": {
+  "en": "End answer",
+  "slot": 18
+ },
+ "0x0041C4": {
+  "en": "Speed",
+  "slot": 6
+ },
+ "0x0041D1": {
+  "en": "Cursor speed UP",
+  "slot": 30
+ },
+ "0x0041F6": {
+  "en": "Copy",
+  "slot": 9
+ },
+ "0x004206": {
+  "en": "Copy Counter Set (All)",
+  "slot": 48
+ },
+ "0x00423D": {
+  "en": "Paste",
+  "slot": 12
+ },
+ "0x004250": {
+  "en": "Apply Copied Counter",
+  "slot": 36
+ },
+ "0x00427B": {
+  "en": "Basic",
+  "slot": 6
+ },
+ "0x004288": {
+  "en": "Revert Song",
+  "slot": 18
+ },
+ "0x0042A1": {
+  "en": "Skip",
+  "slot": 12
+ },
+ "0x0042B4": {
+  "en": "Map",
+  "slot": 9
+ },
+ "0x0042C4": {
+  "en": "Unit on Map",
+  "slot": 30
+ },
+ "0x0042E9": {
+  "en": "Squad",
+  "slot": 6
+ },
+ "0x0042F6": {
+  "en": "Squad Info",
+  "slot": 24
+ },
+ "0x004315": {
+  "en": "Switch side",
+  "slot": 12
+ },
+ "0x004328": {
+  "en": "Side (Enemy/Ally)",
+  "slot": 30
+ },
+ "0x00434D": {
+  "en": "Squad on Map",
+  "slot": 30
+ },
+ "0x004372": {
+  "en": "Unit",
+  "slot": 6
+ },
+ "0x00437F": {
+  "en": "Unit Info",
+  "slot": 24
+ },
+ "0x00439E": {
+  "en": "Demo",
+  "slot": 6
+ },
+ "0x0043AB": {
+  "en": "Toggle battle ON/OFF",
+  "slot": 30
+ },
+ "0x0043D0": {
+  "en": "Spirit",
+  "slot": 6
+ },
+ "0x0043DD": {
+  "en": "Spirit Cmd",
+  "slot": 18
+ },
+ "0x0043F6": {
+  "en": "Info",
+  "slot": 6
+ },
+ "0x004403": {
+  "en": "Switch info",
+  "slot": 12
+ },
+ "0x004416": {
+  "en": "Support",
+  "slot": 12
+ },
+ "0x004429": {
+  "en": "Support ON/OFF",
+  "slot": 30
+ },
+ "0x00444E": {
+  "en": "Counter",
+  "slot": 12
+ },
+ "0x004461": {
+  "en": "Counter Action",
+  "slot": 24
+ },
+ "0x004480": {
+  "en": "Switch arrow",
+  "slot": 12
+ },
+ "0x004493": {
+  "en": "Arrow Scene",
+  "slot": 21
+ },
+ "0x0044AF": {
+  "en": "List",
+  "slot": 12
+ },
+ "0x0044C2": {
+  "en": "To List View",
+  "slot": 21
+ },
+ "0x0044DE": {
+  "en": "Normal View",
+  "slot": 12
+ },
+ "0x0044F1": {
+  "en": "To Normal View",
+  "slot": 21
+ },
+ "0x00450D": {
+  "en": "View",
+  "slot": 6
+ },
+ "0x00451A": {
+  "en": "View",
+  "slot": 12
+ },
+ "0x00452D": {
+  "en": "Ency.",
+  "slot": 6
+ },
+ "0x00453A": {
+  "en": "Train",
+  "slot": 6
+ },
+ "0x004547": {
+  "en": "Pilot Training",
+  "slot": 21
+ },
+ "0x004563": {
+  "en": "Info",
+  "slot": 6
+ },
+ "0x004570": {
+  "en": "Unit/Wpn Mod",
+  "slot": 21
+ },
+ "0x00458C": {
+  "en": "Sup. Weapon",
+  "slot": 12
+ },
+ "0x00459F": {
+  "en": "Change Sup. Wpn",
+  "slot": 21
+ },
+ "0x0045BB": {
+  "en": "Search Terms",
+  "slot": 21
+ },
+ "0x0045D7": {
+  "en": "Clear Settings",
+  "slot": 18
+ },
+ "0x0045F0": {
+  "en": "Settings",
+  "slot": 15
+ },
+ "0x004606": {
+  "en": "Priority",
+  "slot": 15
+ },
+ "0x00461C": {
+  "en": "Line Back",
+  "slot": 9
+ },
+ "0x00462C": {
+  "en": "Next Line",
+  "slot": 9
+ },
+ "0x00463C": {
+  "en": "Prev Line (+<X=3><Y=-4><C=FFFFFFFF><W=32><H=32><I=55></H></W></C></Y></X>: Fast)",
+  "slot": 91
+ },
+ "0x00469E": {
+  "en": "Next Line (+<X=3><Y=-4><C=FFFFFFFF><W=32><H=32><I=55></H></W></C></Y></X>: Fast)",
+  "slot": 91
+ },
+ "0x004700": {
+  "en": "Reverse All",
+  "slot": 18
+ },
+ "0x004719": {
+  "en": "Deploy",
+  "slot": 6
+ },
+ "0x004726": {
+  "en": "Switch Terms",
+  "slot": 15
+ },
+ "0x00473C": {
+  "en": "Adjust (by 100)",
+  "slot": 27
+ },
+ "0x00475E": {
+  "en": "Adjust (by 1000)",
+  "slot": 30
+ },
+ "0x004783": {
+  "en": "Adjust (by 10)",
+  "slot": 24
+ },
+ "0x0047A2": {
+  "en": "Adjust (by 1)",
+  "slot": 21
+ },
+ "0x0047BE": {
+  "en": "To Details",
+  "slot": 21
+ },
+ "0x0047DA": {
+  "en": "Change Wpn (Main)",
+  "slot": 27
+ },
+ "0x0047FC": {
+  "en": "Change Main Unit Wpn",
+  "slot": 30
+ },
+ "0x004821": {
+  "en": "Change Wpn (Sub)",
+  "slot": 24
+ },
+ "0x004840": {
+  "en": "Change Sub Unit Wpn",
+  "slot": 27
+ },
+ "0x004862": {
+  "en": "Active Unit",
+  "slot": 21
+ },
+ "0x00487E": {
+  "en": "List Select",
+  "slot": 15
+ },
+ "0x004894": {
+  "en": "Command",
+  "slot": 12
+ },
+ "0x0048A7": {
+  "en": "Unit Command",
+  "slot": 18
+ },
+ "0x0048C0": {
+  "en": "Switch Main/Sub",
+  "slot": 24
+ },
+ "0x0048DF": {
+  "en": "Change Unit (Ally)",
+  "slot": 33
+ },
+ "0x004907": {
+  "en": "Change Unit (Enemy)",
+  "slot": 30
+ },
+ "0x00492C": {
+  "en": "Next Line (+<W=32><H=32><S=-4><Y=-3><I=122></Y><S=-4></H></W>Fast)",
+  "slot": 76
+ },
+ "0x00497F": {
+  "en": "Backlog",
+  "slot": 15
+ },
+ "0x004995": {
+  "en": "Auto-Advance & Speed",
+  "slot": 36
+ },
+ "0x0049C0": {
+  "en": "(+<W=32><H=32><S=-4><Y=-3><I=122></Y><S=-4></H></W>Skip Text)",
+  "slot": 76
+ },
+ "0x004A13": {
+  "en": "Manual",
+  "slot": 6
+ },
+ "0x004A20": {
+  "en": "Manual Setup",
+  "slot": 12
+ },
+ "0x004A33": {
+  "en": "Register",
+  "slot": 6
+ },
+ "0x004A40": {
+  "en": "Register to Slot",
+  "slot": 27
+ },
+ "0x004A62": {
+  "en": "Update Info",
+  "slot": 12
+ },
+ "0x004A75": {
+  "en": "Refresh Info",
+  "slot": 30
+ },
+ "0x004A9A": {
+  "en": "Song Cat.",
+  "slot": 15
+ },
+ "0x004AB0": {
+  "en": "Play (Prev. Source)",
+  "slot": 30
+ },
+ "0x004AD5": {
+  "en": "Chg Unit",
+  "slot": 21
+ },
+ "0x004AF1": {
+  "en": "Number Input",
+  "slot": 12
+ }
+}
