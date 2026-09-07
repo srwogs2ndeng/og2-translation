@@ -1,0 +1,735 @@
+{
+ "0x014F26": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x014F3C": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x014F4F": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x014F65": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x014F75": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x014F8B": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x014F9E": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x014FB7": {
+  "en": "",
+  "slot": 27,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x014FD3": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x014FE6": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x014FF9": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x01500F": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x015028": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x015041": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x015054": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x01506D": {
+  "en": "",
+  "slot": 27,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x015089": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x01509C": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0150AC": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0150C2": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0150DB": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0150F1": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x01510A": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x01511D": {
+  "en": "",
+  "slot": 27,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x015139": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x01514C": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x015165": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x015178": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x01518B": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0151A1": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0151BA": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0151D0": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0151E3": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0151F9": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x015212": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x015225": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x015238": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x01524B": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x01525E": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x01526E": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x015284": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x015297": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0152AA": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0152C3": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0152D6": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0152EC": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x015302": {
+  "en": "",
+  "slot": 27,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x01531E": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x015334": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x01534A": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x01535A": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x01536D": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x01537D": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x015390": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0153A6": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0153B9": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0153CF": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0153E2": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0153F5": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x015405": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x015418": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x01542E": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x015447": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x01545A": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x01546A": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x015480": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x015490": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0154A9": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0154BF": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0154D5": {
+  "en": "",
+  "slot": 36,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0154FA": {
+  "en": "",
+  "slot": 36,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x01551F": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x015538": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x01554B": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x015564": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x01557A": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x01558A": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0155A7": {
+  "en": "",
+  "slot": 15
+ },
+ "0x0155B7": {
+  "en": "",
+  "slot": 9
+ },
+ "0x0155C1": {
+  "en": "",
+  "slot": 9
+ },
+ "0x0155CB": {
+  "en": "",
+  "slot": 9
+ },
+ "0x0155D5": {
+  "en": "1.  Destroy all enemies.",
+  "slot": 24
+ },
+ "0x0155EE": {
+  "en": "1.  An allied unit is shot down.",
+  "slot": 54
+ },
+ "0x015625": {
+  "en": "2.  Shoot down the Mass-Prod Huckebein Mk-II.",
+  "slot": 63
+ },
+ "0x015665": {
+  "en": "- Shoot down 10 or more enemies within 2 turns (Federation soldiers' kills count too).",
+  "slot": 102
+ },
+ "0x0156CC": {
+  "en": "Game Over",
+  "slot": 21
+ },
+ "0x0156E2": {
+  "en": "",
+  "slot": 9
+ },
+ "0x0156EC": {
+  "en": "",
+  "slot": 9
+ },
+ "0x0156F6": {
+  "en": "",
+  "slot": 9
+ },
+ "0x015700": {
+  "en": "",
+  "slot": 9
+ },
+ "0x01570A": {
+  "en": "",
+  "slot": 9
+ },
+ "0x015714": {
+  "en": "",
+  "slot": 9
+ },
+ "0x01571E": {
+  "en": "",
+  "slot": 9
+ },
+ "0x015728": {
+  "en": "",
+  "slot": 9
+ },
+ "0x015732": {
+  "en": "",
+  "slot": 9
+ },
+ "0x01573C": {
+  "en": "",
+  "slot": 9
+ },
+ "0x015746": {
+  "en": "",
+  "slot": 9
+ },
+ "0x015750": {
+  "en": "",
+  "slot": 9
+ },
+ "0x01575A": {
+  "en": "",
+  "slot": 9
+ },
+ "0x015764": {
+  "en": "",
+  "slot": 9
+ },
+ "0x01576E": {
+  "en": "",
+  "slot": 9
+ },
+ "0x015778": {
+  "en": "",
+  "slot": 9
+ },
+ "0x015782": {
+  "en": "",
+  "slot": 9
+ },
+ "0x01578C": {
+  "en": "",
+  "slot": 9
+ },
+ "0x015796": {
+  "en": "",
+  "slot": 9
+ },
+ "0x0157A0": {
+  "en": "",
+  "slot": 9
+ },
+ "0x0157AA": {
+  "en": "",
+  "slot": 9
+ },
+ "0x0157B4": {
+  "en": "",
+  "slot": 9
+ },
+ "0x0157BE": {
+  "en": "",
+  "slot": 9
+ },
+ "0x0157C8": {
+  "en": "",
+  "slot": 9
+ },
+ "0x0157D2": {
+  "en": "",
+  "slot": 9
+ },
+ "0x0157DC": {
+  "en": "",
+  "slot": 15
+ },
+ "0x0157EC": {
+  "en": "",
+  "slot": 9
+ },
+ "0x0157F6": {
+  "en": "",
+  "slot": 9
+ },
+ "0x015800": {
+  "en": "",
+  "slot": 9
+ },
+ "0x01580A": {
+  "en": "",
+  "slot": 9
+ },
+ "0x015814": {
+  "en": "",
+  "slot": 9
+ },
+ "0x01581E": {
+  "en": "",
+  "slot": 9
+ },
+ "0x015828": {
+  "en": "",
+  "slot": 9
+ },
+ "0x015832": {
+  "en": "",
+  "slot": 9
+ },
+ "0x01583C": {
+  "en": "",
+  "slot": 9
+ },
+ "0x015846": {
+  "en": "",
+  "slot": 9
+ },
+ "0x015850": {
+  "en": "1.  Reduce the JakuBuOh's HP to #0 or below.",
+  "slot": 50
+ },
+ "0x015883": {
+  "en": "1.  An allied unit is shot down.",
+  "slot": 54
+ },
+ "0x0158BA": {
+  "en": "",
+  "slot": 9
+ },
+ "0x0158C4": {
+  "en": "",
+  "slot": 9
+ },
+ "0x0158CE": {
+  "en": "",
+  "slot": 9
+ },
+ "0x0158D8": {
+  "en": "",
+  "slot": 9
+ },
+ "0x0158E2": {
+  "en": "",
+  "slot": 9
+ },
+ "0x0158EC": {
+  "en": "",
+  "slot": 9
+ },
+ "0x0158F6": {
+  "en": "",
+  "slot": 9
+ },
+ "0x015900": {
+  "en": "",
+  "slot": 9
+ },
+ "0x01590A": {
+  "en": "",
+  "slot": 9
+ },
+ "0x015914": {
+  "en": "1.  Kusuha or Bullet is shot down.",
+  "slot": 54
+ },
+ "0x01594B": {
+  "en": "2.  Ally battleship shot down.",
+  "slot": 33
+ },
+ "0x01596D": {
+  "en": "",
+  "slot": 9
+ },
+ "0x015977": {
+  "en": "",
+  "slot": 9
+ },
+ "0x015981": {
+  "en": "",
+  "slot": 9
+ },
+ "0x01598B": {
+  "en": "1.  Reduce the BuJakuOh's HP to #0 or below.",
+  "slot": 50
+ },
+ "0x0159BE": {
+  "en": "",
+  "slot": 9
+ },
+ "0x0159C8": {
+  "en": "",
+  "slot": 9
+ },
+ "0x0159D2": {
+  "en": "",
+  "slot": 9
+ },
+ "0x0159DC": {
+  "en": "",
+  "slot": 9
+ },
+ "0x0159E6": {
+  "en": "",
+  "slot": 9
+ },
+ "0x0159F0": {
+  "en": "",
+  "slot": 9
+ },
+ "0x0159FA": {
+  "en": "",
+  "slot": 9
+ },
+ "0x015A04": {
+  "en": "",
+  "slot": 9
+ },
+ "0x015A0E": {
+  "en": "",
+  "slot": 9
+ },
+ "0x015A18": {
+  "en": "",
+  "slot": 9
+ },
+ "0x015A22": {
+  "en": "",
+  "slot": 9
+ },
+ "0x015A2C": {
+  "en": "",
+  "slot": 9
+ },
+ "0x015A36": {
+  "en": "",
+  "slot": 12
+ },
+ "0x015A43": {
+  "en": "",
+  "slot": 12
+ },
+ "0x015A50": {
+  "en": "",
+  "slot": 12
+ },
+ "0x015A5D": {
+  "en": "",
+  "slot": 15
+ },
+ "0x015A6D": {
+  "en": "Obtained the swap weapon 'Shishioh Blade'.",
+  "slot": 66
+ },
+ "0x015AB0": {
+  "en": "",
+  "slot": 12
+ },
+ "0x015ABD": {
+  "en": "",
+  "slot": 12
+ },
+ "0x015ACA": {
+  "en": "",
+  "slot": 12
+ },
+ "0x015AD7": {
+  "en": "",
+  "slot": 12
+ },
+ "0x015AE4": {
+  "en": "",
+  "slot": 12
+ },
+ "0x015AF1": {
+  "en": "",
+  "slot": 12
+ },
+ "0x015AFE": {
+  "en": "- None.",
+  "slot": 12
+ },
+ "0x015B0B": {
+  "en": "- None.",
+  "slot": 12
+ }
+}

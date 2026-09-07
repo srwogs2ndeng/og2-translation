@@ -1,0 +1,2690 @@
+{
+ "0x0142A1": {
+  "en": "Dummy",
+  "slot": 9
+ },
+ "0x0142B1": {
+  "en": "G-Impact Stake",
+  "slot": 33
+ },
+ "0x0142D9": {
+  "en": "G-Revolver",
+  "slot": 24
+ },
+ "0x0142F8": {
+  "en": "Rounds",
+  "slot": 6
+ },
+ "0x014305": {
+  "en": "G-Railgun",
+  "slot": 21
+ },
+ "0x014321": {
+  "en": "M13 Shotgun",
+  "slot": 27
+ },
+ "0x014343": {
+  "en": "M90 Assault Machine Gun",
+  "slot": 36
+ },
+ "0x01436E": {
+  "en": "M950 Machine Gun",
+  "slot": 27
+ },
+ "0x014390": {
+  "en": "Assault Blade",
+  "slot": 24
+ },
+ "0x0143AF": {
+  "en": "Solid Sword",
+  "slot": 9
+ },
+ "0x0143BF": {
+  "en": "Gun Rapier",
+  "slot": 18
+ },
+ "0x0143D8": {
+  "en": "Beam",
+  "slot": 9
+ },
+ "0x0143E8": {
+  "en": "Graviton Launcher",
+  "slot": 33
+ },
+ "0x014410": {
+  "en": "Cold Metal Knife",
+  "slot": 30
+ },
+ "0x014435": {
+  "en": "Scissors Knife",
+  "slot": 21
+ },
+ "0x014451": {
+  "en": "Shishioh Blade",
+  "slot": 24
+ },
+ "0x014470": {
+  "en": "Stealth Boomerang",
+  "slot": 30
+ },
+ "0x014495": {
+  "en": "Remote Control",
+  "slot": 15
+ },
+ "0x0144AB": {
+  "en": "Slash Ripper",
+  "slot": 30
+ },
+ "0x0144D0": {
+  "en": "Twin Magna Rifle",
+  "slot": 33
+ },
+ "0x0144F8": {
+  "en": "Divine Arm",
+  "slot": 27
+ },
+ "0x01451A": {
+  "en": "Neo Chakram Shooter",
+  "slot": 39
+ },
+ "0x014548": {
+  "en": "Neo Plasma Cutter",
+  "slot": 33
+ },
+ "0x014570": {
+  "en": "Phantom Edge",
+  "slot": 12
+ },
+ "0x014583": {
+  "en": "Burst Railgun",
+  "slot": 30
+ },
+ "0x0145A8": {
+  "en": "Hyper Beam Cannon",
+  "slot": 36
+ },
+ "0x0145D3": {
+  "en": "Beam Sword",
+  "slot": 18
+ },
+ "0x0145EC": {
+  "en": "Boosted Rifle",
+  "slot": 33
+ },
+ "0x014614": {
+  "en": "Boost Hammer",
+  "slot": 24
+ },
+ "0x014633": {
+  "en": "Photon Rifle",
+  "slot": 27
+ },
+ "0x014655": {
+  "en": "Magna Beam Rifle",
+  "slot": 33
+ },
+ "0x01467D": {
+  "en": "Mega Beam Rifle",
+  "slot": 30
+ },
+ "0x0146A2": {
+  "en": "Leap Slasher",
+  "slot": 30
+ },
+ "0x0146C7": {
+  "en": "Linear Missile Launcher",
+  "slot": 36
+ },
+ "0x0146F2": {
+  "en": "Laser Blade",
+  "slot": 24
+ },
+ "0x014711": {
+  "en": "Rectangle Launcher",
+  "slot": 36
+ },
+ "0x01473C": {
+  "en": "Roche Saber",
+  "slot": 21
+ },
+ "0x014758": {
+  "en": "Armor Breaker",
+  "slot": 27
+ },
+ "0x01477A": {
+  "en": "Weapon Breaker",
+  "slot": 27
+ },
+ "0x01479C": {
+  "en": "Energy Taker",
+  "slot": 24
+ },
+ "0x0147BB": {
+  "en": "Energy Taker+",
+  "slot": 27
+ },
+ "0x0147DD": {
+  "en": "Energy Drain",
+  "slot": 24
+ },
+ "0x0147FC": {
+  "en": "Energy Drain+",
+  "slot": 27
+ },
+ "0x01481E": {
+  "en": "Stun Shock",
+  "slot": 21
+ },
+ "0x01483A": {
+  "en": "Spider Net",
+  "slot": 24
+ },
+ "0x014859": {
+  "en": "Spirit Taker",
+  "slot": 27
+ },
+ "0x01487B": {
+  "en": "Spirit Taker+",
+  "slot": 30
+ },
+ "0x0148A0": {
+  "en": "Spirit Drain",
+  "slot": 27
+ },
+ "0x0148C2": {
+  "en": "Chaff Grenade",
+  "slot": 24
+ },
+ "0x0148E1": {
+  "en": "Mind Blast",
+  "slot": 24
+ },
+ "0x014900": {
+  "en": "Free Electron Cannon",
+  "slot": 45
+ },
+ "0x014934": {
+  "en": "New Swap Weapon",
+  "slot": 15
+ },
+ "0x01494A": {
+  "en": "MTDM Shooter",
+  "slot": 27
+ },
+ "0x01496C": {
+  "en": "Hyper Beam Rifle S",
+  "slot": 39
+ },
+ "0x01499A": {
+  "en": "Photon Rifle S",
+  "slot": 30
+ },
+ "0x0149BF": {
+  "en": "Repair Unit",
+  "slot": 12
+ },
+ "0x0149D2": {
+  "en": "Supply Unit",
+  "slot": 12
+ },
+ "0x0149E5": {
+  "en": "Vulcan Gun",
+  "slot": 15
+ },
+ "0x0149FB": {
+  "en": "T-LINK Knuckle",
+  "slot": 30
+ },
+ "0x014A20": {
+  "en": "Tenjo Tenge Psycho Splitter Sword",
+  "slot": 27
+ },
+ "0x014A42": {
+  "en": "Formation R",
+  "slot": 27
+ },
+ "0x014A64": {
+  "en": "Tenjo Tenge Psycho Combo Fist",
+  "slot": 27
+ },
+ "0x014A86": {
+  "en": "Homing Missile",
+  "slot": 27
+ },
+ "0x014AA8": {
+  "en": "G-Revolver Cannon",
+  "slot": 36
+ },
+ "0x014AD3": {
+  "en": "Wired Beam Chakram",
+  "slot": 33
+ },
+ "0x014AFB": {
+  "en": "Hyzol Launcher (Scatter)",
+  "slot": 39
+ },
+ "0x014B29": {
+  "en": "Hyzol Launcher (Focus)",
+  "slot": 39
+ },
+ "0x014B57": {
+  "en": "Psycho Focus Laser Cannon",
+  "slot": 42
+ },
+ "0x014B88": {
+  "en": "Strike Shield",
+  "slot": 27
+ },
+ "0x014BAA": {
+  "en": "Telekinesis Missile",
+  "slot": 33
+ },
+ "0x014BD2": {
+  "en": "MAP Weapon",
+  "slot": 15
+ },
+ "0x014BE8": {
+  "en": "Slash Boomerang",
+  "slot": 33
+ },
+ "0x014C10": {
+  "en": "Hi Twin Launcher",
+  "slot": 33
+ },
+ "0x014C38": {
+  "en": "Tenjo Tenge Ultimate Cannon",
+  "slot": 27
+ },
+ "0x014C5A": {
+  "en": "Mai",
+  "slot": 6
+ },
+ "0x014C67": {
+  "en": "Viletta",
+  "slot": 15
+ },
+ "0x014C7D": {
+  "en": "Hi Finger Launcher",
+  "slot": 39
+ },
+ "0x014CAB": {
+  "en": "Blade Kick",
+  "slot": 24
+ },
+ "0x014CCA": {
+  "en": "Dominion Ball",
+  "slot": 27
+ },
+ "0x014CEC": {
+  "en": "DUMMY",
+  "slot": 15
+ },
+ "0x014D02": {
+  "en": "Tenjo Tenge Psycho Blast Sword",
+  "slot": 27
+ },
+ "0x014D24": {
+  "en": "Gaun Genocider",
+  "slot": 33
+ },
+ "0x014D4C": {
+  "en": "Zyne Knuckle",
+  "slot": 24
+ },
+ "0x014D6B": {
+  "en": "Head Vulcan Gun",
+  "slot": 21
+ },
+ "0x014D87": {
+  "en": "Cold Metal Blade",
+  "slot": 33
+ },
+ "0x014DAF": {
+  "en": "HG-Revolver",
+  "slot": 27
+ },
+ "0x014DD1": {
+  "en": "Boosted Rifle H",
+  "slot": 36
+ },
+ "0x014DFC": {
+  "en": "T-LINK Blade Knuckle",
+  "slot": 42
+ },
+ "0x014E2D": {
+  "en": "T-LINK Crush Sword",
+  "slot": 42
+ },
+ "0x014E5E": {
+  "en": "HG-Revolver Cannon",
+  "slot": 39
+ },
+ "0x014E8C": {
+  "en": "Plasma Horn",
+  "slot": 21
+ },
+ "0x014EA8": {
+  "en": "5-Barrel Chain Gun",
+  "slot": 24
+ },
+ "0x014EC7": {
+  "en": "Revolving Bunker",
+  "slot": 33
+ },
+ "0x014EEF": {
+  "en": "Avalanche Claymore",
+  "slot": 36
+ },
+ "0x014F1A": {
+  "en": "Aerial Claymore",
+  "slot": 30
+ },
+ "0x014F3F": {
+  "en": "Rampage Ghost",
+  "slot": 30
+ },
+ "0x014F64": {
+  "en": "E.D.N.",
+  "slot": 18
+ },
+ "0x014F7D": {
+  "en": "Combo Attack",
+  "slot": 12
+ },
+ "0x014F90": {
+  "en": "Split Missile",
+  "slot": 27
+ },
+ "0x014FB2": {
+  "en": "3-Barrel Beam Cannon",
+  "slot": 27
+ },
+ "0x014FD4": {
+  "en": "Howling Launcher E",
+  "slot": 36
+ },
+ "0x014FFF": {
+  "en": "Howling Launcher B",
+  "slot": 36
+ },
+ "0x01502A": {
+  "en": "Howling Launcher X",
+  "slot": 36
+ },
+ "0x015055": {
+  "en": "3-Barrel Machine Cannon",
+  "slot": 27
+ },
+ "0x015077": {
+  "en": "Revolving Stake",
+  "slot": 33
+ },
+ "0x01509F": {
+  "en": "Magnum Stake",
+  "slot": 27
+ },
+ "0x0150C1": {
+  "en": "U.U.N.",
+  "slot": 18
+ },
+ "0x0150DA": {
+  "en": "Huge Left",
+  "slot": 24
+ },
+ "0x0150F9": {
+  "en": "Red Horn",
+  "slot": 21
+ },
+ "0x015115": {
+  "en": "Big Light",
+  "slot": 21
+ },
+ "0x015131": {
+  "en": "C.U.N.",
+  "slot": 18
+ },
+ "0x01514A": {
+  "en": "Mabuitachi",
+  "slot": 15
+ },
+ "0x015160": {
+  "en": "Yomiji",
+  "slot": 9
+ },
+ "0x015170": {
+  "en": "Raigoue",
+  "slot": 15
+ },
+ "0x015186": {
+  "en": "Mabuieguri",
+  "slot": 18
+ },
+ "0x01519F": {
+  "en": "Graviton Rifle",
+  "slot": 30
+ },
+ "0x0151C4": {
+  "en": "T-LINK Saber",
+  "slot": 30
+ },
+ "0x0151E9": {
+  "en": "Fang Slasher",
+  "slot": 33
+ },
+ "0x015211": {
+  "en": "Leap Missile",
+  "slot": 24
+ },
+ "0x015230": {
+  "en": "G-Impact Cannon",
+  "slot": 33
+ },
+ "0x015258": {
+  "en": "T-LINK Slider",
+  "slot": 33
+ },
+ "0x015280": {
+  "en": "T-LINK Revoluter",
+  "slot": 39
+ },
+ "0x0152AE": {
+  "en": "Black Hole Buster Cannon",
+  "slot": 48
+ },
+ "0x0152E5": {
+  "en": "Bustax Masher",
+  "slot": 36
+ },
+ "0x015310": {
+  "en": "Tri Slasher",
+  "slot": 30
+ },
+ "0x015335": {
+  "en": "Bustaxe Gun",
+  "slot": 27
+ },
+ "0x015357": {
+  "en": "Bustaxe Sequence",
+  "slot": 36
+ },
+ "0x015382": {
+  "en": "Axion Usher",
+  "slot": 33
+ },
+ "0x0153AA": {
+  "en": "Machinery Rifle",
+  "slot": 33
+ },
+ "0x0153D2": {
+  "en": "Six Slave",
+  "slot": 27
+ },
+ "0x0153F4": {
+  "en": "Arm Nutter",
+  "slot": 24
+ },
+ "0x015413": {
+  "en": "Boost Knuckle",
+  "slot": 24
+ },
+ "0x015432": {
+  "en": "Hyper Blaster",
+  "slot": 30
+ },
+ "0x015457": {
+  "en": "APTGM Launcher",
+  "slot": 30
+ },
+ "0x01547C": {
+  "en": "Hayate Jinrai",
+  "slot": 30
+ },
+ "0x0154A1": {
+  "en": "Shippu Dotoh",
+  "slot": 30
+ },
+ "0x0154C6": {
+  "en": "8-Barrel Missile Launcher",
+  "slot": 36
+ },
+ "0x0154F1": {
+  "en": "Dark Lock",
+  "slot": 21
+ },
+ "0x01550D": {
+  "en": "Hyper Boost Knuckle",
+  "slot": 39
+ },
+ "0x01553B": {
+  "en": "Ultimate Beam",
+  "slot": 33
+ },
+ "0x015563": {
+  "en": "Keito Rago Sword: Anken Satsu",
+  "slot": 26
+ },
+ "0x015584": {
+  "en": "Keito Rago Sword: Goo Satsu",
+  "slot": 26
+ },
+ "0x0155A5": {
+  "en": "Double Omega Laser",
+  "slot": 33
+ },
+ "0x0155CD": {
+  "en": "Big Missile",
+  "slot": 24
+ },
+ "0x0155EC": {
+  "en": "Twin Beam Cannon",
+  "slot": 33
+ },
+ "0x015614": {
+  "en": "Spiral Breaker",
+  "slot": 33
+ },
+ "0x01563C": {
+  "en": "Omega Cannon",
+  "slot": 24
+ },
+ "0x01565B": {
+  "en": "Drill Attack",
+  "slot": 24
+ },
+ "0x01567A": {
+  "en": "Gust Burst",
+  "slot": 24
+ },
+ "0x015699": {
+  "en": "Missile Type",
+  "slot": 15
+ },
+ "0x0156AF": {
+  "en": "Eye-Solid Laser",
+  "slot": 33
+ },
+ "0x0156D7": {
+  "en": "Drill Knuckle",
+  "slot": 36
+ },
+ "0x015702": {
+  "en": "Omega Blaster",
+  "slot": 27
+ },
+ "0x015724": {
+  "en": "G-Combination",
+  "slot": 27
+ },
+ "0x015746": {
+  "en": "Shishioh Blade: Saiha",
+  "slot": 27
+ },
+ "0x015768": {
+  "en": "Omega Beam",
+  "slot": 21
+ },
+ "0x015784": {
+  "en": "Ryuoh Bakurai Fu",
+  "slot": 15
+ },
+ "0x01579A": {
+  "en": "Ryuoh Izan Ho",
+  "slot": 15
+ },
+ "0x0157B0": {
+  "en": "Ryuoh Ensui Fu",
+  "slot": 15
+ },
+ "0x0157C6": {
+  "en": "Ryuoh Hazan Sword: Gekirin Dan",
+  "slot": 27
+ },
+ "0x0157E8": {
+  "en": "Ryuoh Hazan Sword: Tenma Gofuku Zan",
+  "slot": 33
+ },
+ "0x015810": {
+  "en": "Tiger Knuckle",
+  "slot": 27
+ },
+ "0x015832": {
+  "en": "Random Spike",
+  "slot": 27
+ },
+ "0x015854": {
+  "en": "Sonic Javelin",
+  "slot": 30
+ },
+ "0x015879": {
+  "en": "Tyrant Over Break",
+  "slot": 39
+ },
+ "0x0158A7": {
+  "en": "Fang Missile",
+  "slot": 27
+ },
+ "0x0158C9": {
+  "en": "Sanshiki Bakurenda",
+  "slot": 15
+ },
+ "0x0158DF": {
+  "en": "Haja Gan",
+  "slot": 9
+ },
+ "0x0158EF": {
+  "en": "Ryuoh Kaen",
+  "slot": 12
+ },
+ "0x015902": {
+  "en": "Kakku Ryuhizan",
+  "slot": 15
+ },
+ "0x015918": {
+  "en": "Sonic Shout",
+  "slot": 27
+ },
+ "0x01593A": {
+  "en": "Tiger Fang",
+  "slot": 27
+ },
+ "0x01595C": {
+  "en": "Branch Fang",
+  "slot": 27
+ },
+ "0x01597E": {
+  "en": "Bakurai Fu",
+  "slot": 9
+ },
+ "0x01598E": {
+  "en": "Nyoi Kinkobo",
+  "slot": 15
+ },
+ "0x0159A4": {
+  "en": "Nyoi Kinkobo: Kaijugeki",
+  "slot": 27
+ },
+ "0x0159C6": {
+  "en": "Ryuoh Ranbu",
+  "slot": 12
+ },
+ "0x0159D9": {
+  "en": "Shuu Sen",
+  "slot": 9
+ },
+ "0x0159E9": {
+  "en": "Shuusen",
+  "slot": 15
+ },
+ "0x0159FF": {
+  "en": "Shura Ken",
+  "slot": 9
+ },
+ "0x015A0F": {
+  "en": "Shuraken",
+  "slot": 15
+ },
+ "0x015A25": {
+  "en": "Kokujato: Sanzenzan",
+  "slot": 21
+ },
+ "0x015A41": {
+  "en": "Kokujato: Sanzenzan",
+  "slot": 39
+ },
+ "0x015A6F": {
+  "en": "Kokujato: Gogyogoku",
+  "slot": 21
+ },
+ "0x015A8B": {
+  "en": "Kokujato: Gogyogoku",
+  "slot": 39
+ },
+ "0x015AB9": {
+  "en": "Kokujato: Gogyoretsuzan",
+  "slot": 24
+ },
+ "0x015AD8": {
+  "en": "Kokujato: Gogyoretsuzan",
+  "slot": 45
+ },
+ "0x015B0C": {
+  "en": "Genko Dan",
+  "slot": 9
+ },
+ "0x015B1C": {
+  "en": "Shinjujun",
+  "slot": 24
+ },
+ "0x015B3B": {
+  "en": "Buo Tarenkaso",
+  "slot": 18
+ },
+ "0x015B54": {
+  "en": "Genkodan",
+  "slot": 18
+ },
+ "0x015B6D": {
+  "en": "Kokuja Kyuho",
+  "slot": 12
+ },
+ "0x015B80": {
+  "en": "Buo Tarenkaso",
+  "slot": 27
+ },
+ "0x015BA2": {
+  "en": "Genten Shotenho",
+  "slot": 15
+ },
+ "0x015BB8": {
+  "en": "Kokujakyuho",
+  "slot": 27
+ },
+ "0x015BDA": {
+  "en": "Jato Ko",
+  "slot": 9
+ },
+ "0x015BEA": {
+  "en": "Jatoko",
+  "slot": 18
+ },
+ "0x015C03": {
+  "en": "Jakuo Kaen",
+  "slot": 12
+ },
+ "0x015C16": {
+  "en": "Jakuokaen",
+  "slot": 24
+ },
+ "0x015C35": {
+  "en": "Kakku Enzan",
+  "slot": 12
+ },
+ "0x015C48": {
+  "en": "Kakkuenzan",
+  "slot": 24
+ },
+ "0x015C67": {
+  "en": "Kokuja Ko",
+  "slot": 9
+ },
+ "0x015C77": {
+  "en": "Ryurin Ranbujin",
+  "slot": 15
+ },
+ "0x015C8D": {
+  "en": "Oryu Goraiso",
+  "slot": 15
+ },
+ "0x015CA3": {
+  "en": "Ryuoh Raiso",
+  "slot": 12
+ },
+ "0x015CB6": {
+  "en": "All Attack",
+  "slot": 12
+ },
+ "0x015CC9": {
+  "en": "Gagan Ko",
+  "slot": 9
+ },
+ "0x015CD9": {
+  "en": "Gaganko",
+  "slot": 15
+ },
+ "0x015CEF": {
+  "en": "Gakon Kyu",
+  "slot": 9
+ },
+ "0x015CFF": {
+  "en": "Gakonkyu",
+  "slot": 18
+ },
+ "0x015D18": {
+  "en": "Gadon Ga",
+  "slot": 9
+ },
+ "0x015D28": {
+  "en": "Gadodonga",
+  "slot": 15
+ },
+ "0x015D3E": {
+  "en": "Gado Donga",
+  "slot": 12
+ },
+ "0x015D51": {
+  "en": "Kyoo Ko",
+  "slot": 9
+ },
+ "0x015D61": {
+  "en": "Kyooko",
+  "slot": 18
+ },
+ "0x015D7A": {
+  "en": "Choon Jaho",
+  "slot": 12
+ },
+ "0x015D8D": {
+  "en": "Choonjaho",
+  "slot": 27
+ },
+ "0x015DAF": {
+  "en": "Kyoga Sai",
+  "slot": 9
+ },
+ "0x015DBF": {
+  "en": "Kyogasai",
+  "slot": 18
+ },
+ "0x015DD8": {
+  "en": "Jao Kyuki",
+  "slot": 12
+ },
+ "0x015DEB": {
+  "en": "Jaokyuki",
+  "slot": 24
+ },
+ "0x015E0A": {
+  "en": "Kaifu Eki",
+  "slot": 9
+ },
+ "0x015E1A": {
+  "en": "Kaifueki",
+  "slot": 18
+ },
+ "0x015E33": {
+  "en": "Hitai Geki",
+  "slot": 9
+ },
+ "0x015E43": {
+  "en": "Hitaigeki",
+  "slot": 15
+ },
+ "0x015E59": {
+  "en": "Manshin Geki",
+  "slot": 9
+ },
+ "0x015E69": {
+  "en": "Manshingeki",
+  "slot": 18
+ },
+ "0x015E82": {
+  "en": "Kaishin Rekisatsu",
+  "slot": 12
+ },
+ "0x015E95": {
+  "en": "Kaishinrekisatsu",
+  "slot": 24
+ },
+ "0x015EB4": {
+  "en": "Jusui Teppo",
+  "slot": 12
+ },
+ "0x015EC7": {
+  "en": "Jusuiteppo",
+  "slot": 27
+ },
+ "0x015EE9": {
+  "en": "Gyotai Ran",
+  "slot": 9
+ },
+ "0x015EF9": {
+  "en": "Gyotairan",
+  "slot": 18
+ },
+ "0x015F12": {
+  "en": "Eiko Bosei",
+  "slot": 12
+ },
+ "0x015F25": {
+  "en": "Eikobosei",
+  "slot": 18
+ },
+ "0x015F3E": {
+  "en": "Rini Ushoku",
+  "slot": 12
+ },
+ "0x015F51": {
+  "en": "Riniushoku",
+  "slot": 18
+ },
+ "0x015F6A": {
+  "en": "Kushin Kanro",
+  "slot": 12
+ },
+ "0x015F7D": {
+  "en": "Ichirin Rekisatsu",
+  "slot": 12
+ },
+ "0x015F90": {
+  "en": "Hime Mai",
+  "slot": 9
+ },
+ "0x015FA0": {
+  "en": "Makarugaeshi no Tama",
+  "slot": 9
+ },
+ "0x015FB0": {
+  "en": "Yomi Mai",
+  "slot": 9
+ },
+ "0x015FC0": {
+  "en": "Yasakani no Tsurugi",
+  "slot": 9
+ },
+ "0x015FD0": {
+  "en": "Meni Hanif",
+  "slot": 18
+ },
+ "0x015FE9": {
+  "en": "Tehila Ray",
+  "slot": 21
+ },
+ "0x016005": {
+  "en": "Fire Tzipor",
+  "slot": 30
+ },
+ "0x01602A": {
+  "en": "Kalish Dive",
+  "slot": 27
+ },
+ "0x01604C": {
+  "en": "Thunder Raam",
+  "slot": 24
+ },
+ "0x01606B": {
+  "en": "Shining Tzaak",
+  "slot": 33
+ },
+ "0x016093": {
+  "en": "Shamayim Sahar",
+  "slot": 27
+ },
+ "0x0160B5": {
+  "en": "Vulkan Ray",
+  "slot": 24
+ },
+ "0x0160D4": {
+  "en": "Alof Yad",
+  "slot": 21
+ },
+ "0x0160F0": {
+  "en": "Adom Miklahat",
+  "slot": 30
+ },
+ "0x016115": {
+  "en": "Eden Golah",
+  "slot": 21
+ },
+ "0x016131": {
+  "en": "Heat Lahavot",
+  "slot": 27
+ },
+ "0x016153": {
+  "en": "Mavet Gospel",
+  "slot": 30
+ },
+ "0x016178": {
+  "en": "Follow the Sun",
+  "slot": 27
+ },
+ "0x01619A": {
+  "en": "Triple Gatling Cannon",
+  "slot": 24
+ },
+ "0x0161B9": {
+  "en": "Cold Metal Sword",
+  "slot": 30
+ },
+ "0x0161DE": {
+  "en": "Stag Beetle Crusher",
+  "slot": 45
+ },
+ "0x016212": {
+  "en": "Victim Beak",
+  "slot": 27
+ },
+ "0x016234": {
+  "en": "Twin Bird Strike",
+  "slot": 39
+ },
+ "0x016262": {
+  "en": "Split Missile H",
+  "slot": 30
+ },
+ "0x016287": {
+  "en": "Oxtongue Rifle E",
+  "slot": 33
+ },
+ "0x0162AF": {
+  "en": "Oxtongue Rifle B",
+  "slot": 33
+ },
+ "0x0162D7": {
+  "en": "Oxtongue Rifle W",
+  "slot": 33
+ },
+ "0x0162FF": {
+  "en": "Hyper Beam Rifle Kai",
+  "slot": 39
+ },
+ "0x01632D": {
+  "en": "Blade Sai",
+  "slot": 21
+ },
+ "0x016349": {
+  "en": "Raptor Schnabel",
+  "slot": 33
+ },
+ "0x016371": {
+  "en": "Twin Rail Cannon",
+  "slot": 33
+ },
+ "0x016399": {
+  "en": "Live Shot",
+  "slot": 9
+ },
+ "0x0163A9": {
+  "en": "Switch to swap weapon",
+  "slot": 24
+ },
+ "0x0163C8": {
+  "en": "G-Railgun Kai",
+  "slot": 24
+ },
+ "0x0163E7": {
+  "en": "Split Beam Cannon",
+  "slot": 39
+ },
+ "0x016415": {
+  "en": "Blade Tonfa",
+  "slot": 30
+ },
+ "0x01643A": {
+  "en": "F2W Cannon (S Range)",
+  "slot": 39
+ },
+ "0x016468": {
+  "en": "Jet Magnum",
+  "slot": 27
+ },
+ "0x01648A": {
+  "en": "F2W Cannon (L Range)",
+  "slot": 39
+ },
+ "0x0164B8": {
+  "en": "Jet Magnum S",
+  "slot": 30
+ },
+ "0x0164DD": {
+  "en": "Mega Blaster Cannon",
+  "slot": 36
+ },
+ "0x016508": {
+  "en": "Jet Phantom",
+  "slot": 30
+ },
+ "0x01652D": {
+  "en": "Fan-Out Missile",
+  "slot": 33
+ },
+ "0x016555": {
+  "en": "Twin Beam Cannon (Rapid)",
+  "slot": 42
+ },
+ "0x016586": {
+  "en": "Twin Beam Cannon (Focus)",
+  "slot": 42
+ },
+ "0x0165B7": {
+  "en": "Hi-Plasma Cutter",
+  "slot": 30
+ },
+ "0x0165DC": {
+  "en": "Vampir Laser",
+  "slot": 33
+ },
+ "0x016604": {
+  "en": "Mega Buster Cannon (Single)",
+  "slot": 51
+ },
+ "0x01663E": {
+  "en": "Mega Buster Cannon (All)",
+  "slot": 51
+ },
+ "0x016678": {
+  "en": "Split Beam",
+  "slot": 27
+ },
+ "0x01669A": {
+  "en": "Swap Weapon?",
+  "slot": 15
+ },
+ "0x0166B0": {
+  "en": "Hard Heat Horn",
+  "slot": 30
+ },
+ "0x0166D5": {
+  "en": "Square Cluster",
+  "slot": 30
+ },
+ "0x0166FA": {
+  "en": "Sonic Boost Kick",
+  "slot": 36
+ },
+ "0x016725": {
+  "en": "Machine Cannon",
+  "slot": 21
+ },
+ "0x016741": {
+  "en": "Blade Railgun",
+  "slot": 27
+ },
+ "0x016763": {
+  "en": "Sonic Acceleration",
+  "slot": 42
+ },
+ "0x016794": {
+  "en": "G-Circle Blaster",
+  "slot": 33
+ },
+ "0x0167BC": {
+  "en": "Gigant Knuckle",
+  "slot": 27
+ },
+ "0x0167DE": {
+  "en": "Giga Wide Blaster",
+  "slot": 33
+ },
+ "0x016806": {
+  "en": "Gigante Unghia",
+  "slot": 27
+ },
+ "0x016828": {
+  "en": "90mm GG Cannon",
+  "slot": 30
+ },
+ "0x01684D": {
+  "en": "Sonic Saber",
+  "slot": 27
+ },
+ "0x01686F": {
+  "en": "CTM-02 Spicule",
+  "slot": 36
+ },
+ "0x01689A": {
+  "en": "CTM-07 Prominence",
+  "slot": 36
+ },
+ "0x0168C5": {
+  "en": "G Accel Driver",
+  "slot": 30
+ },
+ "0x0168EA": {
+  "en": "Maneuver GRaMXs",
+  "slot": 36
+ },
+ "0x016915": {
+  "en": "110mm GG Cannon",
+  "slot": 33
+ },
+ "0x01693D": {
+  "en": "CTM-05 Pleiades",
+  "slot": 36
+ },
+ "0x016968": {
+  "en": "G Break Driver",
+  "slot": 30
+ },
+ "0x01698D": {
+  "en": "CTM-09 Seyfert",
+  "slot": 36
+ },
+ "0x0169B8": {
+  "en": "Twin GG Cannon",
+  "slot": 27
+ },
+ "0x0169DA": {
+  "en": "CTM-07 Prominence W",
+  "slot": 39
+ },
+ "0x016A08": {
+  "en": "G Driver X Combination",
+  "slot": 48
+ },
+ "0x016A3F": {
+  "en": "Roll Cannon",
+  "slot": 24
+ },
+ "0x016A5E": {
+  "en": "Vostok Laser",
+  "slot": 30
+ },
+ "0x016A83": {
+  "en": "Sonic Driver",
+  "slot": 30
+ },
+ "0x016AA8": {
+  "en": "Royal Heart Breaker",
+  "slot": 42
+ },
+ "0x016AD9": {
+  "en": "Box Railgun",
+  "slot": 30
+ },
+ "0x016AFE": {
+  "en": "MTDM Launcher",
+  "slot": 27
+ },
+ "0x016B20": {
+  "en": "Super Sonic Breaker",
+  "slot": 45
+ },
+ "0x016B54": {
+  "en": "Peak Shooter",
+  "slot": 27
+ },
+ "0x016B76": {
+  "en": "Double Peak Shooter",
+  "slot": 39
+ },
+ "0x016BA4": {
+  "en": "Turnail Crusher",
+  "slot": 36
+ },
+ "0x016BCF": {
+  "en": "Sub-Finisher",
+  "slot": 12
+ },
+ "0x016BE2": {
+  "en": "Sonic Destroyer",
+  "slot": 36
+ },
+ "0x016C0D": {
+  "en": "Finisher",
+  "slot": 9
+ },
+ "0x016C1D": {
+  "en": "Cerberus Strike",
+  "slot": 33
+ },
+ "0x016C45": {
+  "en": "Cask Missile",
+  "slot": 27
+ },
+ "0x016C67": {
+  "en": "AHWGM Launcher",
+  "slot": 30
+ },
+ "0x016C8C": {
+  "en": "Knock-In Arrow",
+  "slot": 27
+ },
+ "0x016CAE": {
+  "en": "Railgun",
+  "slot": 15
+ },
+ "0x016CC4": {
+  "en": "Missile Launcher",
+  "slot": 27
+ },
+ "0x016CE6": {
+  "en": "Big Head Railgun",
+  "slot": 36
+ },
+ "0x016D11": {
+  "en": "Twin Head Railgun",
+  "slot": 36
+ },
+ "0x016D3C": {
+  "en": "Sonic Breaker",
+  "slot": 30
+ },
+ "0x016D61": {
+  "en": "Mumyo: Nitohjinkizan",
+  "slot": 24
+ },
+ "0x016D80": {
+  "en": "Cross Smasher",
+  "slot": 24
+ },
+ "0x016D9F": {
+  "en": "Mega Graviton Wave",
+  "slot": 36
+ },
+ "0x016DCA": {
+  "en": "Machine Gun",
+  "slot": 6
+ },
+ "0x016DD7": {
+  "en": "Cannon",
+  "slot": 6
+ },
+ "0x016DE4": {
+  "en": "AA Autocannon",
+  "slot": 15
+ },
+ "0x016DFA": {
+  "en": "Linked Beam Cannon",
+  "slot": 18
+ },
+ "0x016E13": {
+  "en": "Anti-Ship Missile",
+  "slot": 18
+ },
+ "0x016E2C": {
+  "en": "PBS Formation",
+  "slot": 33
+ },
+ "0x016E54": {
+  "en": "VLS Missile Launcher",
+  "slot": 36
+ },
+ "0x016E7F": {
+  "en": "Turning Beam",
+  "slot": 27
+ },
+ "0x016EA1": {
+  "en": "DOB Cannon",
+  "slot": 21
+ },
+ "0x016EBD": {
+  "en": "Bow Torpedo",
+  "slot": 12
+ },
+ "0x016ED0": {
+  "en": "Sub Cannons",
+  "slot": 12
+ },
+ "0x016EE3": {
+  "en": "Linked Impact Cannon",
+  "slot": 15
+ },
+ "0x016EF9": {
+  "en": "Tronium Buster Cannon",
+  "slot": 42
+ },
+ "0x016F2A": {
+  "en": "Giant Rotary Ram",
+  "slot": 21
+ },
+ "0x016F46": {
+  "en": "Bow Gravity Cannon",
+  "slot": 24
+ },
+ "0x016F65": {
+  "en": "EAAM Launcher",
+  "slot": 27
+ },
+ "0x016F87": {
+  "en": "Beam Cannon",
+  "slot": 18
+ },
+ "0x016FA0": {
+  "en": "Fir Tree Blade",
+  "slot": 36
+ },
+ "0x016FCB": {
+  "en": "Bald Beam Cannon",
+  "slot": 36
+ },
+ "0x016FF6": {
+  "en": "AA Gun",
+  "slot": 12
+ },
+ "0x017009": {
+  "en": "Missile",
+  "slot": 12
+ },
+ "0x01701C": {
+  "en": "Daisharin",
+  "slot": 21
+ },
+ "0x017038": {
+  "en": "Raiko-Giri",
+  "slot": 24
+ },
+ "0x017057": {
+  "en": "Unyou no Tachi",
+  "slot": 27
+ },
+ "0x017079": {
+  "en": "Dynamic Knuckle",
+  "slot": 33
+ },
+ "0x0170A1": {
+  "en": "General Blaster",
+  "slot": 30
+ },
+ "0x0170C6": {
+  "en": "Tornado Zankantou",
+  "slot": 15
+ },
+ "0x0170DC": {
+  "en": "Gakai",
+  "slot": 18
+ },
+ "0x0170F5": {
+  "en": "Schulter Platte",
+  "slot": 30
+ },
+ "0x01711A": {
+  "en": "Lanze Kanone",
+  "slot": 27
+ },
+ "0x01713C": {
+  "en": "Lanze Kanone W",
+  "slot": 30
+ },
+ "0x017161": {
+  "en": "Sturm Angriff",
+  "slot": 33
+ },
+ "0x017189": {
+  "en": "Kreis Kanone",
+  "slot": 27
+ },
+ "0x0171AB": {
+  "en": "Painless Dagger",
+  "slot": 27
+ },
+ "0x0171CD": {
+  "en": "Name Pending",
+  "slot": 12
+ },
+ "0x0171E0": {
+  "en": "Multiply Blade",
+  "slot": 33
+ },
+ "0x017208": {
+  "en": "Sonic Heel",
+  "slot": 24
+ },
+ "0x017227": {
+  "en": "Anchor Secrete Sword",
+  "slot": 48
+ },
+ "0x01725E": {
+  "en": "Reisner Drop",
+  "slot": 27
+ },
+ "0x017280": {
+  "en": "Short Secrete Sword",
+  "slot": 45
+ },
+ "0x0172B4": {
+  "en": "Haken Impulse",
+  "slot": 30
+ },
+ "0x0172D9": {
+  "en": "Counter Break",
+  "slot": 30
+ },
+ "0x0172FE": {
+  "en": "Lightning Fall",
+  "slot": 33
+ },
+ "0x017326": {
+  "en": "Rising Meteor",
+  "slot": 27
+ },
+ "0x017348": {
+  "en": "Bloody Ray",
+  "slot": 24
+ },
+ "0x017367": {
+  "en": "Fang Knuckle",
+  "slot": 27
+ },
+ "0x017389": {
+  "en": "Thunder Spin Edge",
+  "slot": 33
+ },
+ "0x0173B1": {
+  "en": "Burning Breaker",
+  "slot": 33
+ },
+ "0x0173D9": {
+  "en": "Rouga Crusher",
+  "slot": 30
+ },
+ "0x0173FE": {
+  "en": "Lightning Spin Edge",
+  "slot": 39
+ },
+ "0x01742C": {
+  "en": "Terminus Blaster",
+  "slot": 33
+ },
+ "0x017454": {
+  "en": "Execution Raid",
+  "slot": 39
+ },
+ "0x017482": {
+  "en": "TE Sphere Blazer",
+  "slot": 36
+ },
+ "0x0174AD": {
+  "en": "Machine Animalite Raid",
+  "slot": 39
+ },
+ "0x0174DB": {
+  "en": "Trinity Dead End",
+  "slot": 36
+ },
+ "0x017506": {
+  "en": "Coating Sword",
+  "slot": 30
+ },
+ "0x01752B": {
+  "en": "Machine Gun Pod",
+  "slot": 27
+ },
+ "0x01754D": {
+  "en": "Radical Railgun",
+  "slot": 33
+ },
+ "0x017575": {
+  "en": "Terminus Cannon",
+  "slot": 30
+ },
+ "0x01759A": {
+  "en": "Hugo + Aqua",
+  "slot": 24
+ },
+ "0x0175B9": {
+  "en": "Aqua Solo",
+  "slot": 21
+ },
+ "0x0175D5": {
+  "en": "Coating Sword TeX",
+  "slot": 39
+ },
+ "0x017603": {
+  "en": "Ray Gun Pod",
+  "slot": 24
+ },
+ "0x017622": {
+  "en": "Ho Missile Launcher",
+  "slot": 36
+ },
+ "0x01764D": {
+  "en": "Ignite Pike",
+  "slot": 27
+ },
+ "0x01766F": {
+  "en": "Cerberus Fang",
+  "slot": 30
+ },
+ "0x017694": {
+  "en": "Terminus Smasher",
+  "slot": 36
+ },
+ "0x0176BF": {
+  "en": "Cerbereido Buster",
+  "slot": 33
+ },
+ "0x0176E7": {
+  "en": "Divided Rifle",
+  "slot": 36
+ },
+ "0x017712": {
+  "en": "Normal",
+  "slot": 9
+ },
+ "0x017722": {
+  "en": "Sting Acceleration",
+  "slot": 45
+ },
+ "0x017756": {
+  "en": "Shadow",
+  "slot": 6
+ },
+ "0x017763": {
+  "en": "Spiral Fang",
+  "slot": 30
+ },
+ "0x017788": {
+  "en": "Riot Boomerang",
+  "slot": 33
+ },
+ "0x0177B0": {
+  "en": "Terminus Blazer",
+  "slot": 33
+ },
+ "0x0177D8": {
+  "en": "Heaven Acceleration",
+  "slot": 39
+ },
+ "0x017806": {
+  "en": "Double Fang Knuckle",
+  "slot": 39
+ },
+ "0x017834": {
+  "en": "Thunderbolt Spin Edge",
+  "slot": 42
+ },
+ "0x017865": {
+  "en": "Terminus Destroyer",
+  "slot": 39
+ },
+ "0x017893": {
+  "en": "Cerberus Excursion",
+  "slot": 45
+ },
+ "0x0178C7": {
+  "en": "Double Gunnery E",
+  "slot": 27
+ },
+ "0x0178E9": {
+  "en": "Double Gunnery W",
+  "slot": 27
+ },
+ "0x01790B": {
+  "en": "Enlargement VX",
+  "slot": 30
+ },
+ "0x017930": {
+  "en": "Enlargement MX",
+  "slot": 30
+ },
+ "0x017955": {
+  "en": "Cross Medius Locus",
+  "slot": 39
+ },
+ "0x017983": {
+  "en": "All In 1",
+  "slot": 24
+ },
+ "0x0179A2": {
+  "en": "Over Beam",
+  "slot": 24
+ },
+ "0x0179C1": {
+  "en": "Spiral Knuckle",
+  "slot": 27
+ },
+ "0x0179E3": {
+  "en": "Kaiser Boomerang",
+  "slot": 30
+ },
+ "0x017A08": {
+  "en": "Kaiser Burst",
+  "slot": 27
+ },
+ "0x017A2A": {
+  "en": "Kaiser Tornado",
+  "slot": 30
+ },
+ "0x017A4F": {
+  "en": "Shoulder Cannon",
+  "slot": 30
+ },
+ "0x017A74": {
+  "en": "Double Spiral Knuckle",
+  "slot": 39
+ },
+ "0x017AA2": {
+  "en": "Fire Dragon",
+  "slot": 30
+ },
+ "0x017AC7": {
+  "en": "Over Kaiser Sword",
+  "slot": 39
+ },
+ "0x017AF5": {
+  "en": "G Missile",
+  "slot": 15
+ },
+ "0x017B0B": {
+  "en": "Thunder Smasher",
+  "slot": 33
+ },
+ "0x017B33": {
+  "en": "Gate Breaker",
+  "slot": 27
+ },
+ "0x017B55": {
+  "en": "First Rush",
+  "slot": 30
+ },
+ "0x017B7A": {
+  "en": "Fighter Beam Gun",
+  "slot": 33
+ },
+ "0x017BA2": {
+  "en": "Fighter Beam Bow",
+  "slot": 33
+ },
+ "0x017BCA": {
+  "en": "Fire Racer",
+  "slot": 30
+ },
+ "0x017BEF": {
+  "en": "G Beam",
+  "slot": 12
+ },
+ "0x017C02": {
+  "en": "Van Punch",
+  "slot": 18
+ },
+ "0x017C1B": {
+  "en": "Karan Kick",
+  "slot": 21
+ },
+ "0x017C37": {
+  "en": "Type 8710 Ryuko Barrage",
+  "slot": 30
+ },
+ "0x017C5C": {
+  "en": "Blazing Blade",
+  "slot": 9
+ },
+ "0x017C6C": {
+  "en": "Water Fang",
+  "slot": 12
+ },
+ "0x017C7F": {
+  "en": "Earth Sky Blade",
+  "slot": 15
+ },
+ "0x017C95": {
+  "en": "Wind Blade Flash",
+  "slot": 9
+ },
+ "0x017CA5": {
+  "en": "Secret: Light Blade Flash",
+  "slot": 18
+ },
+ "0x017CBE": {
+  "en": "Seiryu Scale",
+  "slot": 9
+ },
+ "0x017CCE": {
+  "en": "Byakko Bite",
+  "slot": 9
+ },
+ "0x017CDE": {
+  "en": "Genbu Shot",
+  "slot": 15
+ },
+ "0x017CF4": {
+  "en": "Dancing Suzaku",
+  "slot": 9
+ },
+ "0x017D04": {
+  "en": "Kirin",
+  "slot": 6
+ },
+ "0x017D11": {
+  "en": "Fire Dagger",
+  "slot": 24
+ },
+ "0x017D30": {
+  "en": "Halberd Launcher",
+  "slot": 33
+ },
+ "0x017D58": {
+  "en": "Sword Breaker",
+  "slot": 24
+ },
+ "0x017D77": {
+  "en": "Mirage Sword",
+  "slot": 27
+ },
+ "0x017D99": {
+  "en": "Shadow Lancer",
+  "slot": 27
+ },
+ "0x017DBB": {
+  "en": "Mirage Sign",
+  "slot": 27
+ },
+ "0x017DDD": {
+  "en": "Illusion Arrow",
+  "slot": 33
+ },
+ "0x017E05": {
+  "en": "Phantom Phoenix",
+  "slot": 36
+ },
+ "0x017E30": {
+  "en": "Matrix Missile",
+  "slot": 30
+ },
+ "0x017E55": {
+  "en": "Phalanx Missile",
+  "slot": 33
+ },
+ "0x017E7D": {
+  "en": "Heavy Linear Rifle",
+  "slot": 33
+ },
+ "0x017EA5": {
+  "en": "Twin Solid Cannon",
+  "slot": 33
+ },
+ "0x017ECD": {
+  "en": "Focused Charged Particle Gun",
+  "slot": 21
+ },
+ "0x017EE9": {
+  "en": "Linear Rifle",
+  "slot": 21
+ },
+ "0x017F05": {
+  "en": "Twin Linear Cannon",
+  "slot": 30
+ },
+ "0x017F2A": {
+  "en": "Caloric Missile",
+  "slot": 27
+ },
+ "0x017F4C": {
+  "en": "Psy Flash",
+  "slot": 21
+ },
+ "0x017F68": {
+  "en": "High Familiar",
+  "slot": 21
+ },
+ "0x017F84": {
+  "en": "Dis Cutter",
+  "slot": 21
+ },
+ "0x017FA0": {
+  "en": "Akashic Buster",
+  "slot": 27
+ },
+ "0x017FC2": {
+  "en": "Cosmo Nova",
+  "slot": 18
+ },
+ "0x017FDB": {
+  "en": "Ranbu Blade",
+  "slot": 15
+ },
+ "0x017FF1": {
+  "en": "In Mazoku form, named \"Ranbu Blade\"",
+  "slot": 42
+ },
+ "0x018022": {
+  "en": "Vanity Ripper",
+  "slot": 24
+ },
+ "0x018041": {
+  "en": "Mazoku only. Upgrade of Dis Cutter",
+  "slot": 51
+ },
+ "0x01807B": {
+  "en": "Psycho Blaster",
+  "slot": 24
+ },
+ "0x01809A": {
+  "en": "All",
+  "slot": 6
+ },
+ "0x0180A7": {
+  "en": "Single",
+  "slot": 6
+ },
+ "0x0180B4": {
+  "en": "Swap weapon? In Mazoku, \"Mega Beam Cannon\"",
+  "slot": 60
+ },
+ "0x0180F7": {
+  "en": "Cross Sorcer",
+  "slot": 21
+ },
+ "0x018113": {
+  "en": "Moon Slash",
+  "slot": 12
+ },
+ "0x018126": {
+  "en": "Upgrade of Divine Arm. Mazoku only",
+  "slot": 54
+ },
+ "0x018163": {
+  "en": "Upgrade of Cross Sorcer. Mazoku only",
+  "slot": 51
+ },
+ "0x01819D": {
+  "en": "Kelvin Blizzard",
+  "slot": 30
+ },
+ "0x0181C2": {
+  "en": "Gungnir",
+  "slot": 18
+ },
+ "0x0181DB": {
+  "en": "Hydro Pressure",
+  "slot": 30
+ },
+ "0x018200": {
+  "en": "Fenrir Crush",
+  "slot": 30
+ },
+ "0x018225": {
+  "en": "Alpha Gaiden weapon",
+  "slot": 14
+ },
+ "0x01823A": {
+  "en": "Megiddo Flame",
+  "slot": 21
+ },
+ "0x018256": {
+  "en": "Flame Cutter",
+  "slot": 24
+ },
+ "0x018275": {
+  "en": "Caloric Smash",
+  "slot": 30
+ },
+ "0x01829A": {
+  "en": "Fire Wind Blue Cloud Sword",
+  "slot": 15
+ },
+ "0x0182B0": {
+  "en": "Pulse Laser",
+  "slot": 21
+ },
+ "0x0182CC": {
+  "en": "Resonance Quake",
+  "slot": 27
+ },
+ "0x0182EE": {
+  "en": "Hyper Plasma Sword",
+  "slot": 33
+ },
+ "0x018316": {
+  "en": "Ultra Vibration Fist",
+  "slot": 12
+ },
+ "0x018329": {
+  "en": "Linear Railgun",
+  "slot": 24
+ },
+ "0x018348": {
+  "en": "Goro Nyudo Masamune",
+  "slot": 18
+ },
+ "0x018361": {
+  "en": "Rose Cutter",
+  "slot": 21
+ },
+ "0x01837D": {
+  "en": "Drei Strahl",
+  "slot": 27
+ },
+ "0x01839F": {
+  "en": "Astral Buster",
+  "slot": 27
+ },
+ "0x0183C1": {
+  "en": "Elemental Fusion",
+  "slot": 36
+ },
+ "0x0183EC": {
+  "en": "Beam Cannon",
+  "slot": 21
+ },
+ "0x018408": {
+  "en": "Gigasort Cannon",
+  "slot": 24
+ },
+ "0x018427": {
+  "en": "Mega Beam Cannon",
+  "slot": 27
+ },
+ "0x018449": {
+  "en": "Brush Blade",
+  "slot": 27
+ },
+ "0x01846B": {
+  "en": "Black Thunderclap",
+  "slot": 12
+ },
+ "0x01847E": {
+  "en": "Mazoku only",
+  "slot": 12
+ },
+ "0x018491": {
+  "en": "Lower ver. of Hyper Railgun. Mazoku only",
+  "slot": 57
+ },
+ "0x0184D1": {
+  "en": "Upgrade of Crime and Punishment. Mazoku only",
+  "slot": 39
+ },
+ "0x0184FF": {
+  "en": "Plasma Sword",
+  "slot": 21
+ },
+ "0x01851B": {
+  "en": "Nutcracker",
+  "slot": 21
+ },
+ "0x018537": {
+  "en": "Ripper Claw",
+  "slot": 21
+ },
+ "0x018553": {
+  "en": "Brass Knuckle",
+  "slot": 24
+ },
+ "0x018572": {
+  "en": "Evil Eye",
+  "slot": 15
+ },
+ "0x018588": {
+  "en": "In Mazoku, \"Plasma Sword\"",
+  "slot": 39
+ },
+ "0x0185B6": {
+  "en": "Angel Whisper",
+  "slot": 30
+ },
+ "0x0185DB": {
+  "en": "Gatling Gun",
+  "slot": 21
+ },
+ "0x0185F7": {
+  "en": "Hyper Railgun",
+  "slot": 27
+ },
+ "0x018619": {
+  "en": "Guided Missile",
+  "slot": 18
+ },
+ "0x018632": {
+  "en": "Ultra Vibro-Claw",
+  "slot": 18
+ },
+ "0x01864B": {
+  "en": "Buster Cannon",
+  "slot": 24
+ },
+ "0x01866A": {
+  "en": "Taoh Steil",
+  "slot": 21
+ },
+ "0x018686": {
+  "en": "Mega Smasher",
+  "slot": 24
+ },
+ "0x0186A5": {
+  "en": "Lightning Pressure",
+  "slot": 36
+ },
+ "0x0186D0": {
+  "en": "Grand Napalm",
+  "slot": 24
+ },
+ "0x0186EF": {
+  "en": "Wave Punisher",
+  "slot": 30
+ },
+ "0x018714": {
+  "en": "Tornado Attack",
+  "slot": 27
+ },
+ "0x018736": {
+  "en": "Anti-Air Missile",
+  "slot": 18
+ },
+ "0x01874F": {
+  "en": "Vulcan",
+  "slot": 12
+ },
+ "0x018762": {
+  "en": "Recoilless Bazooka",
+  "slot": 21
+ },
+ "0x01877E": {
+  "en": "Rocket Hammer",
+  "slot": 24
+ },
+ "0x01879D": {
+  "en": "60mm Gun",
+  "slot": 18
+ },
+ "0x0187B6": {
+  "en": "AA Gun",
+  "slot": 9
+ },
+ "0x0187C6": {
+  "en": "500mm Cannon",
+  "slot": 27
+ },
+ "0x0187E8": {
+  "en": "Baryon Beam Cannon",
+  "slot": 27
+ },
+ "0x01880A": {
+  "en": "Plasmatic Blade",
+  "slot": 36
+ },
+ "0x018835": {
+  "en": "Hypersonic Wave",
+  "slot": 36
+ },
+ "0x018860": {
+  "en": "Claw",
+  "slot": 6
+ },
+ "0x01886D": {
+  "en": "Purge Flame",
+  "slot": 12
+ },
+ "0x018880": {
+  "en": "Big Bang Wave",
+  "slot": 27
+ },
+ "0x0188A2": {
+  "en": "Neutron Beam",
+  "slot": 18
+ },
+ "0x0188BB": {
+  "en": "Hyper Beam Cannon",
+  "slot": 33
+ },
+ "0x0188E3": {
+  "en": "Sword",
+  "slot": 9
+ },
+ "0x0188F3": {
+  "en": "Pulse Vulcan",
+  "slot": 21
+ },
+ "0x01890F": {
+  "en": "Thunder Ball",
+  "slot": 21
+ },
+ "0x01892B": {
+  "en": "MIRV Missile",
+  "slot": 21
+ },
+ "0x018947": {
+  "en": "Pulse Cluster",
+  "slot": 24
+ },
+ "0x018966": {
+  "en": "Rock Throw",
+  "slot": 12
+ },
+ "0x018979": {
+  "en": "Death Cry",
+  "slot": 12
+ },
+ "0x01898C": {
+  "en": "Power Knuckle",
+  "slot": 21
+ },
+ "0x0189A8": {
+  "en": "Phantom Bullet",
+  "slot": 30
+ },
+ "0x0189CD": {
+  "en": "Pragmatic Blade",
+  "slot": 36
+ },
+ "0x0189F8": {
+  "en": "Grudge Hail",
+  "slot": 21
+ },
+ "0x018A14": {
+  "en": "Knuckle Part",
+  "slot": 21
+ },
+ "0x018A30": {
+  "en": "Generic Laser",
+  "slot": 30
+ },
+ "0x018A55": {
+  "en": "Javelin",
+  "slot": 15
+ },
+ "0x018A6B": {
+  "en": "Gatling Cannon",
+  "slot": 27
+ },
+ "0x018A8D": {
+  "en": "Rapid Gun",
+  "slot": 21
+ },
+ "0x018AA9": {
+  "en": "Gatling Beam",
+  "slot": 27
+ },
+ "0x018ACB": {
+  "en": "Double Vulcan",
+  "slot": 21
+ },
+ "0x018AE7": {
+  "en": "Ion Beam Cannon",
+  "slot": 21
+ },
+ "0x018B03": {
+  "en": "Mass Driver Cannon",
+  "slot": 33
+ },
+ "0x018B2B": {
+  "en": "Laser Vulcan",
+  "slot": 24
+ },
+ "0x018B4A": {
+  "en": "Spread Missile",
+  "slot": 27
+ },
+ "0x018B6C": {
+  "en": "Laser Sword",
+  "slot": 21
+ },
+ "0x018B88": {
+  "en": "Mega Beam Launcher",
+  "slot": 30
+ },
+ "0x018BAD": {
+  "en": "Large Beam Cannon",
+  "slot": 21
+ },
+ "0x018BC9": {
+  "en": "Launcher Missile",
+  "slot": 27
+ },
+ "0x018BEB": {
+  "en": "Dual Laser Sword",
+  "slot": 33
+ },
+ "0x018C13": {
+  "en": "Double Cannon",
+  "slot": 21
+ },
+ "0x018C2F": {
+  "en": "Driver Cannon",
+  "slot": 27
+ },
+ "0x018C51": {
+  "en": "Twin Laser Sword",
+  "slot": 30
+ },
+ "0x018C76": {
+  "en": "Laser Cannon",
+  "slot": 24
+ },
+ "0x018C95": {
+  "en": "Laser Gun",
+  "slot": 18
+ },
+ "0x018CAE": {
+  "en": "Long Laser Sword",
+  "slot": 30
+ },
+ "0x018CD3": {
+  "en": "Giga Blaster",
+  "slot": 21
+ },
+ "0x018CEF": {
+  "en": "Missile Salvo",
+  "slot": 18
+ },
+ "0x018D08": {
+  "en": "Twin Beam Cannon",
+  "slot": 18
+ },
+ "0x018D21": {
+  "en": "Vanish Geyser",
+  "slot": 27
+ },
+ "0x018D43": {
+  "en": "Twin Driver Cannon",
+  "slot": 36
+ },
+ "0x018D6E": {
+  "en": "Plasma Leader",
+  "slot": 24
+ },
+ "0x018D8D": {
+  "en": "Gain Shooter",
+  "slot": 24
+ },
+ "0x018DAC": {
+  "en": "High-Freq Sword",
+  "slot": 18
+ },
+ "0x018DC5": {
+  "en": "Neo Thunder Crush",
+  "slot": 33
+ },
+ "0x018DED": {
+  "en": "Tri Driver",
+  "slot": 24
+ },
+ "0x018E0C": {
+  "en": "Micro Missile",
+  "slot": 24
+ },
+ "0x018E2B": {
+  "en": "Illusion Saucer",
+  "slot": 33
+ },
+ "0x018E53": {
+  "en": "Small Missile",
+  "slot": 18
+ },
+ "0x018E6C": {
+  "en": "Large Missile",
+  "slot": 18
+ },
+ "0x018E85": {
+  "en": "Charged Particle Beam",
+  "slot": 21
+ },
+ "0x018EA1": {
+  "en": "Mega Graviton Wave",
+  "slot": 33
+ },
+ "0x018EC9": {
+  "en": "Cipher Gun",
+  "slot": 24
+ },
+ "0x018EE8": {
+  "en": "Cipher Sword",
+  "slot": 27
+ },
+ "0x018F0A": {
+  "en": "Impulse Cannon",
+  "slot": 30
+ },
+ "0x018F2F": {
+  "en": "Burst Rave",
+  "slot": 24
+ },
+ "0x018F4E": {
+  "en": "Neo Impulse Cannon",
+  "slot": 39
+ },
+ "0x018F7C": {
+  "en": "Blade Bit",
+  "slot": 24
+ },
+ "0x018F9B": {
+  "en": "Neo Cipher Sword",
+  "slot": 36
+ },
+ "0x018FC6": {
+  "en": "Claw Anchor Burst",
+  "slot": 39
+ },
+ "0x018FF4": {
+  "en": "Vector Gun",
+  "slot": 24
+ },
+ "0x019013": {
+  "en": "Force Buster",
+  "slot": 27
+ },
+ "0x019035": {
+  "en": "Knight Dimension",
+  "slot": 33
+ },
+ "0x01905D": {
+  "en": "Line Lock Launcher",
+  "slot": 39
+ },
+ "0x01908B": {
+  "en": "Vector Missile",
+  "slot": 30
+ },
+ "0x0190B0": {
+  "en": "Quadruple Cannon",
+  "slot": 33
+ },
+ "0x0190D8": {
+  "en": "Active Bit",
+  "slot": 27
+ },
+ "0x0190FA": {
+  "en": "Guardian Blade",
+  "slot": 33
+ },
+ "0x019122": {
+  "en": "Rave Laser",
+  "slot": 24
+ },
+ "0x019141": {
+  "en": "Neutron Buster",
+  "slot": 33
+ },
+ "0x019169": {
+  "en": "With Kris",
+  "slot": 15
+ },
+ "0x01917F": {
+  "en": "Without Kris",
+  "slot": 15
+ },
+ "0x019195": {
+  "en": "Moon Circle",
+  "slot": 24
+ },
+ "0x0191B4": {
+  "en": "Giga Blaster",
+  "slot": 24
+ },
+ "0x0191D3": {
+  "en": "Storm Blade",
+  "slot": 27
+ },
+ "0x0191F5": {
+  "en": "Combination Duel",
+  "slot": 39
+ },
+ "0x019223": {
+  "en": "Riot Buster",
+  "slot": 30
+ },
+ "0x019248": {
+  "en": "Sagitta Lumen",
+  "slot": 27
+ },
+ "0x01926A": {
+  "en": "Dial Ptio",
+  "slot": 30
+ },
+ "0x01928F": {
+  "en": "Virite Gladius",
+  "slot": 33
+ },
+ "0x0192B7": {
+  "en": "Calidum Sagitta",
+  "slot": 30
+ },
+ "0x0192DC": {
+  "en": "Chaos Radius",
+  "slot": 27
+ },
+ "0x0192FE": {
+  "en": "Grave Flamma",
+  "slot": 27
+ },
+ "0x019320": {
+  "en": "Exhalatio",
+  "slot": 27
+ },
+ "0x019342": {
+  "en": "Forte Arm",
+  "slot": 24
+ },
+ "0x019361": {
+  "en": "Vertex",
+  "slot": 18
+ },
+ "0x01937A": {
+  "en": "Vis Grande",
+  "slot": 27
+ },
+ "0x01939C": {
+  "en": "Acidus",
+  "slot": 15
+ },
+ "0x0193B2": {
+  "en": "Fata Morgana",
+  "slot": 24
+ },
+ "0x0193D1": {
+  "en": "Cornu Telum",
+  "slot": 21
+ },
+ "0x0193ED": {
+  "en": "Atrum Nebula",
+  "slot": 27
+ },
+ "0x01940F": {
+  "en": "Stella Pluvia",
+  "slot": 30
+ },
+ "0x019434": {
+  "en": "Congelatio",
+  "slot": 24
+ },
+ "0x019453": {
+  "en": "Rapidus Radius",
+  "slot": 33
+ },
+ "0x01947B": {
+  "en": "Draco Forfex",
+  "slot": 33
+ },
+ "0x0194A3": {
+  "en": "Draco Clavis",
+  "slot": 30
+ },
+ "0x0194C8": {
+  "en": "Pulse Arrow",
+  "slot": 18
+ },
+ "0x0194E1": {
+  "en": "Chaser Missile",
+  "slot": 27
+ },
+ "0x019503": {
+  "en": "Beam Blade",
+  "slot": 21
+ },
+ "0x01951F": {
+  "en": "Arm Shot",
+  "slot": 21
+ },
+ "0x01953B": {
+  "en": "Shoulder Missile",
+  "slot": 27
+ },
+ "0x01955D": {
+  "en": "Ball Hammer",
+  "slot": 21
+ },
+ "0x019579": {
+  "en": "Tail Scissors",
+  "slot": 21
+ },
+ "0x019595": {
+  "en": "Missile Pick",
+  "slot": 21
+ },
+ "0x0195B1": {
+  "en": "Heavy Crush",
+  "slot": 27
+ },
+ "0x0195D3": {
+  "en": "Tenebrae",
+  "slot": 15
+ },
+ "0x0195E9": {
+  "en": "Ultimum",
+  "slot": 18
+ },
+ "0x019602": {
+  "en": "Orcus Terebra",
+  "slot": 30
+ },
+ "0x019627": {
+  "en": "Edesse Sapere",
+  "slot": 21
+ },
+ "0x019643": {
+  "en": "Eden Gerush",
+  "slot": 27
+ },
+ "0x019665": {
+  "en": "Idoni Zaam Kaala",
+  "slot": 42
+ },
+ "0x019696": {
+  "en": "Elyon Yeda Doma",
+  "slot": 42
+ },
+ "0x0196C7": {
+  "en": "Waste Smasher (Single)",
+  "slot": 48
+ },
+ "0x0196FE": {
+  "en": "Waste Smasher (All)",
+  "slot": 48
+ },
+ "0x019735": {
+  "en": "Gigant Crusher",
+  "slot": 33
+ },
+ "0x01975D": {
+  "en": "FT Railgun",
+  "slot": 21
+ },
+ "0x019779": {
+  "en": "Jotun Carver",
+  "slot": 24
+ },
+ "0x019798": {
+  "en": "Gravitron Cannon",
+  "slot": 27
+ },
+ "0x0197BA": {
+  "en": "Map type",
+  "slot": 12
+ },
+ "0x0197CD": {
+  "en": "Gran Worm Sword",
+  "slot": 27
+ },
+ "0x0197EF": {
+  "en": "Solid Sword",
+  "slot": 12
+ },
+ "0x019802": {
+  "en": "Worm Smasher",
+  "slot": 27
+ },
+ "0x019824": {
+  "en": "Finisher type",
+  "slot": 15
+ },
+ "0x01983A": {
+  "en": "Black Hole Cluster",
+  "slot": 36
+ },
+ "0x019865": {
+  "en": "EN Drain 2 type",
+  "slot": 15
+ },
+ "0x01987B": {
+  "en": "Spirit 1",
+  "slot": 12
+ },
+ "0x01988E": {
+  "en": "Spirit 2",
+  "slot": 12
+ },
+ "0x0198A1": {
+  "en": "Breaker 2 type",
+  "slot": 21
+ }
+}
