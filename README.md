@@ -1,0 +1,133 @@
+# 2nd Super Robot Taisen OG - English translation
+
+An English translation of **Dai-2-Ji Super Robot Taisen OG** (PS3, BLJS10133) for RPCS3.
+About 87,000 strings: the full main story script, battle quotes, menus, the unit and
+pilot library, help text, skills, parts and map names. The game's own Japanese was
+translated directly; no third-party fan translation was used.
+
+> Contains **no game files**. Only tools, translated text and docs. You supply your own
+> legally dumped copy.
+
+## The translation is machine generated. Read this first.
+
+The English was produced by a large language model, not by a human translator. If that is
+a dealbreaker, stop here, and that is a reasonable position.
+
+What it actually is, stated plainly:
+
+- The script was translated **from the game's own Japanese**, in chunks of roughly 180
+  lines in story order, so the model had scene context. It is not a line-by-line pass
+  through a conventional MTL engine, and it is not a human translation either.
+- Character, unit and weapon names come from the game's own data and from official
+  English materials where they exist, then are applied consistently by script rather than
+  left to the model.
+- Punctuation, name consistency and line fitting are handled by deterministic passes.
+- **No human proofread the dialogue line by line.** Menus, the library and UI text were
+  checked on screen and corrected. The 41,473 dialogue lines were spot-checked, not
+  reviewed in full.
+
+Expect the consequences. Dialogue is often stiff. Japanese omits subjects and pronouns,
+so expect a wrong "he" or "she" sometimes, and expect jokes and wordplay to land flat.
+Terminology is consistent; tone and characterisation are weaker than a human translation.
+
+This exists so the game can be played in English now. It is not a replacement for a human
+translation, and if one appears, use that instead.
+
+## Install
+
+There is **no pre-patched game download**. That would redistribute Bandai Namco's data,
+and the game re-encrypts every file on repack, so small binary patches are not possible
+anyway. You rebuild the patch from **your own dump**.
+
+**You need:** RPCS3 and PS3 firmware, your **BLJS10133** dump, and Python 3.10+ with
+`cryptography`. `capstone` is needed **only** if you use `--eboot-elf`, so skip it if you
+are not doing the letter-spacing step.
+
+Unzip anywhere, then:
+
+### Option A: the GUI
+
+Windows: double-click **`Install (GUI).bat`**. Linux/macOS: run **`./install-gui.sh`**.
+
+Pick your game's **USRDIR** (the folder holding `PSARC/` and `EBOOT.BIN`), optionally your
+RPCS3 game-data folder and a decrypted `EBOOT.elf`, then click **Patch**. It is a
+front-end over `apply.py`, and if a Python package is missing it offers to install it.
+(Details: [installer/README.md](installer/README.md).)
+
+### Option B: one command
+
+```sh
+python3 apply.py "/path/to/BLJS10133/PS3_GAME/USRDIR" --gd "/path/to/dev_hdd0/game/BLJS10133"
+```
+
+Either way it extracts your own files, rebuilds them with the English text, and writes
+the patched containers back. Then boot it in RPCS3.
+
+**Optional but recommended: proper letter spacing.** RPCS3 → *Utilities → Decrypt PS3
+Binaries* on your `EBOOT.BIN`, then add `--eboot-elf "/path/to/EBOOT.elf"` (or pick it in
+the GUI). Without it the game still plays, but Latin text is spaced on Japanese metrics
+and looks wide. This is the only step that needs `capstone`.
+
+### On Linux, including the Steam Deck
+
+Verified on a case-sensitive filesystem: every path the patch uses matches the archive
+manifest exactly, so nothing here depends on Windows' case-insensitivity.
+
+The distro packaging is the only thing that catches people out. On Debian/Ubuntu the
+stock `python3` has neither `tkinter` (so the GUI cannot open) nor `ensurepip` (so
+`python3 -m venv` fails), and both live in separate packages:
+
+```sh
+sudo apt install python3-tk python3-venv     # Debian/Ubuntu; Arch/SteamOS: pacman -S tk
+python3 -m venv ~/myenv && . ~/myenv/bin/activate
+pip install cryptography                     # add capstone only for --eboot-elf
+python3 apply.py "/path/to/PS3_GAME/USRDIR" --gd "/path/to/dev_hdd0/game/BLJS10133"
+```
+
+`./install-gui.sh` checks for `tkinter` up front and names the package to install, rather
+than failing with a bare `ModuleNotFoundError`.
+
+### Platform support, stated honestly
+
+**Windows** is where this is developed: built, deployed and played, end to end.
+
+**Linux and the Steam Deck work.** Two things support that. The build is verified here —
+the shipped zip run against a pristine dump on a case-sensitive filesystem produces all
+five patched archives with the same sha256 as the Windows build, so the patch data is the
+same bytes either way. And several people have now reported the result **booting on a
+Steam Deck with the English rendering correctly**. That is a user report rather than
+something reproduced here, which is the strongest evidence there is for a device nobody
+on this end owns.
+
+Still not exercised here: the GUI window on Linux (only its dependency check), and the
+optional `--eboot-elf` step.
+
+**macOS is untested.** Same pure Python, expected to behave like Linux, but nobody has
+run it.
+
+Reports from any platform are welcome; macOS especially, since it has no coverage at all.
+
+Manual steps and rollback: **[docs/INSTALL.md](docs/INSTALL.md)**.
+
+## Known limitations
+
+- **Developed and tested on Windows.** Linux and the Steam Deck are confirmed working by
+  users, and the build is verified here to produce identical archives. macOS is untested.
+  See *Platform support* above.
+- Tested on RPCS3 only. Not tried on hardware.
+- Some long names and descriptions are shortened to fit fixed-width fields.
+- About 10,300 bracketed strings in the script files are left in Japanese **on purpose**.
+  They are keys the engine compares byte for byte, not displayed text. Translating them
+  skips every interlude and silences stage music. No spoken line is left untranslated.
+
+## How it was built
+
+**[docs/HACKING.md](docs/HACKING.md)** covers the container and text formats, the
+executable patches that make English render correctly, and how the renderer was found
+using an RPCS3 build with its memory breakpoints enabled. **[docs/RELEASE.md](docs/RELEASE.md)**
+is the short description.
+
+## Notes
+
+- `tools/decrypt_sdat.py` derives from make_npdata (Hykem, GPLv3).
+- No game-derived files are committed; `.gitignore` enforces it.

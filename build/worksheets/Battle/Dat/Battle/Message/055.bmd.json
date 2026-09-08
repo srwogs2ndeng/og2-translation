@@ -1,0 +1,986 @@
+{
+ "0x0021AC": {
+  "en": "「This ship will finish it!」",
+  "slot": 33
+ },
+ "0x0021CE": {
+  "en": "「This ship will destroy that enemy!」",
+  "slot": 45
+ },
+ "0x0021FC": {
+  "en": "「We'll strike first!」",
+  "slot": 39
+ },
+ "0x002224": {
+  "en": "「All hands, make the Steel Dragon name proud!」",
+  "slot": 57
+ },
+ "0x00225E": {
+  "en": "「Target, the Melior Esse!」",
+  "slot": 45
+ },
+ "0x00228C": {
+  "en": "「We're striking the Melior Esse!」",
+  "slot": 48
+ },
+ "0x0022BD": {
+  "en": "「Melior Esse unit is targeting this ship!」",
+  "slot": 51
+ },
+ "0x0022F1": {
+  "en": "「We'll strike first!」",
+  "slot": 30
+ },
+ "0x002310": {
+  "en": "「Target, the Guest command unit!」",
+  "slot": 45
+ },
+ "0x00233E": {
+  "en": "「This ship will destroy the command unit!」",
+  "slot": 48
+ },
+ "0x00236F": {
+  "en": "「Guest command unit, in range!」",
+  "slot": 48
+ },
+ "0x0023A0": {
+  "en": "「Zezernan.../　your ambitions end here!」",
+  "slot": 73
+ },
+ "0x0023EA": {
+  "en": "「We won't bow to senseless aggression!」",
+  "slot": 63
+ },
+ "0x00242A": {
+  "en": "「Target, the Gaia Sabers unit!」",
+  "slot": 51
+ },
+ "0x00245E": {
+  "en": "「We must not yield to the Gaia Sabers!」",
+  "slot": 63
+ },
+ "0x00249E": {
+  "en": "「Gaia Sabers unit approaching from ahead!」",
+  "slot": 57
+ },
+ "0x0024D8": {
+  "en": "「Attack at once!」",
+  "slot": 27
+ },
+ "0x0024F4": {
+  "en": "「Gaia Sabers unit closing fast!」",
+  "slot": 51
+ },
+ "0x002528": {
+  "en": "「Gaia Sabers unit, in range!」",
+  "slot": 54
+ },
+ "0x00255F": {
+  "en": "「Prepare attack!」",
+  "slot": 21
+ },
+ "0x002575": {
+  "en": "「Target, the Air Christmas!」",
+  "slot": 48
+ },
+ "0x0025A6": {
+  "en": "「Target, Saber 1!」",
+  "slot": 39
+ },
+ "0x0025CE": {
+  "en": "「We're striking the Air Christmas!」",
+  "slot": 51
+ },
+ "0x002602": {
+  "en": "「All hands, ready anti-ship!」",
+  "slot": 36
+ },
+ "0x002627": {
+  "en": "「We'll destroy the Ruina unit ahead!」",
+  "slot": 51
+ },
+ "0x00265B": {
+  "en": "「Target, the Ruina unit!」",
+  "slot": 39
+ },
+ "0x002683": {
+  "en": "「Ruina unit approaching from ahead!」",
+  "slot": 45
+ },
+ "0x0026B1": {
+  "en": "「Ruina unit closing fast!」",
+  "slot": 39
+ },
+ "0x0026D9": {
+  "en": "「Ruina unit, in range!」",
+  "slot": 42
+ },
+ "0x002704": {
+  "en": "「We'll clear out the Guest unit ahead!」",
+  "slot": 48
+ },
+ "0x002735": {
+  "en": "「We can't let the Guest do as they please!」",
+  "slot": 60
+ },
+ "0x002772": {
+  "en": "「Guest unit approaching this ship!」",
+  "slot": 39
+ },
+ "0x00279A": {
+  "en": "「Guest unit closing fast!」",
+  "slot": 36
+ },
+ "0x0027BF": {
+  "en": "「Target, the Super Machine God!」",
+  "slot": 36
+ },
+ "0x0027E4": {
+  "en": "「A 'Super' Machine God, sir -/　we'd better not let our guard down.」",
+  "slot": 79
+ },
+ "0x002834": {
+  "en": "「Yes, I know.」",
+  "slot": 36
+ },
+ "0x002859": {
+  "en": "「We'll destroy the Machine God ahead!」",
+  "slot": 45
+ },
+ "0x002887": {
+  "en": "「Target, the Machine God!」",
+  "slot": 33
+ },
+ "0x0028A9": {
+  "en": "「Enemy Machine God nears!」",
+  "slot": 30
+ },
+ "0x0028C8": {
+  "en": "「Enemy Machine God, in range!」",
+  "slot": 39
+ },
+ "0x0028F0": {
+  "en": "「Target, the Demon Golem!」",
+  "slot": 45
+ },
+ "0x00291E": {
+  "en": "「Mm,/ a simple, straightforward monster, sir.」",
+  "slot": 67
+ },
+ "0x002962": {
+  "en": "「I'm not fond of that type...」",
+  "slot": 42
+ },
+ "0x00298D": {
+  "en": "「We must destroy Volkruss no matter what!」",
+  "slot": 66
+ },
+ "0x0029D0": {
+  "en": "「A body that's every bit the evil god, sir.」",
+  "slot": 60
+ },
+ "0x002A0D": {
+  "en": "「Still, we can't afford to flinch!」",
+  "slot": 54
+ },
+ "0x002A44": {
+  "en": "「Target, the Yokijin!」",
+  "slot": 33
+ },
+ "0x002A66": {
+  "en": "「We'll destroy the Yokijin ahead!」",
+  "slot": 45
+ },
+ "0x002A94": {
+  "en": "「Captain, that sort of thing...」",
+  "slot": 42
+ },
+ "0x002ABF": {
+  "en": "「Not fond of it, of course!」",
+  "slot": 36
+ },
+ "0x002AE4": {
+  "en": "「Then shall we go exorcise a demon?」",
+  "slot": 51
+ },
+ "0x002B18": {
+  "en": "「Yes, please ready the paper charms.」",
+  "slot": 51
+ },
+ "0x002B4C": {
+  "en": "「We don't have any of those!」",
+  "slot": 42
+ },
+ "0x002B77": {
+  "en": "「Yokijin, in range!」",
+  "slot": 36
+ },
+ "0x002B9C": {
+  "en": "「Ugh... commence attack!」",
+  "slot": 33
+ },
+ "0x002BBE": {
+  "en": "「Target, the Chokijin!」",
+  "slot": 33
+ },
+ "0x002BE0": {
+  "en": "「This ship will stop that Chokijin!」",
+  "slot": 51
+ },
+ "0x002C14": {
+  "en": "「My, now it's a kaiju movie, sir.」",
+  "slot": 57
+ },
+ "0x002C4E": {
+  "en": "「Target, AI1!」",
+  "slot": 33
+ },
+ "0x002C70": {
+  "en": "「AI1 is targeting this ship!」",
+  "slot": 51
+ },
+ "0x002CA4": {
+  "en": "「We can't let it absorb us!」",
+  "slot": 63
+ },
+ "0x002CE4": {
+  "en": "「Target, the Custos!」",
+  "slot": 39
+ },
+ "0x002D0C": {
+  "en": "「Eagle, Shark, Panther/　...a squadron too, it seems.」",
+  "slot": 85
+ },
+ "0x002D62": {
+  "en": "「What do you mean?」",
+  "slot": 27
+ },
+ "0x002D7E": {
+  "en": "「Target, the Gan Eden!」",
+  "slot": 39
+ },
+ "0x002DA6": {
+  "en": "「Our world has no need for such a god!」",
+  "slot": 63
+ },
+ "0x002DE6": {
+  "en": "「Oh, how divine./　Pray to it and maybe we'll get a blessing?」",
+  "slot": 79
+ },
+ "0x002E36": {
+  "en": "「We won't!」",
+  "slot": 24
+ },
+ "0x002E4F": {
+  "en": "「While Steel Dragon stands,/　your plan will never come to pass...!」",
+  "slot": 94
+ },
+ "0x002EAE": {
+  "en": "「Final target, Adamatron!/　All hands, fight on!」",
+  "slot": 76
+ },
+ "0x002EFB": {
+  "en": "「That form.../　treading the line between angel and demon?」",
+  "slot": 82
+ },
+ "0x002F4E": {
+  "en": "「In short, humanity... its new progenitor...!」",
+  "slot": 57
+ },
+ "0x002F88": {
+  "en": "「Counterattack now!」",
+  "slot": 27
+ },
+ "0x002FA4": {
+  "en": "「We can't let the target escape!」",
+  "slot": 48
+ },
+ "0x002FD5": {
+  "en": "「Pursue the target!」",
+  "slot": 27
+ },
+ "0x002FF1": {
+  "en": "「Beginning counterattack!」",
+  "slot": 33
+ },
+ "0x003013": {
+  "en": "「A-all hands, abandon ship!!」",
+  "slot": 33
+ },
+ "0x003035": {
+  "en": "「A-any more damage and...!」",
+  "slot": 45
+ },
+ "0x003063": {
+  "en": "「Aah! The main wing!!」",
+  "slot": 36
+ },
+ "0x003088": {
+  "en": "「A wing or two lost.../　It won't hinder combat much./　More to the point, order a counterattack!」",
+  "slot": 113
+ },
+ "0x0030FA": {
+  "en": "「Bah, this much.../　It's nothing next to the fighting at Pluto!」",
+  "slot": 103
+ },
+ "0x003162": {
+  "en": "「Kyaaah!!」",
+  "slot": 27
+ },
+ "0x00317E": {
+  "en": "「Ngh...!/　That last hit really stung...!」",
+  "slot": 70
+ },
+ "0x0031C5": {
+  "en": "「Frames 20, 30 port side!/　Damage is severe!」",
+  "slot": 70
+ },
+ "0x00320C": {
+  "en": "「Damage control, hurry!」",
+  "slot": 33
+ },
+ "0x00322E": {
+  "en": "「Send Range 2 allies to cover us!」",
+  "slot": 54
+ },
+ "0x003265": {
+  "en": "「R-roger!」",
+  "slot": 24
+ },
+ "0x00327E": {
+  "en": "「Damage control on the hit zones, hurry!」",
+  "slot": 57
+ },
+ "0x0032B8": {
+  "en": "「Roger, Captain!」",
+  "slot": 30
+ },
+ "0x0032D7": {
+  "en": "「Analyze their attack pattern, quickly!」",
+  "slot": 48
+ },
+ "0x003308": {
+  "en": "「C-can we mosaic out the gross parts...!?」",
+  "slot": 66
+ },
+ "0x00334B": {
+  "en": "「Ho ho./　The enemy's focusing fire on our ship.」",
+  "slot": 76
+ },
+ "0x003398": {
+  "en": "「We can still take this much, right?」",
+  "slot": 54
+ },
+ "0x0033CF": {
+  "en": "「This ship has a solid guard./　...Just like the Captain.」",
+  "slot": 88
+ },
+ "0x003428": {
+  "en": "「Then this Hiryu Kai will down/　every enemy it can!」",
+  "slot": 88
+ },
+ "0x003481": {
+  "en": "「That enemy.../　don't tell me it means to charge us...!?」",
+  "slot": 94
+ },
+ "0x0034E0": {
+  "en": "「Hmm... Perhaps it's the ship's color.」",
+  "slot": 63
+ },
+ "0x003520": {
+  "en": "「Vice-Captain, this isn't a bullfight.」",
+  "slot": 48
+ },
+ "0x003551": {
+  "en": "「Where were we hit!?」",
+  "slot": 42
+ },
+ "0x00357C": {
+  "en": "「Frame 40 port side, direct hit!」",
+  "slot": 48
+ },
+ "0x0035AD": {
+  "en": "「Don't let the Ruina units/　get any closer!」",
+  "slot": 73
+ },
+ "0x0035F7": {
+  "en": "「Ngh! Intercept those Guest units!」",
+  "slot": 57
+ },
+ "0x003631": {
+  "en": "「Mm, troublesome guests indeed.」",
+  "slot": 36
+ },
+ "0x003656": {
+  "en": "「Guests...? Ah, they're the Guests.」",
+  "slot": 45
+ },
+ "0x003684": {
+  "en": "「This is no time to be impressed!」",
+  "slot": 51
+ },
+ "0x0036B8": {
+  "en": "「They may be a cut above/　the Inspectors.」",
+  "slot": 73
+ },
+ "0x003702": {
+  "en": "「Y-yes...!」",
+  "slot": 27
+ },
+ "0x00371E": {
+  "en": "「Not bad, the Gaia Sabers.」",
+  "slot": 51
+ },
+ "0x003752": {
+  "en": "「But we can't afford/　to fall behind them!」",
+  "slot": 76
+ },
+ "0x00379F": {
+  "en": "「Ahh, I can't! I can't stand it!」",
+  "slot": 60
+ },
+ "0x0037DC": {
+  "en": "「Captain, I know it turns your stomach, but...」",
+  "slot": 79
+ },
+ "0x00382C": {
+  "en": "「Quite something, the mobile weapons/　of this world.」",
+  "slot": 73
+ },
+ "0x003876": {
+  "en": "「Yes, we can't let our guard down.」",
+  "slot": 39
+ },
+ "0x00389E": {
+  "en": "「The damage looks minor.」",
+  "slot": 39
+ },
+ "0x0038C6": {
+  "en": "「Can't be helped./　This ship's heavier than it looks./　...Just like the Captain.」",
+  "slot": 113
+ },
+ "0x003938": {
+  "en": "「I-I'm not that heavy!」",
+  "slot": 54
+ },
+ "0x00396F": {
+  "en": "「Went for the carrier by the book...?」",
+  "slot": 60
+ },
+ "0x0039AC": {
+  "en": "「Then let's teach them/　this is no ordinary/　refit ship.」",
+  "slot": 101
+ },
+ "0x003A12": {
+  "en": "「Stay sharp, Captain./　The enemy's fixing its aim on us.」",
+  "slot": 106
+ },
+ "0x003A7D": {
+  "en": "「Oh, a nice hit they landed there.」",
+  "slot": 51
+ },
+ "0x003AB1": {
+  "en": "「Um, Vice-Captain, this is no time to admire...」",
+  "slot": 60
+ },
+ "0x003AEE": {
+  "en": "「Where were we hit?」",
+  "slot": 24
+ },
+ "0x003B07": {
+  "en": "「Frame 10 port side, damage minor.」",
+  "slot": 54
+ },
+ "0x003B3E": {
+  "en": "「Report the impact point!」",
+  "slot": 33
+ },
+ "0x003B60": {
+  "en": "「Frames 20, 30 port side. Damage minor.」",
+  "slot": 54
+ },
+ "0x003B97": {
+  "en": "「Be bold in your approach./　Or you'll never woo the Captain.」",
+  "slot": 85
+ },
+ "0x003BED": {
+  "en": "「True, being assertive might be better...」",
+  "slot": 54
+ },
+ "0x003C24": {
+  "en": "「What are you saying!」",
+  "slot": 27
+ },
+ "0x003C40": {
+  "en": "「Don't let the Ruina get close!」",
+  "slot": 57
+ },
+ "0x003C7A": {
+  "en": "「Ugh, so gross... I'll see it in my dreams.」",
+  "slot": 60
+ },
+ "0x003CB7": {
+  "en": "「A bizarre attack./　Let's keep a video record of it.」",
+  "slot": 85
+ },
+ "0x003D0D": {
+  "en": "「Um, please mosaic it out, okay?」",
+  "slot": 57
+ },
+ "0x003D47": {
+  "en": "「It won't hit us.」",
+  "slot": 30
+ },
+ "0x003D66": {
+  "en": "「Not the most graceful dodge, but...」",
+  "slot": 63
+ },
+ "0x003DA6": {
+  "en": "「W-watch out!!」",
+  "slot": 27
+ },
+ "0x003DC2": {
+  "en": "「...Captain, we already dodged it.」",
+  "slot": 48
+ },
+ "0x003DF3": {
+  "en": "「A miss.」",
+  "slot": 24
+ },
+ "0x003E0C": {
+  "en": "「My, my./　Missing a target this big./　Pathetic.」",
+  "slot": 95
+ },
+ "0x003E6C": {
+  "en": "「Um... Vice-Captain?」",
+  "slot": 27
+ },
+ "0x003E88": {
+  "en": "「T-that was close...!」",
+  "slot": 36
+ },
+ "0x003EAD": {
+  "en": "「Quite the thrill.」",
+  "slot": 30
+ },
+ "0x003ECC": {
+  "en": "「Phew... We managed to dodge it.」",
+  "slot": 51
+ },
+ "0x003F00": {
+  "en": "「Thanks to the Captain's beauty.」",
+  "slot": 42
+ },
+ "0x003F2B": {
+  "en": "「I-is that even related?」",
+  "slot": 39
+ },
+ "0x003F53": {
+  "en": "「Rather shy, are we?」",
+  "slot": 39
+ },
+ "0x003F7B": {
+  "en": "「Seems that way.」",
+  "slot": 30
+ },
+ "0x003F9A": {
+  "en": "「That can't be true.」",
+  "slot": 39
+ },
+ "0x003FC2": {
+  "en": "「Evasion success, Captain.」",
+  "slot": 33
+ },
+ "0x003FE4": {
+  "en": "「Yes, keep it up next time too.」",
+  "slot": 36
+ },
+ "0x004009": {
+  "en": "「Well done, helmsman. Later, I'll...」",
+  "slot": 54
+ },
+ "0x004040": {
+  "en": "「Another of my portraits?」",
+  "slot": 48
+ },
+ "0x004071": {
+  "en": "「No, no, something else... Heh heh heh.」",
+  "slot": 54
+ },
+ "0x0040A8": {
+  "en": "「Mind the range to the Air Christmas/　and ready for another strike!」",
+  "slot": 97
+ },
+ "0x00410A": {
+  "en": "「The Air Christmas will strike again./　All hands, stay alert.」",
+  "slot": 100
+ },
+ "0x00416F": {
+  "en": "「Keep it up and drive the Ruina back!」",
+  "slot": 57
+ },
+ "0x0041A9": {
+  "en": "「We'll pull away from the Ruina!」",
+  "slot": 54
+ },
+ "0x0041E0": {
+  "en": "「If possible, please keep that gross/　thing away from us...」",
+  "slot": 85
+ },
+ "0x004236": {
+  "en": "「Even against Oryu, we Steel Dragon/ will stand and fight!」",
+  "slot": 70
+ },
+ "0x00427D": {
+  "en": "「.........」",
+  "slot": 15
+ },
+ "0x00428D": {
+  "en": "「An attack like that won't work!」",
+  "slot": 51
+ },
+ "0x0042C1": {
+  "en": "「Deploy the field!」",
+  "slot": 30
+ },
+ "0x0042E0": {
+  "en": "「The field!」",
+  "slot": 27
+ },
+ "0x0042FC": {
+  "en": "「Block it completely!」",
+  "slot": 30
+ },
+ "0x00431B": {
+  "en": "「Energy field!」",
+  "slot": 45
+ },
+ "0x004349": {
+  "en": "「Deploy EP!」",
+  "slot": 21
+ },
+ "0x00435F": {
+  "en": "「Hmm, that's a problem.」",
+  "slot": 33
+ },
+ "0x004381": {
+  "en": "「Um... don't say it like it's someone else's problem...」",
+  "slot": 63
+ },
+ "0x0043C1": {
+  "en": "「We'll have to conserve from now on.」",
+  "slot": 54
+ },
+ "0x0043F8": {
+  "en": "「Y-yes, right.」",
+  "slot": 27
+ },
+ "0x004414": {
+  "en": "「Step up the search!」",
+  "slot": 36
+ },
+ "0x004439": {
+  "en": "「Now then, where did it go?」",
+  "slot": 51
+ },
+ "0x00446D": {
+  "en": "「I-isn't it over there?」",
+  "slot": 45
+ },
+ "0x00449B": {
+  "en": "「Understood.」",
+  "slot": 24
+ },
+ "0x0044B4": {
+  "en": "「After breaching, we shift to support fire!」",
+  "slot": 48
+ },
+ "0x0044E5": {
+  "en": "「We'll open fire from here too!」",
+  "slot": 51
+ },
+ "0x004519": {
+  "en": "「Leave the rest to this ship!」",
+  "slot": 42
+ },
+ "0x004544": {
+  "en": "「Cover the allied units!」",
+  "slot": 42
+ },
+ "0x00456F": {
+  "en": "「Support fire, at once!」",
+  "slot": 33
+ },
+ "0x004591": {
+  "en": "「Cover the Hagane!」",
+  "slot": 30
+ },
+ "0x0045B0": {
+  "en": "「Dragon 2 to Steel 2!/　Commencing support!」",
+  "slot": 85
+ },
+ "0x004606": {
+  "en": "「Now supporting the Kurogane!」",
+  "slot": 51
+ },
+ "0x00463A": {
+  "en": "「Cover the Kurogane!」",
+  "slot": 33
+ },
+ "0x00465C": {
+  "en": "「Dragon 2 to Iron 3!/　Commencing support!」",
+  "slot": 82
+ },
+ "0x0046AF": {
+  "en": "「Our ship will shield you!」",
+  "slot": 45
+ },
+ "0x0046DD": {
+  "en": "「We'll block it! All hands, brace for impact!」",
+  "slot": 60
+ },
+ "0x00471A": {
+  "en": "「Protect the allied units!」",
+  "slot": 36
+ },
+ "0x00473F": {
+  "en": "「Full speed ahead! Shield our allies!」",
+  "slot": 54
+ },
+ "0x004776": {
+  "en": "「Vice-Captain! Charge in!」",
+  "slot": 30
+ },
+ "0x004795": {
+  "en": "「Roger.」",
+  "slot": 18
+ },
+ "0x0047A8": {
+  "en": "「Cut in with the bow!」",
+  "slot": 45
+ },
+ "0x0047D6": {
+  "en": "「Roger. Full speed ahead!」",
+  "slot": 30
+ },
+ "0x0047F5": {
+  "en": "「Protect the Hagane!」",
+  "slot": 36
+ },
+ "0x00481A": {
+  "en": "「Moving to cover the Kurogane!」",
+  "slot": 48
+ },
+ "0x00484B": {
+  "en": "「Strike the target again!」",
+  "slot": 33
+ },
+ "0x00486D": {
+  "en": "「Don't let this chance slip away!」",
+  "slot": 48
+ },
+ "0x00489E": {
+  "en": "「AA guns, commence firing!」",
+  "slot": 39
+ },
+ "0x0048C6": {
+  "en": "「Gun turrets, commence firing!」",
+  "slot": 36
+ },
+ "0x0048EB": {
+  "en": "「AAW auto, commence firing!」",
+  "slot": 45
+ },
+ "0x004919": {
+  "en": "「Anti-air intercept, AAW full auto!」",
+  "slot": 48
+ },
+ "0x00494A": {
+  "en": "「VLS homing missiles, fire!!」",
+  "slot": 57
+ },
+ "0x004984": {
+  "en": "「Both launch ports, full open! Missiles, fire!」",
+  "slot": 63
+ },
+ "0x0049C4": {
+  "en": "「Upper missile ports, open! Fire!」",
+  "slot": 63
+ },
+ "0x004A04": {
+  "en": "「VLS homing missiles, fire!!」",
+  "slot": 57
+ },
+ "0x004A3E": {
+  "en": "「Upper missiles, all tubes fire!!」",
+  "slot": 51
+ },
+ "0x004A72": {
+  "en": "「Anti-ship missiles, standby.」",
+  "slot": 42
+ },
+ "0x004A9D": {
+  "en": "「Number 1, number 4! Fire!」",
+  "slot": 36
+ },
+ "0x004AC2": {
+  "en": "「Anti-ship missiles, open ports!」",
+  "slot": 45
+ },
+ "0x004AF0": {
+  "en": "「Tubes 1 through 6, loading complete.」",
+  "slot": 51
+ },
+ "0x004B24": {
+  "en": "「First, number 1 and 4! Fire!」",
+  "slot": 45
+ },
+ "0x004B52": {
+  "en": "「Anti-ship missiles, open ports 1 and 4!」",
+  "slot": 60
+ },
+ "0x004B8F": {
+  "en": "「Fire!」",
+  "slot": 15
+ },
+ "0x004B9F": {
+  "en": "「Illuminator link.」",
+  "slot": 39
+ },
+ "0x004BC7": {
+  "en": "「All gun stations.../ Down that target and I'll tell you the captain's secret.」",
+  "slot": 88
+ },
+ "0x004C20": {
+  "en": "「U-um... Vice-Captain?」",
+  "slot": 33
+ },
+ "0x004C42": {
+  "en": "「Main guns 1 and 2, standby.」",
+  "slot": 45
+ },
+ "0x004C70": {
+  "en": "「Fire!!」",
+  "slot": 18
+ },
+ "0x004C83": {
+  "en": "「Captain, it's time.」",
+  "slot": 33
+ },
+ "0x004CA5": {
+  "en": "「Yes. Main guns 1 and 2, fire!!」",
+  "slot": 51
+ },
+ "0x004CD9": {
+  "en": "「Dragon 2 to all units!/ We're firing our main guns!」",
+  "slot": 88
+ },
+ "0x004D32": {
+  "en": "「Main guns, 1 and 2! Fire!!」",
+  "slot": 48
+ },
+ "0x004D63": {
+  "en": "「Main guns 1 and 2, bearing locked.」",
+  "slot": 54
+ },
+ "0x004D9A": {
+  "en": "「Target in range.」",
+  "slot": 30
+ },
+ "0x004DB9": {
+  "en": "「Main guns, 1 and 2! Fiiire!」",
+  "slot": 48
+ },
+ "0x004DEA": {
+  "en": "「Gunner, down that target and/ I'll give you the captain's photo.」",
+  "slot": 94
+ },
+ "0x004E49": {
+  "en": "「When did you get that!?」",
+  "slot": 45
+ },
+ "0x004E77": {
+  "en": "「Gunner, down that target and/ you'll get not just the captain's,/ but Eun's photo too.」",
+  "slot": 125
+ },
+ "0x004EF5": {
+  "en": "「Fine, but I'll collect payment later.」",
+  "slot": 66
+ },
+ "0x004F38": {
+  "en": "「More to the point, fire!」",
+  "slot": 33
+ },
+ "0x004F5A": {
+  "en": "「Bow super-gravity cannon, ready to fire!」",
+  "slot": 48
+ },
+ "0x004F8B": {
+  "en": "「Roger. Sequence G, begin!」",
+  "slot": 48
+ },
+ "0x004FBC": {
+  "en": "「Range, final check. Error corrected, 2 degrees.」",
+  "slot": 60
+ },
+ "0x004FF9": {
+  "en": "「Energy charge exceeding 100%!」",
+  "slot": 60
+ },
+ "0x005036": {
+  "en": "「Captain, ready to fire.」",
+  "slot": 39
+ },
+ "0x00505E": {
+  "en": "「Super-gravity cannon, fire!!」",
+  "slot": 39
+ },
+ "0x005086": {
+  "en": "「Now's the time for it, Captain.」",
+  "slot": 57
+ },
+ "0x0050C0": {
+  "en": "「Yes! Shift to Sequence G!」",
+  "slot": 57
+ },
+ "0x0050FA": {
+  "en": "「Dragon 2 to all units!/ Clear the line of fire now!」",
+  "slot": 79
+ },
+ "0x00514A": {
+  "en": "「Energy charge 120%!」",
+  "slot": 42
+ },
+ "0x005175": {
+  "en": "「All hands, brace for shock & flash!」",
+  "slot": 42
+ },
+ "0x0051A0": {
+  "en": "「Super-gravity cannon! Please, fire!!」",
+  "slot": 57
+ },
+ "0x0051DA": {
+  "en": "「Dragon 2 to all units!/ We're firing the super-gravity cannon!」",
+  "slot": 103
+ },
+ "0x005242": {
+  "en": "「Sequence G, begin!」",
+  "slot": 39
+ },
+ "0x00526A": {
+  "en": "「Gravity brake, ready to engage!」",
+  "slot": 42
+ },
+ "0x005295": {
+  "en": "「Energy condenser, all clear!」",
+  "slot": 57
+ },
+ "0x0052CF": {
+  "en": "「Final safety, released!」",
+  "slot": 36
+ },
+ "0x0052F4": {
+  "en": "「Super-gravity cannon, fiiire!!」",
+  "slot": 45
+ }
+}
