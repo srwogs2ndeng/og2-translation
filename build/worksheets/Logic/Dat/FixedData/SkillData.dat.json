@@ -1,0 +1,346 @@
+{
+ "0x000712": {
+  "en": "------",
+  "slot": 18
+ },
+ "0x000732": {
+  "en": "??????",
+  "slot": 18
+ },
+ "0x00074B": {
+  "en": "Psychic",
+  "slot": 9
+ },
+ "0x00075B": {
+  "en": "Higher skill Lv raises hit and evade rates in battle.",
+  "slot": 96
+ },
+ "0x0007C2": {
+  "en": "Lucky",
+  "slot": 12
+ },
+ "0x000879": {
+  "en": "activation rate rises.",
+  "slot": 33
+ },
+ "0x0008A1": {
+  "en": "Guts",
+  "slot": 6
+ },
+ "0x000946": {
+  "en": "rise.",
+  "slot": 18
+ },
+ "0x00095F": {
+  "en": "Support Atk",
+  "slot": 12
+ },
+ "0x000972": {
+  "en": "Support Attack for adjacent allies. More uses per Lv.",
+  "slot": 135
+ },
+ "0x000A00": {
+  "en": "Support Def",
+  "slot": 12
+ },
+ "0x000A13": {
+  "en": "Support Defense for adjacent allies. More uses per Lv.",
+  "slot": 135
+ },
+ "0x000AA1": {
+  "en": "Counter",
+  "slot": 15
+ },
+ "0x000AB7": {
+  "en": "Counter before the enemy attacks. Rate rises per Lv.",
+  "slot": 147
+ },
+ "0x000B51": {
+  "en": "Infight",
+  "slot": 18
+ },
+ "0x000B6A": {
+  "en": "Higher Lv raises movement and non-MAP melee power.",
+  "slot": 138
+ },
+ "0x000BFB": {
+  "en": "Gunfight",
+  "slot": 18
+ },
+ "0x000C14": {
+  "en": "Higher Lv raises non-MAP ranged power and range.",
+  "slot": 135
+ },
+ "0x000CA2": {
+  "en": "SP Up",
+  "slot": 15
+ },
+ "0x000CB8": {
+  "en": "The higher the skill level, the more max SP rises.",
+  "slot": 84
+ },
+ "0x000D13": {
+  "en": "Commander",
+  "slot": 9
+ },
+ "0x000D23": {
+  "en": "Higher Lv raises hit/evade of allies in command range.",
+  "slot": 138
+ },
+ "0x000DB4": {
+  "en": "Chain Atk",
+  "slot": 12
+ },
+ "0x000E59": {
+  "en": "Multi-Act Lv \"level\" + 1 = \"number of units you can attack.\"",
+  "slot": 96
+ },
+ "0x000EC0": {
+  "en": "SP Regen",
+  "slot": 12
+ },
+ "0x000ED3": {
+  "en": "At the start of your army phase, SP recovers by 10.",
+  "slot": 72
+ },
+ "0x000F22": {
+  "en": "Focus",
+  "slot": 9
+ },
+ "0x000F32": {
+  "en": "SP cost of Spirit and Twin Spirit Commands is 80%.",
+  "slot": 108
+ },
+ "0x000FA5": {
+  "en": "Hit & Away",
+  "slot": 24
+ },
+ "0x000FC4": {
+  "en": "Lets you move after attacking, if you had not moved.",
+  "slot": 72
+ },
+ "0x001013": {
+  "en": "Genius",
+  "slot": 6
+ },
+ "0x001020": {
+  "en": "Raises hit rate, evade rate and critical rate by 20.",
+  "slot": 84
+ },
+ "0x00107B": {
+  "en": "Attacker",
+  "slot": 15
+ },
+ "0x001091": {
+  "en": "At 130+ will, damage dealt is multiplied by 1.2.",
+  "slot": 81
+ },
+ "0x0010E9": {
+  "en": "Revenge",
+  "slot": 12
+ },
+ "0x0010FC": {
+  "en": "Damage dealt on counterattack is multiplied by 1.2.",
+  "slot": 66
+ },
+ "0x001145": {
+  "en": "Sense",
+  "slot": 6
+ },
+ "0x001152": {
+  "en": "At 130+ Will, final evade rate +30 in the enemy phase.",
+  "slot": 126
+ },
+ "0x0011D7": {
+  "en": "Chance",
+  "slot": 6
+ },
+ "0x00127C": {
+  "en": "up to 2x.",
+  "slot": 21
+ },
+ "0x001298": {
+  "en": "Insight",
+  "slot": 9
+ },
+ "0x0012A8": {
+  "en": "At 130+ will, hit rate and evade rate rise by 10.",
+  "slot": 90
+ },
+ "0x001309": {
+  "en": "E Save",
+  "slot": 12
+ },
+ "0x00131C": {
+  "en": "Weapon EN cost is reduced to 70% of normal.",
+  "slot": 60
+ },
+ "0x00135F": {
+  "en": "B Save",
+  "slot": 12
+ },
+ "0x001372": {
+  "en": "Weapon max ammo is 1.5x normal.",
+  "slot": 63
+ },
+ "0x0013B8": {
+  "en": "Learning",
+  "slot": 15
+ },
+ "0x0013CE": {
+  "en": "In a sub unit, gain the same EXP and PP as the main.",
+  "slot": 99
+ },
+ "0x001438": {
+  "en": "Fervor",
+  "slot": 9
+ },
+ "0x001448": {
+  "en": "Will at sortie is raised by 5.",
+  "slot": 48
+ },
+ "0x00147F": {
+  "en": "Will Up",
+  "slot": 12
+ },
+ "0x001492": {
+  "en": "At the start of your phase, will rises by 2.",
+  "slot": 63
+ },
+ "0x0014D8": {
+  "en": "Will+ (Eva)",
+  "slot": 21
+ },
+ "0x0014F4": {
+  "en": "On evading an attack, Will rises by 1 extra.",
+  "slot": 93
+ },
+ "0x001558": {
+  "en": "Will+ (Hit)",
+  "slot": 21
+ },
+ "0x001574": {
+  "en": "When your attack hits an enemy, Will rises by 1 extra.",
+  "slot": 102
+ },
+ "0x0015E1": {
+  "en": "Will+ (Dmg)",
+  "slot": 27
+ },
+ "0x001603": {
+  "en": "When damaged by an attack, Will rises by 2 extra.",
+  "slot": 105
+ },
+ "0x001673": {
+  "en": "Will+ (KO)",
+  "slot": 21
+ },
+ "0x00168F": {
+  "en": "When an enemy is shot down, Will rises by 1 extra.",
+  "slot": 93
+ },
+ "0x0016F3": {
+  "en": "Combo Atk",
+  "slot": 12
+ },
+ "0x001706": {
+  "en": "Damage dealt by support attacks becomes 100%.",
+  "slot": 69
+ },
+ "0x001752": {
+  "en": "Focus Atk",
+  "slot": 12
+ },
+ "0x001765": {
+  "en": "Cuts the damage loss on main/sub cross attacks by 20%.",
+  "slot": 132
+ },
+ "0x0017F0": {
+  "en": "Guard",
+  "slot": 9
+ },
+ "0x001800": {
+  "en": "At 130+ will, damage taken in combat becomes 80%.",
+  "slot": 96
+ },
+ "0x001867": {
+  "en": "Will Break",
+  "slot": 18
+ },
+ "0x001880": {
+  "en": "The will cap is raised to 170.",
+  "slot": 51
+ },
+ "0x0018BA": {
+  "en": "Repair",
+  "slot": 12
+ },
+ "0x0018CD": {
+  "en": "Using the Repair command, HP recovery becomes 1.2x.",
+  "slot": 96
+ },
+ "0x001934": {
+  "en": "Resupply",
+  "slot": 12
+ },
+ "0x001947": {
+  "en": "Allows use of the Resupply command after moving.",
+  "slot": 75
+ },
+ "0x001999": {
+  "en": "Double Move",
+  "slot": 12
+ },
+ "0x0019AC": {
+  "en": "The number of actions per turn increases by 1.",
+  "slot": 51
+ },
+ "0x0019E6": {
+  "en": "EXP Up",
+  "slot": 18
+ },
+ "0x0019FF": {
+  "en": "EXP gained in combat is multiplied by 1.2.",
+  "slot": 60
+ },
+ "0x001A42": {
+  "en": "Re-Attack",
+  "slot": 9
+ },
+ "0x001AE1": {
+  "en": "is performed.",
+  "slot": 15
+ },
+ "0x001AF7": {
+  "en": "Psychic",
+  "slot": 9
+ },
+ "0x001B07": {
+  "en": "Higher Lv raises hit, evade and crit rates in combat.",
+  "slot": 126
+ },
+ "0x001B8C": {
+  "en": "Lead",
+  "slot": 6
+ },
+ "0x001B99": {
+  "en": "The ability to trigger a Maximum Break.",
+  "slot": 60
+ },
+ "0x001BDC": {
+  "en": "Pilot",
+  "slot": 15
+ },
+ "0x001BF2": {
+  "en": "Used only as a skill required to use certain weapons.",
+  "slot": 69
+ },
+ "0x001C3E": {
+  "en": "Cont Action",
+  "slot": 12
+ },
+ "0x001CEC": {
+  "en": "can trigger only once per phase (using Transform to swap main pilots does not add triggers).",
+  "slot": 156
+ }
+}
