@@ -1,0 +1,2930 @@
+{
+ "0x000081": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000097": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0000AD": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0000C0": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0000D6": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0000E6": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0000FC": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00010F": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000128": {
+  "en": "",
+  "slot": 27,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000144": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000157": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00016A": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000180": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000199": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0001B2": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0001CB": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0001DE": {
+  "en": "",
+  "slot": 27,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0001FA": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00020D": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00021D": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000233": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00024C": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000262": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00027B": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00028E": {
+  "en": "",
+  "slot": 27,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0002AA": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0002BD": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0002D6": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0002E9": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0002FC": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000312": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00032B": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000341": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000354": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00036A": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000383": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000396": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0003A9": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0003BC": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0003CF": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0003DF": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0003F5": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000408": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00041B": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000434": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000447": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00045D": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000473": {
+  "en": "",
+  "slot": 27,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00048F": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0004A5": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0004BB": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0004CB": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0004DE": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0004EE": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000501": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000517": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00052A": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000540": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000553": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000566": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000576": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000589": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00059F": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0005B8": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0005CB": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0005DB": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0005F1": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000601": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00061A": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000630": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000646": {
+  "en": "",
+  "slot": 36,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00066B": {
+  "en": "",
+  "slot": 36,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000690": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0006A9": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0006BC": {
+  "en": "",
+  "slot": 24,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0006D5": {
+  "en": "",
+  "slot": 21,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0006EB": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0006FB": {
+  "en": "",
+  "slot": 18,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00070E": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00071E": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000728": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000732": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00073C": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000746": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000750": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00075A": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000764": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00076E": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000778": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000782": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00078C": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000796": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0007A0": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0007AA": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0007B4": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0007BE": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0007C8": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0007D2": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0007DC": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0007E6": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0007F0": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x0007FA": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000804": {
+  "en": "",
+  "slot": 9,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00080E": {
+  "en": "",
+  "slot": 12,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00081B": {
+  "en": "",
+  "slot": 12,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000828": {
+  "en": "",
+  "slot": 12,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000835": {
+  "en": "",
+  "slot": 12,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000842": {
+  "en": "",
+  "slot": 12,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00084F": {
+  "en": "",
+  "slot": 12,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x00085C": {
+  "en": "",
+  "slot": 12,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000869": {
+  "en": "",
+  "slot": 12,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000876": {
+  "en": "",
+  "slot": 15,
+  "note": "ENGINE KEY (scene label / roster tag) - must stay exact JP bytes; scr<->talk string-matched. DO NOT TRANSLATE."
+ },
+ "0x000886": {
+  "en": "???",
+  "slot": 9
+ },
+ "0x000890": {
+  "en": "「So... this is where it ends...!」",
+  "slot": 36
+ },
+ "0x0008B5": {
+  "en": "Ibis",
+  "slot": 12
+ },
+ "0x0008C2": {
+  "en": "「As I am now...@　this is my limit...!」",
+  "slot": 52
+ },
+ "0x0008F7": {
+  "en": "Aqua",
+  "slot": 9
+ },
+ "0x000901": {
+  "en": "「Kyaaaaaah!!」",
+  "slot": 36
+ },
+ "0x000926": {
+  "en": "Axel",
+  "slot": 12
+ },
+ "0x000933": {
+  "en": "「Ngh! This is as far as I go...!!」",
+  "slot": 46
+ },
+ "0x000962": {
+  "en": "Aya",
+  "slot": 6
+ },
+ "0x000969": {
+  "en": "「Agh...! I have to eject...!」",
+  "slot": 39
+ },
+ "0x000991": {
+  "en": "Araceli",
+  "slot": 12
+ },
+ "0x00099E": {
+  "en": "「Time to pull back.」",
+  "slot": 18
+ },
+ "0x0009B1": {
+  "en": "Arado",
+  "slot": 9
+ },
+ "0x0009BB": {
+  "en": "「Damn it!@　You won't get me next time!」",
+  "slot": 55
+ },
+ "0x0009F3": {
+  "en": "Ariel",
+  "slot": 15
+ },
+ "0x000A03": {
+  "en": "「The rest is up to you...」",
+  "slot": 30
+ },
+ "0x000A22": {
+  "en": "Alfimi",
+  "slot": 18
+ },
+ "0x000A35": {
+  "en": "「Is this... the end...?」",
+  "slot": 36
+ },
+ "0x000A5A": {
+  "en": "Irm",
+  "slot": 9
+ },
+ "0x000A64": {
+  "en": "「Tch!! What a short show!」",
+  "slot": 45
+ },
+ "0x000A92": {
+  "en": "Ing",
+  "slot": 9
+ },
+ "0x000A9C": {
+  "en": "Viletta",
+  "slot": 15
+ },
+ "0x000AAC": {
+  "en": "「Time to fall back...! I'm ejecting.」",
+  "slot": 39
+ },
+ "0x000AD4": {
+  "en": "Ventos",
+  "slot": 15
+ },
+ "0x000AE4": {
+  "en": "「Is this really the end...!?」",
+  "slot": 39
+ },
+ "0x000B0C": {
+  "en": "Excellen",
+  "slot": 15
+ },
+ "0x000B1C": {
+  "en": "「Oh dear...@　how uncool of me, honestly!」",
+  "slot": 55
+ },
+ "0x000B54": {
+  "en": "Elis",
+  "slot": 9
+ },
+ "0x000B5E": {
+  "en": "「No way, I'm hit!?」",
+  "slot": 36
+ },
+ "0x000B83": {
+  "en": "Kirkus",
+  "slot": 12
+ },
+ "0x000B90": {
+  "en": "「Grr, so this is where it ends!」",
+  "slot": 36
+ },
+ "0x000BB5": {
+  "en": "Carla",
+  "slot": 9
+ },
+ "0x000BBF": {
+  "en": "「I've got to eject...!」",
+  "slot": 30
+ },
+ "0x000BDE": {
+  "en": "Kai",
+  "slot": 6
+ },
+ "0x000BE5": {
+  "en": "「Ngh! So this is the end...!」",
+  "slot": 45
+ },
+ "0x000C13": {
+  "en": "Katina",
+  "slot": 12
+ },
+ "0x000C20": {
+  "en": "「Screwing up in a place like this...!@　This is no fun...」",
+  "slot": 67
+ },
+ "0x000C64": {
+  "en": "Kyosuke",
+  "slot": 15
+ },
+ "0x000C74": {
+  "en": "「I blew it...!@　No choice but to bail...」",
+  "slot": 58
+ },
+ "0x000CAF": {
+  "en": "Gilliam",
+  "slot": 12
+ },
+ "0x000CBC": {
+  "en": "「Ngh! I'm ejecting!」",
+  "slot": 33
+ },
+ "0x000CDE": {
+  "en": "Kukuru",
+  "slot": 9
+ },
+ "0x000CE8": {
+  "en": "「Argh! No choice but to retreat!!」",
+  "slot": 48
+ },
+ "0x000D19": {
+  "en": "Kusuha",
+  "slot": 9
+ },
+ "0x000D23": {
+  "en": "「I-I'm sorry...!」",
+  "slot": 39
+ },
+ "0x000D4B": {
+  "en": "Glacies",
+  "slot": 18
+ },
+ "0x000D5E": {
+  "en": "「So this is the end...!」",
+  "slot": 30
+ },
+ "0x000D7D": {
+  "en": "Kurt",
+  "slot": 9
+ },
+ "0x000D87": {
+  "en": "「Ngh...! All hands, abandon ship!」",
+  "slot": 45
+ },
+ "0x000DB5": {
+  "en": "Gennacy",
+  "slot": 15
+ },
+ "0x000DC5": {
+  "en": "「This is the end... The rest is up to you.」",
+  "slot": 39
+ },
+ "0x000DED": {
+  "en": "Kouta",
+  "slot": 9
+ },
+ "0x000DF7": {
+  "en": "「Damn it...!@ So this is the end!」",
+  "slot": 49
+ },
+ "0x000E29": {
+  "en": "Gold",
+  "slot": 9
+ },
+ "0x000E33": {
+  "en": "「Grr! You got the better of me...」",
+  "slot": 48
+ },
+ "0x000E64": {
+  "en": "Zash",
+  "slot": 12
+ },
+ "0x000E71": {
+  "en": "「No good, we're too badly hit... Retreating!」",
+  "slot": 60
+ },
+ "0x000EAE": {
+  "en": "Saphine",
+  "slot": 15
+ },
+ "0x000EBE": {
+  "en": "「Well, this is a fix. I'll leave the rest to you.」",
+  "slot": 48
+ },
+ "0x000EEF": {
+  "en": "Shine",
+  "slot": 12
+ },
+ "0x000EFC": {
+  "en": "「Kyah! I leave the rest to you!」",
+  "slot": 60
+ },
+ "0x000F39": {
+  "en": "Shu",
+  "slot": 9
+ },
+ "0x000F43": {
+  "en": "「To think the Granzon... could be shot down...」",
+  "slot": 51
+ },
+ "0x000F77": {
+  "en": "Shouko",
+  "slot": 12
+ },
+ "0x000F84": {
+  "en": "「Big brother... Emmy... I'm sorry!!」",
+  "slot": 51
+ },
+ "0x000FB8": {
+  "en": "Joshua",
+  "slot": 15
+ },
+ "0x000FC8": {
+  "en": "「Th-this is my limit!!」",
+  "slot": 27
+ },
+ "0x000FE4": {
+  "en": "Sleigh",
+  "slot": 9
+ },
+ "0x000FEE": {
+  "en": "「Gah...! So I'm the falling star this time...! Ejecting!」",
+  "slot": 66
+ },
+ "0x001031": {
+  "en": "Seolla",
+  "slot": 9
+ },
+ "0x00103B": {
+  "en": "「N-next time... for sure!!」",
+  "slot": 39
+ },
+ "0x001063": {
+  "en": "Seti",
+  "slot": 9
+ },
+ "0x00106D": {
+  "en": "「I-I can't take any more...!」",
+  "slot": 45
+ },
+ "0x00109B": {
+  "en": "Xenia",
+  "slot": 9
+ },
+ "0x0010A5": {
+  "en": "「Owowow... I give. I miscalculated.」",
+  "slot": 57
+ },
+ "0x0010DF": {
+  "en": "Zeb",
+  "slot": 6
+ },
+ "0x0010E6": {
+  "en": "「Aw, man, they got me good!」",
+  "slot": 54
+ },
+ "0x00111D": {
+  "en": "Sanger",
+  "slot": 12
+ },
+ "0x00112A": {
+  "en": "「Nn... guh! Is this as far as I go...!」",
+  "slot": 45
+ },
+ "0x001158": {
+  "en": "Tasuku",
+  "slot": 9
+ },
+ "0x001162": {
+  "en": "「Damn it! How pathetic...!!」",
+  "slot": 42
+ },
+ "0x00118D": {
+  "en": "Tetsuya",
+  "slot": 9
+ },
+ "0x001197": {
+  "en": "「Tch! All hands, abandon ship, now!!」",
+  "slot": 54
+ },
+ "0x0011CE": {
+  "en": "Tytti",
+  "slot": 15
+ },
+ "0x0011DE": {
+  "en": "「I'm sorry... the rest is up to you.」",
+  "slot": 42
+ },
+ "0x001209": {
+  "en": "Touma",
+  "slot": 9
+ },
+ "0x001213": {
+  "en": "「Damn it! Is this the limit of my strength...!」",
+  "slot": 54
+ },
+ "0x00124A": {
+  "en": "Torres",
+  "slot": 12
+ },
+ "0x001257": {
+  "en": "「I can't fight any longer! Falling back!」",
+  "slot": 57
+ },
+ "0x001291": {
+  "en": "Hugo",
+  "slot": 12
+ },
+ "0x00129E": {
+  "en": "「Whoaaaaaah!!」",
+  "slot": 36
+ },
+ "0x0012C3": {
+  "en": "Feil",
+  "slot": 12
+ },
+ "0x0012D0": {
+  "en": "「Ngh... impressive, as expected.」",
+  "slot": 33
+ },
+ "0x0012F2": {
+  "en": "Bullet",
+  "slot": 12
+ },
+ "0x0012FF": {
+  "en": "「Beaten in a place like this...@ I'm still green...!」",
+  "slot": 64
+ },
+ "0x001340": {
+  "en": "Presia",
+  "slot": 12
+ },
+ "0x00134D": {
+  "en": "「No good, I can't hold on! Retreating!」",
+  "slot": 60
+ },
+ "0x00138A": {
+  "en": "Mai",
+  "slot": 6
+ },
+ "0x001391": {
+  "en": "「I-is this where I... end...!?」",
+  "slot": 42
+ },
+ "0x0013BC": {
+  "en": "Masaki",
+  "slot": 9
+ },
+ "0x0013C6": {
+  "en": "「Sorry!@ I'm pulling out of this one...!」",
+  "slot": 58
+ },
+ "0x001401": {
+  "en": "Mio",
+  "slot": 6
+ },
+ "0x001408": {
+  "en": "「Sorry, the rest is on you!」",
+  "slot": 36
+ },
+ "0x00142D": {
+  "en": "Michiru",
+  "slot": 9
+ },
+ "0x001437": {
+  "en": "「N-no good! This is as far as I go!!」",
+  "slot": 48
+ },
+ "0x001468": {
+  "en": "Mekibos",
+  "slot": 12
+ },
+ "0x001475": {
+  "en": "「Well, well. So this is the end.」",
+  "slot": 36
+ },
+ "0x00149A": {
+  "en": "Monica",
+  "slot": 9
+ },
+ "0x0014A4": {
+  "en": "「I can't go on. I'll be taking my leave.」",
+  "slot": 69
+ },
+ "0x0014EA": {
+  "en": "Yang Long",
+  "slot": 12
+ },
+ "0x0014F7": {
+  "en": "「A bitter defeat... I must withdraw.」",
+  "slot": 45
+ },
+ "0x001525": {
+  "en": "Yuuki",
+  "slot": 9
+ },
+ "0x00152F": {
+  "en": "「Careless of me...@ I'll pull back for now...!」",
+  "slot": 67
+ },
+ "0x001573": {
+  "en": "Radha",
+  "slot": 9
+ },
+ "0x00157D": {
+  "en": "「N-not in a place like this...!」",
+  "slot": 39
+ },
+ "0x0015A5": {
+  "en": "Rai",
+  "slot": 6
+ },
+ "0x0015AC": {
+  "en": "「Tch...! Guess I couldn't hold out...!」",
+  "slot": 51
+ },
+ "0x0015E0": {
+  "en": "Raul",
+  "slot": 9
+ },
+ "0x0015EA": {
+  "en": "「This... this can't be happening...!」",
+  "slot": 45
+ },
+ "0x001618": {
+  "en": "Russel",
+  "slot": 12
+ },
+ "0x001625": {
+  "en": "「Sorry! I'm ejecting!」",
+  "slot": 45
+ },
+ "0x001653": {
+  "en": "Latooni",
+  "slot": 15
+ },
+ "0x001663": {
+  "en": "「So this is... where it ends...!」",
+  "slot": 39
+ },
+ "0x00168B": {
+  "en": "Lamia",
+  "slot": 9
+ },
+ "0x001695": {
+  "en": "「Ejecting...@ ugh...! Not exactly graceful...」",
+  "slot": 70
+ },
+ "0x0016DC": {
+  "en": "Rio",
+  "slot": 6
+ },
+ "0x0016E3": {
+  "en": "「N-next time I won't lose!!」",
+  "slot": 45
+ },
+ "0x001711": {
+  "en": "Rishu",
+  "slot": 12
+ },
+ "0x00171E": {
+  "en": "「Nngh! So I've blundered...!」",
+  "slot": 45
+ },
+ "0x00174C": {
+  "en": "Lim",
+  "slot": 6
+ },
+ "0x001753": {
+  "en": "「Guhhh! Not here, not now!!」",
+  "slot": 45
+ },
+ "0x001781": {
+  "en": "Ryusei",
+  "slot": 15
+ },
+ "0x001791": {
+  "en": "「D-damn it!@ They got me!」",
+  "slot": 52
+ },
+ "0x0017C6": {
+  "en": "Lune",
+  "slot": 12
+ },
+ "0x0017D3": {
+  "en": "「Sorry! Valsione...!」",
+  "slot": 48
+ },
+ "0x001804": {
+  "en": "Ryoto",
+  "slot": 12
+ },
+ "0x001811": {
+  "en": "「Ngh...! I have to eject...!」",
+  "slot": 45
+ },
+ "0x00183F": {
+  "en": "Ruzak Soldier A",
+  "slot": 27
+ },
+ "0x00185B": {
+  "en": "「Th-they got me!」",
+  "slot": 27
+ },
+ "0x001877": {
+  "en": "Ruzak Soldier B",
+  "slot": 27
+ },
+ "0x001893": {
+  "en": "「So this is it!!」",
+  "slot": 30
+ },
+ "0x0018B2": {
+  "en": "Ratsel",
+  "slot": 15
+ },
+ "0x0018C2": {
+  "en": "「So I'm still green as well...!」",
+  "slot": 42
+ },
+ "0x0018ED": {
+  "en": "Leona",
+  "slot": 9
+ },
+ "0x0018F7": {
+  "en": "「How humiliating...!」",
+  "slot": 27
+ },
+ "0x001913": {
+  "en": "Lefina",
+  "slot": 15
+ },
+ "0x001923": {
+  "en": "「A-all hands! Abandoning ship takes priority...!!」",
+  "slot": 52
+ },
+ "0x001958": {
+  "en": "Rodney",
+  "slot": 12
+ },
+ "0x001965": {
+  "en": "「No good, they got me.」",
+  "slot": 42
+ },
+ "0x001990": {
+  "en": "Roff",
+  "slot": 6
+ },
+ "0x001997": {
+  "en": "「Nothing to do but fall back...!」",
+  "slot": 42
+ },
+ "0x0019C2": {
+  "en": "「Reset face to default.」",
+  "slot": 36
+ },
+ "0x0019E7": {
+  "en": "Baral's Garden",
+  "slot": 15
+ },
+ "0x0019F7": {
+  "en": "Baral Soldier",
+  "slot": 12
+ },
+ "0x001A04": {
+  "en": "「...Lord Yomogi, the Steel Dragon Squadron has broken through the Gate of Baral.@ They will reach Baral's Garden shortly.」",
+  "slot": 133
+ },
+ "0x001A8A": {
+  "en": "Yomogi",
+  "slot": 3
+ },
+ "0x001A8E": {
+  "en": "「I see...」",
+  "slot": 21
+ },
+ "0x001AA4": {
+  "en": "(That they could defeat Lord Guanglong, Lady Kanan, and my own master...)",
+  "slot": 91
+ },
+ "0x001B00": {
+  "en": "(Is that the judgment of the god of Baral... what they call destiny? Yet the Total Human Deliverance Plan cannot be stopped now.)",
+  "slot": 133
+ },
+ "0x001B86": {
+  "en": "(The paradise mortals have longed for since ancient times, the promised land... Shangri-La, the last utopia, will manifest.)",
+  "slot": 139
+ },
+ "0x001C12": {
+  "en": "「...And Lady Irui?」",
+  "slot": 30
+ },
+ "0x001C31": {
+  "en": "「Her purification is complete. She is with the god now.」",
+  "slot": 42
+ },
+ "0x001C5C": {
+  "en": "「So... our role is all but finished.@ You have served well. I shall free your souls now.」",
+  "slot": 133
+ },
+ "0x001CE2": {
+  "en": "「Seal.」",
+  "slot": 9
+ },
+ "0x001CEC": {
+  "en": "「.........」",
+  "slot": 15
+ },
+ "0x001CFC": {
+  "en": "「...Rest in peace, beneath my god.」",
+  "slot": 51
+ },
+ "0x001D30": {
+  "en": "(Master...@ the final task you gave me...)",
+  "slot": 76
+ },
+ "0x001D7D": {
+  "en": "(The war of god and man over the last paradise...@ yes, the outcome of the Sealing War...)",
+  "slot": 103
+ },
+ "0x001DE5": {
+  "en": "「Seal it away...」",
+  "slot": 24
+ },
+ "0x001DFE": {
+  "en": "「Seal away the last paradise...」",
+  "slot": 42
+ },
+ "0x001E29": {
+  "en": "「This world is the haven of those who fled calamity...@ It must never be lost...」",
+  "slot": 103
+ },
+ "0x001E91": {
+  "en": "「Upon those living in paradise... the protection of Gan Eden...」",
+  "slot": 72
+ },
+ "0x001EDA": {
+  "en": "「Upon those who guard paradise... the power of Gan Eden...」",
+  "slot": 66
+ },
+ "0x001F1D": {
+  "en": "「Guardians of paradise...@ the swords I have chosen, the Steel Dragon Squadron... bring them to me...」",
+  "slot": 106
+ },
+ "0x001F88": {
+  "en": "Eita",
+  "slot": 9
+ },
+ "0x001F92": {
+  "en": "「Captain, the ship has entered the airspace above Baral's Garden.」",
+  "slot": 66
+ },
+ "0x001FD5": {
+  "en": "「And the Gate of Baral behind us?」",
+  "slot": 42
+ },
+ "0x002000": {
+  "en": "「It closed the moment we passed through.@ A barrier now covers the airspace within 20km of Baral's Garden.」",
+  "slot": 176
+ },
+ "0x0020B1": {
+  "en": "「So there's nowhere left to run.@ Is a barrier deployed around the structures too?」",
+  "slot": 109
+ },
+ "0x00211F": {
+  "en": "「No, sir.」",
+  "slot": 12
+ },
+ "0x00212C": {
+  "en": "「Keep air and ground alert at maximum.@ This is the enemy's stronghold. Anything could happen.」",
+  "slot": 106
+ },
+ "0x002197": {
+  "en": "Azuki",
+  "slot": 9
+ },
+ "0x0021A1": {
+  "en": "「...But, it's so quiet...」",
+  "slot": 42
+ },
+ "0x0021CC": {
+  "en": "「The calm before the storm, as they say.@ And when you talk like that...」",
+  "slot": 103
+ },
+ "0x002234": {
+  "en": "「Custos and others emerging from Baral's Garden in large numbers!」",
+  "slot": 63
+ },
+ "0x002274": {
+  "en": "「All units, sortie at once!」",
+  "slot": 39
+ },
+ "0x00229C": {
+  "en": "「Well now, the final act at last.」",
+  "slot": 42
+ },
+ "0x0022C7": {
+  "en": "「Three servants at the tower.@ If a storm were blowing, it'd be perfect. Right, Ranshao?」",
+  "slot": 103
+ },
+ "0x00232F": {
+  "en": "Ranshao",
+  "slot": 15
+ },
+ "0x00233F": {
+  "en": "「Why do you say such things to me?」",
+  "slot": 48
+ },
+ "0x002370": {
+  "en": "「No idle chatter, Mio.@ Whatever else it is, our foe calls itself a god.@ This won't be settled by half measures.」",
+  "slot": 143
+ },
+ "0x002400": {
+  "en": "「Oh, I'm looking forward to it.@ Just what kind of thing is going to show up?」",
+  "slot": 91
+ },
+ "0x00245C": {
+  "en": "「This is hardly the time to be saying@ such things, is it?」",
+  "slot": 100
+ },
+ "0x0024C1": {
+  "en": "「Not the time at all, indeed and forsooth.」",
+  "slot": 63
+ },
+ "0x002501": {
+  "en": "「Lamia, dear, it's rubbing off, it's rubbing off.」",
+  "slot": 57
+ },
+ "0x00253B": {
+  "en": "「Mm.」",
+  "slot": 9
+ },
+ "0x002545": {
+  "en": "「Now, now, don't get so worked up.@ Better than being too tense to say a word.」",
+  "slot": 106
+ },
+ "0x0025B0": {
+  "en": "「...Is Irui... in there?」",
+  "slot": 57
+ },
+ "0x0025EA": {
+  "en": "「Irui was deceived by Guanglong and the others, controlled by Gan Eden...@ There's no way that child sealed the Earth...@ no way at all...!」",
+  "slot": 182
+ },
+ "0x0026A1": {
+  "en": "Tsugumi",
+  "slot": 9
+ },
+ "0x0026AB": {
+  "en": "「Ibis...」",
+  "slot": 24
+ },
+ "0x0026C4": {
+  "en": "「Those things... they're not coming at us?」",
+  "slot": 54
+ },
+ "0x0026FB": {
+  "en": "Fiona",
+  "slot": 12
+ },
+ "0x002708": {
+  "en": "「They didn't send out that many@ just to give us a warm welcome.」",
+  "slot": 94
+ },
+ "0x002767": {
+  "en": "「Well, sure, but...」",
+  "slot": 36
+ },
+ "0x00278C": {
+  "en": "「Major Kai.」",
+  "slot": 18
+ },
+ "0x00279F": {
+  "en": "「Yeah, we watch and wait. All units, stay sharp.」",
+  "slot": 63
+ },
+ "0x0027DF": {
+  "en": "「Roger.」",
+  "slot": 12
+ },
+ "0x0027EC": {
+  "en": "「Still, I don't see any of the Classics around.@ Was that last batch the whole lot?」",
+  "slot": 103
+ },
+ "0x002854": {
+  "en": "「What do you make of it, Kukuru?」",
+  "slot": 39
+ },
+ "0x00287C": {
+  "en": "「I cannot say...@ But Taihoku's disciple, Yomogi, should@ still remain in Baral's Garden.」",
+  "slot": 119
+ },
+ "0x0028F4": {
+  "en": "「And those humanoid things?」",
+  "slot": 24
+ },
+ "0x00290D": {
+  "en": "「They were once stone statues enshrined in the Baral temple.@ They began to move when the master awoke.」",
+  "slot": 127
+ },
+ "0x00298D": {
+  "en": "「Those things, like the three servants, were something@ even Guanglong and the others couldn't control.」",
+  "slot": 94
+ },
+ "0x0029EC": {
+  "en": "「In other words, mobile weapons under Gan Eden's command.」",
+  "slot": 57
+ },
+ "0x002A26": {
+  "en": "「Kukuru, have you ever seen Gan Eden yourself?」",
+  "slot": 75
+ },
+ "0x002A72": {
+  "en": "「No.@ The only ones allowed into the temple's depths@ were Guanglong, and perhaps...」",
+  "slot": 113
+ },
+ "0x002AE4": {
+  "en": "「...Irui?」",
+  "slot": 24
+ },
+ "0x002AFD": {
+  "en": "「When that child was brought to Baral's Garden,@ how did she seem?」",
+  "slot": 94
+ },
+ "0x002B5C": {
+  "en": "「...I never saw the shrine maiden in Baral's Garden.」",
+  "slot": 69
+ },
+ "0x002BA2": {
+  "en": "「I-I see...」",
+  "slot": 24
+ },
+ "0x002BBB": {
+  "en": "「Ryu, Mai...」",
+  "slot": 30
+ },
+ "0x002BDA": {
+  "en": "「Yeah, I know. I feel one hell of a powerful presence.」",
+  "slot": 69
+ },
+ "0x002C20": {
+  "en": "「But this presence... it slips gently@ into your heart...」",
+  "slot": 79
+ },
+ "0x002C70": {
+  "en": "「Not hostile... more like it's@ wrapping itself around us...」",
+  "slot": 76
+ },
+ "0x002CBD": {
+  "en": "「But let your guard down, and it'll swallow you whole...」",
+  "slot": 60
+ },
+ "0x002CFA": {
+  "en": "(Whoever this presence belongs to... it's almost like...)",
+  "slot": 51
+ },
+ "0x002D2E": {
+  "en": "(Mom...? No, that can't be.)",
+  "slot": 63
+ },
+ "0x002D6E": {
+  "en": "(What is this... I even feel a kind of nostalgia...)",
+  "slot": 57
+ },
+ "0x002DA8": {
+  "en": "(I-I'm different...! It's eating away at me...!?)",
+  "slot": 60
+ },
+ "0x002DE5": {
+  "en": "「High energy reading atop the tower in Baral's Garden!!」",
+  "slot": 63
+ },
+ "0x002E25": {
+  "en": "「It moved! All cannons, prepare to fire!」",
+  "slot": 48
+ },
+ "0x002E56": {
+  "en": "「C-Captain! There's an image on the monitor!」",
+  "slot": 51
+ },
+ "0x002E8A": {
+  "en": "「H-here too!」",
+  "slot": 33
+ },
+ "0x002EAC": {
+  "en": "「A system hack!?」",
+  "slot": 36
+ },
+ "0x002ED1": {
+  "en": "「Welcome... to the promised land, Baral...」",
+  "slot": 57
+ },
+ "0x002F0B": {
+  "en": "「!!」",
+  "slot": 12
+ },
+ "0x002F18": {
+  "en": "「Th-this voice!?」",
+  "slot": 27
+ },
+ "0x002F34": {
+  "en": "「Is it Irui!?」",
+  "slot": 27
+ },
+ "0x002F50": {
+  "en": "「But that form...!」",
+  "slot": 36
+ },
+ "0x002F75": {
+  "en": "「Sh-she's gotten bigger...!」",
+  "slot": 45
+ },
+ "0x002FA3": {
+  "en": "「I-Irui... are you really Irui...!?」",
+  "slot": 63
+ },
+ "0x002FE3": {
+  "en": "Irui",
+  "slot": 9
+ },
+ "0x002FED": {
+  "en": "「Yes, Ibis...@ this is my... true form...」",
+  "slot": 94
+ },
+ "0x00304C": {
+  "en": "「Everyone in the Steel Dragon Squadron...@ I have been waiting for you...」",
+  "slot": 91
+ },
+ "0x0030A8": {
+  "en": "「The Earth is now sealed by my power...@ My chosen swords... let us protect the last paradise@ together with Gan Eden...」",
+  "slot": 179
+ },
+ "0x00315C": {
+  "en": "「Chosen...@ Then you contacted us on purpose?」",
+  "slot": 97
+ },
+ "0x0031BE": {
+  "en": "「Yes...@ Gan Eden commanded me to seek out swords with strong@ power and hearts, to fight and protect the Earth...」",
+  "slot": 161
+ },
+ "0x003260": {
+  "en": "「So that's why we were chosen...?」",
+  "slot": 45
+ },
+ "0x00328E": {
+  "en": "「Yes...@　And I have been watching you closely, to see if@　you have what it takes to be a sword.」",
+  "slot": 128
+ },
+ "0x00330F": {
+  "en": "Sean",
+  "slot": 12
+ },
+ "0x00331C": {
+  "en": "「So that's why@　she was so reluctant to leave the ship.」",
+  "slot": 79
+ },
+ "0x00336C": {
+  "en": "「No way...」",
+  "slot": 21
+ },
+ "0x003382": {
+  "en": "「...Just what is Gan Eden?@　Where did you people come from?」",
+  "slot": 94
+ },
+ "0x0033E1": {
+  "en": "「The wish of the ancients... that is what shaped us...@　Gan Eden is a man-made god... Baral, its throne...」",
+  "slot": 136
+ },
+ "0x00346A": {
+  "en": "「A man-made... god!?」",
+  "slot": 27
+ },
+ "0x003486": {
+  "en": "「The ancients... you mean the ones@　who built Fabula Foris?」",
+  "slot": 97
+ },
+ "0x0034E8": {
+  "en": "「In ancient times...@　to escape a great disaster coming from beyond the sky...@　Gan Eden and Baral were created...」",
+  "slot": 146
+ },
+ "0x00357B": {
+  "en": "「Beyond the sky...?@　This great disaster, do you mean the Ruina?」",
+  "slot": 73
+ },
+ "0x0035C5": {
+  "en": "「Or the horde of demons the Light Dragon spoke of...?」",
+  "slot": 66
+ },
+ "0x003608": {
+  "en": "「The dark gods and gods of destruction who once@　drove all living things to the brink of extinction...」",
+  "slot": 109
+ },
+ "0x003676": {
+  "en": "「Gan Eden exists to escape the calamity they bring...@　to guard this world, chosen as@　the final paradise...」",
+  "slot": 158
+ },
+ "0x003715": {
+  "en": "「The final paradise... a chosen world, huh.@　So you're saying Gan Eden and the Garden of Baral@　aren't native to Earth?」",
+  "slot": 152
+ },
+ "0x0037AE": {
+  "en": "「Then where are they from?@　Don't tell me it's a world tied to you lot.」",
+  "slot": 106
+ },
+ "0x003819": {
+  "en": "「You flatter us.@　If we had something like that, we'd have been@　rulers of the galaxy ages ago.」",
+  "slot": 119
+ },
+ "0x003891": {
+  "en": "「Earth has long been subject to@　the interference of many...」",
+  "slot": 103
+ },
+ "0x0038F9": {
+  "en": "「Time and again disaster came, fierce battles@　were waged... and the world itself was wounded...」",
+  "slot": 140
+ },
+ "0x003986": {
+  "en": "「Great power breeds calamity and spreads it...@　You, the Steel Dragon Squadron, are no different...」",
+  "slot": 127
+ },
+ "0x003A06": {
+  "en": "「That's not true, Irui! We're...!!」",
+  "slot": 60
+ },
+ "0x003A43": {
+  "en": "「If you fall in battle...@　if a power greater than yours appears...」",
+  "slot": 127
+ },
+ "0x003AC3": {
+  "en": "「Then this paradise will meet@　its end.」",
+  "slot": 79
+ },
+ "0x003B13": {
+  "en": "「Like hell we'd ever let that happen!」",
+  "slot": 54
+ },
+ "0x003B4A": {
+  "en": "「No matter how strong the enemy,@　we'll fight to protect this world!」",
+  "slot": 94
+ },
+ "0x003BA9": {
+  "en": "「Is that really so...?」",
+  "slot": 51
+ },
+ "0x003BDD": {
+  "en": "「What!?」",
+  "slot": 15
+ },
+ "0x003BED": {
+  "en": "「Your lives are not infinite...@　Even if your power can protect Earth now...」",
+  "slot": 130
+ },
+ "0x003C70": {
+  "en": "「From here on...@　to protect this world for all eternity@　is impossible...」",
+  "slot": 110
+ },
+ "0x003CDF": {
+  "en": "「True, a human life is short.@　But that will is passed down,@　carried on across the ages.」",
+  "slot": 125
+ },
+ "0x003D5D": {
+  "en": "「Even when our lives run their course,@　there will always be those who inherit our will.」",
+  "slot": 109
+ },
+ "0x003DCB": {
+  "en": "「...I understand that...@　For I too inherited that will and power@　from Gan Eden... the one also called Augustus...」",
+  "slot": 182
+ },
+ "0x003E82": {
+  "en": "「Aug... w-what was that?」",
+  "slot": 42
+ },
+ "0x003EAD": {
+  "en": "「Augustus...@　the name of the first emperor of Rome.」",
+  "slot": 79
+ },
+ "0x003EFD": {
+  "en": "「So this emperor's the one behind it all!」",
+  "slot": 60
+ },
+ "0x003F3A": {
+  "en": "「No...」",
+  "slot": 24
+ },
+ "0x003F53": {
+  "en": "「It's a different being that shares the name.」",
+  "slot": 60
+ },
+ "0x003F90": {
+  "en": "「Yes, it goes by many other names too...@　but it was the first Psychodriver.」",
+  "slot": 106
+ },
+ "0x003FFB": {
+  "en": "「Long ago... there were those given@　the blood of Psychodrivers by Gan Eden...」",
+  "slot": 115
+ },
+ "0x00406F": {
+  "en": "「And they were charged with a mission:@　to protect this world in place of Gan Eden@　and its three divine servants...」",
+  "slot": 146
+ },
+ "0x004102": {
+  "en": "「But over long ages... mingling with humanity@　thinned their blood...」",
+  "slot": 112
+ },
+ "0x004173": {
+  "en": "「Even so... on occasion, through atavism...@　those with the power appeared.」",
+  "slot": 103
+ },
+ "0x0041DB": {
+  "en": "「Wait, could that mean...!?」",
+  "slot": 48
+ },
+ "0x00420C": {
+  "en": "「People like us...」",
+  "slot": 30
+ },
+ "0x00422B": {
+  "en": "「You mean psychics...?」",
+  "slot": 36
+ },
+ "0x004250": {
+  "en": "「Yes... and myself as well.」",
+  "slot": 36
+ },
+ "0x004275": {
+  "en": "「!」",
+  "slot": 9
+ },
+ "0x00427F": {
+  "en": "「Then she isn't a being created by Gan Eden...」",
+  "slot": 91
+ },
+ "0x0042DB": {
+  "en": "「She's human!」",
+  "slot": 24
+ },
+ "0x0042F4": {
+  "en": "「So Irui's being controlled by Gan Eden...!」",
+  "slot": 69
+ },
+ "0x00433A": {
+  "en": "「No, that's not it.@　I stand with Gan Eden of my own will.」",
+  "slot": 94
+ },
+ "0x004399": {
+  "en": "「...!」",
+  "slot": 15
+ },
+ "0x0043A9": {
+  "en": "「What's that supposed to mean!?」",
+  "slot": 39
+ },
+ "0x0043D1": {
+  "en": "「W-why... why would you!?」",
+  "slot": 45
+ },
+ "0x0043FF": {
+  "en": "「I've watched your battles all this time...@　You fought to protect this world...@　to protect so many people...」",
+  "slot": 167
+ },
+ "0x0044A7": {
+  "en": "「Fearless of harm, heedless of your own lives...@　you kept on fighting...」",
+  "slot": 100
+ },
+ "0x00450C": {
+  "en": "「Of course. That is our mission...@　We are the sword and shield of those without one.」",
+  "slot": 112
+ },
+ "0x00457D": {
+  "en": "「I don't want to be protected. I want to be@　the strength that protects... and...」",
+  "slot": 97
+ },
+ "0x0045DF": {
+  "en": "「Protecting this world is the mission of the@　Chokijin... of those they chose. I accept it,@　together with Kusuha.」",
+  "slot": 155
+ },
+ "0x00467B": {
+  "en": "「I wanted to show Irui the sea of stars...@　a world among the stars with no more war...」",
+  "slot": 121
+ },
+ "0x0046F5": {
+  "en": "「For that, peace...@　no, not just for Irui,@　for everyone...」",
+  "slot": 122
+ },
+ "0x004770": {
+  "en": "「I fight to protect what must be protected...」",
+  "slot": 60
+ },
+ "0x0047AD": {
+  "en": "「And that includes you, Irui...」",
+  "slot": 63
+ },
+ "0x0047ED": {
+  "en": "「I knew you would answer that way...@　But that will... the will of humans...@　will call still greater calamity down on this world.」",
+  "slot": 191
+ },
+ "0x0048AD": {
+  "en": "「I-Irui...!?」",
+  "slot": 42
+ },
+ "0x0048D8": {
+  "en": "「So I will...」",
+  "slot": 30
+ },
+ "0x0048F7": {
+  "en": "「seal this world away.」",
+  "slot": 33
+ },
+ "0x004919": {
+  "en": "「W-what was that light!?」",
+  "slot": 30
+ },
+ "0x004938": {
+  "en": "「What is it!?」",
+  "slot": 18
+ },
+ "0x00494B": {
+  "en": "「A beam of energy just bent!!@　It punched right through the barrier, this is...!!」",
+  "slot": 97
+ },
+ "0x0049AD": {
+  "en": "「It's headed for the Heaven's Gate sector!!」",
+  "slot": 63
+ },
+ "0x0049ED": {
+  "en": "「Ah! There's a huge flash of light from an explosion!!」",
+  "slot": 57
+ },
+ "0x004A27": {
+  "en": "「D-don't tell me... my fleet!?」",
+  "slot": 45
+ },
+ "0x004A55": {
+  "en": "「With that much force, if we're unlucky,@　Heaven's Gate itself could...!!」",
+  "slot": 103
+ },
+ "0x004ABD": {
+  "en": "「I-impossible!!」",
+  "slot": 27
+ },
+ "0x004AD9": {
+  "en": "「I-it fired again!?」",
+  "slot": 33
+ },
+ "0x004AFB": {
+  "en": "「Where this time!?」",
+  "slot": 33
+ },
+ "0x004B1D": {
+  "en": "Eun",
+  "slot": 6
+ },
+ "0x004B24": {
+  "en": "「T-this is... the moon! It's aimed at the moon!!」",
+  "slot": 60
+ },
+ "0x004B61": {
+  "en": "「From that position and angle!?」",
+  "slot": 36
+ },
+ "0x004B86": {
+  "en": "「Calculate the projected impact point!!」",
+  "slot": 39
+ },
+ "0x004BAE": {
+  "en": "「Ah! Again!!」",
+  "slot": 33
+ },
+ "0x004BD0": {
+  "en": "「What are you... What are you doing, Irui...!?」",
+  "slot": 66
+ },
+ "0x004C13": {
+  "en": "「Massive explosion flash confirmed directly above!!」",
+  "slot": 51
+ },
+ "0x004C47": {
+  "en": "「What's up there!?」",
+  "slot": 36
+ },
+ "0x004C6C": {
+  "en": "「M-most likely, one of the Allied space fleets...!!」",
+  "slot": 75
+ },
+ "0x004CB8": {
+  "en": "「...!!」",
+  "slot": 18
+ },
+ "0x004CCB": {
+  "en": "「Second shot's impact point is in!@　Lunar surface, near the Moon Cradle!!」",
+  "slot": 100
+ },
+ "0x004D30": {
+  "en": "「What...!!」",
+  "slot": 24
+ },
+ "0x004D49": {
+  "en": "「It hasn't attacked the ground...!@　Why only target things in space!?」",
+  "slot": 88
+ },
+ "0x004DA2": {
+  "en": "「S-stop it, Irui!@　If you're Earth's guardian god,@　why attack the moon and the fleets!?」",
+  "slot": 134
+ },
+ "0x004E29": {
+  "en": "「There are no outside enemies around Earth now!@　Why would you do such a thing!?」",
+  "slot": 106
+ },
+ "0x004E94": {
+  "en": "「I merely did what was natural...」",
+  "slot": 48
+ },
+ "0x004EC5": {
+  "en": "「Natural!?」",
+  "slot": 24
+ },
+ "0x004EDE": {
+  "en": "「Yes... Gan Eden is Earth's guardian god...@　and what it guards is...」",
+  "slot": 91
+ },
+ "0x004F3A": {
+  "en": "「only those who live upon the Earth.」",
+  "slot": 42
+ },
+ "0x004F65": {
+  "en": "「Wha...!!」",
+  "slot": 24
+ },
+ "0x004F7E": {
+  "en": "「What did you say!?」",
+  "slot": 24
+ },
+ "0x004F97": {
+  "en": "「Only those living on Earth... protected...!!」",
+  "slot": 66
+ },
+ "0x004FDA": {
+  "en": "「Yes... all who exist beyond Earth,@　Gan Eden will erase.」",
+  "slot": 97
+ },
+ "0x00503C": {
+  "en": "「Don't tell me the seal you speak of is...!?」",
+  "slot": 51
+ },
+ "0x005070": {
+  "en": "「After covering Earth with a barrier,@　all who dwell beyond it will be exterminated...」",
+  "slot": 100
+ },
+ "0x0050D5": {
+  "en": "「Letting none near, letting none leave...@　by Gan Eden's grace, this world will become@　the final paradise in the truest sense.」",
+  "slot": 167
+ },
+ "0x00517D": {
+  "en": "「And what happens if a war@　breaks out inside Earth!?」",
+  "slot": 79
+ },
+ "0x0051CD": {
+  "en": "「No, to prevent that... the Total Shikai Plan!」",
+  "slot": 69
+ },
+ "0x005213": {
+  "en": "「Correct.@　Those who achieve shikai will live in peace on Earth...@　accepting no interference from outside...」",
+  "slot": 149
+ },
+ "0x0052A9": {
+  "en": "「never venturing into space to wage war...@　Under Gan Eden's grace, paradise will endure.」",
+  "slot": 133
+ },
+ "0x00532F": {
+  "en": "「Even so, to exterminate@　those living in space!」",
+  "slot": 85
+ },
+ "0x005385": {
+  "en": "「A human who leaves the ground is no longer an Earthling.」",
+  "slot": 72
+ },
+ "0x0053CE": {
+  "en": "「T-that can't be...!!」",
+  "slot": 33
+ },
+ "0x0053F0": {
+  "en": "「Ibis, you aim for the sea of stars...@　and that defies Gan Eden's will.」",
+  "slot": 124
+ },
+ "0x00546D": {
+  "en": "「If you seek to fulfill your own wish...@　if you say you'll fly from Earth... then sadly,@　you become a target for removal...」",
+  "slot": 194
+ },
+ "0x005530": {
+  "en": "「Y-you're lying, Irui...@　Me... my dream...?」",
+  "slot": 94
+ },
+ "0x00558F": {
+  "en": "「All units, listen!@　Attack the Garden of Baral at once!」",
+  "slot": 70
+ },
+ "0x0055D6": {
+  "en": "「Captain Lefina!」",
+  "slot": 30
+ },
+ "0x0055F5": {
+  "en": "「If we don't stop Gan Eden, the lunar cities@　and colonies will be destroyed!@　We cannot afford to hesitate!」",
+  "slot": 152
+ },
+ "0x00568E": {
+  "en": "「Ah... uh...!」",
+  "slot": 27
+ },
+ "0x0056AA": {
+  "en": "「If you say you won't protect Earth with me...@　then I will remove you...」",
+  "slot": 106
+ },
+ "0x005715": {
+  "en": "「I-Irui! Wait, Irui!!」",
+  "slot": 54
+ },
+ "0x00574C": {
+  "en": "「Ibis!」",
+  "slot": 21
+ },
+ "0x005762": {
+  "en": "「!?」",
+  "slot": 12
+ },
+ "0x00576F": {
+  "en": "「Listen.@　We can't weigh her single life against@　the lives of everyone living in space.」",
+  "slot": 110
+ },
+ "0x0057DE": {
+  "en": "「Worst case, we may face a bitter choice.@　But those who won't walk the road up to that point@　are never even given the choice.」",
+  "slot": 167
+ },
+ "0x005886": {
+  "en": "「Huh...?」",
+  "slot": 18
+ },
+ "0x005899": {
+  "en": "「Don't look down, lift your head.@　In this situation, the answer's right before you...@　inside the reticle, nowhere else.」",
+  "slot": 125
+ },
+ "0x005917": {
+  "en": "「...Let's go, Ibis.」",
+  "slot": 51
+ },
+ "0x00594B": {
+  "en": "「Kusuha...」",
+  "slot": 21
+ },
+ "0x005961": {
+  "en": "「I... I finally understand why the RyuKoOh@　turned against Gan Eden...」",
+  "slot": 112
+ },
+ "0x0059D2": {
+  "en": "「That thing is no guardian god of Earth...@　It doesn't protect humans. The RyuKoOh and@　KoRyuOh must have judged it so.」",
+  "slot": 170
+ },
+ "0x005A7D": {
+  "en": "「I feel... exactly the same way.」",
+  "slot": 45
+ },
+ "0x005AAB": {
+  "en": "「B-but, Irui is...」",
+  "slot": 42
+ },
+ "0x005AD6": {
+  "en": "「How can you be so sure@　that's Irui's true will?」",
+  "slot": 103
+ },
+ "0x005B3E": {
+  "en": "「The chance that Gan Eden is controlling her@　hasn't dropped to zero yet.」",
+  "slot": 130
+ },
+ "0x005BC1": {
+  "en": "「That's right...! I can't believe that girl@　is really doing this of her own accord...!」",
+  "slot": 124
+ },
+ "0x005C3E": {
+  "en": "「I was the same way once...@　made to believe the memories, the perceptions@　I'd been given were the truth...」",
+  "slot": 122
+ },
+ "0x005CB9": {
+  "en": "「The Irui who was with us, and that Irui...@　which one can we believe...@　no, which one do we choose to believe.」",
+  "slot": 152
+ },
+ "0x005D52": {
+  "en": "「Ibis...@　Let's pull that girl away from Gan Eden@　and confirm her true will.」",
+  "slot": 128
+ },
+ "0x005DD3": {
+  "en": "「Got it... I believe in Irui.@　No matter what she says... I'll believe in@　the Irui who was with us!」",
+  "slot": 161
+ },
+ "0x005E75": {
+  "en": "「Nice to see you fired up, but do we really@　have time to go make contact?」",
+  "slot": 88
+ },
+ "0x005ECE": {
+  "en": "「Most likely, that attack from earlier@　can't be used over and over.@　If it could fire freely, we'd already be gone.」",
+  "slot": 164
+ },
+ "0x005F73": {
+  "en": "「But next time it'll aim right for us, won't it?」",
+  "slot": 60
+ },
+ "0x005FB0": {
+  "en": "「So until then, it's our turn.@　Heh, this is one hell of a high-stakes bet!」",
+  "slot": 112
+ },
+ "0x006021": {
+  "en": "「And the enemy hasn't played its joker yet.@　That last card called Gan Eden.」",
+  "slot": 118
+ },
+ "0x006098": {
+  "en": "「Hey now. You actually want to see it?」",
+  "slot": 63
+ },
+ "0x0060D8": {
+  "en": "「Seeing it won't change what we have to do.」",
+  "slot": 54
+ },
+ "0x00610F": {
+  "en": "「Besides, unless we drag Gan Eden out,@　we may not be able to pull Irui away.」",
+  "slot": 121
+ },
+ "0x006189": {
+  "en": "（The reason Gan Eden won't show itself yet...@　that's...）",
+  "slot": 82
+ },
+ "0x0061DC": {
+  "en": "「Eleve 1 to all units! Listen up!@　Show Gan Eden every ounce of power you've got!」",
+  "slot": 124
+ },
+ "0x006259": {
+  "en": "「Make it recognize that WE are its greatest wall!@　Then it'll focus its fire on us!」",
+  "slot": 136
+ },
+ "0x0062E2": {
+  "en": "「I see, so that's how we stop@　the attacks beyond Earth.」",
+  "slot": 91
+ },
+ "0x00633E": {
+  "en": "「Like the boss said, make ourselves@　the shield and the sword.」",
+  "slot": 94
+ },
+ "0x00639D": {
+  "en": "「That's right!@　Destroy the Custos and reach the Garden of Baral!@　Show them your best!」",
+  "slot": 122
+ },
+ "0x006418": {
+  "en": "「This is your final warning...@　Steel Dragon Squadron... sheathe your swords@　and entrust everything to Gan Eden.」",
+  "slot": 125
+ },
+ "0x006496": {
+  "en": "「Our answer... we've already shown it.」",
+  "slot": 54
+ },
+ "0x0064CD": {
+  "en": "「...I understand.@　Then I will not hesitate@　to use my power...」",
+  "slot": 107
+ },
+ "0x006539": {
+  "en": "「Through defeat, you will come@　to know your own powerlessness...」",
+  "slot": 85
+ },
+ "0x00658F": {
+  "en": "「T-that's...!?」",
+  "slot": 33
+ },
+ "0x0065B1": {
+  "en": "「Gan Eden...!?」",
+  "slot": 33
+ },
+ "0x0065D3": {
+  "en": "「.........」",
+  "slot": 18
+ },
+ "0x0065E6": {
+  "en": "Despinis",
+  "slot": 15
+ },
+ "0x0065F6": {
+  "en": "「A god made by man...」",
+  "slot": 30
+ },
+ "0x006615": {
+  "en": "「I-Irui's inside that thing...!」",
+  "slot": 45
+ },
+ "0x006643": {
+  "en": "「That is... the other Root.」",
+  "slot": 54
+ },
+ "0x00667A": {
+  "en": "「Huh?@　Alfimi, didn't you say@　something like that before too?」",
+  "slot": 98
+ },
+ "0x0066DD": {
+  "en": "「Yes...」",
+  "slot": 18
+ },
+ "0x0066F0": {
+  "en": "「Now, choose...@　fulfill your role as a sword under Gan Eden...@　or be removed here...」",
+  "slot": 143
+ },
+ "0x006780": {
+  "en": "「Irui...@　We don't intend to choose either one.」",
+  "slot": 88
+ },
+ "0x0067D9": {
+  "en": "「Do you mean to make me remove you@　with my own hands...?」",
+  "slot": 66
+ },
+ "0x00681C": {
+  "en": "「You said you'd stay with me...@　Have you forgotten that promise?」",
+  "slot": 112
+ },
+ "0x00688D": {
+  "en": "「I haven't forgotten... I never could...!」",
+  "slot": 66
+ },
+ "0x0068D0": {
+  "en": "「Then what do you intend to do?」",
+  "slot": 48
+ },
+ "0x006901": {
+  "en": "「My answer's set... I'll keep the promise, Irui.」",
+  "slot": 69
+ },
+ "0x006947": {
+  "en": "「But you're not the one I made it to!」",
+  "slot": 60
+ },
+ "0x006984": {
+  "en": "「I'll save that kind, gentle Irui!@　No matter what!」",
+  "slot": 82
+ },
+ "0x0069D7": {
+  "en": "「It's useless... I... my will...」",
+  "slot": 57
+ },
+ "0x006A11": {
+  "en": "「Nothing's useless!@　I will... I swear I'll pull it off!!」",
+  "slot": 100
+ },
+ "0x006A76": {
+  "en": "「Aaagh!!」",
+  "slot": 24
+ },
+ "0x006A8F": {
+  "en": "「Huh!?」",
+  "slot": 18
+ },
+ "0x006AA2": {
+  "en": "「U-uuugh...!」",
+  "slot": 33
+ },
+ "0x006AC4": {
+  "en": "（...It's a good-luck charm...@　to fly the sea of stars... to make the dream come true...）",
+  "slot": 97
+ },
+ "0x006B26": {
+  "en": "「Gah! Uhhh!!」",
+  "slot": 33
+ },
+ "0x006B48": {
+  "en": "（...That's why the dragon god@　lends his power to me, Kusuha...）",
+  "slot": 91
+ },
+ "0x006BA4": {
+  "en": "「Irui!?」",
+  "slot": 30
+ },
+ "0x006BC3": {
+  "en": "「Y-you're still holding on...!」",
+  "slot": 48
+ },
+ "0x006BF4": {
+  "en": "（Everyone... hold on to hope... hold on...）",
+  "slot": 66
+ },
+ "0x006C37": {
+  "en": "「That voice!」",
+  "slot": 24
+ },
+ "0x006C50": {
+  "en": "（Everyone is a sword to protect the Earth...@　and that will is strong, unshakable...）",
+  "slot": 97
+ },
+ "0x006CB2": {
+  "en": "「B-be quiet! Get out! Irui!」",
+  "slot": 51
+ },
+ "0x006CE6": {
+  "en": "「Th-that just now...!」",
+  "slot": 30
+ },
+ "0x006D05": {
+  "en": "「I-I heard the voice too!」",
+  "slot": 45
+ },
+ "0x006D33": {
+  "en": "「It's just like before... just like when we@　fought Perfectio!」",
+  "slot": 100
+ },
+ "0x006D98": {
+  "en": "「Could it be her consciousness is still in there!?」",
+  "slot": 72
+ },
+ "0x006DE1": {
+  "en": "「Just as I thought. Gan Eden didn't appear@　right away because Irui hadn't@　fully synchronized with it.」",
+  "slot": 173
+ },
+ "0x006E8F": {
+  "en": "「If the one they call the shrine maiden@　refuses to serve her god...」",
+  "slot": 100
+ },
+ "0x006EF4": {
+  "en": "「I knew it. That's not the real Irui...!」",
+  "slot": 82
+ },
+ "0x006F47": {
+  "en": "「So if we tear her away from Gan Eden,@　she'll go back to normal!?」",
+  "slot": 85
+ },
+ "0x006F9D": {
+  "en": "「That's right. We can save her for sure!@　We can save Irui!」",
+  "slot": 75
+ },
+ "0x006FE9": {
+  "en": "「If it's a god made by human hands, as its name says,@　then human hands can destroy it.」",
+  "slot": 106
+ },
+ "0x007054": {
+  "en": "「Gan-emon, Ganmodoki, whatever it's called,@　I'll smash it to bits in no time flat!」",
+  "slot": 109
+ },
+ "0x0070C2": {
+  "en": "「False god Gan Eden!@　My Colossal Blade, Third Style, will@　bring your end here, this day!!」",
+  "slot": 125
+ },
+ "0x007140": {
+  "en": "「False god Gan Eden!@　My Colossal Blade, Zero Style, will@　bring your end here, this day!!」",
+  "slot": 125
+ },
+ "0x0071BE": {
+  "en": "「False god Gan Eden!@　The sword that is our will shall@　bring your end here, this day!!」",
+  "slot": 122
+ },
+ "0x007239": {
+  "en": "「Ngh... gah...!@　You dare call me a false god...!」",
+  "slot": 67
+ },
+ "0x00727D": {
+  "en": "「I who awoke from the long slumber...@　I who would protect paradise... a false god...!」",
+  "slot": 97
+ },
+ "0x0072DF": {
+  "en": "「But you're no true god either.@　Those who heed heaven live. Those who defy it perish...@　and that applies to you as well!」",
+  "slot": 161
+ },
+ "0x007381": {
+  "en": "「Then I shall deliver divine punishment upon you all...」",
+  "slot": 66
+ },
+ "0x0073C4": {
+  "en": "「...'I' and 'me'...@　split into two personalities?」",
+  "slot": 70
+ },
+ "0x00740B": {
+  "en": "「But unlike me and Chris,@ they don't seem to coexist.」",
+  "slot": 85
+ },
+ "0x007461": {
+  "en": "「It's probably an external factor.」",
+  "slot": 39
+ },
+ "0x007489": {
+  "en": "「Could that factor be... us?」",
+  "slot": 42
+ },
+ "0x0074B4": {
+  "en": "「Yes.」",
+  "slot": 12
+ },
+ "0x0074C1": {
+  "en": "「...I don't know exactly how this@ Total Human Ascension Plan will be carried out,@ but...」",
+  "slot": 143
+ },
+ "0x007551": {
+  "en": "「There's no doubt Gan Eden has a function@　for projecting its will into@　great numbers of people.」",
+  "slot": 134
+ },
+ "0x0075D8": {
+  "en": "「And Irui, it seems, is given the role of@　Gan Eden's medium... an interpreter,@　you might say.」",
+  "slot": 149
+ },
+ "0x00766E": {
+  "en": "「But in her still-unstable state, that role@　and power backfire, making her overreact@　even to thoughts from non-psychics.」",
+  "slot": 179
+ },
+ "0x007722": {
+  "en": "「So it's like... a high-end radio or somethin'@　picking up all kinds of signals@　and getting scrambled up?」",
+  "slot": 158
+ },
+ "0x0077C1": {
+  "en": "「...You can think of it that way.@　In any case, to Gan Eden and Irui right now,@　our very presence is noise.」",
+  "slot": 167
+ },
+ "0x007869": {
+  "en": "「I see. So that's what Ibis meant@　a moment ago...!」",
+  "slot": 82
+ },
+ "0x0078BC": {
+  "en": "「She doesn't realize the boundary between@　herself and Gan Eden. So we have to show@　a strong will to both of them, at once.」",
+  "slot": 173
+ },
+ "0x00796A": {
+  "en": "「Roger that!!」",
+  "slot": 24
+ },
+ "0x007983": {
+  "en": "「Here I come, Gan Eden!@　I'm getting Irui... I'm getting Irui back!!」",
+  "slot": 94
+ },
+ "0x0079E2": {
+  "en": "「I am the guardian of Earth...@　My enemy is any who disturb paradise's order...@　My mission is...」",
+  "slot": 113
+ },
+ "0x007A54": {
+  "en": "「Irui! Don't let yourself be bound@　by some mission someone else@　decided for you!」",
+  "slot": 95
+ },
+ "0x007AB4": {
+  "en": "「I cannot do that...@ Gan Eden is the hope of the ancients, crystallized...」",
+  "slot": 103
+ },
+ "0x007B1C": {
+  "en": "「It holds the wishes of those who sought paradise@　and never reached it...」",
+  "slot": 106
+ },
+ "0x007B87": {
+  "en": "「And you're telling me@　to deny all of that...?」",
+  "slot": 79
+ },
+ "0x007BD7": {
+  "en": "「Be quiet, Gan Eden!@　Stop speaking through Irui's lips!」",
+  "slot": 76
+ },
+ "0x007C24": {
+  "en": "「Anything that steals dreams and hope,@　that chains down people's hearts,@　is no god at all!」",
+  "slot": 116
+ },
+ "0x007C99": {
+  "en": "「Your chains that bind Irui, humanity,@　and my own dream... I'll cut them clean through!」",
+  "slot": 106
+ },
+ "0x007D04": {
+  "en": "「Gan Eden! We have no need for a god like you!」",
+  "slot": 69
+ },
+ "0x007D4A": {
+  "en": "「Sanger... I know your strong will@　and power well...」",
+  "slot": 97
+ },
+ "0x007DAC": {
+  "en": "「But what if there exists a foe@　that even your sword cannot cut down...?@　That is why I...」",
+  "slot": 125
+ },
+ "0x007E2A": {
+  "en": "「I am the sword that severs evil!@　A machine god, a false god that deludes the heart,@　shall never stop my Colossal Blade!!」",
+  "slot": 146
+ },
+ "0x007EBD": {
+  "en": "「You defy your master again, RyuKoOh of the Four Gods...@　forgetting the mission I gave you...」",
+  "slot": 109
+ },
+ "0x007F2B": {
+  "en": "「It's because that mission is wrong@　that RyuKoOh left your side!」",
+  "slot": 106
+ },
+ "0x007F96": {
+  "en": "「Kusuha... you would deny me too...?@　I, the guardian of Earth...」",
+  "slot": 112
+ },
+ "0x008007": {
+  "en": "「You're not Irui!@　And you're no guardian of Earth either!」",
+  "slot": 109
+ },
+ "0x008075": {
+  "en": "「KoRyuOh of the Four Gods...@　Once you returned to my side,@　and once more you turned away...」",
+  "slot": 110
+ },
+ "0x0080E4": {
+  "en": "「Why do you not fulfill the mission to guard paradise...?@　Why do you bare your fangs at me, your master...?」",
+  "slot": 127
+ },
+ "0x008164": {
+  "en": "「It's obvious!@　Because you twisted KoOhKi's will@　and gave it a false mission!」",
+  "slot": 125
+ },
+ "0x0081E2": {
+  "en": "「You're using Irui the same way, aren't you!@　Together with KoRyuOh, I'll get her out of there!」",
+  "slot": 124
+ },
+ "0x00825F": {
+  "en": "「Irui! The thing you should protect@　isn't just the Earth, is it!」",
+  "slot": 97
+ },
+ "0x0082C1": {
+  "en": "「Indeed...@　And those whose souls have ascended are also under my protection.」",
+  "slot": 88
+ },
+ "0x00831A": {
+  "en": "「So the rest of humanity can just die, is that it!?@　That's wrong!」",
+  "slot": 106
+ },
+ "0x008385": {
+  "en": "「Irui, I'm going to stop you!@　And I'll save you, no matter what!」",
+  "slot": 94
+ },
+ "0x0083E4": {
+  "en": "「Irui, I'll fight you!@　To save you!」",
+  "slot": 85
+ },
+ "0x00843A": {
+  "en": "「Seolla, I have no need of your help...@　I am here because I wish to be.」",
+  "slot": 112
+ },
+ "0x0084AB": {
+  "en": "「I was the same once...@　believing that fighting Arado was my mission...」",
+  "slot": 115
+ },
+ "0x00851F": {
+  "en": "「But because he never gave up,@　because he tried to save me again and again,@　I broke free of that curse!」",
+  "slot": 149
+ },
+ "0x0085B5": {
+  "en": "「So, Irui! I won't give up either!@　Not until I save you!」",
+  "slot": 91
+ },
+ "0x008611": {
+  "en": "「...Ngh... uhh...!」",
+  "slot": 36
+ },
+ "0x008636": {
+  "en": "「Aaaaaah!!」",
+  "slot": 30
+ },
+ "0x008655": {
+  "en": "「Irui!!」",
+  "slot": 21
+ },
+ "0x00866B": {
+  "en": "「I-I am Irui... the master... of Baral...!」",
+  "slot": 69
+ },
+ "0x0086B1": {
+  "en": "「Irui's will is wavering!」",
+  "slot": 39
+ },
+ "0x0086D9": {
+  "en": "「H... he... help me...!!」",
+  "slot": 45
+ },
+ "0x008707": {
+  "en": "「Ma... shiafu...@　the shrine maiden... of Gan Eden...!」",
+  "slot": 73
+ },
+ "0x008751": {
+  "en": "「It... hurts... it's agony...!!」",
+  "slot": 51
+ },
+ "0x008785": {
+  "en": "「Guardian... god... of Earth...」",
+  "slot": 42
+ },
+ "0x0087B0": {
+  "en": "「Wh-what's this!?」",
+  "slot": 27
+ },
+ "0x0087CC": {
+  "en": "「A-aahh... I'm... splitting...@　splitting... apart...!」",
+  "slot": 82
+ },
+ "0x00881F": {
+  "en": "「Splitting... into two...」",
+  "slot": 39
+ },
+ "0x008847": {
+  "en": "Gan Eden",
+  "slot": 15
+ },
+ "0x008857": {
+  "en": "「I am the guardian of Earth... the artificial god Gan Eden...」",
+  "slot": 66
+ },
+ "0x00889A": {
+  "en": "「Your power exists for me...@　My power exists for you...@　All to protect the last paradise...」",
+  "slot": 149
+ },
+ "0x008930": {
+  "en": "「None may be let near...@　None may be let out into the world beyond...」",
+  "slot": 91
+ },
+ "0x00898C": {
+  "en": "「Seal it away... seal away the promised land...@　This world is the paradise of those who fled disaster...@　It must never be lost...」",
+  "slot": 161
+ },
+ "0x008A2E": {
+  "en": "「Yes... seal away... the promised land...」",
+  "slot": 51
+ },
+ "0x008A62": {
+  "en": "「Irui!!」",
+  "slot": 24
+ },
+ "0x008A7B": {
+  "en": "「O countless swords...」",
+  "slot": 27
+ },
+ "0x008A97": {
+  "en": "「This voice... the voice that overlapped Irui's...」",
+  "slot": 60
+ },
+ "0x008AD4": {
+  "en": "「It's Gan Eden itself...!」",
+  "slot": 45
+ },
+ "0x008B02": {
+  "en": "「Ngh... urgh!!」",
+  "slot": 30
+ },
+ "0x008B21": {
+  "en": "「Ing!?」",
+  "slot": 21
+ },
+ "0x008B37": {
+  "en": "「A-agh, my head...!!」",
+  "slot": 39
+ },
+ "0x008B5F": {
+  "en": "「Ngh, uuurgh!!」",
+  "slot": 30
+ },
+ "0x008B7E": {
+  "en": "「Agghh!!」",
+  "slot": 24
+ },
+ "0x008B97": {
+  "en": "「I-is this Gan Eden's will!?」",
+  "slot": 51
+ },
+ "0x008BCB": {
+  "en": "「I-it's different from before!」",
+  "slot": 39
+ },
+ "0x008BF3": {
+  "en": "「I-it's turned aggressive...!!」",
+  "slot": 36
+ },
+ "0x008C18": {
+  "en": "「O countless swords...@　you shall be sealed by me for all eternity...@　together with this world...」",
+  "slot": 122
+ },
+ "0x008C93": {
+  "en": "「And to the last paradise, eternal peace...」",
+  "slot": 63
+ },
+ "0x008CD3": {
+  "en": "「I-Irui!!」",
+  "slot": 30
+ },
+ "0x008CF2": {
+  "en": "「Don't do it, Irui!@　Don't listen to Gan Eden!!」",
+  "slot": 82
+ },
+ "0x008D45": {
+  "en": "「Are Gan Eden and Irui@　fully synchronizing...!?」",
+  "slot": 91
+ },
+ "0x008DA1": {
+  "en": "「No, it could be the opposite.@　Gan Eden may be suffering@　a malfunction.」",
+  "slot": 116
+ },
+ "0x008E16": {
+  "en": "「Then all we can do is see our resolve through to the end!」",
+  "slot": 57
+ },
+ "0x008E50": {
+  "en": "「As if I'd give up after coming this far!@　I will never give up!!」",
+  "slot": 94
+ },
+ "0x008EAF": {
+  "en": "「I'll bring down Gan Eden@　and save Irui, no matter what!!」",
+  "slot": 82
+ },
+ "0x008F02": {
+  "en": "「G-Gan Eden is...!!」",
+  "slot": 42
+ },
+ "0x008F2D": {
+  "en": "「...Everyone... thank you...」",
+  "slot": 48
+ },
+ "0x008F5E": {
+  "en": "「Irui! Have you come to!?」",
+  "slot": 54
+ },
+ "0x008F95": {
+  "en": "「No... that's not it...@　It's because Gan Eden is cutting me off...@　trying to erase me...」",
+  "slot": 134
+ },
+ "0x00901C": {
+  "en": "「Because I heard everyone's voices...@　because I wanted to go back to all of you...」",
+  "slot": 109
+ },
+ "0x00908A": {
+  "en": "「Gan Eden is erasing me...」",
+  "slot": 45
+ },
+ "0x0090B8": {
+  "en": "「Is Gan Eden trying to resolve its malfunction@　by cutting her off...?」",
+  "slot": 112
+ },
+ "0x009129": {
+  "en": "「Everyone... please, hear my last wish...」",
+  "slot": 63
+ },
+ "0x009169": {
+  "en": "「L-last wish!?」",
+  "slot": 30
+ },
+ "0x009188": {
+  "en": "「Destroy Gan Eden... with me inside it...@　Quickly... destroy me...」",
+  "slot": 91
+ },
+ "0x0091E4": {
+  "en": "「N-no!@ There's no way we could ever do that!!」",
+  "slot": 85
+ },
+ "0x00923A": {
+  "en": "「Please... hurry...@　There's still time, if you do it now...」",
+  "slot": 70
+ },
+ "0x009281": {
+  "en": "「Destroy me and Gan Eden... quickly...」",
+  "slot": 57
+ },
+ "0x0092BB": {
+  "en": "「Y-you're telling us to do that!?@　Irui!!」",
+  "slot": 82
+ },
+ "0x00930E": {
+  "en": "「...Please... I'm begging you...」",
+  "slot": 51
+ },
+ "0x009342": {
+  "en": "「Irui!!」",
+  "slot": 30
+ },
+ "0x009361": {
+  "en": "「Kusuha, either way, what we must do is the same.@　We punch straight through Gan Eden.」",
+  "slot": 103
+ },
+ "0x0093C9": {
+  "en": "「But then Irui will...!!」",
+  "slot": 57
+ },
+ "0x009403": {
+  "en": "「I said what we do is the same.@　If Gan Eden cuts Irui loose,@　we strike at that very moment.」",
+  "slot": 140
+ },
+ "0x009490": {
+  "en": "「It all comes down to timing.」",
+  "slot": 39
+ },
+ "0x0094B8": {
+  "en": "「Right. The tide's turning our way, isn't it?@　Gan Eden doesn't seem able to cut@　Irui loose so easily.」",
+  "slot": 167
+ },
+ "0x009560": {
+  "en": "「Bullet, Kusuha...@ if you two are members of the ATX Team,@ then win this gamble!」",
+  "slot": 125
+ },
+ "0x0095DE": {
+  "en": "「Y-yes, sir!」",
+  "slot": 36
+ },
+ "0x009603": {
+  "en": "「O swords, the oracle is delivered...」",
+  "slot": 42
+ },
+ "0x00962E": {
+  "en": "「I banish you from paradise...@　Into a world of endless dark, sleep for all eternity...」",
+  "slot": 109
+ },
+ "0x00969C": {
+  "en": "「Sorry to say, but we've already been to the world of darkness.」",
+  "slot": 57
+ },
+ "0x0096D6": {
+  "en": "「And we cast it off!」",
+  "slot": 63
+ },
+ "0x009716": {
+  "en": "「Gan Eden, if you're the first psychic ever...@　if you're the very root of our power...@　then why don't you completely control our minds!?」",
+  "slot": 191
+ },
+ "0x0097D6": {
+  "en": "「Foolish minds that defy their progenitor shall be evaporated...」",
+  "slot": 57
+ },
+ "0x009810": {
+  "en": "「You don't 'won't'... you 'can't', is that it...!@　Is Irui, your medium, refusing you...?」",
+  "slot": 109
+ },
+ "0x00987E": {
+  "en": "「She's fighting too...!?」",
+  "slot": 54
+ },
+ "0x0098B5": {
+  "en": "「We can't let this chance slip.@　All units, once more, give it your best!」",
+  "slot": 109
+ },
+ "0x009923": {
+  "en": "「When our fighting spirit peaks, the door of fate opens.@　Be it the dawn, or eternal darkness...」",
+  "slot": 115
+ },
+ "0x009997": {
+  "en": "「Ask your own fist for the answer!」",
+  "slot": 36
+ },
+ "0x0099BC": {
+  "en": "「Let's do this...! I'll do it!@　With this fist, I'll seize victory for sure!!」",
+  "slot": 91
+ },
+ "0x009A18": {
+  "en": "「Irui, I'm going to fly...!@　Past Gan Eden's barrier...」",
+  "slot": 94
+ },
+ "0x009A77": {
+  "en": "「To where Irui is! And then to the sea of stars...@　all the way to that galaxy!!」",
+  "slot": 88
+ },
+ "0x009AD0": {
+  "en": "「Ohhhh... ohhhhhh...@　ohhhhhh...」",
+  "slot": 76
+ },
+ "0x009B1D": {
+  "en": "「Ohhhhhhhhhh............」",
+  "slot": 48
+ },
+ "0x009B4E": {
+  "en": "「Captain!@　The barrier around the Garden of Baral is vanishing!!」",
+  "slot": 88
+ },
+ "0x009BA7": {
+  "en": "「Now! Now we can reach Irui!!」",
+  "slot": 48
+ },
+ "0x009BD8": {
+  "en": "「We can save Irui!!」",
+  "slot": 48
+ },
+ "0x009C09": {
+  "en": "「...Thank you... but you mustn't come...」",
+  "slot": 63
+ },
+ "0x009C49": {
+  "en": "「If you tear me from Gan Eden now...@　the will stored inside it will burst free all at once...」",
+  "slot": 133
+ },
+ "0x009CCF": {
+  "en": "「And bring disaster to Earth and beyond...」",
+  "slot": 66
+ },
+ "0x009D12": {
+  "en": "「N-no!!」",
+  "slot": 27
+ },
+ "0x009D2E": {
+  "en": "「So... with the power I have left,@　I'll cancel out Gan Eden's will...」",
+  "slot": 91
+ },
+ "0x009D8A": {
+  "en": "「And together... we'll fall asleep...」",
+  "slot": 45
+ },
+ "0x009DB8": {
+  "en": "「Th-then... then what was it all...@　what did we do all this for...!?」",
+  "slot": 91
+ },
+ "0x009E14": {
+  "en": "「Was everything we've done@　for nothing...!?」",
+  "slot": 79
+ },
+ "0x009E64": {
+  "en": "「Captain, gravity-quake reaction in the combat zone!@　Someone is warping in!!」",
+  "slot": 88
+ },
+ "0x009EBD": {
+  "en": "「A-at a time like this!?」",
+  "slot": 42
+ },
+ "0x009EE8": {
+  "en": "「Air Christmas!?」",
+  "slot": 36
+ },
+ "0x009F0D": {
+  "en": "「A-AI1 too!?」",
+  "slot": 30
+ },
+ "0x009F2C": {
+  "en": "「N-no! It can't be!!」",
+  "slot": 45
+ }
+}

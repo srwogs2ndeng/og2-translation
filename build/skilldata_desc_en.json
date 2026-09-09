@@ -1,0 +1,44 @@
+{
+ "0x000879": {
+  "use": "two",
+  "two": [
+   "Hit, evade and critical rates become 100% for that",
+   "battle. Higher skill Lv raises the activation rate."
+  ]
+ },
+ "0x000946": {
+  "use": "two",
+  "two": [
+   "Based on the unit's remaining HP%, hit rate, evade",
+   "rate, armor and crit rate rise. More at higher Lv."
+  ]
+ },
+ "0x000E59": {
+  "use": "two",
+  "two": [
+   "Triggers a Combination Attack when attacking with",
+   "a Combination-capable weapon. Units hit = Lv + 1."
+  ]
+ },
+ "0x00127C": {
+  "use": "two",
+  "two": [
+   "Funds from shooting down an enemy become 1.2x.",
+   "Even stacked with Luck etc., funds are capped at 2x."
+  ]
+ },
+ "0x001AE1": {
+  "use": "two",
+  "two": [
+   "If your Skill exceeds the target's main pilot by",
+   "20+, you support your own unit after its counter."
+  ]
+ },
+ "0x001CEC": {
+  "use": "two",
+  "two": [
+   "At 120+ Will, destroy a unit you attacked to act",
+   "again. Once per unit per phase, Transform or not."
+  ]
+ }
+}
