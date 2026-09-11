@@ -1,0 +1,470 @@
+{
+ "0x000D4E": {
+  "en": "------",
+  "slot": 18
+ },
+ "0x000D6E": {
+  "en": "Booster",
+  "slot": 15
+ },
+ "0x000D84": {
+  "en": "Movement +1",
+  "slot": 51
+ },
+ "0x000DBE": {
+  "en": "Mega Booster",
+  "slot": 21
+ },
+ "0x000DDA": {
+  "en": "Movement +2",
+  "slot": 51
+ },
+ "0x000E14": {
+  "en": "High-Power Thruster",
+  "slot": 24
+ },
+ "0x000E33": {
+  "en": "Mobility +25",
+  "slot": 54
+ },
+ "0x000E70": {
+  "en": "Bio Sensor",
+  "slot": 21
+ },
+ "0x000E8C": {
+  "en": "Mobility +15",
+  "slot": 54
+ },
+ "0x000EC9": {
+  "en": "Servo Motor",
+  "slot": 21
+ },
+ "0x000EE5": {
+  "en": "Mobility +5",
+  "slot": 51
+ },
+ "0x000F1F": {
+  "en": "Apogee Motor",
+  "slot": 21
+ },
+ "0x000F3E": {
+  "en": "1Move +1, Mobility +5",
+  "slot": 49
+ },
+ "0x000F70": {
+  "en": "as well.",
+  "slot": 21
+ },
+ "0x000F8C": {
+  "en": "Chobham Armor",
+  "slot": 24
+ },
+ "0x000FAE": {
+  "en": "@Max HP +500, Armor +100",
+  "slot": 64
+ },
+ "0x000FEF": {
+  "en": "and raises them.",
+  "slot": 21
+ },
+ "0x00100B": {
+  "en": "Hybrid Armor",
+  "slot": 30
+ },
+ "0x001033": {
+  "en": "CMax HP +1000, Armor +150",
+  "slot": 67
+ },
+ "0x001077": {
+  "en": "as well.",
+  "slot": 21
+ },
+ "0x001093": {
+  "en": "Orichalconium",
+  "slot": 24
+ },
+ "0x0010B5": {
+  "en": "CMax HP +1000, Armor +200",
+  "slot": 67
+ },
+ "0x0010F9": {
+  "en": "as well.",
+  "slot": 21
+ },
+ "0x001115": {
+  "en": "Z.O. Armor",
+  "slot": 24
+ },
+ "0x001137": {
+  "en": "CMax HP +1500, Armor +250",
+  "slot": 67
+ },
+ "0x00117B": {
+  "en": "as well.",
+  "slot": 21
+ },
+ "0x001197": {
+  "en": "Tesla Drive",
+  "slot": 24
+ },
+ "0x0011B9": {
+  "en": "7Grants Air movement;",
+  "slot": 55
+ },
+ "0x0011F1": {
+  "en": "Air terrain rating: A.",
+  "slot": 51
+ },
+ "0x00122B": {
+  "en": "Tesla Drive S",
+  "slot": 27
+ },
+ "0x001254": {
+  "en": "YGrants Air movement;",
+  "slot": 58
+ },
+ "0x00128F": {
+  "en": "Movement by 1.",
+  "slot": 30
+ },
+ "0x0012AE": {
+  "en": "Air terrain: S",
+  "slot": 60
+ },
+ "0x0012F1": {
+  "en": "Thruster Module",
+  "slot": 30
+ },
+ "0x001316": {
+  "en": "Space terrain: S",
+  "slot": 60
+ },
+ "0x001359": {
+  "en": "Dustproofing",
+  "slot": 12
+ },
+ "0x00136F": {
+  "en": "@Grants Land movement;",
+  "slot": 64
+ },
+ "0x0013B0": {
+  "en": "Land terrain rating: S.",
+  "slot": 42
+ },
+ "0x0013E1": {
+  "en": "Screw Module",
+  "slot": 30
+ },
+ "0x001409": {
+  "en": "@Grants Water movement;",
+  "slot": 64
+ },
+ "0x00144A": {
+  "en": "Sea terrain rating: S.",
+  "slot": 42
+ },
+ "0x00147B": {
+  "en": "A-Adapter",
+  "slot": 21
+ },
+ "0x001497": {
+  "en": "All terrain: A",
+  "slot": 54
+ },
+ "0x0014D4": {
+  "en": "S-Adapter",
+  "slot": 21
+ },
+ "0x0014F0": {
+  "en": "All terrain: S",
+  "slot": 54
+ },
+ "0x00152D": {
+  "en": "Hyper Jammer",
+  "slot": 24
+ },
+ "0x00154F": {
+  "en": "@At Will 130+, dodges",
+  "slot": 64
+ },
+ "0x001590": {
+  "en": "attacks 50% of the time.",
+  "slot": 42
+ },
+ "0x0015C1": {
+  "en": "Multi Sensor",
+  "slot": 21
+ },
+ "0x0015DD": {
+  "en": "Weapon Accuracy +20",
+  "slot": 60
+ },
+ "0x001620": {
+  "en": "Dual Sensor",
+  "slot": 24
+ },
+ "0x00163F": {
+  "en": "Weapon Accuracy +10",
+  "slot": 60
+ },
+ "0x001682": {
+  "en": "High-Perf. Radar",
+  "slot": 21
+ },
+ "0x0016A1": {
+  "en": "7Weapon range +1",
+  "slot": 55
+ },
+ "0x0016D9": {
+  "en": "(non-MAP, non-range-1).",
+  "slot": 39
+ },
+ "0x001707": {
+  "en": "T-LINK Sensor",
+  "slot": 30
+ },
+ "0x00172C": {
+  "en": "Weapon Accuracy +40",
+  "slot": 60
+ },
+ "0x00176F": {
+  "en": "One-Shot Kill Art",
+  "slot": 21
+ },
+ "0x00178E": {
+  "en": "4Raises weapon crit rate.",
+  "slot": 52
+ },
+ "0x0017C3": {
+  "en": "by 20.",
+  "slot": 21
+ },
+ "0x0017DF": {
+  "en": "High-Perf. Scope",
+  "slot": 18
+ },
+ "0x0017F8": {
+  "en": "Weapon Accuracy +30",
+  "slot": 60
+ },
+ "0x00183B": {
+  "en": "Repair Kit",
+  "slot": 18
+ },
+ "0x001857": {
+  "en": "+Fully restores HP.",
+  "slot": 43
+ },
+ "0x001883": {
+  "en": "Usable once per map.",
+  "slot": 51
+ },
+ "0x0018BD": {
+  "en": "Propellant Tank",
+  "slot": 27
+ },
+ "0x0018E2": {
+  "en": "+Fully restores EN.",
+  "slot": 43
+ },
+ "0x00190E": {
+  "en": "Usable once per map.",
+  "slot": 51
+ },
+ "0x001948": {
+  "en": "Cartridge",
+  "slot": 18
+ },
+ "0x001964": {
+  "en": "4Fully restores ammo.",
+  "slot": 52
+ },
+ "0x001999": {
+  "en": "Usable once per map.",
+  "slot": 51
+ },
+ "0x0019D3": {
+  "en": "Super Repair Kit",
+  "slot": 30
+ },
+ "0x0019FB": {
+  "en": "@Restores HP, EN, ammo.",
+  "slot": 64
+ },
+ "0x001A3C": {
+  "en": "Usable once per map.",
+  "slot": 51
+ },
+ "0x001A76": {
+  "en": "SP Drink",
+  "slot": 18
+ },
+ "0x001A92": {
+  "en": "IRestores 50 SP.",
+  "slot": 73
+ },
+ "0x001ADC": {
+  "en": "Usable once per map.",
+  "slot": 51
+ },
+ "0x001B16": {
+  "en": "SSP Drink",
+  "slot": 21
+ },
+ "0x001B35": {
+  "en": "@Fully restores SP.",
+  "slot": 64
+ },
+ "0x001B76": {
+  "en": "Usable once per map.",
+  "slot": 51
+ },
+ "0x001BB0": {
+  "en": "High-Perf. CPU",
+  "slot": 21
+ },
+ "0x001BD3": {
+  "en": "eMove +2, Mobility +25,",
+  "slot": 49
+ },
+ "0x001C05": {
+  "en": "Wpn accuracy +20, range +1",
+  "slot": 51
+ },
+ "0x001C39": {
+  "en": "(non-MAP, non-range-1).",
+  "slot": 48
+ },
+ "0x001C70": {
+  "en": "Hero's Crest",
+  "slot": 12
+ },
+ "0x001C86": {
+  "en": "@Armor +200, Mobility +25,",
+  "slot": 64
+ },
+ "0x001CC7": {
+  "en": "weapon accuracy +30.",
+  "slot": 45
+ },
+ "0x001CFB": {
+  "en": "Iron Soul",
+  "slot": 9
+ },
+ "0x001D0E": {
+  "en": "@Armor +250, Mobility +30,",
+  "slot": 64
+ },
+ "0x001D4F": {
+  "en": "weapon accuracy +35.",
+  "slot": 45
+ },
+ "0x001D83": {
+  "en": "Large Generator",
+  "slot": 27
+ },
+ "0x001DA5": {
+  "en": "Max EN +50",
+  "slot": 57
+ },
+ "0x001DE5": {
+  "en": "Mega Generator",
+  "slot": 27
+ },
+ "0x001E07": {
+  "en": "Max EN +100",
+  "slot": 60
+ },
+ "0x001E4A": {
+  "en": "Giga Generator",
+  "slot": 27
+ },
+ "0x001E6C": {
+  "en": "Max EN +200",
+  "slot": 60
+ },
+ "0x001EAF": {
+  "en": "Solar Panel",
+  "slot": 21
+ },
+ "0x001ECE": {
+  "en": "7Each player phase,",
+  "slot": 55
+ },
+ "0x001F06": {
+  "en": "restores 10% of max EN.",
+  "slot": 36
+ },
+ "0x001F31": {
+  "en": "Beam Coat",
+  "slot": 18
+ },
+ "0x001F4D": {
+  "en": "CBeam damage -900.",
+  "slot": 67
+ },
+ "0x001F91": {
+  "en": "Costs 5 EN.",
+  "slot": 21
+ },
+ "0x001FAD": {
+  "en": "AB Field",
+  "slot": 21
+ },
+ "0x001FCC": {
+  "en": "FBeam damage -1200.",
+  "slot": 70
+ },
+ "0x002013": {
+  "en": "Costs 10 EN.",
+  "slot": 24
+ },
+ "0x002032": {
+  "en": "G-Wall",
+  "slot": 18
+ },
+ "0x00204E": {
+  "en": "@At Will 120+, nullifies",
+  "slot": 64
+ },
+ "0x00208F": {
+  "en": "up to 800 dmg (5 EN).",
+  "slot": 57
+ },
+ "0x0020CF": {
+  "en": "G-Territory",
+  "slot": 21
+ },
+ "0x0020EE": {
+  "en": "@At Will 120+, nullifies",
+  "slot": 64
+ },
+ "0x00212F": {
+  "en": "up to 1800 dmg (15 EN).",
+  "slot": 63
+ },
+ "0x002175": {
+  "en": "Headband",
+  "slot": 12
+ },
+ "0x00218B": {
+  "en": "1Pilot Will +5 on action.",
+  "slot": 49
+ },
+ "0x0021BD": {
+  "en": "deployed.",
+  "slot": 21
+ },
+ "0x0021D9": {
+  "en": "Twisted Headband",
+  "slot": 21
+ },
+ "0x0021F8": {
+  "en": "4Pilot Will +10 on action.",
+  "slot": 52
+ },
+ "0x00222D": {
+  "en": "deployed.",
+  "slot": 21
+ }
+}
