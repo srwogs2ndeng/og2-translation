@@ -1,0 +1,27 @@
+{
+ "_note": "Translation build config. Worksheets (build/worksheets) are the git-tracked source of truth; JP extracts (work/) are the pristine base; build/en is the regenerated English tree; build/out holds repacked archives.",
+ "gd_root": "../dev_hdd0/game/BLJS10133",
+ "folder_psarc_dir": "../games/BLJS10133_EN/PS3_GAME/USRDIR/PSARC",
+ "archives": {
+  "Logic": {
+   "jp_extract": "work/Logic",
+   "jp_psarc": "work/Logic.psarc",
+   "jp_sdat": "work/Logic.psarc.sdat"
+  },
+  "Common": {
+   "jp_extract": "work/Common",
+   "jp_psarc": "work/Common.psarc",
+   "jp_sdat": "work/Common.psarc.sdat"
+  },
+  "Battle": {
+   "jp_extract": "work/Battle",
+   "jp_psarc": "work/Battle.psarc",
+   "jp_sdat": "work/Battle.psarc.sdat"
+  }
+ },
+ "gd_roots": [
+  "../dev_hdd0/game/BLJS10133",
+  "../rpcs3-instrumented/dev_hdd0/game/BLJS10133"
+ ],
+ "_note_gd": "gd_roots: EVERY rpcs3 tree with its own dev_hdd0 (retail + instrumented). Wiping only one leaves the other stale -> cellGameDataCheck reports corrupted game data."
+}
